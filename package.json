@@ -1,0 +1,9 @@
+{
+  "name": "cincinnati-this-weekend",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "data:export": "node scripts/export-data.mjs",
+    "test": "node scripts/validate-weekend-data.mjs && node tests/structural.test.mjs"
+  }
+}

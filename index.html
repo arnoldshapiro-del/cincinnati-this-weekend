@@ -1,0 +1,96 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="theme-color" content="#0b1b2b" />
+    <meta name="description" content="A verified, locally curated guide to the best events in Cincinnati and within a sensible drive for August 14–16, 2026." />
+    <title>Cincinnati This Weekend · Aug 14–16, 2026</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Lora:wght@500;600;700&display=swap" rel="stylesheet" />
+    <link rel="manifest" href="./manifest.webmanifest" />
+    <link rel="icon" href="./favicon.svg" />
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <header class="masthead">
+      <a class="wordmark" href="#top" aria-label="Cincinnati This Weekend home"><span>CW</span><b>Cincinnati<br />This Weekend</b></a>
+      <nav aria-label="Primary navigation"><a href="#events">Explore</a><a href="#editor-picks">Editor’s 10</a><button id="open-plan" class="plan-link">My weekend <span id="plan-count">0</span></button></nav>
+      <button id="install-button" class="install-button" hidden>Install app</button>
+    </header>
+
+    <main id="top">
+      <section class="hero">
+        <div class="hero-skyline" aria-hidden="true"><i></i><i></i><i></i><i></i><i></i><i></i><i></i></div>
+        <div class="hero-copy">
+          <div class="only-weekend"><span></span>Only this weekend</div>
+          <p id="weekend-date" class="weekend-date">Friday, August 14 — Sunday, August 16, 2026</p>
+          <h1>The weekend is short.<br /><em>Make it count.</em></h1>
+          <p class="hero-deck">A human-curated edit of the most worthwhile, unusual and genuinely time-sensitive things happening across Cincinnati, Northern Kentucky and a sensible drive.</p>
+          <div class="hero-actions"><a class="brass-button" href="#events">See all verified events</a><button id="surprise-button" class="quiet-button">Surprise me ✦</button></div>
+        </div>
+        <aside class="hero-proof">
+          <span id="edition-label">THE AUGUST 14–16 EDIT</span>
+          <b id="hero-count">0</b><small>verified event picks</small>
+          <div><strong>90 min</strong><small>default drive limit</small></div>
+          <div><strong>2 hours</strong><small>optional road trips</small></div>
+        </aside>
+      </section>
+
+      <section class="trust-strip">
+        <div><b>Fresh, not evergreen</b><span>Every card is tied to this exact Friday–Sunday window.</span></div>
+        <div><b>Source on every card</b><span>Times and prices come from live organizer, venue or ticket pages.</span></div>
+        <div><b>Built for decisions</b><span>Save a few, build a conflict-aware plan, then go.</span></div>
+      </section>
+
+      <section id="editor-picks" class="editors-section">
+        <div class="section-title"><div><span>THE FAST ANSWER</span><h2>Ten plans worth building a weekend around</h2></div><p>Big anchors and stranger local gems—selected for memorability, not sponsorship.</p></div>
+        <div id="featured-rail" class="featured-rail"></div>
+      </section>
+
+      <section id="events" class="events-section">
+        <div class="events-heading"><div><span>THE COMPLETE WEEKEND EDIT</span><h2>Find your thing</h2><p id="result-summary"></p></div><button id="open-favorites" class="saved-button">♡ Saved <b id="saved-count">0</b></button></div>
+
+        <div class="filter-dock" aria-label="Event filters">
+          <label class="search-control"><span>Search</span><input id="search-input" type="search" placeholder="Artist, food, neighborhood, mood…" /></label>
+          <div class="day-tabs" role="group" aria-label="Day"><button data-day="All" class="active">All weekend</button><button data-day="Today">Today</button><button data-day="Friday">Friday</button><button data-day="Saturday">Saturday</button><button data-day="Sunday">Sunday</button></div>
+          <div class="quick-filters" role="group" aria-label="Quick filters">
+            <button data-quick="free">Free</button><button data-quick="under25">Under $25</button><button data-quick="date night">Date night</button><button data-quick="family">Family</button>
+          </div>
+          <div class="select-row">
+            <label><span>Category</span><select id="category-select"><option value="All">All categories</option></select></label>
+            <label><span>Area</span><select id="area-select"><option value="All">All neighborhoods</option></select></label>
+            <label><span>Sort</span><select id="sort-select"><option value="curated">Curated</option><option value="time">Soonest first</option><option value="price">Lowest price</option><option value="drive">Shortest drive</option></select></label>
+          </div>
+          <label class="roadtrip-toggle"><input id="roadtrip-toggle" type="checkbox" /><span><b>Worth the drive</b><small>Add exceptional events 91–120 minutes away</small></span><i></i></label>
+          <button id="clear-filters" class="clear-filters">Clear all filters</button>
+        </div>
+
+        <div id="active-filters" class="active-filters" aria-live="polite"></div>
+        <div id="event-grid" class="event-grid"></div>
+        <div id="empty-state" class="empty-state" hidden><b>No strong match yet.</b><span>Clear one filter or try a broader search—this guide intentionally avoids filler.</span><button>Reset filters</button></div>
+      </section>
+
+      <section class="freshness-section">
+        <div><span>THE HONEST REFRESH MODEL</span><h2>This is a dated editorial edition—not a fake live feed.</h2></div>
+        <p>Listings were verified on <b id="verified-label">August 13, 2026</b>. Ticket inventory, weather and organizer details can still change, so every card goes back to its source. The scheduled Codex refresh researches the next edition every Wednesday at 9:00 AM Eastern, then updates this structured weekly file without rewriting the app.</p>
+        <div class="freshness-actions"><button id="refresh-button">See refresh status</button><a href="https://www.visitcincy.com/events/" target="_blank" rel="noreferrer">Open Visit Cincy ↗</a></div>
+      </section>
+    </main>
+
+    <aside id="plan-drawer" class="plan-drawer" aria-hidden="true">
+      <div class="drawer-head"><div><span>MY WEEKEND</span><h2>Your plan</h2></div><button class="close-drawer" aria-label="Close planner">×</button></div>
+      <p class="drawer-note">Saved on this device. Source links remain the final word for availability.</p>
+      <div id="plan-warning" class="plan-warning" hidden></div>
+      <div id="plan-list" class="plan-list"></div>
+      <div class="drawer-actions"><button id="copy-plan">Copy itinerary</button><button id="clear-plan">Clear plan</button></div>
+    </aside>
+    <button id="drawer-scrim" class="drawer-scrim" aria-label="Close planner" hidden></button>
+
+    <dialog id="event-dialog" class="event-dialog"><div id="dialog-content"></div></dialog>
+    <div id="toast" class="toast" role="status" aria-live="polite"></div>
+
+    <script type="module" src="./app.js"></script>
+  </body>
+</html>

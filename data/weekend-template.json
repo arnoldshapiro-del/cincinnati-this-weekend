@@ -1,0 +1,40 @@
+{
+  "schemaVersion": 1,
+  "weekend": {
+    "label": "Friday, Month D – Sunday, Month D, YYYY",
+    "shortLabel": "Mon D–D",
+    "startDate": "YYYY-MM-DD",
+    "endDate": "YYYY-MM-DD",
+    "verifiedAt": "Month D, YYYY at H:MM AM ET",
+    "updatedAt": "YYYY-MM-DDTHH:MM:SS-04:00",
+    "timezone": "America/New_York",
+    "defaultDriveMinutes": 90,
+    "roadTripMaxMinutes": 120,
+    "refreshTarget": "Wednesday 9:00 AM America/New_York",
+    "editionStatus": "current"
+  },
+  "events": [
+    {
+      "id": "stable-lowercase-id",
+      "title": "Verified event title",
+      "date": "YYYY-MM-DD",
+      "day": "Friday",
+      "time": "7:00 PM",
+      "venue": "Venue",
+      "neighborhood": "Neighborhood",
+      "address": "Full address",
+      "category": "Music",
+      "priceValue": 0,
+      "priceLabel": "Free",
+      "travelMinutes": 0,
+      "roadTrip": false,
+      "featured": false,
+      "age": "All ages",
+      "tags": ["date night"],
+      "description": "A concise, specific and source-supported reason this is worth the user's limited weekend time.",
+      "sourceName": "Organizer or venue",
+      "sourceUrl": "https://example.com/official-event-page",
+      "lastVerified": "YYYY-MM-DD"
+    }
+  ]
+}
