@@ -16,7 +16,7 @@
   <body>
     <header class="masthead">
       <a class="wordmark" href="#top" aria-label="Cincinnati This Weekend home"><span>CW</span><b>Cincinnati<br />This Weekend</b></a>
-      <nav aria-label="Primary navigation"><a href="#events">Explore</a><a href="#editor-picks">Editor’s 10</a><button id="open-plan" class="plan-link">My weekend <span id="plan-count">0</span></button></nav>
+      <nav aria-label="Primary navigation"><a href="#events">Explore</a><a href="#editor-picks">Editor’s 10</a><button id="open-matchmaker" class="nav-tool">Find my perfect plan</button><button id="open-compare" class="plan-link">Compare <span id="compare-count">0</span></button><button id="open-plan" class="plan-link">My weekend <span id="plan-count">0</span></button></nav>
       <button id="install-button" class="install-button" hidden>Install app</button>
     </header>
 
@@ -50,17 +50,18 @@
       </section>
 
       <section id="events" class="events-section">
-        <div class="events-heading"><div><span>THE COMPLETE WEEKEND EDIT</span><h2>Find your thing</h2><p id="result-summary"></p></div><button id="open-favorites" class="saved-button">♡ Saved <b id="saved-count">0</b></button></div>
+        <div class="events-heading"><div><span>THE COMPLETE WEEKEND EDIT</span><h2>Find your thing</h2><p id="result-summary"></p></div><div class="heading-actions"><button id="matchmaker-button" class="saved-button">✦ Matchmaker</button><button id="open-favorites" class="saved-button">♡ Saved <b id="saved-count">0</b></button></div></div>
 
         <div class="filter-dock" aria-label="Event filters">
           <label class="search-control"><span>Search</span><input id="search-input" type="search" placeholder="Artist, food, neighborhood, mood…" /></label>
           <div class="day-tabs" role="group" aria-label="Day"><button data-day="All" class="active">All weekend</button><button data-day="Today">Today</button><button data-day="Friday">Friday</button><button data-day="Saturday">Saturday</button><button data-day="Sunday">Sunday</button></div>
           <div class="quick-filters" role="group" aria-label="Quick filters">
-            <button data-quick="free">Free</button><button data-quick="under25">Under $25</button><button data-quick="date night">Date night</button><button data-quick="family">Family</button>
+            <button data-quick="free">Free</button><button data-quick="under25">Under $25</button><button data-quick="date night">Date night</button><button data-quick="family">Family</button><button data-quick="myvenues">My venues</button>
           </div>
           <div class="select-row">
             <label><span>Category</span><select id="category-select"><option value="All">All categories</option></select></label>
             <label><span>Area</span><select id="area-select"><option value="All">All neighborhoods</option></select></label>
+            <label><span>Time</span><select id="time-select"><option value="All">Any time</option><option value="Morning">Morning</option><option value="Afternoon">Afternoon</option><option value="Evening">Evening</option><option value="Late">Late night</option></select></label>
             <label><span>Sort</span><select id="sort-select"><option value="curated">Curated</option><option value="time">Soonest first</option><option value="price">Lowest price</option><option value="drive">Shortest drive</option></select></label>
           </div>
           <label class="roadtrip-toggle"><input id="roadtrip-toggle" type="checkbox" /><span><b>Worth the drive</b><small>Add exceptional events 91–120 minutes away</small></span><i></i></label>
@@ -68,6 +69,7 @@
         </div>
 
         <div id="active-filters" class="active-filters" aria-live="polite"></div>
+        <div class="view-switch" role="group" aria-label="Event view"><button data-view="grid" class="active">Cards</button><button data-view="timeline">Timeline</button></div>
         <div id="event-grid" class="event-grid"></div>
         <div id="empty-state" class="empty-state" hidden><b>No strong match yet.</b><span>Clear one filter or try a broader search—this guide intentionally avoids filler.</span><button>Reset filters</button></div>
       </section>
@@ -82,13 +84,17 @@
     <aside id="plan-drawer" class="plan-drawer" aria-hidden="true">
       <div class="drawer-head"><div><span>MY WEEKEND</span><h2>Your plan</h2></div><button class="close-drawer" aria-label="Close planner">×</button></div>
       <p class="drawer-note">Saved on this device. Source links remain the final word for availability.</p>
+      <div id="plan-stats" class="plan-stats"></div>
       <div id="plan-warning" class="plan-warning" hidden></div>
       <div id="plan-list" class="plan-list"></div>
-      <div class="drawer-actions"><button id="copy-plan">Copy itinerary</button><button id="clear-plan">Clear plan</button></div>
+      <div class="drawer-actions"><button id="share-plan">Share this plan</button><button id="route-plan">Route my stops</button><button id="copy-plan">Copy itinerary</button><button id="clear-plan">Clear plan</button></div>
     </aside>
     <button id="drawer-scrim" class="drawer-scrim" aria-label="Close planner" hidden></button>
 
+    <aside id="compare-tray" class="compare-tray" hidden><div><b>Compare events</b><span id="compare-label">Choose up to three</span></div><button id="compare-now">Compare now</button><button id="clear-compare">Clear</button></aside>
     <dialog id="event-dialog" class="event-dialog"><div id="dialog-content"></div></dialog>
+    <dialog id="compare-dialog" class="event-dialog wide-dialog"><div id="compare-content"></div></dialog>
+    <dialog id="matchmaker-dialog" class="event-dialog"><form id="matchmaker-form" class="dialog-inner"><button type="button" class="dialog-close matchmaker-close" aria-label="Close">×</button><span class="dialog-kicker">THREE QUICK CHOICES</span><h2>What kind of weekend do you want?</h2><label class="question-label">Mood<select id="match-category"><option value="All">Surprise me</option><option>Music</option><option>Food & drink</option><option>Comedy</option><option>Arts</option><option>Outdoors</option><option>Sports</option><option>Family</option><option>Festivals</option></select></label><label class="question-label">Best day<select id="match-day"><option value="All">Any day</option><option>Friday</option><option>Saturday</option><option>Sunday</option></select></label><label class="question-label">Budget<select id="match-budget"><option value="All">Any price</option><option value="free">Free</option><option value="25">Up to $25</option></select></label><label class="question-label">Drive<select id="match-drive"><option value="90">Up to 90 minutes</option><option value="30">Keep it within 30 minutes</option><option value="120">Include a special road trip</option></select></label><button class="brass-button match-submit" type="submit">Show my best three</button><div id="match-results" class="match-results"></div></form></dialog>
     <div id="toast" class="toast" role="status" aria-live="polite"></div>
 
     <script type="module" src="./app.js"></script>
