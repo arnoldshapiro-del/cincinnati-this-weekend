@@ -13,9 +13,16 @@ Live: https://cincinnati-this-weekend-cincy.netlify.app
 ## The one thing that matters: it goes stale every week
 - The whole interface reads **`data/current-weekend.json`**. A new edition replaces
   that one file — no HTML, CSS or JS changes.
-- The full operating model (Wednesday 9:00 AM ET cadence, the 5-rung source ladder,
-  the 100-point ranking, archive-then-replace) is in **`WEEKLY-REFRESH.md`**. Read it
-  before touching the data; don't reinvent the rules.
+- The full operating model (the 5-rung source ladder, the 100-point ranking,
+  archive-then-replace) is in **`WEEKLY-REFRESH.md`**. Read it before touching the
+  data; don't reinvent the rules.
+- **Automated since 2026-08-13:** scheduled task `cincinnati-weekend-refresh` runs
+  every **Thursday ~10:08 AM ET** and does the whole edition — research, validate,
+  test, push, verify. Arnie moved the cadence from Wednesday to Thursday.
+  Task file: `~\.claude\scheduled-tasks\cincinnati-weekend-refresh\SKILL.md`.
+  ⚠️ It only fires while the Claude app is open; if the app was closed when it was
+  due, it runs at next launch. If a weekend looks stale, that's the first thing to
+  check.
 - Every event needs a specific date, venue, source URL and verification date. When a
   price or time isn't published, the honest wording is "Check source" — never a guess
   (global rule 3).

@@ -29,9 +29,20 @@ specifies a Wednesday 9:00 AM ET refresh: archive `data/current-weekend.json` to
 `data/archive/weekend-YYYY-MM-DD.json`, research and verify ~50 events against the source
 ladder, replace the file, `npm test`, publish.
 
-Nothing automates that yet. Offered to Arnie at wrap-up; not set up without his say-so.
-If he wants it, a cron is the right home for it — never a note he has to remember
-(memory `never-leave-arnie-a-reminder.md`).
+**Resolved the same session — Arnie said do it, on Thursday rather than Wednesday.**
+Scheduled task `cincinnati-weekend-refresh` created: every **Thursday ~10:08 AM ET**
+(10:05 + jitter; deliberately clear of Ela's 9:07 daily marketing run). It archives the
+outgoing file, researches and verifies the new edition against the source ladder, refuses
+to guess a price or time ("Check source" instead), runs `npm test`, pushes to `main`, and
+confirms the Netlify deploy — then reports to Arnie in plain English.
+
+The prompt is fully self-contained because each run starts with no memory. It also carries
+an explicit stop condition: if the research can't be verified, leave the previous edition
+live and say so — a stale weekend beats a wrong one.
+
+⚠️ Limitation told to Arnie: scheduled tasks only fire while the Claude app is open. A
+missed run happens at next launch. First automated run is Thursday 2026-08-20 for the
+Aug 21–23 weekend; the Aug 14–16 edition live now was already current.
 
 ### Important decisions
 - Gallery push was explicitly requested by Arnie this session, so it was not treated as
