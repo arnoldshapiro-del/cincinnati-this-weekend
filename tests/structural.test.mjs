@@ -1,11 +1,12 @@
 import { readFile } from "node:fs/promises";
 
 const root = new URL("../", import.meta.url);
-const [html, css, js, manifest, data] = await Promise.all([
+const [html, css, js, manifest, sw, data] = await Promise.all([
   readFile(new URL("index.html", root), "utf8"),
   readFile(new URL("styles.css", root), "utf8"),
   readFile(new URL("app.js", root), "utf8"),
   readFile(new URL("manifest.webmanifest", root), "utf8"),
+  readFile(new URL("sw.js", root), "utf8"),
   readFile(new URL("data/current-weekend.json", root), "utf8").then(JSON.parse)
 ]);
 
@@ -18,6 +19,9 @@ const checks = [
   [html.includes('id="event-dialog"'), "event details dialog"],
   [js.includes('data/current-weekend.json'), "replaceable weekly data loader"],
   [js.includes('ctw.favorites') && js.includes('ctw.plan'), "device-local persistence"],
+  [js.includes("cleanSavedState") && js.includes("valid.has(id)"), "weekly edition storage cleanup"],
+  [js.includes("Update delayed — expired edition") && js.includes("editionStale"), "unmistakable stale-edition safety state"],
+  [sw.includes('endsWith("/data/current-weekend.json")') && sw.includes('cache:"no-store"') && !sw.match(/SHELL=\[[^\]]*current-weekend\.json/), "network-first weekly data cache policy"],
   [js.includes('google.com/maps/search'), "directions links"],
   [html.includes('id="matchmaker-dialog"') && js.includes("runMatchmaker"), "weekend matchmaker"],
   [html.includes('id="open-onboarding"') && html.includes('id="onboarding-dialog"') && js.includes("openOnboarding"), "compact first-time guide"],

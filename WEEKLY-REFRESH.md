@@ -13,6 +13,11 @@ Target: every Wednesday at 9:00 AM America/New_York for the coming Friday–Sund
 5. Normalize and deduplicate by title + venue + date and canonical source URL. A festival and a distinct scheduled performance inside it may both remain only when each card leads to a genuinely different decision.
 6. Score and select about 50 events, preserving a varied mix of days, locations, price points, audiences, and categories.
 7. Replace `data/current-weekend.json`, run `npm test`, check a narrow browser view, and publish the verified edition.
+8. Push `main`, wait for the Git-backed Netlify production deployment, and verify its `commit_ref` equals the pushed Git SHA before reporting success.
+
+The only active scheduler is the standalone Codex cron `Publish Cincinnati This Weekend`.
+It runs at 9:00 AM America/New_York. Do not reinstate the retired thread heartbeat or
+the retired Claude app-open task.
 
 ## Source ladder
 
@@ -35,6 +40,6 @@ The top ten become Editor’s Picks. Diversity caps prevent one venue, category,
 
 ## Expiry and truthfulness
 
-The app compares the current date with the dataset’s `endDate`. After Sunday it displays an “edition ended” warning. Historical records can stay in `data/archive`, but the browse screen reads only the current file. Source links remain the final word because inventory, weather, and organizer details can change after verification.
+The app compares the current date with the dataset's `endDate`. After Sunday it changes the hero to an explicit expired-edition state, labels every card as ended, and identifies the data as historical reference. The service worker fetches `data/current-weekend.json` network-first so a prior cached edition cannot mask a successful publication. The validator refuses to publish expired data and requires exactly ten featured picks. Historical records stay in `data/archive`, but the browse screen reads only the current file. Source links remain the final word because inventory, weather, and organizer details can change after verification.
 
 The scheduled Codex task is an editorial research-and-publish workflow, not a direct feed from Eventbrite, Fever, or every venue. Those products do not expose one reliable public feed containing all Cincinnati events and all required facts. If the scheduled run cannot publish, it must report the failure rather than leaving a stale edition labeled current. The no-spreadsheet fallback is one sentence: “Refresh Cincinnati This Weekend for [date range].”

@@ -1,37 +1,38 @@
 # Cincinnati This Weekend
 
-A verified, human-curated guide to what is worth doing in Cincinnati / Northern Kentucky
-for one exact Friday–Sunday window. Built originally with ChatGPT; maintained here.
-Live: https://cincinnati-this-weekend-cincy.netlify.app
+A verified, human-curated guide to worthwhile events in Cincinnati, Northern Kentucky,
+and standout plans within a sensible drive. Live: https://cincinnati-this-weekend-cincy.netlify.app
 
-## Stack
-- **Zero dependencies.** Plain `index.html` + `app.js` + `events.js` + `styles.css`.
-  Nothing to build — Netlify publishes the repo root (`netlify.toml`).
-- PWA already in place: `manifest.webmanifest`, `sw.js`, `favicon.svg`.
-- Deploy: GitHub → Netlify auto-build. Site `cincinnati-this-weekend-cincy`.
+## Stack and deployment
 
-## The one thing that matters: it goes stale every week
-- The whole interface reads **`data/current-weekend.json`**. A new edition replaces
-  that one file — no HTML, CSS or JS changes.
-- The full operating model (the 5-rung source ladder, the 100-point ranking,
-  archive-then-replace) is in **`WEEKLY-REFRESH.md`**. Read it before touching the
-  data; don't reinvent the rules.
-- **Automated since 2026-08-13:** scheduled task `cincinnati-weekend-refresh` runs
-  every **Thursday ~10:08 AM ET** and does the whole edition — research, validate,
-  test, push, verify. Arnie moved the cadence from Wednesday to Thursday.
-  Task file: `~\.claude\scheduled-tasks\cincinnati-weekend-refresh\SKILL.md`.
-  ⚠️ It only fires while the Claude app is open; if the app was closed when it was
-  due, it runs at next launch. If a weekend looks stale, that's the first thing to
-  check.
-- Every event needs a specific date, venue, source URL and verification date. When a
-  price or time isn't published, the honest wording is "Check source" — never a guess
-  (global rule 3).
+- Zero runtime dependencies: Netlify publishes the repository root through `netlify.toml`.
+- The interface reads `data/current-weekend.json`; weekly refreshes do not require UI rewrites.
+- GitHub `main` is the source of truth. A publication is complete only when Netlify's
+  production `commit_ref` exactly matches the pushed Git SHA.
 
-## Before publishing an edition
-`npm test` — runs `scripts/validate-weekend-data.mjs` (ids unique, required fields,
-featured count) plus `tests/structural.test.mjs` (30 product checks). Both must pass.
-Current edition: Aug 14–16 2026, 58 events, 12 featured.
+## One weekly publisher
 
-## Related
-Cross-links with [Queen City Table](https://queen-city-table-cincinnati.netlify.app)
-(the restaurant map) — see `WEEKEND-GUIDE-CROSSLINK-RESEARCH.md` in that repo.
+The only active scheduler is the standalone Codex cron `Publish Cincinnati This Weekend`,
+every Wednesday at 9:00 AM America/New_York. It owns research, archive, validation,
+browser checks, `main` push, and exact Netlify verification. The former Claude app-open
+task and Codex thread heartbeat are retired; never create another overlapping scheduler.
+
+Follow `WEEKLY-REFRESH.md` completely. Every event needs a real date, venue, source URL,
+and verification date. Use `Check source` when a price or time is unpublished—never guess.
+
+## Safety rails
+
+- Run `npm test` before publication.
+- The validator rejects expired editions, duplicate IDs, probable duplicate events,
+  unacknowledged canonical source reuse, and any featured count other than exactly ten.
+- `events.js` is a legacy snapshot. `scripts/export-data.mjs` intentionally refuses to
+  overwrite current data, preventing the Aug 14–16 snapshot from being republished.
+- The service worker fetches `data/current-weekend.json` network-first. After an edition
+  expires, the interface explicitly labels it historical and marks its cards ended.
+
+Current prepared edition: Aug 28–30, 2026; 51 verified events; exactly 10 featured picks.
+
+## Related app
+
+Queen City Table is separate and must not be modified during weekend-guide refreshes:
+https://queen-city-table-cincinnati.netlify.app

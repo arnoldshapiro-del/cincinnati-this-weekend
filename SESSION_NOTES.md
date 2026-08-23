@@ -50,3 +50,17 @@ Aug 21–23 weekend; the Aug 14–16 edition live now was already current.
   list — memory `no-auto-update-trading-apps.md`).
 - Nothing in the app's code or data was changed. This session was setup and paperwork
   only.
+
+## 2026-08-23 - Missed refresh diagnosed and repaired
+
+The Aug 21-23 publication never happened. GitHub still contained the Aug 14-16 data,
+proving this was not merely a browser display problem. Two overlapping reminders had
+been configured: a thread-bound Codex heartbeat and a Claude task that only runs while
+its desktop app is open. Neither was a dependable end-to-end publisher.
+
+The repaired edition covers Aug 28-30 with 51 verified records and exactly ten featured
+picks; the Aug 14-16 file is archived at `data/archive/weekend-2026-08-14.json`. The app
+now makes expired data unmistakable, the service worker retrieves weekly JSON
+network-first, the old exporter refuses to republish its 2026-08-14 snapshot, and the
+validator rejects stale editions. One standalone Wednesday Codex cron replaces both old
+reminders and must verify the exact Git SHA on Netlify after every publication.
