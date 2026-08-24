@@ -3,6 +3,7 @@ import { readFile } from "node:fs/promises";
 const data = await Promise.all([
   "../data/cincinnati/current-weekend.json",
   "../data/philadelphia/current-weekend.json",
+  "../data/chicago/current-weekend.json",
 ].map(async (path) => JSON.parse(await readFile(new URL(path, import.meta.url), "utf8"))));
 const urls = [...new Set(data.flatMap((edition) => edition.events.map((event) => event.sourceUrl)))];
 const failures = [];
