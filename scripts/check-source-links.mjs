@@ -1,7 +1,10 @@
 import { readFile } from "node:fs/promises";
 
-const data = JSON.parse(await readFile(new URL("../data/current-weekend.json", import.meta.url), "utf8"));
-const urls = [...new Set(data.events.map((event) => event.sourceUrl))];
+const data = await Promise.all([
+  "../data/cincinnati/current-weekend.json",
+  "../data/philadelphia/current-weekend.json",
+].map(async (path) => JSON.parse(await readFile(new URL(path, import.meta.url), "utf8"))));
+const urls = [...new Set(data.flatMap((edition) => edition.events.map((event) => event.sourceUrl)))];
 const failures = [];
 
 for (let index = 0; index < urls.length; index += 6) {
@@ -10,7 +13,7 @@ for (let index = 0; index < urls.length; index += 6) {
     let lastError;
     for (let attempt = 1; attempt <= 2; attempt += 1) {
       try {
-        const response = await fetch(url, { redirect: "follow", signal: AbortSignal.timeout(30000), headers: { "user-agent": "CincinnatiThisWeekend-LinkCheck/1.0" } });
+        const response = await fetch(url, { redirect: "follow", signal: AbortSignal.timeout(30000), headers: { "user-agent": "ThisWeekendCityGuide-LinkCheck/1.0" } });
         if (response.status === 404 || response.status >= 500) lastError = `${response.status} ${url}`;
         else return;
       } catch (error) {

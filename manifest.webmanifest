@@ -1,11 +1,10 @@
 {
-  "name": "Cincinnati This Weekend",
-  "short_name": "Cincy Weekend",
-  "description": "A verified, locally curated Cincinnati weekend event guide.",
+  "name": "This Weekend: Cincinnati & Philadelphia",
+  "short_name": "This Weekend",
+  "description": "Verified, locally curated weekend event guides with a city selector.",
   "start_url": "./",
   "display": "standalone",
   "background_color": "#f6f2ea",
   "theme_color": "#0b1b2b",
   "icons": [{ "src": "./favicon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }]
 }
-

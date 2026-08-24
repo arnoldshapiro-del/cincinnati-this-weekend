@@ -1,10 +1,10 @@
-# Cincinnati This Weekend
+# This Weekend: Cincinnati & Philadelphia
 
-A separate, premium weekly event-discovery app for Cincinnati, Northern Kentucky, and standout plans within a sensible drive.
+One premium weekly event-discovery app with a city selector. Cincinnati remains the default city, Philadelphia is fully supported, and the data layout is ready for Chicago.
 
 Live: https://cincinnati-this-weekend-cincy.netlify.app/
 
-The app reads its current edition from `data/current-weekend.json`, and prior editions stay in `data/archive/`. See `WEEKLY-REFRESH.md` for the verified Wednesday research, deduplication, ranking, expiry, Git push, and Netlify verification model. See `COMPETITIVE-RESEARCH.md` for the source-backed product study.
+The app reads `data/cincinnati/current-weekend.json` or `data/philadelphia/current-weekend.json` based on the selector. Prior editions stay in city folders under `data/archive/`. See `WEEKLY-REFRESH.md` for the verified Wednesday research, deduplication, ranking, expiry, Git push, and Netlify verification model.
 
 ## Validate
 

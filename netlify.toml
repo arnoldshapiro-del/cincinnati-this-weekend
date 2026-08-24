@@ -2,7 +2,7 @@
   publish = "."
 
 [[headers]]
-  for = "/data/current-weekend.json"
+  for = "/data/*/current-weekend.json"
   [headers.values]
     Cache-Control = "public, max-age=300, must-revalidate"
 

@@ -15,3 +15,12 @@
 html[data-edition-status="stale"] .editors-section,html[data-edition-status="stale"] .events-section{filter:grayscale(.65)}
 html[data-edition-status="stale"] .event-card:before{content:"ENDED";position:absolute;right:18px;top:62px;color:var(--red);font-size:10px;font-weight:800;letter-spacing:.14em}
 @media(max-width:620px){.stale-banner{top:62px;display:grid;gap:4px}}
+
+.wordmark b #brand-city{width:auto;height:auto;border:0;border-radius:0;display:inline;font:inherit;color:inherit}
+.city-switcher{display:grid;gap:3px;min-width:150px}
+.city-switcher>span{font-size:8px;letter-spacing:.15em;text-transform:uppercase;color:var(--brass2);font-weight:800}
+.city-switcher select{height:34px;border:1px solid rgba(255,255,255,.32);border-radius:2px;background:#10283c;color:#fff;padding:0 30px 0 10px;cursor:pointer}
+.city-switcher option{background:#fff;color:var(--ink)}
+.city-switcher option:disabled{color:#8a949c}
+@media(max-width:1100px){.masthead{gap:14px}.masthead nav{gap:12px}.masthead nav>a{display:none}}
+@media(max-width:760px){.masthead{height:auto;min-height:62px;flex-wrap:wrap;padding-top:8px;padding-bottom:8px}.wordmark{margin-right:0}.city-switcher{order:3;width:100%;display:flex;align-items:center;gap:8px}.city-switcher>span{white-space:nowrap}.city-switcher select{flex:1}.masthead nav{margin-left:auto}.hero{padding-top:58px}.stale-banner{top:104px}}
