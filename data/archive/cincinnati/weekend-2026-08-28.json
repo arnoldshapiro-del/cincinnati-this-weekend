@@ -14,8 +14,8 @@
     "shortLabel": "Aug 28–30",
     "startDate": "2026-08-28",
     "endDate": "2026-08-30",
-    "verifiedAt": "August 26, 2026 at 9:15 AM ET",
-    "updatedAt": "2026-08-26T09:15:00-04:00",
+    "verifiedAt": "August 23, 2026 at 6:00 PM ET",
+    "updatedAt": "2026-08-23T18:00:00-04:00",
     "timezone": "America/New_York",
     "defaultDriveMinutes": 90,
     "roadTripMaxMinutes": 120,
@@ -48,7 +48,7 @@
       "description": "Cincinnati's original Oktoberfest opens with three stages of German music, traditional food, imported bier, dancing, rides, and contests.",
       "sourceName": "Germania Society of Cincinnati",
       "sourceUrl": "https://germaniasociety.com/oktoberfest/",
-      "lastVerified": "2026-08-26",
+      "lastVerified": "2026-08-23",
       "seriesId": "germania-oktoberfest"
     },
     {
@@ -75,7 +75,7 @@
       "description": "A space-and-sci-fi museum night with DJ Ike, a silent disco, solar viewing, comet crafts, art making, and limited free Kusama entry times.",
       "sourceName": "Cincinnati Art Museum",
       "sourceUrl": "https://www.cincinnatiartmuseum.org/events/adults/art-after-dark/",
-      "lastVerified": "2026-08-26"
+      "lastVerified": "2026-08-23"
     },
     {
       "id": "jayhawks-fountain-square",
@@ -101,7 +101,7 @@
       "description": "The Jayhawks headline a free downtown concert; music starts at 7 p.m. and the headliner is scheduled for 9 p.m.",
       "sourceName": "Fountain Square / 3CDC",
       "sourceUrl": "https://myfountainsquare.com/events/visit-cincy-presents-the-jayhawks/",
-      "lastVerified": "2026-08-26"
+      "lastVerified": "2026-08-23"
     },
     {
       "id": "crazy-for-you-fri",
@@ -126,7 +126,7 @@
       "description": "A buoyant Gershwin musical comedy packed with tap dancing, mistaken identity, and standards including I Got Rhythm and Embraceable You.",
       "sourceName": "Cincy A&E / Cincinnati Landmark Productions",
       "sourceUrl": "https://cincyae.com/event/crazy-for-you/",
-      "lastVerified": "2026-08-26",
+      "lastVerified": "2026-08-23",
       "seriesId": "crazy-for-you"
     },
     {
@@ -152,7 +152,7 @@
       "description": "A focused gallery introduction to David Kohl's What It Feels Like, suited to an unhurried afternoon art stop in Mount Adams.",
       "sourceName": "Cincy A&E / Gallery jENSEITS",
       "sourceUrl": "https://cincyae.com/event/gallery-jenseits-introducing-david-kohls-what-it-feels-like/",
-      "lastVerified": "2026-08-26",
+      "lastVerified": "2026-08-23",
       "seriesId": "david-kohl"
     },
     {
@@ -179,7 +179,7 @@
       "description": "Audience votes and judges decide the rookie champion, with headliner Daniel Van Kirk followed by a full live-music bill at The Comet.",
       "sourceName": "Bombs Away! Comedy",
       "sourceUrl": "https://www.bombsawaycomedy.com/event-details-registration/laugh-riot-comedy-fest-rookie-finals",
-      "lastVerified": "2026-08-26"
+      "lastVerified": "2026-08-23"
     },
     {
       "id": "tony-rock-fri",
@@ -204,7 +204,7 @@
       "description": "Tony Rock brings his fast, sharp stand-up to the Liberty Funny Bone; doors open at 6 p.m. for the 7 p.m. performance.",
       "sourceName": "Liberty Funny Bone",
       "sourceUrl": "https://liberty.funnybone.com/calendar/",
-      "lastVerified": "2026-08-26",
+      "lastVerified": "2026-08-23",
       "seriesId": "tony-rock"
     },
     {
@@ -230,7 +230,7 @@
       "description": "Cincinnati art-pop project KNOTTS marks a new release with Moonbeau, Mic. Carr & Shades, Dyan, Muwosi, Annie D., and DJ James Dapper.",
       "sourceName": "Woodward Theater",
       "sourceUrl": "https://www.woodwardtheater.com/shows/knotts-record-release-w-moonbeau-mic-carr-shades-dyan-muwosi-annie-d-and-dj-james-dapper",
-      "lastVerified": "2026-08-26"
+      "lastVerified": "2026-08-23"
     },
     {
       "id": "taylor-party-bogarts",
@@ -256,7 +256,7 @@
       "description": "A full-scale Taylor Swift-themed dance night turns Bogart's into a late Friday singalong for fans ages 18 and older.",
       "sourceName": "Bogart's",
       "sourceUrl": "https://www.bogarts.com/",
-      "lastVerified": "2026-08-26"
+      "lastVerified": "2026-08-23"
     },
     {
       "id": "cincy-wing-week",
@@ -281,7 +281,7 @@
       "description": "The citywide restaurant week offers $8 wing specials at participating spots through Sunday, with the official passport and current lineup at the source.",
       "sourceName": "Cincinnati Wing Week",
       "sourceUrl": "https://www.cincywingweek.com/",
-      "lastVerified": "2026-08-26"
+      "lastVerified": "2026-08-23"
     },
     {
       "id": "mufon-fri-keynote",
@@ -307,7 +307,7 @@
       "description": "Peter Robbins opens the UFO Revelations symposium with a keynote on fifty years in ufology and the personal impact of unexplained phenomena.",
       "sourceName": "MUFON Symposium",
       "sourceUrl": "https://mufonsymposium.com/",
-      "lastVerified": "2026-08-26",
+      "lastVerified": "2026-08-23",
       "seriesId": "mufon-2026"
     },
     {
@@ -334,7 +334,7 @@
       "description": "Seth Feinstein leads a three-hour add-on workshop on preserving and evaluating photographic evidence with a forensic mindset.",
       "sourceName": "MUFON Symposium",
       "sourceUrl": "https://mufonsymposium.com/pricing/",
-      "lastVerified": "2026-08-26",
+      "lastVerified": "2026-08-23",
       "seriesId": "mufon-2026"
     },
     {
@@ -361,7 +361,7 @@
       "description": "A free cultural-connections program under Summit Park's Canopy gives Friday night a community-focused, open-air option beyond downtown.",
       "sourceName": "Visit Cincy",
       "sourceUrl": "https://www.visitcincy.com/event/under-the-canopy-at-summit-park%3A-cultural-connections-series/18489/",
-      "lastVerified": "2026-08-26"
+      "lastVerified": "2026-08-23"
     },
     {
       "id": "edm-at-elm",
@@ -387,7 +387,7 @@
       "description": "Elm Street Plaza hosts its recurring Friday electronic-dance-music gathering in the center of downtown; confirm the posted set time before leaving.",
       "sourceName": "Visit Cincy / Elm Street Plaza",
       "sourceUrl": "https://www.visitcincy.com/event/edm-at-elm/19236/",
-      "lastVerified": "2026-08-26"
+      "lastVerified": "2026-08-23"
     },
     {
       "id": "friday-flow",
@@ -413,7 +413,7 @@
       "description": "Washington Park's free Friday Flow series brings live rhythm and an easy outdoor start to the weekend in Over-the-Rhine.",
       "sourceName": "Visit Cincy / Washington Park",
       "sourceUrl": "https://www.visitcincy.com/event/friday-flow-presented-by-p%26g/11699/",
-      "lastVerified": "2026-08-26"
+      "lastVerified": "2026-08-23"
     },
     {
       "id": "much-ado-summit",
@@ -440,7 +440,7 @@
       "description": "Cincinnati Shakespeare Company's touring Much Ado About Nothing lands under the Summit Park Canopy for a free outdoor performance.",
       "sourceName": "Cincinnati Shakespeare Company",
       "sourceUrl": "https://cincyshakes.com/special-events",
-      "lastVerified": "2026-08-26",
+      "lastVerified": "2026-08-23",
       "seriesId": "much-ado-parks"
     },
     {
@@ -467,7 +467,7 @@
       "description": "Rhinegeist's rooftop Tiny Dusk series features Dave Grodzki for four hours of free local music above Over-the-Rhine.",
       "sourceName": "Rhinegeist Brewery",
       "sourceUrl": "https://rhinegeist.com/events/taproom/",
-      "lastVerified": "2026-08-26"
+      "lastVerified": "2026-08-23"
     },
     {
       "id": "jayhawks-dayton",
@@ -493,7 +493,7 @@
       "description": "New Orleans soul-rock group J & The Causeways plays a free open-air Levitt Pavilion concert, a strong regional option about an hour north.",
       "sourceName": "Levitt Pavilion Dayton",
       "sourceUrl": "https://levittdayton.org/",
-      "lastVerified": "2026-08-26",
+      "lastVerified": "2026-08-23",
       "seriesId": "levitt-dayton-2026"
     },
     {
@@ -501,7 +501,7 @@
       "title": "Dayton Silent Disco: Lost in Time",
       "date": "2026-08-28",
       "day": "Friday",
-      "time": "8:30 PM–1:00 AM",
+      "time": "8:00 PM",
       "venue": "The Brightside",
       "neighborhood": "Dayton",
       "address": "905 E Third St, Dayton, OH 45402",
@@ -518,9 +518,9 @@
         "regional"
       ],
       "description": "Three headphone channels take dancers through different eras at The Brightside's Lost in Time silent disco in Dayton.",
-      "sourceName": "The Brightside Dayton",
-      "sourceUrl": "https://www.thebrightsidedayton.com/event-details/dayton-silent-disco-lost-in-time",
-      "lastVerified": "2026-08-26"
+      "sourceName": "Downtown Dayton Partnership",
+      "sourceUrl": "https://downtowndayton.org/events-calendar/2026-08-28/?hide_subsequent_recurrences=1",
+      "lastVerified": "2026-08-23"
     },
     {
       "id": "wild-scenic-film-festival",
@@ -546,7 +546,7 @@
       "description": "Kentucky Conservation Committee's evening of environmental and adventure films adds a mission-driven road-ready option in downtown Lexington.",
       "sourceName": "Kentucky Conservation Committee",
       "sourceUrl": "https://kyconservation.org/upcoming-events",
-      "lastVerified": "2026-08-26"
+      "lastVerified": "2026-08-23"
     },
     {
       "id": "germania-sat",
@@ -572,7 +572,7 @@
       "description": "The longest Oktoberfest day fills Germania Park with three music stages, German food and bier, rides, dancing, steinholding, and mug-sliding contests.",
       "sourceName": "Germania Society of Cincinnati",
       "sourceUrl": "https://germaniasociety.com/oktoberfest/",
-      "lastVerified": "2026-08-26",
+      "lastVerified": "2026-08-23",
       "seriesId": "germania-oktoberfest"
     },
     {
@@ -599,7 +599,7 @@
       "description": "A plant swap, curated local vendor market, plant-themed cocktails, workshops, and air conditioning turn Rhinegeist into a plant-lover's afternoon.",
       "sourceName": "Rhinegeist Brewery",
       "sourceUrl": "https://rhinegeist.com/event/plants-pints/",
-      "lastVerified": "2026-08-26"
+      "lastVerified": "2026-08-23"
     },
     {
       "id": "diner-en-blanc",
@@ -625,7 +625,7 @@
       "description": "Cincinnati's all-white pop-up dinner returns at a secret location; participation depends on the official registration and guest process.",
       "sourceName": "Diner en Blanc",
       "sourceUrl": "https://www.dinerenblanc.com/index.php?locale=en_US",
-      "lastVerified": "2026-08-26"
+      "lastVerified": "2026-08-23"
     },
     {
       "id": "architecture-bar-crawl",
@@ -651,7 +651,7 @@
       "description": "AIA Cincinnati and The Amateur Lab lead a free walking tour through historic architecture with stops at Northern Row, Rhinegeist, Jane's, and Mellotone.",
       "sourceName": "AIA Cincinnati",
       "sourceUrl": "https://aiacincinnati.org/programs/events/082926-ep",
-      "lastVerified": "2026-08-26"
+      "lastVerified": "2026-08-23"
     },
     {
       "id": "fruitfest-urban-artifact",
@@ -677,14 +677,14 @@
       "description": "Cincinnati Permaculture Institute brings a fruit-focused gathering to Urban Artifact, a natural fit for a brewery known for fruit-forward beer.",
       "sourceName": "Cincinnati Permaculture Institute",
       "sourceUrl": "https://cincinnatipermacultureinstitute.org/schedule-of-events/2026/8/29/fruitfest-at-urban-artifact",
-      "lastVerified": "2026-08-26"
+      "lastVerified": "2026-08-23"
     },
     {
       "id": "krohn-fall-show-sat",
       "title": "Krohn Fall Show opening day",
       "date": "2026-08-29",
       "day": "Saturday",
-      "time": "10:00 AM–5:00 PM",
+      "time": "10:00 AM–8:00 PM",
       "venue": "Krohn Conservatory",
       "neighborhood": "Eden Park",
       "address": "1501 Eden Park Dr, Cincinnati, OH 45202",
@@ -701,9 +701,9 @@
         "indoors"
       ],
       "description": "A Living Museum of Botanical Splendor opens with rare specimens and displays connecting art, science, conservation, and the essential role of plants.",
-      "sourceName": "Cincinnati Parks via Visit Cincy",
-      "sourceUrl": "https://www.visitcincy.com/events/?page=31",
-      "lastVerified": "2026-08-26",
+      "sourceName": "Cincinnati Parks",
+      "sourceUrl": "https://www.cincinnati-oh.gov/cincyparks/visit-a-park/find-a-parkfacility/krohn-conservatory/",
+      "lastVerified": "2026-08-23",
       "seriesId": "krohn-fall-show"
     },
     {
@@ -730,7 +730,7 @@
       "description": "More than 60 independent publishers and artists fill The Carnegie with print projects, artist editions, performances, and video installations.",
       "sourceName": "Cincinnati Art Book Fair",
       "sourceUrl": "https://www.cincinnatiartbookfair.com/",
-      "lastVerified": "2026-08-26",
+      "lastVerified": "2026-08-23",
       "seriesId": "art-book-fair"
     },
     {
@@ -757,7 +757,7 @@
       "description": "Summermusik pairs Mozart with Frank Zappa in a compact concert built around two boundary-pushing musical outsiders.",
       "sourceName": "Summermusik",
       "sourceUrl": "https://summermusik.org/events-main/musicalrenegades/",
-      "lastVerified": "2026-08-26"
+      "lastVerified": "2026-08-23"
     },
     {
       "id": "crazy-for-you-sat",
@@ -782,7 +782,7 @@
       "description": "A buoyant Gershwin musical comedy packed with tap dancing, mistaken identity, and standards including I Got Rhythm and Embraceable You.",
       "sourceName": "Cincy A&E / Cincinnati Landmark Productions",
       "sourceUrl": "https://cincyae.com/event/crazy-for-you/",
-      "lastVerified": "2026-08-26",
+      "lastVerified": "2026-08-23",
       "seriesId": "crazy-for-you"
     },
     {
@@ -809,7 +809,7 @@
       "description": "A guided Saturday look at highlights from the museum's collection offers an easy, informed way into the galleries beyond wandering alone.",
       "sourceName": "Cincinnati Art Museum",
       "sourceUrl": "https://www.cincinnatiartmuseum.org/events/",
-      "lastVerified": "2026-08-26"
+      "lastVerified": "2026-08-23"
     },
     {
       "id": "mufon-sat-program",
@@ -835,7 +835,7 @@
       "description": "A full day of investigators and researchers examines unidentified aerial phenomena, witness credibility, scientific rigor, and disclosure.",
       "sourceName": "MUFON Symposium",
       "sourceUrl": "https://mufonsymposium.com/",
-      "lastVerified": "2026-08-26",
+      "lastVerified": "2026-08-23",
       "seriesId": "mufon-2026"
     },
     {
@@ -862,7 +862,7 @@
       "description": "The symposium's ticketed two-hour river cruise turns the gathering into an unusual evening experience on the Ohio River.",
       "sourceName": "MUFON Symposium",
       "sourceUrl": "https://mufonsymposium.com/pricing/",
-      "lastVerified": "2026-08-26",
+      "lastVerified": "2026-08-23",
       "seriesId": "mufon-2026"
     },
     {
@@ -889,7 +889,7 @@
       "description": "Season finalists compete for audience and judges' votes with headliner Daniel Van Kirk, then local bands carry the final night forward.",
       "sourceName": "Bombs Away! Comedy",
       "sourceUrl": "https://www.bombsawaycomedy.com/event-details-registration/laugh-riot-comedy-fest-veteran-finals",
-      "lastVerified": "2026-08-26"
+      "lastVerified": "2026-08-23"
     },
     {
       "id": "tony-rock-sat",
@@ -914,7 +914,7 @@
       "description": "Tony Rock brings his fast, sharp stand-up to the Liberty Funny Bone; doors open at 5:30 p.m. for the 6:30 p.m. performance.",
       "sourceName": "Liberty Funny Bone",
       "sourceUrl": "https://liberty.funnybone.com/calendar/",
-      "lastVerified": "2026-08-26",
+      "lastVerified": "2026-08-23",
       "seriesId": "tony-rock"
     },
     {
@@ -941,7 +941,7 @@
       "description": "An indie-rock and electronic dance party takes over Bogart's for an 18-and-up Saturday night built for the dance floor.",
       "sourceName": "Bogart's / AXS",
       "sourceUrl": "https://www.axs.com/events/1470573/electric-feels-indie-rock-electronic-dance-party-18-event-tickets",
-      "lastVerified": "2026-08-26"
+      "lastVerified": "2026-08-23"
     },
     {
       "id": "rays-music-exchange",
@@ -966,7 +966,7 @@
       "description": "The Woodward hosts a live family reunion for Ray's Music Exchange, a Cincinnati ensemble with deep local roots and a devoted following.",
       "sourceName": "Woodward Theater",
       "sourceUrl": "https://www.woodwardtheater.com/shows",
-      "lastVerified": "2026-08-26"
+      "lastVerified": "2026-08-23"
     },
     {
       "id": "ant-sensory-workshop",
@@ -993,7 +993,7 @@
       "description": "A full-day Cincinnati Museum Center field workshop explores how ants perceive and navigate their world at the Edge of Appalachia preserve.",
       "sourceName": "Cincinnati Museum Center",
       "sourceUrl": "https://www.cincymuseum.org/life-on-earth-workshops/",
-      "lastVerified": "2026-08-26"
+      "lastVerified": "2026-08-23"
     },
     {
       "id": "morning-coffee-birds",
@@ -1019,7 +1019,7 @@
       "description": "Great Parks pairs a relaxed morning coffee stop with bird observation and naturalist context at Woodland Mound's nature center.",
       "sourceName": "Great Parks",
       "sourceUrl": "https://www.greatparks.org/Calendar?contentItemId=15308",
-      "lastVerified": "2026-08-26"
+      "lastVerified": "2026-08-23"
     },
     {
       "id": "much-ado-library",
@@ -1045,7 +1045,7 @@
       "description": "Cincinnati Shakespeare Company's touring comedy moves indoors to the downtown library for an accessible free Saturday matinee.",
       "sourceName": "Cincinnati Shakespeare Company",
       "sourceUrl": "https://cincyshakes.com/special-events",
-      "lastVerified": "2026-08-26",
+      "lastVerified": "2026-08-23",
       "seriesId": "much-ado-parks"
     },
     {
@@ -1072,7 +1072,7 @@
       "description": "Country-rock singer-songwriter Cassidy Daniels headlines a free Saturday concert at Dayton's open-air Levitt Pavilion.",
       "sourceName": "Levitt Pavilion Dayton",
       "sourceUrl": "https://levittdayton.org/",
-      "lastVerified": "2026-08-26",
+      "lastVerified": "2026-08-23",
       "seriesId": "levitt-dayton-2026"
     },
     {
@@ -1099,7 +1099,7 @@
       "description": "The original Cincinnati Oktoberfest closes with seven hours of German music, food, bier, dancing, family rides, and festival traditions.",
       "sourceName": "Germania Society of Cincinnati",
       "sourceUrl": "https://germaniasociety.com/oktoberfest/",
-      "lastVerified": "2026-08-26",
+      "lastVerified": "2026-08-23",
       "seriesId": "germania-oktoberfest"
     },
     {
@@ -1124,9 +1124,9 @@
         "indoors"
       ],
       "description": "A Living Museum of Botanical Splendor continues with rare specimens and displays connecting art, science, conservation, and the essential role of plants.",
-      "sourceName": "Cincinnati Parks via Visit Cincy",
-      "sourceUrl": "https://www.visitcincy.com/events/?page=31",
-      "lastVerified": "2026-08-26",
+      "sourceName": "Cincinnati Parks",
+      "sourceUrl": "https://www.cincinnati-oh.gov/cincyparks/visit-a-park/find-a-parkfacility/krohn-conservatory/",
+      "lastVerified": "2026-08-23",
       "seriesId": "krohn-fall-show"
     },
     {
@@ -1153,7 +1153,7 @@
       "description": "The second and final fair day offers more time with 60-plus independent publishers, artists, print projects, performances, and installations.",
       "sourceName": "Cincinnati Art Book Fair",
       "sourceUrl": "https://www.cincinnatiartbookfair.com/",
-      "lastVerified": "2026-08-26",
+      "lastVerified": "2026-08-23",
       "seriesId": "art-book-fair"
     },
     {
@@ -1179,7 +1179,7 @@
       "description": "A buoyant Gershwin musical comedy packed with tap dancing, mistaken identity, and standards including I Got Rhythm and Embraceable You.",
       "sourceName": "Cincy A&E / Cincinnati Landmark Productions",
       "sourceUrl": "https://cincyae.com/event/crazy-for-you/",
-      "lastVerified": "2026-08-26",
+      "lastVerified": "2026-08-23",
       "seriesId": "crazy-for-you"
     },
     {
@@ -1206,7 +1206,7 @@
       "description": "Families explore an 1800s decorative craft by making a punched-tin project; the museum asks participants to register five days ahead.",
       "sourceName": "Cincy A&E / Behringer-Crawford Museum",
       "sourceUrl": "https://cincyae.com/event/family-crafting-through-time-1800s-tin-punching/",
-      "lastVerified": "2026-08-26"
+      "lastVerified": "2026-08-23"
     },
     {
       "id": "sungaze-library",
@@ -1232,7 +1232,7 @@
       "description": "Cincinnati dream-pop group Sungaze performs for the library's Sunday on the Stairs series in the heart of downtown.",
       "sourceName": "Cincy A&E / Cincinnati & Hamilton County Public Library",
       "sourceUrl": "https://cincyae.com/venue/downtown-main-library-cincinnati-hamilton-county-public-library/",
-      "lastVerified": "2026-08-26"
+      "lastVerified": "2026-08-23"
     },
     {
       "id": "mufon-sun-program",
@@ -1258,7 +1258,7 @@
       "description": "The final symposium day continues investigator and researcher sessions on unidentified aerial phenomena before the Covington gathering closes.",
       "sourceName": "MUFON Symposium",
       "sourceUrl": "https://mufonsymposium.com/",
-      "lastVerified": "2026-08-26",
+      "lastVerified": "2026-08-23",
       "seriesId": "mufon-2026"
     },
     {
@@ -1284,7 +1284,7 @@
       "description": "John Caparulo closes the weekend at Liberty Funny Bone with his dry, no-nonsense Midwestern stand-up style.",
       "sourceName": "John Caparulo",
       "sourceUrl": "https://johncaparulo.com/event/cincinnati-oh-14/",
-      "lastVerified": "2026-08-26"
+      "lastVerified": "2026-08-23"
     },
     {
       "id": "much-ado-carnegie",
@@ -1310,7 +1310,7 @@
       "description": "Cincinnati Shakespeare Company's free touring comedy closes the weekend indoors at The Carnegie in Covington.",
       "sourceName": "Cincinnati Shakespeare Company",
       "sourceUrl": "https://cincyshakes.com/special-events",
-      "lastVerified": "2026-08-26",
+      "lastVerified": "2026-08-23",
       "seriesId": "much-ado-parks"
     },
     {
@@ -1323,8 +1323,8 @@
       "neighborhood": "Downtown Dayton",
       "address": "420 S Ludlow St, Dayton, OH 45402",
       "category": "Community",
-      "priceValue": 0,
-      "priceLabel": "Free outdoor event; normal admission applies inside the museum",
+      "priceValue": null,
+      "priceLabel": "Check source",
       "travelMinutes": 55,
       "roadTrip": false,
       "featured": false,
@@ -1335,9 +1335,9 @@
         "regional"
       ],
       "description": "A Sunday gathering of Japanese domestic-market cars brings an unusual contrast to America's Packard Museum, with a mobile coffee truck on site.",
-      "sourceName": "America's Packard Museum",
-      "sourceUrl": "https://www.americaspackardmuseum.org/upcoming-events",
-      "lastVerified": "2026-08-26"
+      "sourceName": "Downtown Dayton Partnership",
+      "sourceUrl": "https://downtowndayton.org/event/subarashi-cars-and-coffee/",
+      "lastVerified": "2026-08-23"
     },
     {
       "id": "kentucky-state-fair-closing",
@@ -1363,7 +1363,7 @@
       "description": "The final fair day keeps exhibits, rides, livestock, food, and attractions open; it is the edition's optional, clearly labeled two-hour road trip.",
       "sourceName": "Kentucky State Fair",
       "sourceUrl": "https://kystatefair.org/about/faqs",
-      "lastVerified": "2026-08-26"
+      "lastVerified": "2026-08-23"
     }
   ]
 }
