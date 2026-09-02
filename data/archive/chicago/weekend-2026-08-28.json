@@ -14,8 +14,8 @@
     "shortLabel": "Aug 28–30",
     "startDate": "2026-08-28",
     "endDate": "2026-08-30",
-    "verifiedAt": "August 24, 2026 at 7:00 PM CT",
-    "updatedAt": "2026-08-24T19:00:00-05:00",
+    "verifiedAt": "August 26, 2026 at 8:15 AM CT",
+    "updatedAt": "2026-08-26T08:15:00-05:00",
     "timezone": "America/Chicago",
     "defaultDriveMinutes": 90,
     "roadTripMaxMinutes": 120,
@@ -48,7 +48,7 @@
       "description": "A free house-dance lesson opens the night before Ron Troupe and Mark “Flava” Fuller take over the Grant Park dance floor.",
       "sourceName": "Choose Chicago / City of Chicago",
       "sourceUrl": "https://www.choosechicago.com/articles/festivals-special-events/chicago-house-music-festival/",
-      "lastVerified": "2026-08-24",
+      "lastVerified": "2026-08-26",
       "seriesId": "chicago-house-2026"
     },
     {
@@ -75,7 +75,7 @@
       "description": "The North Side street festival opens with Chicago-centered bands, local food, more than 100 vendors and family activities across two stages.",
       "sourceName": "Edgewater Chamber of Commerce",
       "sourceUrl": "https://www.edgewater.org/edgewater-music-fest/",
-      "lastVerified": "2026-08-24",
+      "lastVerified": "2026-08-26",
       "seriesId": "edgewater-music-fest-2026"
     },
     {
@@ -102,7 +102,7 @@
       "description": "Global K-pop superstars BTS close their two-night Chicago stop with a massive Soldier Field production on the Arirang world tour.",
       "sourceName": "Soldier Field",
       "sourceUrl": "https://www.soldierfield.com/events/detail/bts-world-tour",
-      "lastVerified": "2026-08-24"
+      "lastVerified": "2026-08-26"
     },
     {
       "id": "kpop-club-night",
@@ -128,7 +128,7 @@
       "description": "A high-energy K-pop dance party keeps the Soldier Field weekend moving with fan-favorite tracks, videos and a packed club floor.",
       "sourceName": "Choose Chicago",
       "sourceUrl": "https://www.choosechicago.com/blog/special-events/things-to-do-in-chicago-this-weekend/",
-      "lastVerified": "2026-08-24",
+      "lastVerified": "2026-08-26",
       "seriesId": "choose-chicago-weekend-2026-08-28"
     },
     {
@@ -155,7 +155,7 @@
       "description": "Plant-based food makers and local vendors gather at Skinner Park for a neighborhood market with prepared dishes, treats and cruelty-free goods.",
       "sourceName": "Choose Chicago",
       "sourceUrl": "https://www.choosechicago.com/blog/special-events/things-to-do-in-chicago-this-weekend/",
-      "lastVerified": "2026-08-24",
+      "lastVerified": "2026-08-26",
       "seriesId": "choose-chicago-weekend-2026-08-28"
     },
     {
@@ -182,7 +182,7 @@
       "description": "Independent galleries, studios, shops and creative spaces stay open for an evening art walk through Wicker Park and Bucktown.",
       "sourceName": "Choose Chicago",
       "sourceUrl": "https://www.choosechicago.com/blog/special-events/things-to-do-in-chicago-this-weekend/",
-      "lastVerified": "2026-08-24",
+      "lastVerified": "2026-08-26",
       "seriesId": "choose-chicago-weekend-2026-08-28"
     },
     {
@@ -209,7 +209,7 @@
       "description": "Giant puppets embody Chicago's ancient ecosystems in a free site-specific performance combining ecology, history and a native-plant giveaway.",
       "sourceName": "Choose Chicago / Night Out in the Parks",
       "sourceUrl": "https://www.choosechicago.com/event/remnants-at-marian-byrnes-park/2026-08-28/",
-      "lastVerified": "2026-08-24",
+      "lastVerified": "2026-08-26",
       "seriesId": "remnants-2026"
     },
     {
@@ -236,7 +236,7 @@
       "description": "A pioneering hip-hop artist performs with a live orchestra, fusing emceeing, turntablism and symphonic arrangements inside the Auditorium Theatre.",
       "sourceName": "Choose Chicago",
       "sourceUrl": "https://www.choosechicago.com/blog/special-events/things-to-do-in-chicago-this-weekend/",
-      "lastVerified": "2026-08-24",
+      "lastVerified": "2026-08-26",
       "seriesId": "choose-chicago-weekend-2026-08-28"
     },
     {
@@ -263,7 +263,7 @@
       "description": "Chicago underground rap pioneer LUCKI brings his headlining tour home for a large-scale Wintrust Arena performance.",
       "sourceName": "Choose Chicago",
       "sourceUrl": "https://www.choosechicago.com/blog/special-events/things-to-do-in-chicago-this-weekend/",
-      "lastVerified": "2026-08-24",
+      "lastVerified": "2026-08-26",
       "seriesId": "choose-chicago-weekend-2026-08-28"
     },
     {
@@ -290,7 +290,7 @@
       "description": "Former La Arrolladora Banda El Limón singer Jorge Medina brings his Legendario regional-Mexican tour to the Rosemont Theatre.",
       "sourceName": "Choose Chicago",
       "sourceUrl": "https://www.choosechicago.com/blog/special-events/things-to-do-in-chicago-this-weekend/",
-      "lastVerified": "2026-08-24",
+      "lastVerified": "2026-08-26",
       "seriesId": "choose-chicago-weekend-2026-08-28"
     },
     {
@@ -317,7 +317,7 @@
       "description": "An intimate close-up show uses memory, connection and sleight of hand to turn a small-room performance into a shared experience.",
       "sourceName": "Choose Chicago",
       "sourceUrl": "https://www.choosechicago.com/blog/special-events/things-to-do-in-chicago-this-weekend/",
-      "lastVerified": "2026-08-24",
+      "lastVerified": "2026-08-26",
       "seriesId": "choose-chicago-weekend-2026-08-28"
     },
     {
@@ -344,7 +344,7 @@
       "description": "The fast-paced revue combines classic Second City scenes with new sketches and improv shaped around unmistakably Chicago characters and habits.",
       "sourceName": "The Second City",
       "sourceUrl": "https://www.secondcity.com/shows/chicago",
-      "lastVerified": "2026-08-24",
+      "lastVerified": "2026-08-26",
       "seriesId": "second-city-weekend-2026"
     },
     {
@@ -371,7 +371,7 @@
       "description": "The Neo-Futurists race through a constantly changing collection of short plays, creating an unpredictable hour of experimental Chicago theatre.",
       "sourceName": "The Neo-Futurists",
       "sourceUrl": "https://neofuturists.org/events/theinfinitewrench/",
-      "lastVerified": "2026-08-24",
+      "lastVerified": "2026-08-26",
       "seriesId": "infinite-wrench-2026"
     },
     {
@@ -398,7 +398,7 @@
       "description": "A late-night Chicago variety and comedy show brings together rotating performers, sketches and deliberately unpredictable stage energy.",
       "sourceName": "Choose Chicago",
       "sourceUrl": "https://www.choosechicago.com/blog/special-events/things-to-do-in-chicago-this-weekend/",
-      "lastVerified": "2026-08-24",
+      "lastVerified": "2026-08-26",
       "seriesId": "choose-chicago-weekend-2026-08-28"
     },
     {
@@ -425,7 +425,7 @@
       "description": "Rosemont's outdoor summer series closes the workweek with a free live band, lawn seating and a relaxed entertainment-district atmosphere.",
       "sourceName": "Choose Chicago",
       "sourceUrl": "https://www.choosechicago.com/blog/special-events/things-to-do-in-chicago-this-weekend/",
-      "lastVerified": "2026-08-24",
+      "lastVerified": "2026-08-26",
       "seriesId": "choose-chicago-weekend-2026-08-28"
     },
     {
@@ -452,7 +452,7 @@
       "description": "Acclaimed singer-songwriter Josh Rouse brings his warm blend of folk, pop and understated storytelling to an intimate Old Town School hall.",
       "sourceName": "Old Town School of Folk Music",
       "sourceUrl": "https://www.oldtownschool.org/concerts/",
-      "lastVerified": "2026-08-24",
+      "lastVerified": "2026-08-26",
       "seriesId": "old-town-weekend-2026"
     },
     {
@@ -479,7 +479,7 @@
       "description": "Four stages deliver eight hours of Chicago house legends, new DJs, footwork showcases, dance competitions and family programming.",
       "sourceName": "Choose Chicago / City of Chicago",
       "sourceUrl": "https://www.choosechicago.com/articles/festivals-special-events/chicago-house-music-festival/",
-      "lastVerified": "2026-08-24",
+      "lastVerified": "2026-08-26",
       "seriesId": "chicago-house-2026"
     },
     {
@@ -506,7 +506,7 @@
       "description": "More than 30 performances, neighborhood food, local makers and family activities fill the two-stage street festival throughout Saturday.",
       "sourceName": "Edgewater Chamber of Commerce",
       "sourceUrl": "https://www.edgewater.org/edgewater-music-fest/",
-      "lastVerified": "2026-08-24",
+      "lastVerified": "2026-08-26",
       "seriesId": "edgewater-music-fest-2026"
     },
     {
@@ -533,7 +533,7 @@
       "description": "The aquarium stays open after hours for Chicago DJs, house music, cocktails, aquatic exhibits and an energetic final-summer party beneath the waves.",
       "sourceName": "Choose Chicago / Shedd Aquarium",
       "sourceUrl": "https://www.choosechicago.com/event/heatwave-house-party-at-shedd-aquarium/",
-      "lastVerified": "2026-08-24"
+      "lastVerified": "2026-08-26"
     },
     {
       "id": "cubs-150",
@@ -559,7 +559,7 @@
       "description": "Wrigley Field hosts a special celebration marking 150 years of the Cubs as a National League franchise, wrapped around a full game-day experience.",
       "sourceName": "Chicago Cubs",
       "sourceUrl": "https://www.mlb.com/cubs/tickets",
-      "lastVerified": "2026-08-24"
+      "lastVerified": "2026-08-26"
     },
     {
       "id": "summer-sweets",
@@ -585,24 +585,24 @@
       "description": "Six stations serve gelato, pastries, cookies, chocolate and seasonal Italian-inspired desserts throughout Eataly's marketplace.",
       "sourceName": "Choose Chicago / Eataly",
       "sourceUrl": "https://www.choosechicago.com/event/summer-sweets-festa/",
-      "lastVerified": "2026-08-24"
+      "lastVerified": "2026-08-26"
     },
     {
       "id": "escape-msi",
       "title": "Escape the Museum",
       "date": "2026-08-29",
       "day": "Saturday",
-      "time": "7:00 PM",
+      "time": "Timed starts from 5:00 PM–8:30 PM",
       "venue": "Griffin Museum of Science and Industry",
       "neighborhood": "Hyde Park",
       "address": "5700 S DuSable Lake Shore Dr, Chicago, IL 60637",
       "category": "Family",
-      "priceValue": null,
-      "priceLabel": "Timed ticket required; check source",
+      "priceValue": 40,
+      "priceLabel": "$40 adults; $35 children under 12; member discounts available",
       "travelMinutes": 20,
       "roadTrip": false,
       "featured": false,
-      "age": "Ages vary; check event rules",
+      "age": "Recommended ages 10+; under 18 requires a ticketed adult",
       "tags": [
         "family",
         "games",
@@ -610,8 +610,8 @@
       ],
       "description": "A new after-hours escape experience sends teams through museum clues, puzzles and galleries following last year's sold-out run.",
       "sourceName": "Griffin Museum of Science and Industry",
-      "sourceUrl": "https://www.msichicago.org/explore/whats-here/events",
-      "lastVerified": "2026-08-24"
+      "sourceUrl": "https://www.msichicago.org/explore/whats-here/events/escape-the-museum",
+      "lastVerified": "2026-08-26"
     },
     {
       "id": "remnants-sat",
@@ -637,7 +637,7 @@
       "description": "The final park performance follows giant ecosystem puppets toward a dusk gathering with naturalists, local ecology and free native plants.",
       "sourceName": "Choose Chicago / Night Out in the Parks",
       "sourceUrl": "https://www.choosechicago.com/event/remnants-at-marian-byrnes-park/2026-08-28/",
-      "lastVerified": "2026-08-24",
+      "lastVerified": "2026-08-26",
       "seriesId": "remnants-2026"
     },
     {
@@ -664,7 +664,7 @@
       "description": "The Summer of Light tour closes in Chicago with two defining 2000s alternative-rock bands on the lakefront pavilion stage.",
       "sourceName": "Choose Chicago",
       "sourceUrl": "https://www.choosechicago.com/event/the-fray-dashboard-confessional-summer-of-light-tour/",
-      "lastVerified": "2026-08-24"
+      "lastVerified": "2026-08-26"
     },
     {
       "id": "kesha-freedom",
@@ -690,7 +690,7 @@
       "description": "Kesha headlines a bright, defiant pop night with Chromeo and Erika Jayne at the south-suburban outdoor amphitheatre.",
       "sourceName": "Choose Chicago",
       "sourceUrl": "https://www.choosechicago.com/event/kesha-the-freedom-tour/",
-      "lastVerified": "2026-08-24"
+      "lastVerified": "2026-08-26"
     },
     {
       "id": "musika-samasama",
@@ -716,7 +716,7 @@
       "description": "The Great Filipino Songbook Remix brings world-class musicians, community performances and cultural celebration to Eugene Field Park.",
       "sourceName": "Choose Chicago",
       "sourceUrl": "https://www.choosechicago.com/blog/special-events/things-to-do-in-chicago-this-weekend/",
-      "lastVerified": "2026-08-24",
+      "lastVerified": "2026-08-26",
       "seriesId": "choose-chicago-weekend-2026-08-28"
     },
     {
@@ -743,7 +743,7 @@
       "description": "Five seated tastings anchor a guided walk through Chinatown's culinary traditions, neighborhood history and distinctive architecture.",
       "sourceName": "Choose Chicago",
       "sourceUrl": "https://www.choosechicago.com/blog/special-events/things-to-do-in-chicago-this-weekend/",
-      "lastVerified": "2026-08-24",
+      "lastVerified": "2026-08-26",
       "seriesId": "choose-chicago-weekend-2026-08-28"
     },
     {
@@ -770,7 +770,7 @@
       "description": "Free morning fitness sessions spread across the Great Lawn and Wrigley Square before the park shifts into house-music festival mode.",
       "sourceName": "Choose Chicago",
       "sourceUrl": "https://www.choosechicago.com/blog/special-events/things-to-do-in-chicago-this-weekend/",
-      "lastVerified": "2026-08-24",
+      "lastVerified": "2026-08-26",
       "seriesId": "choose-chicago-weekend-2026-08-28"
     },
     {
@@ -797,7 +797,7 @@
       "description": "A local volunteer leads a free walk through Buena Park, sharing neighborhood stories, architecture and overlooked places beyond the usual visitor route.",
       "sourceName": "Chicago Greeter",
       "sourceUrl": "https://www.chicagogreeter.com/",
-      "lastVerified": "2026-08-24"
+      "lastVerified": "2026-08-26"
     },
     {
       "id": "bop-to-top",
@@ -823,7 +823,7 @@
       "description": "The touring Disney Channel dance party packs the historic Aragon with throwback hits, surprise guests and high-energy fan nostalgia.",
       "sourceName": "Choose Chicago",
       "sourceUrl": "https://www.choosechicago.com/blog/special-events/things-to-do-in-chicago-this-weekend/",
-      "lastVerified": "2026-08-24",
+      "lastVerified": "2026-08-26",
       "seriesId": "choose-chicago-weekend-2026-08-28"
     },
     {
@@ -850,7 +850,7 @@
       "description": "Chicago comedian T. Murph returns home with a headlining set built around family, adulthood and sharp observations about everyday life.",
       "sourceName": "Choose Chicago",
       "sourceUrl": "https://www.choosechicago.com/blog/special-events/things-to-do-in-chicago-this-weekend/",
-      "lastVerified": "2026-08-24",
+      "lastVerified": "2026-08-26",
       "seriesId": "choose-chicago-weekend-2026-08-28"
     },
     {
@@ -877,7 +877,7 @@
       "description": "A golf-centered social weekend blends competitive play, style, music and community experiences at a respected South Side public course.",
       "sourceName": "Choose Chicago",
       "sourceUrl": "https://www.choosechicago.com/blog/special-events/things-to-do-in-chicago-this-weekend/",
-      "lastVerified": "2026-08-24",
+      "lastVerified": "2026-08-26",
       "seriesId": "choose-chicago-weekend-2026-08-28"
     },
     {
@@ -904,7 +904,7 @@
       "description": "A 90-minute nighttime sail pairs Chicago's skyline with Navy Pier fireworks from the deck of the city's official tall ship.",
       "sourceName": "Tall Ship Windy",
       "sourceUrl": "https://tallshipwindy.com/",
-      "lastVerified": "2026-08-24"
+      "lastVerified": "2026-08-26"
     },
     {
       "id": "secret-sketch",
@@ -930,7 +930,7 @@
       "description": "A rotating cast performs a surprise slate of original sketch comedy inside one of Chicago's best-known improv institutions.",
       "sourceName": "Choose Chicago",
       "sourceUrl": "https://www.choosechicago.com/blog/special-events/things-to-do-in-chicago-this-weekend/",
-      "lastVerified": "2026-08-24",
+      "lastVerified": "2026-08-26",
       "seriesId": "choose-chicago-weekend-2026-08-28"
     },
     {
@@ -957,7 +957,7 @@
       "description": "The Annoyance gathers favorite sketches from its fearless archive for a fast evening of irreverent, distinctly Chicago comedy.",
       "sourceName": "Choose Chicago",
       "sourceUrl": "https://www.choosechicago.com/blog/special-events/things-to-do-in-chicago-this-weekend/",
-      "lastVerified": "2026-08-24",
+      "lastVerified": "2026-08-26",
       "seriesId": "choose-chicago-weekend-2026-08-28"
     },
     {
@@ -984,7 +984,7 @@
       "description": "Saturday's edition races through a different order of short plays, keeping the Neo-Futurists' experimental late-night format genuinely unpredictable.",
       "sourceName": "The Neo-Futurists",
       "sourceUrl": "https://neofuturists.org/events/theinfinitewrench/",
-      "lastVerified": "2026-08-24",
+      "lastVerified": "2026-08-26",
       "seriesId": "infinite-wrench-2026"
     },
     {
@@ -1011,7 +1011,7 @@
       "description": "Sandra Suave, El Caveman, Lee Farmer and Mark Grant close the festival with a relaxed free session where the river's three branches meet.",
       "sourceName": "Choose Chicago / City of Chicago",
       "sourceUrl": "https://www.choosechicago.com/articles/festivals-special-events/chicago-house-music-festival/",
-      "lastVerified": "2026-08-24",
+      "lastVerified": "2026-08-26",
       "seriesId": "chicago-house-2026"
     },
     {
@@ -1038,7 +1038,7 @@
       "description": "The final festival day offers another full lineup of local bands, food, makers and family activities before the North Side street party closes.",
       "sourceName": "Edgewater Chamber of Commerce",
       "sourceUrl": "https://www.edgewater.org/edgewater-music-fest/",
-      "lastVerified": "2026-08-24",
+      "lastVerified": "2026-08-26",
       "seriesId": "edgewater-music-fest-2026"
     },
     {
@@ -1065,7 +1065,7 @@
       "description": "More than 100 Black-owned brands join food, bars, DJs, performances, games, giveaways and a kids zone outside Soldier Field.",
       "sourceName": "Choose Chicago / Black on the Block",
       "sourceUrl": "https://www.choosechicago.com/event/black-on-the-block-chicago/",
-      "lastVerified": "2026-08-24"
+      "lastVerified": "2026-08-26"
     },
     {
       "id": "arts-on-devon",
@@ -1091,7 +1091,7 @@
       "description": "The Rogers Park Business Alliance brings visual art, makers, performances and neighborhood culture together along the diverse Devon Avenue corridor.",
       "sourceName": "Choose Chicago",
       "sourceUrl": "https://www.choosechicago.com/blog/special-events/things-to-do-in-chicago-this-weekend/",
-      "lastVerified": "2026-08-24",
+      "lastVerified": "2026-08-26",
       "seriesId": "choose-chicago-weekend-2026-08-28"
     },
     {
@@ -1118,7 +1118,7 @@
       "description": "A section of Milwaukee Avenue becomes a people-first street with room for walking, biking, local businesses and neighborhood programming.",
       "sourceName": "Choose Chicago",
       "sourceUrl": "https://www.choosechicago.com/blog/special-events/things-to-do-in-chicago-this-weekend/",
-      "lastVerified": "2026-08-24",
+      "lastVerified": "2026-08-26",
       "seriesId": "choose-chicago-weekend-2026-08-28"
     },
     {
@@ -1145,7 +1145,7 @@
       "description": "The neighborhood crawl links restaurants and bars between Logan Square and Avondale for an afternoon of tastes, drinks and local stops.",
       "sourceName": "Choose Chicago",
       "sourceUrl": "https://www.choosechicago.com/blog/special-events/things-to-do-in-chicago-this-weekend/",
-      "lastVerified": "2026-08-24",
+      "lastVerified": "2026-08-26",
       "seriesId": "choose-chicago-weekend-2026-08-28"
     },
     {
@@ -1172,7 +1172,7 @@
       "description": "Miranda Lambert brings her award-winning country catalog to Ravinia's open-air pavilion and lawn for a major Sunday concert.",
       "sourceName": "Ravinia Festival",
       "sourceUrl": "https://www.ravinia.org/",
-      "lastVerified": "2026-08-24"
+      "lastVerified": "2026-08-26"
     },
     {
       "id": "asleep-wheel",
@@ -1198,7 +1198,7 @@
       "description": "The Western-swing institution celebrates Route 66's centennial with road songs, roots musicianship and decades of lively Texas dance-hall sound.",
       "sourceName": "Old Town School of Folk Music",
       "sourceUrl": "https://www.oldtownschool.org/concerts/",
-      "lastVerified": "2026-08-24",
+      "lastVerified": "2026-08-26",
       "seriesId": "old-town-weekend-2026"
     },
     {
@@ -1225,7 +1225,7 @@
       "description": "Chicagoans attempt the record for the largest simultaneous Malört shot while raising money for Ravenswood Community Services.",
       "sourceName": "Choose Chicago",
       "sourceUrl": "https://www.choosechicago.com/blog/special-events/things-to-do-in-chicago-this-weekend/",
-      "lastVerified": "2026-08-24",
+      "lastVerified": "2026-08-26",
       "seriesId": "choose-chicago-weekend-2026-08-28"
     },
     {
@@ -1252,7 +1252,7 @@
       "description": "A Sunday matinee gathers classic scenes, songs and improv from the theatre that helped define Chicago comedy for generations.",
       "sourceName": "The Second City",
       "sourceUrl": "https://www.secondcity.com/shows/chicago",
-      "lastVerified": "2026-08-24",
+      "lastVerified": "2026-08-26",
       "seriesId": "second-city-weekend-2026"
     },
     {
@@ -1279,7 +1279,7 @@
       "description": "David Byrne and Mala Gaonkar's immersive experience closes its Chicago run with sensory rooms exploring perception, memory and the stories our brains construct.",
       "sourceName": "Theater of the Mind Chicago",
       "sourceUrl": "https://theaterofthemindchicago.com/",
-      "lastVerified": "2026-08-24"
+      "lastVerified": "2026-08-26"
     },
     {
       "id": "tangible-sound",
@@ -1305,7 +1305,7 @@
       "description": "An immersive sound installation lets visitors step inside the physical resonance of taiko, saxophone, cello and bass in the Cultural Center.",
       "sourceName": "Chicago Cultural Center",
       "sourceUrl": "https://www.chicago.gov/city/en/depts/dca/supp_info/chicago_culturalcenter.html",
-      "lastVerified": "2026-08-24"
+      "lastVerified": "2026-08-26"
     },
     {
       "id": "lincoln-zoo",
@@ -1331,7 +1331,7 @@
       "description": "Chicago's free zoo offers an easy all-ages Sunday among lions, apes, polar bears, gardens and lakefront park paths.",
       "sourceName": "Lincoln Park Zoo",
       "sourceUrl": "https://www.lpzoo.org/visit/",
-      "lastVerified": "2026-08-24"
+      "lastVerified": "2026-08-26"
     },
     {
       "id": "architecture-cruise",
@@ -1357,7 +1357,7 @@
       "description": "Expert guides decode Chicago's skyline and architectural history during a 90-minute trip through all three branches of the river.",
       "sourceName": "Chicago Architecture Center",
       "sourceUrl": "https://www.architecture.org/city-tours/river-cruise",
-      "lastVerified": "2026-08-24"
+      "lastVerified": "2026-08-26"
     },
     {
       "id": "milwaukee-art-roadtrip",
@@ -1383,7 +1383,7 @@
       "description": "The Calatrava-designed lakefront museum makes a striking optional road trip for modern art, American decorative arts and sweeping lake views.",
       "sourceName": "Milwaukee Art Museum",
       "sourceUrl": "https://mam.org/visit/",
-      "lastVerified": "2026-08-24"
+      "lastVerified": "2026-08-26"
     }
   ]
 }

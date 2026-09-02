@@ -22,7 +22,7 @@ Follow `WEEKLY-REFRESH.md` completely. Every event needs a real date, venue, HTT
 - Saved events, followed venues, notes, and plans are scoped by city in browser storage.
 - `events.js` and `data/current-weekend.json` are legacy Cincinnati snapshots and must not overwrite the city files.
 
-Current prepared editions: August 28–30, 2026; 51 verified events and exactly 10 featured picks in each of the three cities.
+Current prepared editions: September 4–6, 2026; 52 verified events and exactly 10 featured picks in Cincinnati and Philadelphia, plus 50 verified events and exactly 10 featured picks in Chicago.
 
 ## Related app
 
