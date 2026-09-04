@@ -17,7 +17,7 @@ it refreshes every Wednesday with the others.
    for "Publish This Weekend Cities" and make sure its prompt names all four city files
    (`data/<city>/current-weekend.json`, city = cincinnati · philadelphia · chicago ·
    washington-dc). The repo's tests already refuse a three-city publish.
-2. After Sep 9: verify all four files carry the Sep 11–13 edition on GitHub and live.
+2. After Wed Sep 9 ~9:30 AM ET: open the newest commit on GitHub. If `data/washington-dc/current-weekend.json` carries the Sep 11–13 edition, the publisher honours four cities — close this item. If only three city files moved, the publisher ignores the repo tests: it is NOT on this PC (see SESSION_NOTES 2026-09-04 addendum for everything ruled out) and must be located (another computer? a chat-app scheduled task with a GitHub connector?) and rewritten to four cities.
 
 ## Decisions
 - id/folder/param `washington-dc`; display "Washington, DC"; dropdown "Greater Washington DC".

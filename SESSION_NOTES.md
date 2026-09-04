@@ -119,3 +119,19 @@ Everything. Four cities live at https://cincinnati-this-weekend-cincy.netlify.ap
   session's own edits; used Bash/node for repo writes instead.
 - preview_start read Desktop\.claude\launch.json (cwd), not the repo's; added a
   `weekend-static` entry there (tiny Node static server in the session scratchpad).
+
+### Addendum 2026-09-04 (later) — hunting the Wednesday publisher
+Checked, all VERIFIED: the 08-24, 08-26 and 09-02 commits are unsigned, author+committer
+arnoldshapiro-del (a plain local-identity git push, not the GitHub web UI). No copy of the
+repo on this PC made them (Desktop clone reflog empty on those days; the Codex checkout in
+Documents\Codex\2026-08-12 sits at 7ca0bfe and never committed after 08-23). The Codex app's
+own thread list shows its automation ran 08-26 09:01–09:20 and 09-02 11:27–11:41 and
+pushed nothing (memory.md agrees). Claude Code cloud routines: none for this repo. Codex
+cloud (chatgpt.com/codex/cloud, checked in Arnie's logged-in Chrome): no automations
+feature at all; only old May tasks in an unrelated repo. Claude local scheduled task runs
+Thursdays and has produced no commits. GitHub app installations could not be listed (403).
+CONCLUSION: the publisher runs somewhere else (another computer, or a scheduled task in
+a chat app with a GitHub connector). It reads the repo docs, which now say four cities, and
+`npm test` now fails on a three-city publish. NEXT MEASUREMENT: after Wed Sep 9 ~9:30 AM ET,
+look at the new commit on GitHub — if `data/washington-dc/` was refreshed, done; if only
+three cities moved, the publisher ignores the tests and must be found and rewritten.
