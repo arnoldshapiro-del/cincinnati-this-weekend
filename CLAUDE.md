@@ -1,6 +1,6 @@
 # This Weekend: multi-city guide
 
-One verified, human-curated weekend guide serves Cincinnati, Philadelphia, and Chicago through a city selector. Cincinnati remains the default. The live Git-backed Netlify site is https://cincinnati-this-weekend-cincy.netlify.app/.
+One verified, human-curated weekend guide serves Cincinnati, Philadelphia, Chicago, and Greater Washington DC (city id `washington-dc`: DC, Northern Virginia, suburban Maryland) through a city selector. Cincinnati remains the default. The live Git-backed Netlify site is https://cincinnati-this-weekend-cincy.netlify.app/.
 
 ## Stack and deployment
 
@@ -10,19 +10,19 @@ One verified, human-curated weekend guide serves Cincinnati, Philadelphia, and C
 
 ## One Wednesday publisher
 
-The only active scheduler should be `Publish This Weekend Cities`, every Wednesday at 9:00 AM America/New_York. It owns research for all three cities, archives, validation, browser checks, the `main` push, and exact Netlify verification. Do not create overlapping city-specific publishers.
+The only active scheduler should be `Publish This Weekend Cities`, every Wednesday at 9:00 AM America/New_York. It owns research for all four cities, archives, validation, browser checks, the `main` push, and exact Netlify verification. Do not create overlapping city-specific publishers.
 
 Follow `WEEKLY-REFRESH.md` completely. Every event needs a real date, venue, HTTPS source URL, and verification date. Use `Check source` when a price or time is unpublished; never guess.
 
 ## Safety rails
 
 - Run `npm test` before publication.
-- Each city requires at least 45 verified events, exactly ten featured picks, unique IDs, deduplication, and honest road-trip labels.
+- Each city (including `washington-dc`) requires at least 45 verified events, exactly ten featured picks, unique IDs, deduplication, and honest road-trip labels.
 - The service worker fetches all city edition files network-first.
 - Saved events, followed venues, notes, and plans are scoped by city in browser storage.
 - `events.js` and `data/current-weekend.json` are legacy Cincinnati snapshots and must not overwrite the city files.
 
-Current prepared editions: September 4–6, 2026; 52 verified events and exactly 10 featured picks in Cincinnati and Philadelphia, plus 50 verified events and exactly 10 featured picks in Chicago.
+Current prepared editions: September 4–6, 2026 in all four cities. Greater Washington DC was added on 2026-09-04 with its own `data/washington-dc/current-weekend.json`; every Wednesday publication must refresh all four city files in the same commit.
 
 ## Related app
 

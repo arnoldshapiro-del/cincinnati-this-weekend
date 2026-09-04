@@ -4,6 +4,7 @@ const editions = [
   ["cincinnati", new URL("../data/cincinnati/current-weekend.json", import.meta.url)],
   ["philadelphia", new URL("../data/philadelphia/current-weekend.json", import.meta.url)],
   ["chicago", new URL("../data/chicago/current-weekend.json", import.meta.url)],
+  ["washington-dc", new URL("../data/washington-dc/current-weekend.json", import.meta.url)],
 ];
 const requiredCity = ["id", "name", "regionLabel", "coreLabel", "guideName", "guideUrl"];
 const requiredWeekend = ["label", "shortLabel", "startDate", "endDate", "updatedAt", "timezone", "refreshTarget"];

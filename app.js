@@ -1,5 +1,5 @@
 const $=(s,r=document)=>r.querySelector(s);const $$=(s,r=document)=>[...r.querySelectorAll(s)];
-const CITY_CONFIG={cincinnati:{name:"Cincinnati",shortName:"Cincy",dataUrl:"./data/cincinnati/current-weekend.json"},philadelphia:{name:"Philadelphia",shortName:"Philly",dataUrl:"./data/philadelphia/current-weekend.json"},chicago:{name:"Chicago",shortName:"Chicago",dataUrl:"./data/chicago/current-weekend.json"}};
+const CITY_CONFIG={cincinnati:{name:"Cincinnati",shortName:"Cincy",dataUrl:"./data/cincinnati/current-weekend.json"},philadelphia:{name:"Philadelphia",shortName:"Philly",dataUrl:"./data/philadelphia/current-weekend.json"},chicago:{name:"Chicago",shortName:"Chicago",dataUrl:"./data/chicago/current-weekend.json"},"washington-dc":{name:"Washington, DC",shortName:"DC",dataUrl:"./data/washington-dc/current-weekend.json"}};
 const requestedCity=new URLSearchParams(location.search).get("city");
 const initialCity=CITY_CONFIG[requestedCity]?requestedCity:(CITY_CONFIG[localStorage.getItem("tw.city")]?localStorage.getItem("tw.city"):"cincinnati");
 const parseStored=(key,fallback)=>{try{return JSON.parse(localStorage.getItem(key)??JSON.stringify(fallback))}catch{return fallback}};

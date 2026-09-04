@@ -1,7 +1,7 @@
 import { readFile } from "node:fs/promises";
 
 const root = new URL("../", import.meta.url);
-const [html, css, js, manifest, sw, cincinnati, philadelphia, chicago] = await Promise.all([
+const [html, css, js, manifest, sw, cincinnati, philadelphia, chicago, washingtonDc] = await Promise.all([
   readFile(new URL("index.html", root), "utf8"),
   readFile(new URL("styles.css", root), "utf8"),
   readFile(new URL("app.js", root), "utf8"),
@@ -10,12 +10,13 @@ const [html, css, js, manifest, sw, cincinnati, philadelphia, chicago] = await P
   readFile(new URL("data/cincinnati/current-weekend.json", root), "utf8").then(JSON.parse),
   readFile(new URL("data/philadelphia/current-weekend.json", root), "utf8").then(JSON.parse),
   readFile(new URL("data/chicago/current-weekend.json", root), "utf8").then(JSON.parse),
+  readFile(new URL("data/washington-dc/current-weekend.json", root), "utf8").then(JSON.parse),
 ]);
-const cityData = [cincinnati, philadelphia, chicago];
+const cityData = [cincinnati, philadelphia, chicago, washingtonDc];
 
 const checks = [
-  [html.includes('id="city-select"') && html.includes('value="cincinnati"') && html.includes('value="philadelphia"') && html.includes('value="chicago"') && !html.includes('value="chicago" disabled'), "working three-city selector"],
-  [js.includes("data/cincinnati/current-weekend.json") && js.includes("data/philadelphia/current-weekend.json") && js.includes("data/chicago/current-weekend.json"), "independent city data loaders"],
+  [html.includes('id="city-select"') && html.includes('value="cincinnati"') && html.includes('value="philadelphia"') && html.includes('value="chicago"') && html.includes('value="washington-dc"') && !html.includes('value="chicago" disabled') && !html.includes('value="washington-dc" disabled'), "working four-city selector"],
+  [js.includes("data/cincinnati/current-weekend.json") && js.includes("data/philadelphia/current-weekend.json") && js.includes("data/chicago/current-weekend.json") && js.includes("data/washington-dc/current-weekend.json"), "independent city data loaders"],
   [js.includes('searchParams.set("city"') && js.includes("switchCity"), "shareable city URL and city switching"],
   [js.includes("tw.${state.city}.favorites") && js.includes("tw.${state.city}.plan"), "city-scoped device persistence"],
   [html.includes('id="search-input"'), "search control"],
