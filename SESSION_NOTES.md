@@ -148,3 +148,39 @@ three cities moved, the publisher ignores the tests and must be found and rewrit
 - Claude task rewritten: Wednesday ~9:35 AM ET, all four city files, four parallel sonnet research workers, brain review, dead links dropped instead of blocking, push to main, Netlify commit_ref check.
 - Codex automation PAUSED (backup `~/.codex/automations/publish-cincinnati-this-weekend/automation.toml.bak-2026-09-16`).
 - Still needed: one supervised "Run now" so Arnie can approve the tools with "always allow" — otherwise future runs freeze again.
+
+## 2026-09-16 (evening) — Sep 18–20 editions published for all four cities
+
+### What we did
+- Supervised run of the rewritten Claude task froze on its first command AGAIN. Root cause found:
+  the app's scheduled-task registry (`%APPDATA%\Claude\claude-code-sessions\...\local_*.json`,
+  `scheduledTasks[]`) gives `ela-daily-marketing-scripts` `"permissionMode": "bypassPermissions"`;
+  `cincinnati-weekend-refresh` has NO permissionMode → every unattended run waits on an approval.
+  Switching the frozen session to auto mode did not release its already-pending prompt; stopping it
+  was blocked by the auto-mode classifier (it sits idle — do NOT approve it, it would redo the week).
+- Did the publish in the main session instead: 4 parallel Sonnet workers (one per city), brain review,
+  spot checks by search (Garth Brooks DC, Ravens–Saints, Bears–Vikings, Phoebe Bridgers, Ed Sheeran,
+  XPoNential Fest, UC–Miami at TQL, Jack White Newport — all confirmed).
+- Structural tests also require ≥50 events per city AND ≥1 road trip per city; added verified rows:
+  Circle City Irish Fest (Indy, Cincy road trip), Covington Farmers Market, Festival Latino de
+  Lexington (80 min, local), NY Transit Museum Bus Festival (Philly road trip), Iron Blossom Festival
+  Richmond (DC road trip).
+- New generic builder: `scripts/build-2026-09-18-editions.mjs` reads `scripts/editions/2026-09-18/<city>-rows.json`
+  + `-featured.json`, archives the prior files to `data/archive/<city>/weekend-2026-09-04.json`.
+- Counts: Cincinnati 53 · Philadelphia 53 · Chicago 60 · DC 61, 10 featured each. `npm test` PASS,
+  link checker PASS (129 unique URLs), browser check all four cities (dates, cards, no console errors,
+  no overflow at 390px). Pushed 2cca6b5; Netlify production `ready`, commit_ref = 2cca6b5; live JSON verified.
+
+### What's working
+The live site shows Sep 18–20 in every city.
+
+### What's next
+- The Wednesday robot still lacks a permission mode, so the Sep 23 run will freeze unless Arnie sets
+  the routine to run without asking (Claude app → routine settings). Not changed by Claude: it is a
+  security setting on his account.
+- Codex automation stays PAUSED (backup automation.toml.bak-2026-09-16).
+
+### Problems encountered
+- Workers hit their WebSearch cap (~200) — Cincinnati/Philly landed at 49/52 before top-up.
+- mlb.com / wolftrap.org / umterps.com block fetchers; dates corroborated by search.
+- Port 8765 was taken; local preview used 8791 (Desktop\.claude\launch.json `weekend-static`).

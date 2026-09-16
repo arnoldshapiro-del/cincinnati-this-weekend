@@ -1,33 +1,20 @@
 # CONTINUE — cincinnati-this-weekend
 
-**Date:** 2026-09-04 · **State:** FINISHED and deployed (bafc16e).
-
-## Task
-Add Greater Washington DC as a fourth city in the existing dropdown; no other changes;
-it refreshes every Wednesday with the others.
-
-## Completed
-- Four-city selector live at https://cincinnati-this-weekend-cincy.netlify.app/
-  (`?city=washington-dc`). 60 verified DC events for Sep 4–6, 2026, 10 featured.
-- Validator, tests, checker, docs and the Wednesday operating model all say four cities.
+**Date:** 2026-09-16 · **State:** Sep 18–20 editions LIVE in all four cities (2cca6b5).
 
 ## What remains
-1. Confirm the real Wednesday publisher. Commits on 08-26 and 09-02 (Wed ~9:30 AM ET)
-   came from a publisher not found on this PC. Check Arnie's Codex/ChatGPT automations
-   for "Publish This Weekend Cities" and make sure its prompt names all four city files
-   (`data/<city>/current-weekend.json`, city = cincinnati · philadelphia · chicago ·
-   washington-dc). The repo's tests already refuse a three-city publish.
-2. After Wed Sep 9 ~9:30 AM ET: open the newest commit on GitHub. If `data/washington-dc/current-weekend.json` carries the Sep 11–13 edition, the publisher honours four cities — close this item. If only three city files moved, the publisher ignores the repo tests: it is NOT on this PC (see SESSION_NOTES 2026-09-04 addendum for everything ruled out) and must be located (another computer? a chat-app scheduled task with a GitHub connector?) and rewritten to four cities.
+1. **Wednesday robot permission.** Claude scheduled task `cincinnati-weekend-refresh`
+   ("This Weekend — Wednesday four-city publish", Wed ~9:35 AM ET) is the only publisher, but its
+   app registry entry has no `permissionMode`, so unattended runs freeze on the first command.
+   Arnie sets it (routine settings in the Claude app) to run without asking, like Ela's daily task.
+   Until then each Wednesday needs a person — or run the publish in a session as on 2026-09-16.
+2. Next edition: Sep 25–27 (run Wed Sep 23). Copy `scripts/build-2026-09-18-editions.mjs` to the new
+   Friday date; rows go in `scripts/editions/<friday>/<city>-rows.json` + `-featured.json`.
 
-## Decisions
-- id/folder/param `washington-dc`; display "Washington, DC"; dropdown "Greater Washington DC".
-- Per-edition rows + featured ids live in `scripts/washington-dc-<date>-rows.json` /
-  `-featured.json`; `scripts/build-washington-dc-<date>-edition.mjs` assembles and archives.
-
-## Gotchas
-- kennedy-center.org returns 403 to fetchers; the link checker treats 403 as reachable.
-- Lancaster PA is ~135 min from DC — beyond the 120-minute road-trip cap.
+## Rules learned
+- Tests need ≥50 events AND ≥1 road trip (91–120 min) in EVERY city, exactly 10 featured.
+- Codex automation is PAUSED — it never published in 4 runs; don't re-enable.
+- A frozen old robot session "This Weekend — Wednesday four-city publish" (09-16) sits idle — never approve it.
 
 ## Resume prompt
-"Back to cincinnati-this-weekend — read docs/CONTINUE-cincinnati-this-weekend.md and
-SESSION_NOTES.md (2026-09-04 entry) first."
+"Back to the weekend app — read docs/CONTINUE-cincinnati-this-weekend.md and the newest SESSION_NOTES.md entry."
