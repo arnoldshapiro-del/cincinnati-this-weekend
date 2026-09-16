@@ -10,7 +10,7 @@ One verified, human-curated weekend guide serves Cincinnati, Philadelphia, Chica
 
 ## One Wednesday publisher
 
-The only active scheduler should be `Publish This Weekend Cities`, every Wednesday at 9:00 AM America/New_York. It owns research for all four cities, archives, validation, browser checks, the `main` push, and exact Netlify verification. Do not create overlapping city-specific publishers.
+The only active scheduler is the Claude desktop scheduled task `cincinnati-weekend-refresh` ("This Weekend — Wednesday four-city publish"), every Wednesday ~9:35 AM America/New_York (runs while the Claude app is open; a missed run fires at next launch). The Codex automation `publish-cincinnati-this-weekend` was PAUSED 2026-09-16 after four runs that never published. It owns research for all four cities, archives, validation, browser checks, the `main` push, and exact Netlify verification. Do not create overlapping city-specific publishers.
 
 Follow `WEEKLY-REFRESH.md` completely. Every event needs a real date, venue, HTTPS source URL, and verification date. Use `Check source` when a price or time is unpublished; never guess.
 

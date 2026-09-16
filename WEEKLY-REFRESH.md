@@ -22,7 +22,7 @@ Target: every Wednesday at 9:00 AM America/New_York for the coming Friday–Sund
 7. Replace all four city files and run `npm test`. Verify all four selector choices in a narrow and wide browser view.
 8. Push one commit to `main`, wait for the Git-backed Netlify production deployment, and verify its `commit_ref` equals the pushed Git SHA before reporting success.
 
-The only scheduler should be the standalone Codex task `Publish This Weekend Cities`. Do not create overlapping Cincinnati-only, Philadelphia-only, Claude app-open, or thread-heartbeat publishers.
+The only scheduler is the Claude desktop scheduled task `cincinnati-weekend-refresh` (Wednesday ~9:35 AM ET, all four cities, one sonnet research worker per city, brain review, one commit). The Codex automation is PAUSED (2026-09-16). Do not create overlapping publishers.
 
 ## Source ladder
 

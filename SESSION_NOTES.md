@@ -135,3 +135,16 @@ a chat app with a GitHub connector). It reads the repo docs, which now say four 
 `npm test` now fails on a three-city publish. NEXT MEASUREMENT: after Wed Sep 9 ~9:30 AM ET,
 look at the new commit on GitHub — if `data/washington-dc/` was refreshed, done; if only
 three cities moved, the publisher ignores the tests and must be found and rewritten.
+
+## 2026-09-16 — Why the Wednesday update stopped, and the repair
+
+### What was wrong (verified)
+- Last real publish: Sep 4 (Sep 4–6 editions). Sep 9 and Sep 16 were missed; the live site shows the expired notice.
+- Codex automation `publish-cincinnati-this-weekend` ran Aug 26, Sep 2, Sep 9, Sep 16 and NEVER published (its own memory.md): Git certificate failures on this PC, a browser check it is never allowed to run, a link checker that blocks on any single dead URL, and 4 cities × 45 verified events too much for one run. Sep 16 it researched but stopped short.
+- Claude task `cincinnati-weekend-refresh` (Thu, Cincinnati-only, pre-multi-city file path) started 4 times and each run froze on its very first command — waiting for a permission approval nobody was there to click.
+- The unknown publisher behind the Aug 26 / Sep 2 commits never produced a four-city edition after DC was added.
+
+### Repair
+- Claude task rewritten: Wednesday ~9:35 AM ET, all four city files, four parallel sonnet research workers, brain review, dead links dropped instead of blocking, push to main, Netlify commit_ref check.
+- Codex automation PAUSED (backup `~/.codex/automations/publish-cincinnati-this-weekend/automation.toml.bak-2026-09-16`).
+- Still needed: one supervised "Run now" so Arnie can approve the tools with "always allow" — otherwise future runs freeze again.
