@@ -202,3 +202,10 @@ The live site shows Sep 18–20 in every city.
 - Local browser: all four city views showed Sep 25–27 and the expected counts with 10 featured; no console errors; no horizontal overflow at phone width. The refresh button's update, no-update, and network-error paths were exercised in a local test fixture.
 - Release still requires a push to `main`, a Netlify production deploy with `ready`, `manual_deploy=false`, and matching non-null `commit_ref`, plus live four-city JSON and homepage readback. These checks are not implied by local tests.
 - Next scheduled run targets Wednesday Sep 30 for the Oct 2–4 edition. Verify that unattended run separately. Codex automation stays paused.
+
+## 2026-09-25 — Place refresh button in the first screen
+
+- Follow-up from Arnie's screenshot: the Sep 25–27 edition is live, but the existing refresh button was below the listings and invisible in the initial viewport.
+- Moved the same `#refresh-button` into the hero next to “See all verified events”; retained its existing handler and added a brass outline for visibility. Removed its old bottom placement.
+- Local proof: `npm test` passed (four city validators and 37 structural checks); browser showed the button within a 1280×720 and 390×844 viewport with no horizontal overflow or console errors; clicking it reported the latest Cincinnati edition.
+- Publish this small change through `main` and confirm the Git-backed Netlify production commit and live button.
