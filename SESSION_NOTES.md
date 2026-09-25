@@ -209,3 +209,10 @@ The live site shows Sep 18–20 in every city.
 - Moved the same `#refresh-button` into the hero next to “See all verified events”; retained its existing handler and added a brass outline for visibility. Removed its old bottom placement.
 - Local proof: `npm test` passed (four city validators and 37 structural checks); browser showed the button within a 1280×720 and 390×844 viewport with no horizontal overflow or console errors; clicking it reported the latest Cincinnati edition.
 - Publish this small change through `main` and confirm the Git-backed Netlify production commit and live button.
+
+## 2026-09-25 — Clarify weekend refresh wording
+
+- Arnie correctly noted that “Check for new edition” sounded like an app-version update. The control actually fetches the selected city's latest published weekend event JSON and loads a newer date or update timestamp.
+- Changed the hero and expired-list button labels to “Refresh weekend events” and changed result/error messages to describe weekend listings. No event data or refresh scheduling changed.
+- The prior hero-button release was live on Git-backed Netlify commit `2a1006cfa5a22581ba7b5e5c20bc3da91b4c0b4c`. Local proof for this wording change: `npm test` passed (55/64/60/58 events and 37 structural checks); browser showed Sep 25–27, the new label, and “latest published Cincinnati weekend events (Sep 25–27)” after a click, with no console errors.
+- Publish through `main`, verify matching ready Git-backed Netlify production commit and live text. Next unattended Wednesday publishing run remains unverified until September 30.
