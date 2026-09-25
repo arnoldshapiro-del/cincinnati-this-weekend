@@ -1,20 +1,15 @@
 # CONTINUE — cincinnati-this-weekend
 
-**Date:** 2026-09-16 · **State:** Sep 18–20 editions LIVE in all four cities (2cca6b5).
+**Date:** 2026-09-25 · **Edition source:** Sep 25–27, 2026 prepared for Git-linked production release. Read the latest `SESSION_NOTES.md` entry and verify the live site/commit before treating it as deployed.
 
-## What remains
-1. **Wednesday robot permission.** Claude scheduled task `cincinnati-weekend-refresh`
-   ("This Weekend — Wednesday four-city publish", Wed ~9:35 AM ET) is the only publisher, but its
-   app registry entry has no `permissionMode`, so unattended runs freeze on the first command.
-   Arnie sets it (routine settings in the Claude app) to run without asking, like Ela's daily task.
-   Until then each Wednesday needs a person — or run the publish in a session as on 2026-09-16.
-2. Next edition: Sep 25–27 (run Wed Sep 23). Copy `scripts/build-2026-09-18-editions.mjs` to the new
-   Friday date; rows go in `scripts/editions/<friday>/<city>-rows.json` + `-featured.json`.
+## Current workflow
+1. The Claude desktop task `cincinnati-weekend-refresh` is the only weekly publisher. It targets Wednesday 9:35 AM Eastern for all four cities. Arnie authorized unattended execution on Sep 25; only this task's registry record now has `permissionMode: bypassPermissions`. The Sep 30 run will be the first real unattended proof.
+2. The Codex automation `publish-cincinnati-this-weekend` remains PAUSED. Do not enable a second publisher.
+3. Each city needs at least 50 verified event-day cards, exactly 10 featured picks, and a 91–120-minute road trip. The archived prior edition is Sep 18–20. Source inputs and the dated builder live under `scripts/editions/2026-09-25/` and `scripts/build-2026-09-25-editions.mjs`.
+4. Run `npm test`, `node --use-system-ca scripts/check-source-links.mjs`, browser QA, then push `main`. Confirm Netlify production `ready`, `manual_deploy=false`, and `commit_ref` equal to the final pushed SHA; read back all four live JSON files and homepage.
 
-## Rules learned
-- Tests need ≥50 events AND ≥1 road trip (91–120 min) in EVERY city, exactly 10 featured.
-- Codex automation is PAUSED — it never published in 4 runs; don't re-enable.
-- A frozen old robot session "This Weekend — Wednesday four-city publish" (09-16) sits idle — never approve it.
+## User-facing behavior
+The site shows the edition's actual dates. The new "Check for new edition" button requests fresh data and reports when the publisher has not released a newer edition; it does not generate events. Expired editions remain visibly marked. Listings without a published start time cannot be exported to a calendar with an invented time.
 
 ## Resume prompt
-"Back to the weekend app — read docs/CONTINUE-cincinnati-this-weekend.md and the newest SESSION_NOTES.md entry."
+"Back to the weekend app — read docs/CONTINUE-cincinnati-this-weekend.md and the newest SESSION_NOTES.md entry. Check the current live site and Git commit first."

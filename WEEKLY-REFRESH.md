@@ -11,7 +11,7 @@ A Wednesday publication replaces all four files in one tested Git commit.
 
 ## Scheduled Wednesday workflow
 
-Target: every Wednesday at 9:00 AM America/New_York for the coming Friday–Sunday.
+Target: every Wednesday at 9:35 AM America/New_York for the coming Friday–Sunday.
 
 1. Archive each prior file under `data/archive/<city>/weekend-YYYY-MM-DD.json`.
 2. Research Cincinnati/Northern Kentucky, Philadelphia, Chicago, and Greater Washington DC (DC, Northern Virginia, suburban Maryland) independently, using primary organizer, venue, team, government, park, museum, festival, and official ticket pages.

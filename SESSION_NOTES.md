@@ -184,3 +184,21 @@ The live site shows Sep 18–20 in every city.
 - Workers hit their WebSearch cap (~200) — Cincinnati/Philly landed at 49/52 before top-up.
 - mlb.com / wolftrap.org / umterps.com block fetchers; dates corroborated by search.
 - Port 8765 was taken; local preview used 8791 (Desktop\.claude\launch.json `weekend-static`).
+
+## 2026-09-25 — Sep 25–27 repair and four-city edition
+
+### Goal and decision
+- Repair the missed weekly update, publish current Sep 25–27 event data in all four cities, and add a useful manual refresh control. Preserve the existing site and Git-linked Netlify path.
+- Sep 23 Claude run stopped before the first shell command completed because the task used an approval-prompt permission mode. Arnie explicitly approved unattended execution for this publisher. Backed up the task and scheduler record, then set only this task to `bypassPermissions`. Updated its instructions to fast-forward Git safely, use the Windows trusted CA, require 50 events plus one road trip per city, and include the handoff in one commit. The next unattended run has not yet occurred.
+
+### Changed files
+- `app.js`, `index.html`, `styles.css`, `sw.js`: add a visible "Check for new edition" control with a real uncached data request, clear no-update/error feedback, a service-worker cache fix, and a guard against calendar exports when an organizer has not published a time.
+- `WEEKLY-REFRESH.md`: align the displayed target with Wednesday 9:35 AM Eastern.
+- `scripts/build-2026-09-25-editions.mjs` and `scripts/editions/2026-09-25/*-candidates.json`: source-backed four-city edition inputs. Current JSON files contain Cincinnati 55, Philadelphia 64, Chicago 60, and Greater Washington DC 58 event-day cards; exactly 10 featured and at least one 91–120-minute road trip in each city. Archived the Sep 18–20 current files under `data/archive/`.
+- Excluded a sold-out Sara Bareilles concert and a sold-out Philadelphia race, corrected a Chicago performer credit, and changed two Philadelphia source links to the Flyers' official schedule.
+
+### Verification and remaining proof
+- `npm test` passed: four data validators and 37 structural product checks. The link checker passed all 120 unique current-edition source URLs using the Windows trusted CA.
+- Local browser: all four city views showed Sep 25–27 and the expected counts with 10 featured; no console errors; no horizontal overflow at phone width. The refresh button's update, no-update, and network-error paths were exercised in a local test fixture.
+- Release still requires a push to `main`, a Netlify production deploy with `ready`, `manual_deploy=false`, and matching non-null `commit_ref`, plus live four-city JSON and homepage readback. These checks are not implied by local tests.
+- Next scheduled run targets Wednesday Sep 30 for the Oct 2–4 edition. Verify that unattended run separately. Codex automation stays paused.

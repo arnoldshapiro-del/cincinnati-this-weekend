@@ -11,10 +11,10 @@
 
 .stale-banner{position:sticky;top:72px;z-index:35;background:#7d2b25;color:#fff;padding:14px clamp(18px,5vw,70px);display:flex;justify-content:center;gap:18px;align-items:center;text-align:left;font-size:13px;box-shadow:0 8px 24px rgba(40,8,5,.25)}
 .stale-banner b{font-family:Lora,Georgia,serif;font-size:16px}
-.stale-banner span{max-width:760px;line-height:1.5}
+.stale-banner span{max-width:760px;line-height:1.5}.stale-refresh-button{flex-shrink:0;background:var(--brass);color:var(--navy);border:0;padding:10px 13px;font:700 12px Inter,sans-serif;cursor:pointer}.stale-refresh-button:focus-visible,.freshness-actions button:focus-visible{outline:2px solid #fff;outline-offset:3px}.stale-refresh-button:disabled,.freshness-actions button:disabled{opacity:.65;cursor:wait}
 html[data-edition-status="stale"] .editors-section,html[data-edition-status="stale"] .events-section{filter:grayscale(.65)}
 html[data-edition-status="stale"] .event-card:before{content:"ENDED";position:absolute;right:18px;top:62px;color:var(--red);font-size:10px;font-weight:800;letter-spacing:.14em}
-@media(max-width:620px){.stale-banner{top:62px;display:grid;gap:4px}}
+@media(max-width:620px){.stale-banner{top:62px;display:grid;gap:8px}.stale-refresh-button{justify-self:start}}
 
 .wordmark b #brand-city{width:auto;height:auto;border:0;border-radius:0;display:inline;font:inherit;color:inherit}
 .city-switcher{display:grid;gap:3px;min-width:150px}

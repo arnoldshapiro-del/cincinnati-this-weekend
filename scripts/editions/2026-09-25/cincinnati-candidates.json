@@ -1,0 +1,576 @@
+[
+  {
+    "title": "Cincinnati Comic Expo",
+    "dates": [
+      "2026-09-25",
+      "2026-09-26",
+      "2026-09-27"
+    ],
+    "time": "See official schedule",
+    "venue": "First Financial Center",
+    "neighborhood": "Downtown",
+    "address": "525 Elm St, Cincinnati, OH 45202",
+    "category": "Festivals",
+    "priceValue": null,
+    "priceLabel": "Ticketed; check organizer",
+    "travelMinutes": 0,
+    "age": "All ages",
+    "description": "Three days of comics, creators, cosplay and pop culture programming at the downtown convention center; check the organizer schedule before choosing a day.",
+    "sourceName": "Cincinnati Comic Expo",
+    "sourceUrl": "https://www.cincyexpos.com/app",
+    "featuredCandidate": true,
+    "times": {
+      "2026-09-25": "3:00 PM–8:00 PM",
+      "2026-09-26": "10:00 AM–7:00 PM",
+      "2026-09-27": "10:00 AM–5:00 PM"
+    }
+  },
+  {
+    "title": "Factory 52 Oktoberfest",
+    "dates": [
+      "2026-09-25",
+      "2026-09-26",
+      "2026-09-27"
+    ],
+    "time": "See official schedule",
+    "venue": "Braxton Factory 52",
+    "neighborhood": "Norwood",
+    "address": "4600 Beech St, Norwood, OH 45212",
+    "category": "Food & drink",
+    "priceValue": null,
+    "priceLabel": "Admission and purchases: check brewery",
+    "travelMinutes": 0,
+    "age": "All ages",
+    "description": "Braxton brings its Oktoberfest celebration to Factory 52 through Sunday, with beer, food and seasonal festivities across the development.",
+    "sourceName": "Braxton Brewing",
+    "sourceUrl": "https://braxtonbrewing.com/",
+    "featuredCandidate": true
+  },
+  {
+    "title": "Greater Cincinnati Restaurant Week",
+    "dates": [
+      "2026-09-25",
+      "2026-09-26",
+      "2026-09-27"
+    ],
+    "time": "See official schedule",
+    "venue": "Participating restaurants",
+    "neighborhood": "Cincinnati region",
+    "address": "Various locations, Cincinnati, OH",
+    "category": "Food & drink",
+    "priceValue": null,
+    "priceLabel": "Prix fixe menus; check restaurant",
+    "travelMinutes": 0,
+    "age": "All ages",
+    "description": "The regionwide restaurant week runs September 21 through 27 at participating restaurants; choose a current menu and reserve directly with the restaurant.",
+    "sourceName": "Greater Cincinnati Restaurant Week",
+    "sourceUrl": "https://www.greatercincinnatirestaurantweek.com/",
+    "featuredCandidate": false
+  },
+  {
+    "title": "Corner of the Sky: The Songs of Stephen Schwartz",
+    "dates": [
+      "2026-09-25",
+      "2026-09-26",
+      "2026-09-27"
+    ],
+    "time": "See official schedule",
+    "venue": "Ensemble Theatre Cincinnati",
+    "neighborhood": "Over-the-Rhine",
+    "address": "1127 Vine St, Cincinnati, OH 45202",
+    "category": "Theater",
+    "priceValue": null,
+    "priceLabel": "Ticketed; check box office",
+    "travelMinutes": 0,
+    "age": "All ages",
+    "description": "This world premiere musical revue celebrates Stephen Schwartz songs from stage and screen, with performances Friday, Saturday and Sunday.",
+    "sourceName": "Ensemble Theatre Cincinnati",
+    "sourceUrl": "https://ensemblecincinnati.org/calendar/corner-of-the-sky/",
+    "featuredCandidate": true,
+    "times": {
+      "2026-09-25": "7:30 PM",
+      "2026-09-26": "Multiple performances; see source",
+      "2026-09-27": "2:00 PM"
+    }
+  },
+  {
+    "title": "The Great Gatsby",
+    "dates": [
+      "2026-09-25",
+      "2026-09-26",
+      "2026-09-27"
+    ],
+    "time": "See official schedule",
+    "venue": "Aronoff Center",
+    "neighborhood": "Downtown",
+    "address": "650 Walnut St, Cincinnati, OH 45202",
+    "category": "Theater",
+    "priceValue": null,
+    "priceLabel": "Ticketed; check box office",
+    "travelMinutes": 0,
+    "age": "All ages",
+    "description": "The Broadway musical adaptation of The Great Gatsby closes its Cincinnati run on Sunday, with several weekend performances at the Aronoff.",
+    "sourceName": "Cincinnati Arts Association",
+    "sourceUrl": "https://www.cincinnatiarts.org/events/all",
+    "featuredCandidate": true,
+    "times": {
+      "2026-09-25": "7:30 PM",
+      "2026-09-26": "Multiple performances; see source",
+      "2026-09-27": "Multiple performances; see source"
+    }
+  },
+  {
+    "title": "Network",
+    "dates": [
+      "2026-09-25",
+      "2026-09-26"
+    ],
+    "time": "See official schedule",
+    "venue": "Otto M. Budig Theater",
+    "neighborhood": "Over-the-Rhine",
+    "address": "1195 Elm St, Cincinnati, OH 45202",
+    "category": "Theater",
+    "priceValue": null,
+    "priceLabel": "Ticketed; check box office",
+    "travelMinutes": 0,
+    "age": "All ages",
+    "description": "Cincinnati Shakespeare Company stages the acclaimed adaptation of Network, with Friday and Saturday performances closing the run.",
+    "sourceName": "Cincinnati Shakespeare Company",
+    "sourceUrl": "https://cincyshakes.com/on-stage/network",
+    "featuredCandidate": false,
+    "times": {
+      "2026-09-25": "7:30 PM",
+      "2026-09-26": "Multiple performances; see source"
+    }
+  },
+  {
+    "title": "Heist",
+    "dates": [
+      "2026-09-25",
+      "2026-09-26",
+      "2026-09-27"
+    ],
+    "time": "See official schedule",
+    "venue": "Cincinnati Playhouse in the Park",
+    "neighborhood": "Mount Adams",
+    "address": "962 Mount Adams Cir, Cincinnati, OH 45202",
+    "category": "Theater",
+    "priceValue": null,
+    "priceLabel": "Ticketed; check box office",
+    "travelMinutes": 0,
+    "age": "All ages",
+    "description": "The Playhouse presents a theatrical caper built around one last job, theatrical effects and an unraveling plan during its September run.",
+    "sourceName": "Cincinnati Playhouse in the Park",
+    "sourceUrl": "https://www.cincyplay.com/productions/Heist",
+    "featuredCandidate": false
+  },
+  {
+    "title": "Underwater Pumpkin GLOW",
+    "dates": [
+      "2026-09-25",
+      "2026-09-26",
+      "2026-09-27"
+    ],
+    "time": "See official schedule",
+    "venue": "Newport Aquarium",
+    "neighborhood": "Newport",
+    "address": "1 Levee Way, Newport, KY 41071",
+    "category": "Family",
+    "priceValue": null,
+    "priceLabel": "Included with aquarium admission",
+    "travelMinutes": 0,
+    "age": "All ages",
+    "description": "Newport Aquarium fills its galleries with illuminated pumpkin sculptures and seasonal animal enrichment during this indoor fall event.",
+    "sourceName": "Newport Aquarium",
+    "sourceUrl": "https://www.newportaquarium.com/things-to-do/aquarium-events/pumpkin-glow/",
+    "featuredCandidate": true
+  },
+  {
+    "title": "Fall on the Farm",
+    "dates": [
+      "2026-09-25",
+      "2026-09-26",
+      "2026-09-27"
+    ],
+    "time": "See official schedule",
+    "venue": "Blooms & Berries Farm Market",
+    "neighborhood": "Loveland",
+    "address": "9669 S State Route 48, Loveland, OH 45140",
+    "category": "Family",
+    "priceValue": null,
+    "priceLabel": "Ticketed; check farm",
+    "travelMinutes": 0,
+    "age": "All ages",
+    "description": "The farm opens its fall attractions daily from 9 a.m. to 7 p.m. through November 1, with seasonal activities and farm market shopping.",
+    "sourceName": "Blooms & Berries",
+    "sourceUrl": "https://bloomsandberries.com/calendar/",
+    "featuredCandidate": false,
+    "times": {
+      "2026-09-25": "9:00 AM–7:00 PM",
+      "2026-09-26": "9:00 AM–7:00 PM",
+      "2026-09-27": "9:00 AM–7:00 PM"
+    }
+  },
+  {
+    "title": "LEGO Jurassic World: The Exhibition",
+    "dates": [
+      "2026-09-25",
+      "2026-09-26",
+      "2026-09-27"
+    ],
+    "time": "See official schedule",
+    "venue": "Cincinnati Museum Center",
+    "neighborhood": "Queensgate",
+    "address": "1301 Western Ave, Cincinnati, OH 45203",
+    "category": "Family",
+    "priceValue": null,
+    "priceLabel": "Exhibition ticket required",
+    "travelMinutes": 0,
+    "age": "All ages",
+    "description": "Explore full-size dinosaur creations, film scenes and hands-on building activities made with more than six million LEGO bricks.",
+    "sourceName": "Cincinnati Museum Center",
+    "sourceUrl": "https://www.cincymuseum.org/jurassic-world/",
+    "featuredCandidate": false
+  },
+  {
+    "title": "Yayoi Kusama: All the Eternal Love I Have for the Pumpkins",
+    "dates": [
+      "2026-09-25",
+      "2026-09-26",
+      "2026-09-27"
+    ],
+    "time": "See official schedule",
+    "venue": "Cincinnati Art Museum",
+    "neighborhood": "Eden Park",
+    "address": "953 Eden Park Dr, Cincinnati, OH 45202",
+    "category": "Arts",
+    "priceValue": null,
+    "priceLabel": "Timed ticket required; Friday evening free with reservation",
+    "travelMinutes": 0,
+    "age": "All ages",
+    "description": "The mirrored pumpkin installation is open through October 18; reserve a timed entry, including for Friday evening Art After Dark access.",
+    "sourceName": "Cincinnati Art Museum",
+    "sourceUrl": "https://www.cincinnatiartmuseum.org/art/exhibitions/yayoi-kusama-all-the-eternal-love-i-have-for-the-pumpkins/",
+    "featuredCandidate": true,
+    "times": {
+      "2026-09-25": "Timed admission; Friday Art After Dark also available",
+      "2026-09-26": "11:00 AM–5:00 PM; timed ticket",
+      "2026-09-27": "11:00 AM–5:00 PM; timed ticket"
+    }
+  },
+  {
+    "title": "JMR's Orchestral Canvas",
+    "dates": [
+      "2026-09-25",
+      "2026-09-26",
+      "2026-09-27"
+    ],
+    "time": "See official schedule",
+    "venue": "Cincinnati Music Hall",
+    "neighborhood": "Over-the-Rhine",
+    "address": "1241 Elm St, Cincinnati, OH 45202",
+    "category": "Music",
+    "priceValue": null,
+    "priceLabel": "Ticketed; check orchestra",
+    "travelMinutes": 0,
+    "age": "All ages",
+    "description": "John Morris Russell and the Cincinnati Pops pair orchestral music with Lightborne visual projections in three Music Hall performances.",
+    "sourceName": "Cincinnati Arts Association",
+    "sourceUrl": "https://www.cincinnatiarts.org/music-hall",
+    "featuredCandidate": true,
+    "times": {
+      "2026-09-25": "7:30 PM",
+      "2026-09-26": "7:30 PM",
+      "2026-09-27": "2:00 PM"
+    }
+  },
+  {
+    "title": "Ohio Renaissance Festival",
+    "dates": [
+      "2026-09-27"
+    ],
+    "time": "See official schedule",
+    "venue": "Ohio Renaissance Festival",
+    "neighborhood": "Waynesville",
+    "address": "10542 State Route 73, Waynesville, OH 45068",
+    "category": "Festivals",
+    "priceValue": null,
+    "priceLabel": "Sunday tickets available; Saturday sold out",
+    "travelMinutes": 55,
+    "age": "All ages",
+    "description": "The fall Renaissance festival offers live stages, jousting, vendors and food on Sunday; the organizer reports Saturday tickets sold out.",
+    "sourceName": "Ohio Renaissance Festival",
+    "sourceUrl": "https://renfestival.com/the-event/",
+    "featuredCandidate": false,
+    "times": {
+      "2026-09-27": "10:30 AM–7:00 PM"
+    }
+  },
+  {
+    "title": "CliftonFest Art and Music Festival",
+    "dates": [
+      "2026-09-26"
+    ],
+    "time": "12:00 PM–11:00 PM",
+    "venue": "Clifton Gaslight District",
+    "neighborhood": "Clifton",
+    "address": "Ludlow Ave, Cincinnati, OH 45220",
+    "category": "Festivals",
+    "priceValue": 0,
+    "priceLabel": "Free admission",
+    "travelMinutes": 0,
+    "age": "All ages",
+    "description": "CliftonFest fills the Gaslight District with live music, local art, food vendors and community activities from noon until 11 p.m.",
+    "sourceName": "Clifton Cultural Arts Center",
+    "sourceUrl": "https://cliftonculturalarts.org/cliftonfest/",
+    "featuredCandidate": true,
+    "times": {
+      "2026-09-26": "12:00 PM–11:00 PM"
+    }
+  },
+  {
+    "title": "Cincinnati Moon Festival",
+    "dates": [
+      "2026-09-26"
+    ],
+    "time": "2:00–7:00 PM",
+    "venue": "Fountain Square",
+    "neighborhood": "Downtown",
+    "address": "520 Vine St, Cincinnati, OH 45202",
+    "category": "Festivals",
+    "priceValue": 0,
+    "priceLabel": "Free admission; food extra",
+    "travelMinutes": 0,
+    "age": "All ages",
+    "description": "The Moon Festival celebrates Asian cultures at Fountain Square with performances, tastings, crafts and food vendors from 2 to 7 p.m.",
+    "sourceName": "Cincinnati Moon Festival",
+    "sourceUrl": "https://www.cincinnatimoonfestival.com/",
+    "featuredCandidate": true,
+    "times": {
+      "2026-09-26": "2:00 PM–7:00 PM"
+    }
+  },
+  {
+    "title": "Pyramid Hill Art Fair",
+    "dates": [
+      "2026-09-26",
+      "2026-09-27"
+    ],
+    "time": "See official schedule",
+    "venue": "Pyramid Hill Sculpture Park",
+    "neighborhood": "Hamilton",
+    "address": "1763 Hamilton Cleves Rd, Hamilton, OH 45013",
+    "category": "Arts",
+    "priceValue": null,
+    "priceLabel": "Park admission; check organizer",
+    "travelMinutes": 40,
+    "age": "All ages",
+    "description": "Pyramid Hill brings more than 60 juried artists, live music, food trucks and a family zone to its outdoor sculpture park.",
+    "sourceName": "Pyramid Hill",
+    "sourceUrl": "https://www.pyramidhill.org/signatureevents",
+    "featuredCandidate": true,
+    "times": {
+      "2026-09-26": "11:00 AM–5:00 PM",
+      "2026-09-27": "11:00 AM–4:00 PM"
+    }
+  },
+  {
+    "title": "Art After Dark: Japan at CAM",
+    "dates": [
+      "2026-09-25"
+    ],
+    "time": "5:00–9:00 PM",
+    "venue": "Cincinnati Art Museum",
+    "neighborhood": "Eden Park",
+    "address": "953 Eden Park Dr, Cincinnati, OH 45202",
+    "category": "Arts",
+    "priceValue": 0,
+    "priceLabel": "Free admission",
+    "travelMinutes": 0,
+    "age": "All ages",
+    "description": "The museum opens after hours for a celebration of Japanese art and culture with music, art making and performances from 5 to 9 p.m.",
+    "sourceName": "Cincinnati Art Museum",
+    "sourceUrl": "https://cincinnatiartmuseum.org/events/adults/art-after-dark/",
+    "featuredCandidate": false,
+    "times": {
+      "2026-09-25": "5:00 PM–9:00 PM"
+    }
+  },
+  {
+    "title": "Sommore",
+    "dates": [
+      "2026-09-25",
+      "2026-09-26"
+    ],
+    "time": "See official schedule",
+    "venue": "Liberty Funny Bone",
+    "neighborhood": "Liberty Township",
+    "address": "7518 Bales St, Liberty Township, OH 45069",
+    "category": "Comedy",
+    "priceValue": null,
+    "priceLabel": "$42–$52; age 21+",
+    "travelMinutes": 0,
+    "age": "21+",
+    "description": "Comedian Sommore has two scheduled shows on both Friday and Saturday at Liberty Funny Bone; choose a performance on the official ticket page.",
+    "sourceName": "Liberty Funny Bone",
+    "sourceUrl": "https://liberty.funnybone.com/events/category/series/sommore/liberty-funny-bone-comedy-club/",
+    "featuredCandidate": false,
+    "times": {
+      "2026-09-25": "Multiple performances; see source",
+      "2026-09-26": "Multiple performances; see source"
+    }
+  },
+  {
+    "title": "Mike Goodwin",
+    "dates": [
+      "2026-09-27"
+    ],
+    "time": "3:00 PM",
+    "venue": "Liberty Funny Bone",
+    "neighborhood": "Liberty Township",
+    "address": "7518 Bales St, Liberty Township, OH 45069",
+    "category": "Comedy",
+    "priceValue": null,
+    "priceLabel": "$32–$42; age 21+",
+    "travelMinutes": 0,
+    "age": "21+",
+    "description": "Comedian Mike Goodwin performs a Sunday afternoon stand-up show at Liberty Funny Bone, with doors opening at 2 p.m.",
+    "sourceName": "Liberty Funny Bone",
+    "sourceUrl": "https://liberty.funnybone.com/shows/",
+    "featuredCandidate": false,
+    "times": {
+      "2026-09-27": "3:00 PM"
+    }
+  },
+  {
+    "title": "Talk",
+    "dates": [
+      "2026-09-26"
+    ],
+    "time": "See official schedule",
+    "venue": "Cincinnati Playhouse in the Park",
+    "neighborhood": "Mount Adams",
+    "address": "962 Mount Adams Cir, Cincinnati, OH 45202",
+    "category": "Theater",
+    "priceValue": null,
+    "priceLabel": "Ticketed; check box office",
+    "travelMinutes": 0,
+    "age": "All ages",
+    "description": "Theresa Rebeck’s world premiere satire about a live news talk show opens its Playhouse run September 26 in the Rosenthal Shelterhouse Theatre.",
+    "sourceName": "Cincinnati Playhouse in the Park",
+    "sourceUrl": "https://www.cincyplay.com/productions/TALK",
+    "featuredCandidate": false
+  },
+  {
+    "title": "Cincinnati Art Museum Public Tours",
+    "dates": [
+      "2026-09-25",
+      "2026-09-26",
+      "2026-09-27"
+    ],
+    "time": "1:00 PM",
+    "venue": "Cincinnati Art Museum",
+    "neighborhood": "Eden Park",
+    "address": "953 Eden Park Dr, Cincinnati, OH 45202",
+    "category": "Arts",
+    "priceValue": 0,
+    "priceLabel": "Free museum admission",
+    "travelMinutes": 0,
+    "age": "All ages",
+    "description": "Museum public tours highlight collection works at 1 p.m. on Friday, Saturday and Sunday, with a different view of the galleries each day.",
+    "sourceName": "Cincinnati Art Museum",
+    "sourceUrl": "https://www.cincinnatiartmuseum.org/events/events-list/",
+    "featuredCandidate": false,
+    "times": {
+      "2026-09-25": "1:00 PM",
+      "2026-09-26": "1:00 PM",
+      "2026-09-27": "1:00 PM"
+    }
+  },
+  {
+    "title": "ChamberPalooza! 2026",
+    "dates": [
+      "2026-09-27"
+    ],
+    "time": "12:00–4:00 PM",
+    "venue": "Cincinnati Art Museum",
+    "neighborhood": "Eden Park",
+    "address": "953 Eden Park Dr, Cincinnati, OH 45202",
+    "category": "Music",
+    "priceValue": 0,
+    "priceLabel": "Free, drop-in",
+    "travelMinutes": 0,
+    "age": "All ages",
+    "description": "The Chamber Music Network presents nine diverse sets, two premieres, an instrument petting zoo and a gallery scavenger hunt.",
+    "sourceName": "Cincinnati Art Museum",
+    "sourceUrl": "https://cincinnatiartmuseum.org/events/events-list/chamberpalooza-927/?date=September+27%2C+2026+12%3A00+PM",
+    "featuredCandidate": false,
+    "times": {
+      "2026-09-27": "12:00 PM–4:00 PM"
+    }
+  },
+  {
+    "title": "Sensory Saturday",
+    "dates": [
+      "2026-09-26"
+    ],
+    "time": "9:30 AM",
+    "venue": "Cincinnati Art Museum",
+    "neighborhood": "Eden Park",
+    "address": "953 Eden Park Dr, Cincinnati, OH 45202",
+    "category": "Family",
+    "priceValue": null,
+    "priceLabel": "Check museum registration",
+    "travelMinutes": 0,
+    "age": "All ages",
+    "description": "This before-hours museum program supports families with children who have autism or other developmental disabilities.",
+    "sourceName": "Cincinnati Art Museum",
+    "sourceUrl": "https://www.cincinnatiartmuseum.org/events/events-list/",
+    "featuredCandidate": false
+  },
+  {
+    "title": "Bourbon & Beyond",
+    "dates": [
+      "2026-09-25",
+      "2026-09-26",
+      "2026-09-27"
+    ],
+    "time": "See official schedule",
+    "venue": "Highland Festival Grounds",
+    "neighborhood": "Louisville road trip",
+    "address": "Kentucky Exposition Center, 937 Phillips Ln, Louisville, KY 40209",
+    "category": "Music",
+    "priceValue": null,
+    "priceLabel": "Festival ticket required",
+    "travelMinutes": 110,
+    "age": "All ages",
+    "description": "The four-day music and bourbon festival continues Friday through Sunday at the Kentucky Exposition Center in Louisville; consult the daily lineup before traveling.",
+    "sourceName": "Bourbon & Beyond",
+    "sourceUrl": "https://bourbonandbeyond.com/lineup/",
+    "featuredCandidate": true
+  },
+  {
+    "title": "Dayton Art Institute Oktoberfest",
+    "dates": [
+      "2026-09-26",
+      "2026-09-27"
+    ],
+    "time": "See official schedule",
+    "venue": "Dayton Art Institute",
+    "neighborhood": "Dayton",
+    "address": "456 Belmonte Park N, Dayton, OH 45405",
+    "category": "Festivals",
+    "priceValue": null,
+    "priceLabel": "Ticketed; check museum",
+    "travelMinutes": 65,
+    "age": "All ages",
+    "description": "The museum’s annual Oktoberfest includes live music, artisans, family activities, food, wine and a broad craft beer selection.",
+    "sourceName": "Dayton Art Institute",
+    "sourceUrl": "https://www.daytonartinstitute.org/do-see/signature-events/oktoberfest/explore-oktoberfest-2026",
+    "featuredCandidate": false,
+    "times": {
+      "2026-09-26": "12:00 PM–11:00 PM",
+      "2026-09-27": "12:00 PM–7:00 PM"
+    }
+  }
+]
