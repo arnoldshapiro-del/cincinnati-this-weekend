@@ -1,0 +1,869 @@
+[
+  {
+    "title": "PECO Free First Sunday Family Day: Thriving Traditions at the Barnes",
+    "dates": [
+      "2026-10-04"
+    ],
+    "time": "10:00 AM – 5:00 PM",
+    "venue": "Barnes Foundation",
+    "neighborhood": "Benjamin Franklin Parkway",
+    "address": "2025 Benjamin Franklin Pkwy, Philadelphia, PA 19130",
+    "category": "Family",
+    "priceValue": 0,
+    "priceLabel": "Free (registration required)",
+    "travelMinutes": 0,
+    "age": "All ages",
+    "description": "Free gallery access plus art activities, scavenger hunts, storytime at 10:30 AM, and Native Nations Dance Theater performances at 1 PM and 2:30 PM for Indigenous Peoples' Day. Registration is required and capacity is limited.",
+    "sourceName": "Barnes Foundation",
+    "sourceUrl": "https://www.barnesfoundation.org/whats-on/peco-free-first-sunday-family-day-october-2026",
+    "featuredCandidate": true
+  },
+  {
+    "title": "Van Gogh's Sunflowers at the Philadelphia Museum of Art",
+    "dates": [
+      "2026-10-04"
+    ],
+    "time": "10:00 AM – 5:00 PM",
+    "venue": "Philadelphia Museum of Art",
+    "neighborhood": "Fairmount / Art Museum",
+    "address": "2600 Benjamin Franklin Pkwy, Philadelphia, PA 19130",
+    "category": "Arts",
+    "priceValue": null,
+    "priceLabel": "Free with museum admission (check source for price)",
+    "travelMinutes": 5,
+    "age": "All ages",
+    "description": "Two of Van Gogh's Sunflowers paintings, one from London's National Gallery and one from the PMA collection, hang side by side in Colket Gallery 251 through October 11. The show is included with museum admission.",
+    "sourceName": "Philadelphia Museum of Art",
+    "sourceUrl": "https://www.philamuseum.org/exhibitions/van-gogh-sunflowers",
+    "featuredCandidate": true
+  },
+  {
+    "title": "Autumn's Colors and Illuminated Fountain Performances at Longwood Gardens",
+    "dates": [
+      "2026-10-03",
+      "2026-10-04"
+    ],
+    "time": "10:00 AM – 9:00 PM",
+    "venue": "Longwood Gardens",
+    "neighborhood": "Kennett Square, Chester County",
+    "address": "1001 Longwood Rd, Kennett Square, PA 19348",
+    "category": "Outdoors",
+    "priceValue": null,
+    "priceLabel": "Check source (timed tickets required)",
+    "travelMinutes": 60,
+    "age": "All ages",
+    "description": "Autumn's Colors runs October 2 to November 15 with harvest displays, a garden railway, daytime fountain shows at 10:15, 12:15, 2:15 and 4:15, and illuminated fountain performances in the evening. Gardens are open until 9 PM Friday through Sunday.",
+    "sourceName": "Longwood Gardens",
+    "sourceUrl": "https://longwoodgardens.org/gardens/our-seasons/autumns-colors",
+    "featuredCandidate": true
+  },
+  {
+    "title": "Reading Liederkranz Oktoberfest",
+    "dates": [
+      "2026-10-03",
+      "2026-10-04"
+    ],
+    "time": "See official schedule",
+    "times": {
+      "2026-10-03": "11:00 AM – 11:00 PM",
+      "2026-10-04": "11:00 AM – 6:00 PM (Family Day)"
+    },
+    "venue": "The Reading Liederkranz",
+    "neighborhood": "Reading, Berks County",
+    "address": "143 Spook Ln, Reading, PA 19606",
+    "category": "Festivals",
+    "priceValue": 20,
+    "priceLabel": "Sat $20 ($10 after 6 PM); Sun $5",
+    "travelMinutes": 85,
+    "age": "All ages (under 21 free)",
+    "description": "A longtime Oktoberfest with Dave Kline & Bavarski, tuba and waltz competitions, schuhplattlers and a beer-tapping parade on Saturday. Sunday is Family Day with the Garrett Tatano Band, a magician and a bounce house.",
+    "sourceName": "Reading Liederkranz",
+    "sourceUrl": "https://www.readingliederkranz.com/oktoberfest",
+    "featuredCandidate": true
+  },
+  {
+    "title": "The Philadelphia Orchestra: Yannick Conducts Mahler's Symphony No. 5",
+    "dates": [
+      "2026-10-03"
+    ],
+    "time": "8:00 PM",
+    "venue": "Marian Anderson Hall, Kimmel Center",
+    "neighborhood": "Avenue of the Arts",
+    "address": "300 S Broad St, Philadelphia, PA 19102",
+    "category": "Music",
+    "priceValue": 29,
+    "priceLabel": "$29–$232",
+    "travelMinutes": 0,
+    "age": "All ages",
+    "description": "Yannick Nézet-Séguin conducts Mahler's Fifth, with its famous Adagietto, alongside Webern's Im Sommerwind and Julia Wolfe's new Liberty Bell; about two hours with intermission.",
+    "sourceName": "Ensemble Arts Philly",
+    "sourceUrl": "https://www.ensembleartsphilly.org/tickets-and-events/philadelphia-orchestra/2026-27-season/yannick-conducts-mahlers-symphony-no-5",
+    "featuredCandidate": true
+  },
+  {
+    "title": "Philadelphia Eagles vs. Los Angeles Rams",
+    "dates": [
+      "2026-10-04"
+    ],
+    "time": "1:00 PM",
+    "venue": "Lincoln Financial Field",
+    "neighborhood": "South Philadelphia",
+    "address": "1 Lincoln Financial Field Way, Philadelphia, PA 19148",
+    "category": "Sports",
+    "priceValue": null,
+    "priceLabel": "Check source",
+    "travelMinutes": 0,
+    "age": "All ages",
+    "description": "Week 4 home game against the Rams on FOX; Eagles are 3-0 against LA over the past two seasons. Open Streets West Walnut also shows the game live.",
+    "sourceName": "Philadelphia Eagles",
+    "sourceUrl": "https://www.philadelphiaeagles.com/news/eagles-schedule-release-2026",
+    "featuredCandidate": true
+  },
+  {
+    "title": "Evil Genius 15th Anniversary Block Party with Wheatus",
+    "dates": [
+      "2026-10-03"
+    ],
+    "time": "12:00 PM – 11:00 PM",
+    "venue": "Front Street and Palmer Avenue",
+    "neighborhood": "Fishtown",
+    "address": "Front St and Palmer Ave, Philadelphia, PA 19122",
+    "category": "Music",
+    "priceValue": 0,
+    "priceLabel": "Free",
+    "travelMinutes": 10,
+    "age": "All ages",
+    "description": "Evil Genius Beer celebrates 15 years with a street festival on Front Street: eight bands from noon, including Tell All Your Friends and Lunar Pools, and a Wheatus headline set from 8 to 10 PM. Vendors and neighborhood food and drink on site.",
+    "sourceName": "Evil Genius Beer Company",
+    "sourceUrl": "https://evilgeniusbeer.com/calendar/",
+    "featuredCandidate": true
+  },
+  {
+    "title": "Fells Point Fun Festival (60th annual)",
+    "dates": [
+      "2026-10-04"
+    ],
+    "time": "12:00 PM–5:00 PM",
+    "venue": "Thames Street, Fells Point",
+    "neighborhood": "Fells Point, Baltimore, MD",
+    "address": "Thames St from Caroline St to Wolfe St, Baltimore, MD 21231",
+    "category": "Festivals",
+    "priceValue": 0,
+    "priceLabel": "Free",
+    "travelMinutes": 105,
+    "age": "All ages",
+    "description": "Baltimore's 60th annual harborfront street festival: six blocks of live music, 225+ food and craft vendors, a Maryland beer, wine and spirits park, a family fun park and a Sunday pet parade.",
+    "sourceName": "Visit Baltimore",
+    "sourceUrl": "https://baltimore.org/event/fells-point-fun-festival/",
+    "featuredCandidate": true
+  },
+  {
+    "title": "Fleurs de Villes: The Gilded Age at Lynnewood Hall",
+    "dates": [
+      "2026-10-04"
+    ],
+    "time": "10:00 AM – 6:00 PM",
+    "venue": "Lynnewood Hall",
+    "neighborhood": "Elkins Park, Montgomery County",
+    "address": "920 Spring Ave, Elkins Park, PA 19027",
+    "category": "Arts",
+    "priceValue": 30.5,
+    "priceLabel": "$30.50 adult (timed entry)",
+    "travelMinutes": 25,
+    "age": "All ages",
+    "description": "A floral exhibition inside the Gilded Age mansion Lynnewood Hall, open to the public for the first time in decades. Last entry is 5 PM, and the run ends Sunday, October 4.",
+    "sourceName": "Lynnewood Hall Preservation",
+    "sourceUrl": "https://lynnewoodhallpreservation.org/events/fleurs-de-villes/",
+    "featuredCandidate": true
+  },
+  {
+    "title": "Pumpkinland at Linvilla Orchards",
+    "dates": [
+      "2026-10-03",
+      "2026-10-04"
+    ],
+    "time": "8:00 AM – 9:00 PM Sat; 8:00 AM – 8:00 PM Sun",
+    "venue": "Linvilla Orchards",
+    "neighborhood": "Media, Delaware County",
+    "address": "137 W Knowlton Rd, Media, PA 19063",
+    "category": "Family",
+    "priceValue": 0,
+    "priceLabel": "Free entry; mazes from $7, hayrides from $9",
+    "travelMinutes": 35,
+    "age": "All ages",
+    "description": "Free-to-walk fall festival with giant scarecrows, hayrides, straw bale and corn mazes, train and pony rides, and apple blasters. Individual activities are ticketed separately.",
+    "sourceName": "Linvilla Orchards",
+    "sourceUrl": "https://www.linvilla.com/family-fun/pumpkinland",
+    "featuredCandidate": true
+  },
+  {
+    "title": "Experience the Unexpected: Wand and Potion Making at Morris Arboretum",
+    "dates": [
+      "2026-10-04"
+    ],
+    "time": "10:00 AM – 12:00 PM",
+    "venue": "Morris Arboretum & Gardens",
+    "neighborhood": "Chestnut Hill",
+    "address": "100 E Northwestern Ave, Philadelphia, PA 19118",
+    "category": "Family",
+    "priceValue": 22,
+    "priceLabel": "Included with admission ($22 adult, $12 youth)",
+    "travelMinutes": 25,
+    "age": "All ages",
+    "description": "Visitors make magical wands and potions from natural materials, free with general admission, alongside the Pumpkin Cottage and the 19th annual Scarecrow Walk running October 1 to November 1.",
+    "sourceName": "Morris Arboretum & Gardens",
+    "sourceUrl": "https://www.morrisarboretum.org/",
+    "featuredCandidate": false
+  },
+  {
+    "title": "Bordentown Cranberry Festival",
+    "dates": [
+      "2026-10-04"
+    ],
+    "time": "11:00 AM – 5:00 PM",
+    "venue": "Farnsworth Avenue (Burlington St to Park St)",
+    "neighborhood": "Bordentown, NJ",
+    "address": "Farnsworth Ave, Bordentown, NJ 08505",
+    "category": "Festivals",
+    "priceValue": 0,
+    "priceLabel": "Free",
+    "travelMinutes": 50,
+    "age": "All ages",
+    "description": "The 36th annual juried arts and crafts festival fills downtown Farnsworth Avenue both days with more than 100 artists and crafters, plus live music and food.",
+    "sourceName": "Downtown Bordentown Association",
+    "sourceUrl": "https://app.entrythingy.com/btowncranfest/copy-of-the-36th-annual-cranberry-festival-of-fine-arts-and-crafts-on-farnsworth/",
+    "featuredCandidate": false
+  },
+  {
+    "title": "Scarecrows in the Village at Peddler's Village",
+    "dates": [
+      "2026-10-03",
+      "2026-10-04"
+    ],
+    "time": "Check source",
+    "venue": "Peddler's Village",
+    "neighborhood": "Lahaska, Bucks County",
+    "address": "Route 202 and Street Rd, Lahaska, PA 18931",
+    "category": "Family",
+    "priceValue": 0,
+    "priceLabel": "Free to view",
+    "travelMinutes": 60,
+    "age": "All ages",
+    "description": "Now in its 47th year, over 100 scarecrows line the brick pathways of Peddler's Village daily through October 26, alongside seasonal shops and restaurants.",
+    "sourceName": "Peddler's Village",
+    "sourceUrl": "https://peddlersvillage.com/events/",
+    "featuredCandidate": false
+  },
+  {
+    "title": "Clover Market in Bryn Mawr",
+    "dates": [
+      "2026-10-04"
+    ],
+    "time": "10:00 AM – 4:00 PM",
+    "venue": "Downtown Bryn Mawr (N Bryn Mawr Ave and Lancaster Ave)",
+    "neighborhood": "Bryn Mawr, Main Line",
+    "address": "7 N Bryn Mawr Ave, Bryn Mawr, PA 19010",
+    "category": "Community",
+    "priceValue": 0,
+    "priceLabel": "Free",
+    "travelMinutes": 25,
+    "age": "All ages",
+    "description": "About 90 curated vintage and handmade vendors, food trucks, live music by Matt Kresge from noon to 3 PM, and free kids' crafts, steps from the Bryn Mawr SEPTA station.",
+    "sourceName": "The Clover Market",
+    "sourceUrl": "https://theclovermarket.com/pages/brynmawrmarket",
+    "featuredCandidate": false
+  },
+  {
+    "title": "Horsegirl & Cowdaddy at the Wilma Theater",
+    "dates": [
+      "2026-10-03",
+      "2026-10-04"
+    ],
+    "time": "See official schedule",
+    "times": {
+      "2026-10-03": "7:00 PM (Open Caption and Black Affinity Night)",
+      "2026-10-04": "2:00 PM (Open Caption and Audio Description)"
+    },
+    "venue": "The Wilma Theater",
+    "neighborhood": "Avenue of the Arts",
+    "address": "265 S Broad St, Philadelphia, PA 19107",
+    "category": "Theater",
+    "priceValue": null,
+    "priceLabel": "Check source",
+    "travelMinutes": 0,
+    "age": "Mature content advisory",
+    "description": "A 1 hour 45 minute play in its final weekend, running through October 4. The Wilma lists content warnings for simulated sex acts, partial nudity, kink, strobing lights, loud sounds and haze.",
+    "sourceName": "The Wilma Theater",
+    "sourceUrl": "https://wilmatheater.org/show/horsegirl-cowdaddy/",
+    "featuredCandidate": false
+  },
+  {
+    "title": "Ancient Egypt in Watercolors at the Penn Museum",
+    "dates": [
+      "2026-10-04"
+    ],
+    "time": "10:00 AM – 5:00 PM",
+    "venue": "Penn Museum",
+    "neighborhood": "University City",
+    "address": "3260 South St, Philadelphia, PA 19104",
+    "category": "Arts",
+    "priceValue": 23,
+    "priceLabel": "$23 adult, $21 senior, $14 youth",
+    "travelMinutes": 10,
+    "age": "All ages",
+    "description": "Century-old watercolors of Egyptian tombs never before shown in the United States are on view while the Ancient Egypt and Nubia galleries are renovated (reopening December 12, 2026). Open Tuesday through Sunday.",
+    "sourceName": "Penn Museum",
+    "sourceUrl": "https://www.penn.museum/on-view/galleries-exhibitions/egypt-galleries",
+    "featuredCandidate": false
+  },
+  {
+    "title": "Noguchi to Asawa: Designing Postwar America at the Barnes",
+    "dates": [
+      "2026-10-04"
+    ],
+    "time": "11:00 AM – 5:00 PM",
+    "venue": "Barnes Foundation",
+    "neighborhood": "Benjamin Franklin Parkway",
+    "address": "2025 Benjamin Franklin Pkwy, Philadelphia, PA 19130",
+    "category": "Arts",
+    "priceValue": null,
+    "priceLabel": "Check source",
+    "travelMinutes": 0,
+    "age": "All ages",
+    "description": "The Barnes presents Noguchi to Asawa through January 10, 2027, alongside Sky Hopinka: Red Metal Dust and Just Us (through October 12). Open Thursday through Monday, 11 AM to 5 PM; Sunday October 4 is Free First Sunday with registration.",
+    "sourceName": "Barnes Foundation",
+    "sourceUrl": "https://www.barnesfoundation.org/whats-on",
+    "featuredCandidate": false
+  },
+  {
+    "title": "Spooky Mini Golf at Franklin Square",
+    "dates": [
+      "2026-10-03",
+      "2026-10-04"
+    ],
+    "time": "10:00 AM – 10:00 PM",
+    "venue": "Franklin Square",
+    "neighborhood": "Old City / Franklin Square",
+    "address": "200 N 6th St, Philadelphia, PA 19106",
+    "category": "Family",
+    "priceValue": 15,
+    "priceLabel": "$15 adults, $12 children (3-13)",
+    "travelMinutes": 0,
+    "age": "All ages",
+    "description": "Philly Mini Golf puts on its Halloween costume, with a course of famous Philadelphia landmarks decorated for the season. Open daily through October.",
+    "sourceName": "Historic Philadelphia",
+    "sourceUrl": "https://historicphiladelphia.org/franklin-square-2/visit/",
+    "featuredCandidate": false
+  },
+  {
+    "title": "Reading Terminal Market",
+    "dates": [
+      "2026-10-04"
+    ],
+    "time": "8:00 AM – 6:00 PM",
+    "venue": "Reading Terminal Market",
+    "neighborhood": "Center City",
+    "address": "1136 Arch St, Philadelphia, PA 19107",
+    "category": "Food & drink",
+    "priceValue": 0,
+    "priceLabel": "Free entry",
+    "travelMinutes": 0,
+    "age": "All ages",
+    "description": "The historic public market is open daily 8 AM to 6 PM, so both weekend days work for lunch and browsing. Its fall events, the Scrapple & Apple Festival on October 17 and others, come later in the month.",
+    "sourceName": "Reading Terminal Market",
+    "sourceUrl": "https://www.readingterminalmarket.org/events",
+    "featuredCandidate": false
+  },
+  {
+    "title": "Chestnut Hill Night of Lights",
+    "dates": [
+      "2026-10-03",
+      "2026-10-04"
+    ],
+    "time": "7:00 PM – 9:00 PM",
+    "venue": "Germantown Avenue, 8100-8600 blocks",
+    "neighborhood": "Chestnut Hill",
+    "address": "8708 Germantown Ave, Philadelphia, PA 19118",
+    "category": "Arts",
+    "priceValue": 0,
+    "priceLabel": "Free",
+    "travelMinutes": 25,
+    "age": "All ages",
+    "description": "Six projected video exhibitions light up storefront windows along Germantown Avenue, telling 250 years of Northwest Philadelphia history, with live music and storytellers at the sites. Hosted by the Chestnut Hill Conservancy.",
+    "sourceName": "Chestnut Hill Conservancy",
+    "sourceUrl": "https://chconservancy.org/programs/night-of-lights/",
+    "featuredCandidate": false
+  },
+  {
+    "title": "Brew N' History Tour at Christ Church Burial Ground",
+    "dates": [
+      "2026-10-03",
+      "2026-10-04"
+    ],
+    "time": "Check source",
+    "venue": "Christ Church Burial Ground",
+    "neighborhood": "Old City",
+    "address": "420 Arch St, Philadelphia, PA 19106",
+    "category": "Tours",
+    "priceValue": 21,
+    "priceLabel": "$21 with tasting, $12.51 tour only",
+    "travelMinutes": 0,
+    "age": "21+",
+    "description": "A guided walk past the graves of Benjamin Franklin and Declaration signers, with five stops pairing local craft beer samples with stories of colonial tavern culture.",
+    "sourceName": "Eventbrite (organizer listing)",
+    "sourceUrl": "https://www.eventbrite.com/e/brew-n-history-tour-autumn-edition-tickets-1996704158889",
+    "featuredCandidate": false
+  },
+  {
+    "title": "Pumpkin Patch Flyer train ride",
+    "dates": [
+      "2026-10-04"
+    ],
+    "time": "10:00 AM, 12:30 PM and 3:00 PM departures",
+    "venue": "Woodstown Central Railroad, South Woodstown Station",
+    "neighborhood": "Woodstown, Salem County, NJ",
+    "address": "650 Alloway-Woodstown Rd, Woodstown, NJ 08098",
+    "category": "Family",
+    "priceValue": 35,
+    "priceLabel": "From $35",
+    "travelMinutes": 55,
+    "age": "All ages",
+    "description": "An 18-mile vintage train ride through Salem County to Fenwick Grove, with about 45 minutes in the pumpkin patch and one pumpkin to take home. The full trip runs about 1 hour 45 minutes.",
+    "sourceName": "Woodstown Central Railroad",
+    "sourceUrl": "https://woodstowncentral.com/pumpkin-patch-flyer/",
+    "featuredCandidate": false
+  },
+  {
+    "title": "Philadelphia Zoo and Boo at the Zoo",
+    "dates": [
+      "2026-10-04"
+    ],
+    "time": "9:30 AM – 5:00 PM",
+    "venue": "Philadelphia Zoo",
+    "neighborhood": "West Philadelphia / Fairmount Park",
+    "address": "3400 W Girard Ave, Philadelphia, PA 19104",
+    "category": "Family",
+    "priceValue": null,
+    "priceLabel": "Check source",
+    "travelMinutes": 10,
+    "age": "All ages",
+    "description": "The zoo is open daily 9:30 AM to 5 PM (last entry 4 PM), and its Halloween event Boo at the Zoo is included with general admission, with trick-or-treating for costumed kids.",
+    "sourceName": "Philadelphia Zoo",
+    "sourceUrl": "https://www.philadelphiazoo.org/",
+    "featuredCandidate": false
+  },
+  {
+    "title": "Open Streets: West Walnut",
+    "dates": [
+      "2026-10-04"
+    ],
+    "time": "10:00 AM–5:00 PM",
+    "venue": "Walnut St (Broad to 19th) and 18th St (Chestnut to Locust)",
+    "neighborhood": "Rittenhouse / Center City",
+    "address": "Walnut St between Broad St and 19th St, Philadelphia, PA 19103",
+    "category": "Community",
+    "priceValue": 0,
+    "priceLabel": "Free",
+    "travelMinutes": 0,
+    "age": "All ages",
+    "description": "Nearly eight car-free blocks of Walnut Street with live music, bubble artists, a kids' zone, mini golf and live Eagles game broadcasts at the Fulton Fun Zone.",
+    "sourceName": "Center City District",
+    "sourceUrl": "https://centercityphila.org/event/osww-fall/2026-10-04/",
+    "featuredCandidate": false
+  },
+  {
+    "title": "Headhouse Farmers Market",
+    "dates": [
+      "2026-10-04"
+    ],
+    "time": "10:00 AM–2:00 PM",
+    "venue": "Headhouse Square",
+    "neighborhood": "Society Hill",
+    "address": "2nd & Lombard Sts, Philadelphia, PA 19147",
+    "category": "Food & drink",
+    "priceValue": 0,
+    "priceLabel": "Free",
+    "travelMinutes": 0,
+    "age": "All ages",
+    "description": "The Food Trust's year-round Sunday market under the historic Head House shambles, with regional farmers, bakers and prepared-food vendors.",
+    "sourceName": "The Food Trust",
+    "sourceUrl": "https://thefoodtrust.org/what-we-do/farmers-markets/headhouse/",
+    "featuredCandidate": false
+  },
+  {
+    "title": "Giargiari Bel Canto Competition",
+    "dates": [
+      "2026-10-03"
+    ],
+    "time": "7:30 PM",
+    "venue": "Perelman Theater, Kimmel Center",
+    "neighborhood": "Avenue of the Arts",
+    "address": "300 S Broad St (Perelman Theater, Kimmel Center), Philadelphia, PA 19102",
+    "category": "Music",
+    "priceValue": null,
+    "priceLabel": "Check source",
+    "travelMinutes": 0,
+    "age": "All ages",
+    "description": "The Academy of Vocal Arts' resident opera singers compete in demanding bel canto arias before judges and an audience that votes for the Audience Choice Award.",
+    "sourceName": "Academy of Vocal Arts",
+    "sourceUrl": "https://avaopera.org/event/giargiari-bel-canto-competition-2026-27/",
+    "featuredCandidate": false
+  },
+  {
+    "title": "The Fillmore Philadelphia: Switchfoot with Anberlin (Forever Now Tour)",
+    "dates": [
+      "2026-10-03"
+    ],
+    "time": "8:00 PM",
+    "venue": "The Fillmore Philadelphia",
+    "neighborhood": "Fishtown",
+    "address": "29 E Allen St, Philadelphia, PA 19123",
+    "category": "Music",
+    "priceValue": null,
+    "priceLabel": "Check source",
+    "travelMinutes": 0,
+    "age": "Check source",
+    "description": "Alt-rock band Switchfoot headlines with special guest Anberlin at the Fishtown venue as part of the Forever Now Tour.",
+    "sourceName": "Live Nation / The Fillmore Philadelphia",
+    "sourceUrl": "https://www.livenation.com/venue/KovZpZAEkteA/the-fillmore-philadelphia-events",
+    "featuredCandidate": false
+  },
+  {
+    "title": "The Fillmore Philadelphia: Rise Against with Alkaline Trio (Ricochet 2026)",
+    "dates": [
+      "2026-10-04"
+    ],
+    "time": "7:00 PM",
+    "venue": "The Fillmore Philadelphia",
+    "neighborhood": "Fishtown",
+    "address": "29 E Allen St, Philadelphia, PA 19123",
+    "category": "Music",
+    "priceValue": null,
+    "priceLabel": "Check source",
+    "travelMinutes": 0,
+    "age": "Check source",
+    "description": "Punk veterans Rise Against play the Fishtown venue on the Ricochet 2026 tour, with Alkaline Trio and Teen Mortgage in support.",
+    "sourceName": "Live Nation / The Fillmore Philadelphia",
+    "sourceUrl": "https://www.livenation.com/venue/KovZpZAEkteA/the-fillmore-philadelphia-events",
+    "featuredCandidate": false
+  },
+  {
+    "title": "Hershey Bears Home Opener vs. Charlotte Checkers (Opening Night)",
+    "dates": [
+      "2026-10-03",
+      "2026-10-04"
+    ],
+    "time": "See official schedule",
+    "times": {
+      "2026-10-03": "6:00 PM",
+      "2026-10-04": "3:00 PM"
+    },
+    "venue": "GIANT Center",
+    "neighborhood": "Hershey, PA",
+    "address": "550 W Hersheypark Dr, Hershey, PA 17033",
+    "category": "Sports",
+    "priceValue": 19,
+    "priceLabel": "From $19",
+    "travelMinutes": 105,
+    "age": "All ages",
+    "description": "The 13-time Calder Cup champion Bears open their AHL home season with a Saturday opening night magnet-schedule giveaway and a Sunday Dark Nights Takeover with Hersheypark Halloween characters.",
+    "sourceName": "Hershey Bears",
+    "sourceUrl": "https://www.hersheybears.com/",
+    "featuredCandidate": false
+  },
+  {
+    "title": "Jim Thorpe Fall Foliage Festival",
+    "dates": [
+      "2026-10-04"
+    ],
+    "time": "Visitor Center 8:00 AM–7:00 PM",
+    "venue": "Historic Downtown Jim Thorpe",
+    "neighborhood": "Jim Thorpe, Pocono Mountains, PA",
+    "address": "Broadway & Race St, Jim Thorpe, PA 18229",
+    "category": "Festivals",
+    "priceValue": 0,
+    "priceLabel": "Free (train rides, tours extra)",
+    "travelMinutes": 100,
+    "age": "All ages",
+    "description": "Craft and food vendors, free live music at four locations, and scenic Lehigh Gorge train excursions in the Switzerland of America; the first of three October foliage weekends.",
+    "sourceName": "Pocono Mountains Visitors Bureau",
+    "sourceUrl": "https://www.poconomountains.com/jim-thorpe/fall-foliage/",
+    "featuredCandidate": false
+  },
+  {
+    "title": "Geoffrey Asmus at Helium Comedy Club",
+    "dates": [
+      "2026-10-03",
+      "2026-10-04"
+    ],
+    "time": "See official schedule",
+    "times": {
+      "2026-10-03": "7:00 PM & 9:30 PM",
+      "2026-10-04": "Check source"
+    },
+    "venue": "Helium Comedy Club",
+    "neighborhood": "Rittenhouse / Center City",
+    "address": "2031 Sansom St, Philadelphia, PA 19103",
+    "category": "Comedy",
+    "priceValue": null,
+    "priceLabel": "Check source",
+    "travelMinutes": 0,
+    "age": "21+",
+    "description": "Stand-up Geoffrey Asmus, who has opened for Dave Attell and Mark Normand, headlines a weekend run at Helium with an opener and a feature; two-item minimum in the showroom.",
+    "sourceName": "Helium Comedy Club",
+    "sourceUrl": "https://philadelphia-heliumcomedy-com.seatengine.com/events",
+    "featuredCandidate": false
+  },
+  {
+    "title": "Plastic Cup Boyz at Punch Line Philly",
+    "dates": [
+      "2026-10-03",
+      "2026-10-04"
+    ],
+    "time": "See official schedule",
+    "times": {
+      "2026-10-03": "7:00 PM & 9:15 PM",
+      "2026-10-04": "7:00 PM"
+    },
+    "venue": "Punch Line Philly",
+    "neighborhood": "Fishtown",
+    "address": "33 E Laurel St, Philadelphia, PA 19123",
+    "category": "Comedy",
+    "priceValue": null,
+    "priceLabel": "Check source",
+    "travelMinutes": 0,
+    "age": "Check source",
+    "description": "The Plastic Cup Boyz comedy troupe plays two Saturday shows and one Sunday show at Fishtown's Punch Line comedy club.",
+    "sourceName": "Live Nation / Punch Line Philly",
+    "sourceUrl": "https://www.livenation.com/venue/KovZpZAEvtFA/punch-line-philly-events",
+    "featuredCandidate": false
+  },
+  {
+    "title": "The Franklin Institute: Science Museum, Planetarium and Body Odyssey",
+    "dates": [
+      "2026-10-04"
+    ],
+    "time": "9:30 AM–5:00 PM",
+    "venue": "The Franklin Institute",
+    "neighborhood": "Logan Square",
+    "address": "222 N 20th St, Philadelphia, PA 19103",
+    "category": "Family",
+    "priceValue": 23,
+    "priceLabel": "From $23",
+    "travelMinutes": 5,
+    "age": "All ages",
+    "description": "Open daily 9:30 AM–5 PM with three floors of hands-on exhibits, live science shows, Fels Planetarium and the Giant Heart in the new Body Odyssey exhibit. Special exhibits cost extra.",
+    "sourceName": "The Franklin Institute (official)",
+    "sourceUrl": "https://fi.edu/en/plan-your-visit/tickets",
+    "featuredCandidate": false
+  },
+  {
+    "title": "Mütter Museum of The College of Physicians of Philadelphia",
+    "dates": [
+      "2026-10-04"
+    ],
+    "time": "10:00 AM–5:00 PM",
+    "venue": "Mütter Museum",
+    "neighborhood": "Center City / Rittenhouse",
+    "address": "19 S 22nd St, Philadelphia, PA 19103",
+    "category": "Arts",
+    "priceValue": 25,
+    "priceLabel": "$25 adult",
+    "travelMinutes": 5,
+    "age": "All ages",
+    "description": "The renowned medical-history museum of anatomical specimens, medical instruments and curiosities is open Sunday 10 AM–5 PM. Capacity is limited to 50 guests per half hour, so pre-booking is recommended.",
+    "sourceName": "Mütter Museum (official)",
+    "sourceUrl": "https://muttermuseum.org/visit/hours-admission/",
+    "featuredCandidate": false
+  },
+  {
+    "title": "National Constitution Center: America's Founding and Pennsylvania's Founding",
+    "dates": [
+      "2026-10-04"
+    ],
+    "time": "10:00 AM–5:00 PM",
+    "venue": "National Constitution Center",
+    "neighborhood": "Old City / Independence Mall",
+    "address": "525 Arch St, Philadelphia, PA 19106",
+    "category": "Arts",
+    "priceValue": 19.95,
+    "priceLabel": "$19.95 online / $24.95 on site",
+    "travelMinutes": 5,
+    "age": "All ages",
+    "description": "Interactive galleries on the Constitution plus the new special exhibit Pennsylvania's Founding, open September 30, 2026 through January 3, 2027. Open Wednesday through Sunday, 10 AM–5 PM.",
+    "sourceName": "National Constitution Center (official)",
+    "sourceUrl": "https://constitutioncenter.org/visit/tickets-and-hours",
+    "featuredCandidate": false
+  },
+  {
+    "title": "Philadelphia's Magic Gardens: Mosaic Art Environment",
+    "dates": [
+      "2026-10-04"
+    ],
+    "time": "11:00 AM–6:00 PM",
+    "venue": "Philadelphia's Magic Gardens",
+    "neighborhood": "South Street / Queen Village",
+    "address": "1020 South St, Philadelphia, PA 19147",
+    "category": "Arts",
+    "priceValue": null,
+    "priceLabel": "Check source",
+    "travelMinutes": 10,
+    "age": "All ages",
+    "description": "Isaiah Zagar's immersive mosaic labyrinth of tile, bottles and folk art covering indoor galleries and an outdoor garden. Open Wednesday through Monday, 11 AM–6 PM.",
+    "sourceName": "Philadelphia's Magic Gardens (official)",
+    "sourceUrl": "https://www.phillymagicgardens.org/visit/",
+    "featuredCandidate": false
+  },
+  {
+    "title": "Eastern State Penitentiary: Daytime Tours",
+    "dates": [
+      "2026-10-04"
+    ],
+    "time": "10:00 AM–5:00 PM",
+    "venue": "Eastern State Penitentiary Historic Site",
+    "neighborhood": "Fairmount",
+    "address": "2027 Fairmount Ave, Philadelphia, PA 19130",
+    "category": "Tours",
+    "priceValue": 21,
+    "priceLabel": "$17–$23 (adult $21 online)",
+    "travelMinutes": 10,
+    "age": "All ages",
+    "description": "Explore the historic prison on a self-guided audio tour (about 40 minutes) or a 45-minute guide-led tour, with art installations and mini-tours included. Open daily 10 AM–5 PM.",
+    "sourceName": "Eastern State Penitentiary (official)",
+    "sourceUrl": "https://www.easternstate.org/visit",
+    "featuredCandidate": false
+  },
+  {
+    "title": "Independence Seaport Museum: USS Olympia and Submarine Becuna",
+    "dates": [
+      "2026-10-04"
+    ],
+    "time": "10:00 AM–5:00 PM (last entry 4:30 PM)",
+    "venue": "Independence Seaport Museum",
+    "neighborhood": "Penn's Landing",
+    "address": "211 S Columbus Blvd, Philadelphia, PA 19106",
+    "category": "Tours",
+    "priceValue": 23,
+    "priceLabel": "$23 adult; $33 with submarine",
+    "travelMinutes": 10,
+    "age": "All ages",
+    "description": "Board the USS Olympia, the oldest steel warship afloat, and tour the WWII submarine Becuna on the Delaware waterfront. Open Thursday through Tuesday 10 AM–5 PM.",
+    "sourceName": "Independence Seaport Museum (official)",
+    "sourceUrl": "https://www.phillyseaport.org/admissons-hours-of-operation/",
+    "featuredCandidate": false
+  },
+  {
+    "title": "Elmwood Park Zoo Harvest Fest and Boo at the Zoo",
+    "dates": [
+      "2026-10-04"
+    ],
+    "time": "10:00 AM–4:00 PM (Boo at the Zoo 10:30 AM–3:30 PM)",
+    "venue": "Elmwood Park Zoo",
+    "neighborhood": "Norristown",
+    "address": "1661 Harding Blvd, Norristown, PA 19401",
+    "category": "Family",
+    "priceValue": null,
+    "priceLabel": "Check source",
+    "travelMinutes": 35,
+    "age": "All ages",
+    "description": "Zoo-wide fall celebration with carnival games, carousel rides and live music, plus the annual Halloween Boo at the Zoo for little ghouls and ghosts. Zoo open 10 AM–5 PM.",
+    "sourceName": "Elmwood Park Zoo (official events)",
+    "sourceUrl": "https://www.elmwoodparkzoo.org/events/",
+    "featuredCandidate": false
+  },
+  {
+    "title": "Everything Everything: Get To Heaven 10th Anniversary Tour",
+    "dates": [
+      "2026-10-03"
+    ],
+    "time": "8:00 PM (doors 7:00 PM)",
+    "venue": "Brooklyn Bowl Philadelphia",
+    "neighborhood": "Callowhill / Spring Arts",
+    "address": "1009 Canal St, Philadelphia, PA 19123",
+    "category": "Music",
+    "priceValue": null,
+    "priceLabel": "Check source",
+    "travelMinutes": 15,
+    "age": "Check source",
+    "description": "UK art-rock band Everything Everything plays its Get To Heaven 10th anniversary tour, with support from Psymon Spine. Tickets through Ticketmaster; VIP upgrades offered.",
+    "sourceName": "Brooklyn Bowl Philadelphia (official)",
+    "sourceUrl": "https://www.brooklynbowl.com/philadelphia/shows",
+    "featuredCandidate": false
+  },
+  {
+    "title": "Asha Banks: something inbetween tour",
+    "dates": [
+      "2026-10-04"
+    ],
+    "time": "8:00 PM (doors 7:00 PM)",
+    "venue": "Brooklyn Bowl Philadelphia",
+    "neighborhood": "Callowhill / Spring Arts",
+    "address": "1009 Canal St, Philadelphia, PA 19123",
+    "category": "Music",
+    "priceValue": null,
+    "priceLabel": "Check source",
+    "travelMinutes": 15,
+    "age": "Check source",
+    "description": "Singer Asha Banks brings her something inbetween tour to Brooklyn Bowl with support from Alfie Jukes. The venue listing flags tickets as almost gone.",
+    "sourceName": "Brooklyn Bowl Philadelphia (official)",
+    "sourceUrl": "https://www.brooklynbowl.com/philadelphia/shows",
+    "featuredCandidate": false
+  },
+  {
+    "title": "Maggie Rose with Sadie Gust",
+    "dates": [
+      "2026-10-03"
+    ],
+    "time": "8:00 PM (doors 7:15 PM)",
+    "venue": "Ardmore Music Hall",
+    "neighborhood": "Ardmore (Main Line)",
+    "address": "23 E Lancaster Ave, Ardmore, PA 19003",
+    "category": "Music",
+    "priceValue": null,
+    "priceLabel": "Check source",
+    "travelMinutes": 25,
+    "age": "21+",
+    "description": "Country and soul singer Maggie Rose headlines Ardmore Music Hall with Sadie Gust opening. Tickets are sold through Tixr.",
+    "sourceName": "Ardmore Music Hall (official)",
+    "sourceUrl": "https://ardmoremusichall.com/",
+    "featuredCandidate": false
+  },
+  {
+    "title": "The Little Mermen & The Princess Pals: Ultimate Disney Tribute Band",
+    "dates": [
+      "2026-10-04"
+    ],
+    "time": "12:00 PM (doors 11:00 AM)",
+    "venue": "Ardmore Music Hall",
+    "neighborhood": "Ardmore (Main Line)",
+    "address": "23 E Lancaster Ave, Ardmore, PA 19003",
+    "category": "Family",
+    "priceValue": null,
+    "priceLabel": "Check source",
+    "travelMinutes": 25,
+    "age": "All ages",
+    "description": "Rock & Roll Playhouse presents a Disney tribute band performing kid-friendly rock versions of favorite Disney songs at Ardmore Music Hall. Tickets through Tixr.",
+    "sourceName": "Ardmore Music Hall (official)",
+    "sourceUrl": "https://ardmoremusichall.com/",
+    "featuredCandidate": false
+  },
+  {
+    "title": "Franklin Mills Outdoor Flea Market",
+    "dates": [
+      "2026-10-04"
+    ],
+    "time": "8:00 AM–4:00 PM",
+    "venue": "Franklin Mills",
+    "neighborhood": "Far Northeast Philadelphia",
+    "address": "90 Franklin Mills Blvd, Philadelphia, PA 19154",
+    "category": "Community",
+    "priceValue": null,
+    "priceLabel": "Check source",
+    "travelMinutes": 30,
+    "age": "All ages",
+    "description": "Outdoor flea market run by Phila Flea Markets at the Franklin Mills mall grounds on Sunday, October 4, 8 AM to 4 PM.",
+    "sourceName": "Phila Flea Markets (organizer)",
+    "sourceUrl": "https://philafleamarkets.org/events/",
+    "featuredCandidate": false
+  }
+]

@@ -1,0 +1,991 @@
+[
+  {
+    "title": "Olivia Rodrigo: The Unraveled Tour",
+    "dates": [
+      "2026-10-03",
+      "2026-10-04"
+    ],
+    "time": "7:00 PM",
+    "venue": "Capital One Arena",
+    "neighborhood": "Penn Quarter / Chinatown",
+    "address": "601 F Street NW, Washington, DC 20004",
+    "category": "Music",
+    "priceValue": null,
+    "priceLabel": "Check source",
+    "travelMinutes": 0,
+    "age": "All ages (ticket required)",
+    "description": "Two-night DC run of the three-time Grammy winner's Unraveled Tour in support of her third album, with doors at 6:00 PM. The arena lists both nights as on sale.",
+    "sourceName": "Capital One Arena",
+    "sourceUrl": "https://www.capitalonearena.com/events/detail/olivia-rodrigo-1026",
+    "featuredCandidate": true
+  },
+  {
+    "title": "Come From Away at Ford's Theatre",
+    "dates": [
+      "2026-10-03",
+      "2026-10-04"
+    ],
+    "time": "See official schedule",
+    "times": {
+      "2026-10-03": "7:30 PM (also 2:00 PM matinee)",
+      "2026-10-04": "1:00 PM"
+    },
+    "venue": "Ford's Theatre",
+    "neighborhood": "Penn Quarter",
+    "address": "511 10th St NW, Washington, DC 20004",
+    "category": "Theater",
+    "priceValue": 20,
+    "priceLabel": "$20–$80",
+    "travelMinutes": 0,
+    "age": "Recommended ages 10+",
+    "description": "Tony-winning musical about the Newfoundland town that sheltered 6,579 stranded airline passengers on 9/11; 1 hour 45 minutes, no intermission. Extended through Oct 25.",
+    "sourceName": "Ford's Theatre",
+    "sourceUrl": "https://fords.org/performance/come-from-away-2026/",
+    "featuredCandidate": true
+  },
+  {
+    "title": "Maryland Renaissance Festival",
+    "dates": [
+      "2026-10-04"
+    ],
+    "time": "10:00 AM–7:00 PM",
+    "venue": "Maryland Renaissance Festival",
+    "neighborhood": "Crownsville / Annapolis, MD",
+    "address": "1821 Crownsville Rd, Annapolis, MD 21401",
+    "category": "Festivals",
+    "priceValue": 31,
+    "priceLabel": "$31 adult / $17 child (7–15), plus 10% tax and fee",
+    "travelMinutes": 50,
+    "age": "All ages",
+    "description": "Elizabethan village with jousting, live music, artisan crafts and food on the festival grounds. Tickets are sold online only (no gate sales) and the festival regularly sells out.",
+    "sourceName": "Maryland Renaissance Festival",
+    "sourceUrl": "https://www.rennfest.com/tickets/",
+    "featuredCandidate": true
+  },
+  {
+    "title": "Cox Farms Fall Festival",
+    "dates": [
+      "2026-10-04"
+    ],
+    "time": "10:00 AM–6:00 PM",
+    "venue": "Cox Farms",
+    "neighborhood": "Centreville, VA",
+    "address": "15621 Braddock Rd, Centreville, VA 20120",
+    "category": "Family",
+    "priceValue": 30,
+    "priceLabel": "$30 (peak weekend, online tickets)",
+    "travelMinutes": 35,
+    "age": "All ages",
+    "description": "Giant slides, famous hayrides, rope swings, farm animals, cornfield adventures and apples and cider across 90+ acres. Last entry 5 PM; tickets are online only and weekends often sell out.",
+    "sourceName": "Cox Farms",
+    "sourceUrl": "https://coxfarmsva.com/fall-festival/fall-festival-tickets/",
+    "featuredCandidate": true
+  },
+  {
+    "title": "Smithsonian American Art Museum: Nick Cave: Mammoth and Much Here Is Beautiful",
+    "dates": [
+      "2026-10-04"
+    ],
+    "time": "11:30 AM–7:00 PM",
+    "venue": "Smithsonian American Art Museum",
+    "neighborhood": "Penn Quarter / Chinatown",
+    "address": "8th and G Streets NW, Washington, DC 20004",
+    "category": "Arts",
+    "priceValue": 0,
+    "priceLabel": "Free",
+    "travelMinutes": 0,
+    "age": "All ages",
+    "description": "Nick Cave's monumental Mammoth installation (through Jan 3, 2027) and a Bicentennial-era photography survey (through Apr 18, 2027), plus Shahzia Sikander's video The Last Post. Open until 7 PM both days, no tickets needed.",
+    "sourceName": "Smithsonian American Art Museum",
+    "sourceUrl": "https://americanart.si.edu/visit",
+    "featuredCandidate": true
+  },
+  {
+    "title": "Baltimore Ravens vs. Tennessee Titans",
+    "dates": [
+      "2026-10-04"
+    ],
+    "time": "1:00 PM",
+    "venue": "M&T Bank Stadium",
+    "neighborhood": "Baltimore, MD",
+    "address": "1101 Russell Street, Baltimore, MD 21230",
+    "category": "Sports",
+    "priceValue": null,
+    "priceLabel": "Check source",
+    "travelMinutes": 55,
+    "age": "All ages",
+    "description": "Ravens host the Titans in a Week 4 NFL game at M&T Bank Stadium; the team schedule shows it as the only Ravens home game in October before Oct 25.",
+    "sourceName": "Baltimore Ravens",
+    "sourceUrl": "https://www.baltimoreravens.com/schedule/",
+    "featuredCandidate": true
+  },
+  {
+    "title": "Takoma Park Street Festival",
+    "dates": [
+      "2026-10-04"
+    ],
+    "time": "10:00 AM–5:00 PM",
+    "venue": "Carroll Avenue, Takoma Park",
+    "neighborhood": "Takoma Park, MD / Takoma, DC",
+    "address": "Carroll Ave, Takoma Park, MD 20912",
+    "category": "Festivals",
+    "priceValue": 0,
+    "priceLabel": "Free",
+    "travelMinutes": 20,
+    "age": "All ages",
+    "description": "Long-running neighborhood street fair with 185+ vendor booths, live music from 18 local bands and food trucks. Rain or shine, three blocks from Takoma Metro (Red Line).",
+    "sourceName": "Main Street Takoma",
+    "sourceUrl": "https://mainstreettakoma.org/featured-events/takoma-park-street-festival/",
+    "featuredCandidate": true
+  },
+  {
+    "title": "Indigo Girls with Linda Perry (seated show)",
+    "dates": [
+      "2026-10-04"
+    ],
+    "time": "7:00 PM",
+    "venue": "The Anthem",
+    "neighborhood": "The Wharf",
+    "address": "901 Wharf Street SW, Washington, DC 20024",
+    "category": "Music",
+    "priceValue": null,
+    "priceLabel": "Check source",
+    "travelMinutes": 10,
+    "age": "All ages (ticket required)",
+    "description": "The Grammy-winning folk-rock duo plays a seated show spanning their 35-year career, with Linda Perry as special guest; doors at 5:30 PM on the Wharf.",
+    "sourceName": "The Anthem",
+    "sourceUrl": "https://www.theanthemdc.com/",
+    "featuredCandidate": true
+  },
+  {
+    "title": "Foxfield Fall Races",
+    "dates": [
+      "2026-10-04"
+    ],
+    "time": "First race 12:00 PM (gates 9:30 AM)",
+    "venue": "Foxfield Racecourse",
+    "neighborhood": "Charlottesville, VA",
+    "address": "2215 Foxfield Track, Charlottesville, VA 22901",
+    "category": "Sports",
+    "priceValue": null,
+    "priceLabel": "Check source",
+    "travelMinutes": 120,
+    "age": "All ages (kids 12 and under free)",
+    "description": "Charlottesville's signature steeplechase day with tailgating, color-coded parking areas and a first race at noon; gates open at 9:30 AM.",
+    "sourceName": "Foxfield Races",
+    "sourceUrl": "https://www.foxfieldraces.org/fall-races",
+    "featuredCandidate": true
+  },
+  {
+    "title": "Brian Cox in The Score at Shakespeare Theatre Company",
+    "dates": [
+      "2026-10-03",
+      "2026-10-04"
+    ],
+    "time": "Check source",
+    "venue": "Sidney Harman Hall",
+    "neighborhood": "Penn Quarter",
+    "address": "610 F St NW, Washington, DC 20004",
+    "category": "Theater",
+    "priceValue": 43,
+    "priceLabel": "$43–$182",
+    "travelMinutes": 0,
+    "age": "Check source",
+    "description": "US premiere of Trevor Nunn's play with Brian Cox as J.S. Bach facing Frederick the Great's challenge in 1747; about 2.5 hours with intermission. Currently running through at least Oct 18.",
+    "sourceName": "Shakespeare Theatre Company",
+    "sourceUrl": "https://www.shakespearetheatre.org/index.php/events/brian-cox-in-the-score-26-27/",
+    "featuredCandidate": true
+  },
+  {
+    "title": "Vienna Oktoberfest",
+    "dates": [
+      "2026-10-03"
+    ],
+    "time": "11:00 AM–7:00 PM",
+    "venue": "Historic Church Street, Vienna",
+    "neighborhood": "Vienna, VA",
+    "address": "131 Church St NE, Vienna, VA 22180",
+    "category": "Festivals",
+    "priceValue": 0,
+    "priceLabel": "Free entry (beer/wine $8 per ticket)",
+    "travelMinutes": 30,
+    "age": "All ages (21+ for alcohol)",
+    "description": "Northern Virginia's big Oktoberfest on Church Street with beer and wine, food vendors, music on multiple stages and a kids zone. Rain or shine, Saturday only.",
+    "sourceName": "Vienna Oktoberfest",
+    "sourceUrl": "https://viennaoktoberfest.org/",
+    "featuredCandidate": false
+  },
+  {
+    "title": "Butler's Orchard Pumpkin Festival",
+    "dates": [
+      "2026-10-04"
+    ],
+    "time": "9:00 AM–6:00 PM",
+    "venue": "Butler's Orchard",
+    "neighborhood": "Germantown, MD",
+    "address": "22222 Davis Mill Rd, Germantown, MD 20876",
+    "category": "Family",
+    "priceValue": 20,
+    "priceLabel": "$20 advance / $25 walk-in",
+    "travelMinutes": 40,
+    "age": "All ages (under 24 months free)",
+    "description": "46th annual pumpkin festival with pick-your-own pumpkins, hayrides, corn maze, jump pads and barnyard animals. Last entry 4:30 PM; advance reservations strongly encouraged as weekends sell out.",
+    "sourceName": "Butler's Orchard",
+    "sourceUrl": "https://www.butlersorchard.com/festivals/pumpkin-festival/",
+    "featuredCandidate": false
+  },
+  {
+    "title": "Great Country Farms Fall Pumpkin Harvest",
+    "dates": [
+      "2026-10-04"
+    ],
+    "time": "9:00 AM–5:00 PM",
+    "venue": "Great Country Farms",
+    "neighborhood": "Bluemont, VA",
+    "address": "18780 Foggy Bottom Rd, Bluemont, VA 20135",
+    "category": "Family",
+    "priceValue": 16,
+    "priceLabel": "$16 adult advance / $18 gate",
+    "travelMinutes": 75,
+    "age": "All ages (under 2 free)",
+    "description": "Pick-your-own pumpkins, a 1.5-acre corn maze, 15-acre play area, pig races, cider pressing and live music. Last pumpkin wagon leaves at 4 PM.",
+    "sourceName": "Great Country Farms",
+    "sourceUrl": "https://greatcountryfarms.com/festivals-events/fall-pumpkin-harvest-festival/",
+    "featuredCandidate": false
+  },
+  {
+    "title": "McLean Artfest",
+    "dates": [
+      "2026-10-04"
+    ],
+    "time": "10:00 AM–4:00 PM",
+    "venue": "McLean Central Park",
+    "neighborhood": "McLean, VA",
+    "address": "1468 Dolley Madison Blvd, McLean, VA 22101",
+    "category": "Arts",
+    "priceValue": 0,
+    "priceLabel": "Free",
+    "travelMinutes": 25,
+    "age": "All ages",
+    "description": "Outdoor art festival with more than 30 regional visual artists, a Children's Art Walk, food vendors, a beer and wine garden and live music from DC-area musicians.",
+    "sourceName": "McLean Community Center",
+    "sourceUrl": "https://mcleancenter.org/events/mclean-artfest/?occurrence=2026-10-04",
+    "featuredCandidate": false
+  },
+  {
+    "title": "Venus at Woolly Mammoth Theatre Company",
+    "dates": [
+      "2026-10-03",
+      "2026-10-04"
+    ],
+    "time": "See official schedule",
+    "times": {
+      "2026-10-03": "8:00 PM (ASL interpreted)",
+      "2026-10-04": "2:00 PM"
+    },
+    "venue": "Woolly Mammoth Theatre Company",
+    "neighborhood": "Penn Quarter",
+    "address": "641 D St NW, Washington, DC 20004",
+    "category": "Theater",
+    "priceValue": null,
+    "priceLabel": "Check source",
+    "travelMinutes": 0,
+    "age": "Mature audiences (strong language, adult themes)",
+    "description": "World premiere dark comedy by Steve Yockey about a cosmic worst-first-date, starring Kimberly Gilbert and Regina Aquino; 90 minutes, no intermission. Final weekend, closes Oct 4.",
+    "sourceName": "Woolly Mammoth Theatre Company",
+    "sourceUrl": "https://www.woollymammoth.net/productions/venus/",
+    "featuredCandidate": false
+  },
+  {
+    "title": "Dirty Dancing: The Musical",
+    "dates": [
+      "2026-10-03",
+      "2026-10-04"
+    ],
+    "time": "Check source",
+    "venue": "National Theatre",
+    "neighborhood": "Downtown",
+    "address": "1321 Pennsylvania Ave NW, Washington, DC 20004",
+    "category": "Theater",
+    "priceValue": null,
+    "priceLabel": "Check source",
+    "travelMinutes": 0,
+    "age": "Recommended ages 12+",
+    "description": "Stage version of the classic film with live music from the original soundtrack; 2 hours 20 minutes with intermission. Final weekend, run ends Sunday Oct 4.",
+    "sourceName": "Broadway at the National",
+    "sourceUrl": "https://www.broadwayatthenational.com/shows/dirty-dancing",
+    "featuredCandidate": false
+  },
+  {
+    "title": "National Museum of Women in the Arts: Routed West quilts (free first Sunday)",
+    "dates": [
+      "2026-10-04"
+    ],
+    "time": "10:00 AM–5:00 PM",
+    "venue": "National Museum of Women in the Arts",
+    "neighborhood": "Downtown",
+    "address": "1250 New York Ave NW, Washington, DC 20005",
+    "category": "Arts",
+    "priceValue": 0,
+    "priceLabel": "Free (first Sunday of the month)",
+    "travelMinutes": 0,
+    "age": "All ages",
+    "description": "Routed West features nearly 80 artworks by African American quilters with Bay Area ties (through Jan 17, 2027), alongside Marlo Pascual and the Remix collection show. Admission is free on the first Sunday of each month.",
+    "sourceName": "National Museum of Women in the Arts",
+    "sourceUrl": "https://nmwa.org/exhibitions/",
+    "featuredCandidate": false
+  },
+  {
+    "title": "National Building Museum exhibitions",
+    "dates": [
+      "2026-10-04"
+    ],
+    "time": "10:00 AM–5:00 PM",
+    "venue": "National Building Museum",
+    "neighborhood": "Judiciary Square",
+    "address": "401 F St NW, Washington, DC 20001",
+    "category": "Arts",
+    "priceValue": 10,
+    "priceLabel": "$10 adult / $7 youth & senior (Great Hall free)",
+    "travelMinutes": 0,
+    "age": "All ages",
+    "description": "Current shows include Coming Together, Brick City, Visible Vault, The Tuskegee Chapel: Paul Rudolph X Fry & Welch and A South Forty on contemporary Southern architecture. The soaring Great Hall is always free.",
+    "sourceName": "National Building Museum",
+    "sourceUrl": "https://nbm.org/current-exhibitions",
+    "featuredCandidate": false
+  },
+  {
+    "title": "U.S. Botanic Garden Conservatory",
+    "dates": [
+      "2026-10-04"
+    ],
+    "time": "10:00 AM–5:00 PM",
+    "venue": "U.S. Botanic Garden Conservatory",
+    "neighborhood": "Capitol Hill / National Mall",
+    "address": "100 Maryland Ave SW, Washington, DC 20001",
+    "category": "Outdoors",
+    "priceValue": 0,
+    "priceLabel": "Free",
+    "travelMinutes": 0,
+    "age": "All ages",
+    "description": "Free glass conservatory with tropical, desert and orchid collections beside the Capitol, plus the Fierce Flora plant-defenses exhibit. No tickets required.",
+    "sourceName": "U.S. Botanic Garden",
+    "sourceUrl": "https://www.usbg.gov/visit",
+    "featuredCandidate": false
+  },
+  {
+    "title": "Smithsonian's National Zoo",
+    "dates": [
+      "2026-10-04"
+    ],
+    "time": "8:00 AM–4:00 PM",
+    "venue": "Smithsonian's National Zoo",
+    "neighborhood": "Woodley Park",
+    "address": "3001 Connecticut Ave NW, Washington, DC 20008",
+    "category": "Family",
+    "priceValue": 0,
+    "priceLabel": "Free (free entry pass required)",
+    "travelMinutes": 15,
+    "age": "All ages",
+    "description": "Free admission to the zoo grounds; grounds open 8 AM to 4 PM with last entry at 3 PM and animal buildings from 9 AM. Free entry passes must be reserved online for every guest.",
+    "sourceName": "Smithsonian's National Zoo",
+    "sourceUrl": "https://nationalzoo.si.edu/visit",
+    "featuredCandidate": false
+  },
+  {
+    "title": "DC Coffee Festival",
+    "dates": [
+      "2026-10-03",
+      "2026-10-04"
+    ],
+    "time": "Check source",
+    "venue": "Dock 5 at Union Market",
+    "neighborhood": "Union Market / NoMa",
+    "address": "1309 5th St NE, Washington, DC 20002",
+    "category": "Food & drink",
+    "priceValue": null,
+    "priceLabel": "Check source",
+    "travelMinutes": 10,
+    "age": "Check source",
+    "description": "Immersive coffee festival with specialty roasters and coffee shops, unique beans, snacks and live entertainment at Dock 5 in Union Market.",
+    "sourceName": "DC Coffee Festival",
+    "sourceUrl": "https://www.dccoffeefestival.com/",
+    "featuredCandidate": false
+  },
+  {
+    "title": "Tinkerfest at the National Children's Museum",
+    "dates": [
+      "2026-10-04"
+    ],
+    "time": "9:30 AM–4:30 PM",
+    "venue": "National Children's Museum",
+    "neighborhood": "Federal Triangle",
+    "address": "1300 Pennsylvania Ave NW, Washington, DC 20004",
+    "category": "Family",
+    "priceValue": null,
+    "priceLabel": "Check source",
+    "travelMinutes": 0,
+    "age": "Ages 0–12 and families",
+    "description": "Museum-wide celebration of STEAM with interactive activities, live demonstrations and tinkering stations from partner organizations.",
+    "sourceName": "National Children's Museum",
+    "sourceUrl": "https://nationalchildrensmuseum.org/explore/tinkerfest",
+    "featuredCandidate": false
+  },
+  {
+    "title": "Somewhere Over the Border at Mosaic Theater",
+    "dates": [
+      "2026-10-03",
+      "2026-10-04"
+    ],
+    "time": "Check source",
+    "venue": "Atlas Performing Arts Center (Mosaic Theater Company)",
+    "neighborhood": "H Street NE",
+    "address": "1333 H St NE, Washington, DC 20002",
+    "category": "Theater",
+    "priceValue": 42,
+    "priceLabel": "From $42",
+    "travelMinutes": 10,
+    "age": "Check source",
+    "description": "DC-premiere musical reimagining of The Wizard of Oz with Latin music styles, extended by popular demand through Oct 18 at the Atlas on H Street.",
+    "sourceName": "Mosaic Theater Company",
+    "sourceUrl": "https://www.mosaictheater.org/",
+    "featuredCandidate": false
+  },
+  {
+    "title": "Knocked Loose and Denzel Curry with Superheaven and Boundaries",
+    "dates": [
+      "2026-10-03"
+    ],
+    "time": "7:00 PM",
+    "venue": "The Anthem",
+    "neighborhood": "The Wharf",
+    "address": "901 Wharf Street SW, Washington, DC 20024",
+    "category": "Music",
+    "priceValue": null,
+    "priceLabel": "Check source",
+    "travelMinutes": 10,
+    "age": "All ages (ticket required)",
+    "description": "Hardcore heavyweights Knocked Loose co-headline with rapper Denzel Curry, with Superheaven and Boundaries opening; doors at 5:30 PM at the waterfront Anthem.",
+    "sourceName": "The Anthem",
+    "sourceUrl": "https://www.theanthemdc.com/",
+    "featuredCandidate": false
+  },
+  {
+    "title": "The California Honeydrops: Sweet Like That Tour",
+    "dates": [
+      "2026-10-03"
+    ],
+    "time": "9:00 PM",
+    "venue": "9:30 Club",
+    "neighborhood": "U Street / Shaw",
+    "address": "815 V Street NW, Washington, DC 20001",
+    "category": "Music",
+    "priceValue": null,
+    "priceLabel": "Check source",
+    "travelMinutes": 10,
+    "age": "Check source",
+    "description": "The Oakland roots-soul band brings its Sweet Like That Tour to the 9:30 Club with Jontavious Willis; doors at 8:00 PM, music at 9:00 PM.",
+    "sourceName": "9:30 Club",
+    "sourceUrl": "https://www.930.com/",
+    "featuredCandidate": false
+  },
+  {
+    "title": "Meduza3 at Echostage",
+    "dates": [
+      "2026-10-03"
+    ],
+    "time": "10:00 PM",
+    "venue": "Echostage",
+    "neighborhood": "Ivy City",
+    "address": "2135 Queens Chapel Road NE, Washington, DC 20018",
+    "category": "Music",
+    "priceValue": null,
+    "priceLabel": "Check source",
+    "travelMinutes": 15,
+    "age": "18+",
+    "description": "Electronic music night at DC's big warehouse-style club with Meduza headlining and JOA and ALDOR in support; doors and show both at 10:00 PM.",
+    "sourceName": "Echostage",
+    "sourceUrl": "https://www.echostage.com/",
+    "featuredCandidate": false
+  },
+  {
+    "title": "DJ Shadow Celebrates 30 Years of Endtroducing",
+    "dates": [
+      "2026-10-03"
+    ],
+    "time": "8:00 PM",
+    "venue": "The Fillmore Silver Spring",
+    "neighborhood": "Downtown Silver Spring, MD",
+    "address": "8656 Colesville Road, Silver Spring, MD 20910",
+    "category": "Music",
+    "priceValue": null,
+    "priceLabel": "Check source",
+    "travelMinutes": 25,
+    "age": "Check source",
+    "description": "DJ Shadow marks 30 years of his landmark sampling album Endtroducing at the Fillmore in downtown Silver Spring.",
+    "sourceName": "The Fillmore Silver Spring",
+    "sourceUrl": "https://www.fillmoresilverspring.com/",
+    "featuredCandidate": false
+  },
+  {
+    "title": "Baltimore Symphony Orchestra: Stravinsky & Prokofiev with Heyward",
+    "dates": [
+      "2026-10-03"
+    ],
+    "time": "8:00 PM",
+    "venue": "The Music Center at Strathmore",
+    "neighborhood": "North Bethesda, MD",
+    "address": "5301 Tuckerman Lane, North Bethesda, MD 20852",
+    "category": "Music",
+    "priceValue": null,
+    "priceLabel": "Check source",
+    "travelMinutes": 35,
+    "age": "All ages",
+    "description": "Season-opening program with pianist Bruce Liu playing Prokofiev's Piano Concerto No. 3, plus Stravinsky's Firebird Suite and Glinka's Ruslan and Lyudmila Overture, conducted by Jonathon Heyward.",
+    "sourceName": "Baltimore Symphony Orchestra",
+    "sourceUrl": "https://my.bsomusic.org/overview/20333",
+    "featuredCandidate": false
+  },
+  {
+    "title": "Maria Bamford",
+    "dates": [
+      "2026-10-03"
+    ],
+    "time": "7:30 PM",
+    "venue": "Warner Theatre",
+    "neighborhood": "Downtown",
+    "address": "513 13th Street NW, Washington, DC 20004",
+    "category": "Comedy",
+    "priceValue": null,
+    "priceLabel": "Check source",
+    "travelMinutes": 0,
+    "age": "Check source",
+    "description": "Stand-up comedian Maria Bamford, known for her offbeat, confessional style, performs one night at the historic Warner Theatre downtown.",
+    "sourceName": "Ticketmaster (Warner Theatre)",
+    "sourceUrl": "https://www.ticketmaster.com/maria-bamford-washington-district-of-columbia-10-03-2026/event/15006363F278D6A4",
+    "featuredCandidate": false
+  },
+  {
+    "title": "Fahim Anwar at DC Improv",
+    "dates": [
+      "2026-10-03"
+    ],
+    "time": "7:00 PM and 9:30 PM",
+    "venue": "The DC Improv Comedy Club",
+    "neighborhood": "Dupont Circle",
+    "address": "1140 Connecticut Avenue NW, Washington, DC 20036",
+    "category": "Comedy",
+    "priceValue": null,
+    "priceLabel": "Check source",
+    "travelMinutes": 5,
+    "age": "18+",
+    "description": "Comedian Fahim Anwar headlines the main room Saturday night with two shows. There is a two-item food or drink minimum.",
+    "sourceName": "DC Improv",
+    "sourceUrl": "https://dcimprov-com.seatengine.com/events/135999",
+    "featuredCandidate": false
+  },
+  {
+    "title": "Home Rule Music Festival, Part Two",
+    "dates": [
+      "2026-10-03"
+    ],
+    "time": "12:00 PM - 9:00 PM",
+    "venue": "Alethia Tanner Park",
+    "neighborhood": "NoMa / Near Northeast",
+    "address": "227 Harry Thomas Way NE, Washington, DC 20002",
+    "category": "Music",
+    "priceValue": 0,
+    "priceLabel": "Free",
+    "travelMinutes": 10,
+    "age": "All ages",
+    "description": "Free nine-hour celebration of DC's musical heritage with go-go, jazz, hip-hop and soul, plus a kids' zone, live art, a record fair and food trucks.",
+    "sourceName": "Home Rule Music Festival",
+    "sourceUrl": "https://www.eventbrite.com/e/2026-home-rule-music-festival-alethia-tanner-park-tickets-1998020276432",
+    "featuredCandidate": false
+  },
+  {
+    "title": "Eastern Market Weekend Outdoor Market",
+    "dates": [
+      "2026-10-04"
+    ],
+    "time": "9:00 AM - 4:00 PM",
+    "venue": "Eastern Market",
+    "neighborhood": "Capitol Hill",
+    "address": "225 7th Street SE, Washington, DC 20003",
+    "category": "Community",
+    "priceValue": 0,
+    "priceLabel": "Free",
+    "travelMinutes": 10,
+    "age": "All ages",
+    "description": "Capitol Hill's weekend outdoor market with farmers, a flea market and arts and crafts vendors around the historic market hall.",
+    "sourceName": "Eastern Market",
+    "sourceUrl": "https://www.easternmarket-dc.org/",
+    "featuredCandidate": false
+  },
+  {
+    "title": "FRESHFARM Dupont Circle Market",
+    "dates": [
+      "2026-10-04"
+    ],
+    "time": "8:30 AM - 1:30 PM",
+    "venue": "Dupont Circle FRESHFARM Market",
+    "neighborhood": "Dupont Circle",
+    "address": "1500 20th Street NW, Washington, DC 20036",
+    "category": "Food & drink",
+    "priceValue": 0,
+    "priceLabel": "Free",
+    "travelMinutes": 5,
+    "age": "All ages",
+    "description": "Year-round Sunday farmers market with regional produce, baked goods, cheeses, meats and flowers from local farmers near Dupont Circle.",
+    "sourceName": "FRESHFARM",
+    "sourceUrl": "https://www.freshfarm.org/markets/dupont-circle",
+    "featuredCandidate": false
+  },
+  {
+    "title": "PIKEtoberfest",
+    "dates": [
+      "2026-10-04"
+    ],
+    "time": "11:00 AM - 4:00 PM",
+    "venue": "Pike & Rose",
+    "neighborhood": "North Bethesda, MD",
+    "address": "11580 Old Georgetown Road, North Bethesda, MD 20852",
+    "category": "Festivals",
+    "priceValue": 0,
+    "priceLabel": "Free",
+    "travelMinutes": 30,
+    "age": "All ages",
+    "description": "Free Sunday fall party with live band and DJ, craft beer and food from neighborhood restaurants, an outdoor makers market, kids activities and dogs welcome.",
+    "sourceName": "Pike & Rose",
+    "sourceUrl": "https://pikeandrose.com/events/",
+    "featuredCandidate": false
+  },
+  {
+    "title": "National Apple Harvest Festival (first weekend)",
+    "dates": [
+      "2026-10-04"
+    ],
+    "time": "Check source",
+    "venue": "South Mountain Fairgrounds, Arendtsville area",
+    "neighborhood": "Biglerville, PA (Adams County)",
+    "address": "615 Narrows Road, Biglerville, PA 17307",
+    "category": "Festivals",
+    "priceValue": null,
+    "priceLabel": "Check source",
+    "travelMinutes": 105,
+    "age": "All ages (kids 12 and under free)",
+    "description": "Long-running Pennsylvania apple country festival with hundreds of vendor booths, live entertainment, artisan demonstrations, kids activities and agricultural exhibits; admission includes parking and shuttle.",
+    "sourceName": "National Apple Harvest Festival",
+    "sourceUrl": "https://www.appleharvest.com/",
+    "featuredCandidate": false
+  },
+  {
+    "title": "2nd Street Festival, Jackson Ward",
+    "dates": [
+      "2026-10-04"
+    ],
+    "time": "11:00 AM - 7:00 PM",
+    "venue": "Historic Jackson Ward",
+    "neighborhood": "Jackson Ward, Richmond, VA",
+    "address": "Historic Jackson Ward, Richmond, VA 23219",
+    "category": "Festivals",
+    "priceValue": 0,
+    "priceLabel": "Free",
+    "travelMinutes": 110,
+    "age": "All ages",
+    "description": "Free two-day street festival in its 38th year with three stages of live music, a Kidz Zone, food vendors, a marketplace, Artists Row and an antique car club show.",
+    "sourceName": "Richmond Region Tourism (Venture Richmond event)",
+    "sourceUrl": "https://www.visitrichmondva.com/event/2nd-street-festival/35418/",
+    "featuredCandidate": false
+  },
+  {
+    "title": "Blessing of the Animals at Washington National Cathedral",
+    "dates": [
+      "2026-10-04"
+    ],
+    "time": "2:00 PM",
+    "venue": "Washington National Cathedral (Walker Court)",
+    "neighborhood": "Cathedral Heights, DC",
+    "address": "3101 Wisconsin Ave NW, Washington, DC 20016",
+    "category": "Community",
+    "priceValue": 0,
+    "priceLabel": "Free",
+    "travelMinutes": 20,
+    "age": "All ages",
+    "description": "Bring your dog, cat, bunny or other pet to Walker Court for a short blessing service in the cathedral's annual tradition, with Dean Hollerith taking part. Runs 2:00-3:00 PM.",
+    "sourceName": "Washington National Cathedral",
+    "sourceUrl": "https://cathedral.org/event/blessing-of-the-animals/",
+    "featuredCandidate": false
+  },
+  {
+    "title": "Serbfest DC Fall 2026",
+    "dates": [
+      "2026-10-03",
+      "2026-10-04"
+    ],
+    "time": "See official schedule",
+    "times": {
+      "2026-10-03": "12:00 PM-11:00 PM",
+      "2026-10-04": "12:00 PM-6:00 PM"
+    },
+    "venue": "St. Luke Serbian Orthodox Church",
+    "neighborhood": "Potomac, MD",
+    "address": "10660 River Road, Potomac, MD 20854",
+    "category": "Festivals",
+    "priceValue": null,
+    "priceLabel": "Check source",
+    "travelMinutes": 40,
+    "age": "All ages",
+    "description": "Church festival with grilled Serbian meats, pastries and soups, traditional cultural performances and family activities, with live tamburitza music by Orkestar Meraklije both days.",
+    "sourceName": "SerbFest DC",
+    "sourceUrl": "https://www.serbfestdc.com/",
+    "featuredCandidate": false
+  },
+  {
+    "title": "Brunswick Railroad Days (43rd annual)",
+    "dates": [
+      "2026-10-04"
+    ],
+    "time": "10:00 AM-5:00 PM",
+    "venue": "Downtown Brunswick (City Hall)",
+    "neighborhood": "Brunswick, MD",
+    "address": "1 W. Potomac Street, Brunswick, MD 21716",
+    "category": "Festivals",
+    "priceValue": null,
+    "priceLabel": "Check source",
+    "travelMinutes": 70,
+    "age": "All ages",
+    "description": "Small-town railroad heritage festival with model train displays, artisan crafts, food, kids' activities and live music, plus a free park-and-ride shuttle. Sunday's main stage features The Reagan Years, an 80s tribute band, 2-5 PM.",
+    "sourceName": "Brunswick Railroad Days",
+    "sourceUrl": "https://www.brunswickrailroaddays.org/",
+    "featuredCandidate": false
+  },
+  {
+    "title": "Birchmere: #IMOMSOHARD - The Crashing Out Tour",
+    "dates": [
+      "2026-10-03"
+    ],
+    "time": "7:30 PM",
+    "venue": "The Birchmere",
+    "neighborhood": "Alexandria, VA",
+    "address": "3701 Mount Vernon Avenue, Alexandria, VA 22305",
+    "category": "Comedy",
+    "priceValue": null,
+    "priceLabel": "Check source",
+    "travelMinutes": 20,
+    "age": "Check source",
+    "description": "The Birchmere's Saturday-night listing is #IMOMSOHARD with The Crashing Out Tour at 7:30 PM, with tickets through Ticketmaster.",
+    "sourceName": "The Birchmere",
+    "sourceUrl": "https://www.birchmere.com/",
+    "featuredCandidate": false
+  },
+  {
+    "title": "Sounds in the Square at The Wharf",
+    "dates": [
+      "2026-10-04"
+    ],
+    "time": "4:00 PM-6:00 PM",
+    "venue": "Market Plaza at The Wharf",
+    "neighborhood": "Southwest Waterfront, DC",
+    "address": "Wharf Street SW (Market Square), Washington, DC 20024",
+    "category": "Music",
+    "priceValue": null,
+    "priceLabel": "Check source",
+    "travelMinutes": 10,
+    "age": "All ages",
+    "description": "Live music in Market Square on the Southwest waterfront, part of The Wharf's Sunday afternoon series on select Sundays.",
+    "sourceName": "The Wharf DC",
+    "sourceUrl": "https://www.wharfdc.com/upcoming-events/",
+    "featuredCandidate": false
+  },
+  {
+    "title": "Homes of the Southwest Waterfront Tour (9th annual)",
+    "dates": [
+      "2026-10-04"
+    ],
+    "time": "1:00 PM-5:00 PM",
+    "venue": "Starts at St. Augustine's Church",
+    "neighborhood": "Southwest Waterfront, DC",
+    "address": "Southwest Washington, DC (starts at St. Augustine's Church)",
+    "category": "Tours",
+    "priceValue": null,
+    "priceLabel": "Check source",
+    "travelMinutes": 10,
+    "age": "All ages",
+    "description": "Self-guided walking tour of Southwest DC homes celebrating the neighborhood's architecture, design and views, starting at St. Augustine's Church. Listed by The Wharf; hosted by Waterfront Village.",
+    "sourceName": "The Wharf DC (event listing)",
+    "sourceUrl": "https://www.wharfdc.com/upcoming-events/",
+    "featuredCandidate": false
+  },
+  {
+    "title": "Planet Word Museum",
+    "dates": [
+      "2026-10-04"
+    ],
+    "time": "10:00 AM-6:00 PM",
+    "venue": "Planet Word",
+    "neighborhood": "Downtown, DC",
+    "address": "925 13th Street NW, Washington, DC 20005",
+    "category": "Arts",
+    "priceValue": null,
+    "priceLabel": "Check source",
+    "travelMinutes": 5,
+    "age": "All ages",
+    "description": "Interactive museum of language housed in the historic Franklin School, with immersive galleries about words, speech and wordplay. Open Sundays 10 AM-6 PM; passes can be reserved online.",
+    "sourceName": "Planet Word",
+    "sourceUrl": "https://planetwordmuseum.org/visit/",
+    "featuredCandidate": false
+  },
+  {
+    "title": "International Spy Museum",
+    "dates": [
+      "2026-10-04"
+    ],
+    "time": "9:00 AM-7:00 PM",
+    "venue": "International Spy Museum",
+    "neighborhood": "L'Enfant Plaza, DC",
+    "address": "700 L'Enfant Plaza SW, Washington, DC 20024",
+    "category": "Arts",
+    "priceValue": null,
+    "priceLabel": "Check source",
+    "travelMinutes": 5,
+    "age": "All ages",
+    "description": "Six permanent galleries on codes, ciphers and famous spies plus the immersive exhibition Camouflage: Designed to Deceive. Tickets are booked through the museum's calendar.",
+    "sourceName": "International Spy Museum",
+    "sourceUrl": "https://www.spymuseum.org/",
+    "featuredCandidate": false
+  },
+  {
+    "title": "National Air and Space Museum (free timed-entry passes)",
+    "dates": [
+      "2026-10-04"
+    ],
+    "time": "10:00 AM-5:30 PM",
+    "venue": "National Air and Space Museum",
+    "neighborhood": "National Mall, DC",
+    "address": "650 Jefferson Drive SW, Washington, DC 20560",
+    "category": "Arts",
+    "priceValue": 0,
+    "priceLabel": "Free",
+    "travelMinutes": 5,
+    "age": "All ages",
+    "description": "Free admission with required timed-entry passes reserved in advance; galleries include the Wright Flyer, Apollo 11 artifacts and multiple aviation and spaceflight exhibits.",
+    "sourceName": "Smithsonian National Air and Space Museum",
+    "sourceUrl": "https://airandspace.si.edu/visit/museum-dc",
+    "featuredCandidate": false
+  },
+  {
+    "title": "Glenstone Museum (free timed tickets)",
+    "dates": [
+      "2026-10-04"
+    ],
+    "time": "10:00 AM-5:00 PM",
+    "venue": "Glenstone",
+    "neighborhood": "Potomac, MD",
+    "address": "12100 Glen Road, Potomac, MD 20854",
+    "category": "Arts",
+    "priceValue": 0,
+    "priceLabel": "Free",
+    "travelMinutes": 35,
+    "age": "All ages",
+    "description": "Free art museum and sculpture landscape in Potomac with Pavilions rooms by Cy Twombly, Jasper Johns, Michael Heizer and Brice Marden plus the Gallery show Ties of our common kindred. Open Thursday-Sunday; last ticketed admission 3:15 PM.",
+    "sourceName": "Glenstone",
+    "sourceUrl": "https://www.glenstone.org/plan-your-visit/",
+    "featuredCandidate": false
+  },
+  {
+    "title": "Old Town North Farmers' Market (Sunday)",
+    "dates": [
+      "2026-10-04"
+    ],
+    "time": "9:00 AM-1:00 PM",
+    "venue": "Montgomery Park parking lot",
+    "neighborhood": "Old Town North, Alexandria, VA",
+    "address": "901 N. Royal Street, Alexandria, VA 22314",
+    "category": "Food & drink",
+    "priceValue": 0,
+    "priceLabel": "Free",
+    "travelMinutes": 20,
+    "age": "All ages",
+    "description": "Dog-friendly year-round Sunday farmers' market in Alexandria's Old Town North with local farm produce, baked goods, gifts and take-home meals.",
+    "sourceName": "Old Town North Community Partnership",
+    "sourceUrl": "https://oldtownnorth.org/farmers-market/",
+    "featuredCandidate": false
+  },
+  {
+    "title": "West End Farmers' Market (Sunday)",
+    "dates": [
+      "2026-10-04"
+    ],
+    "time": "8:30 AM-1:00 PM",
+    "venue": "Ben Brenman Park",
+    "neighborhood": "West End, Alexandria, VA",
+    "address": "4800 Brenman Park Drive, Alexandria, VA 22304",
+    "category": "Food & drink",
+    "priceValue": 0,
+    "priceLabel": "Free",
+    "travelMinutes": 25,
+    "age": "All ages",
+    "description": "City of Alexandria's year-round Sunday farmers' market at Ben Brenman Park on the West End, running 8:30 AM to 1 PM.",
+    "sourceName": "City of Alexandria",
+    "sourceUrl": "https://www.alexandriava.gov/FarmersMarket",
+    "featuredCandidate": false
+  },
+  {
+    "title": "George Washington's Mount Vernon",
+    "dates": [
+      "2026-10-04"
+    ],
+    "time": "9:00 AM-5:00 PM",
+    "venue": "George Washington's Mount Vernon",
+    "neighborhood": "Mount Vernon, VA",
+    "address": "3200 Mount Vernon Memorial Highway, Mount Vernon, VA 22121",
+    "category": "Tours",
+    "priceValue": null,
+    "priceLabel": "Check source",
+    "travelMinutes": 30,
+    "age": "All ages",
+    "description": "Tour Washington's Potomac River mansion, gardens, museum and grounds; the estate keeps April-October hours of 9 AM-5 PM. Mansion entry requires a ticket bought online or at the gate.",
+    "sourceName": "George Washington's Mount Vernon",
+    "sourceUrl": "https://www.mountvernon.org/plan-your-visit",
+    "featuredCandidate": false
+  },
+  {
+    "title": "Haunt: Dark Encounters haunted trail",
+    "dates": [
+      "2026-10-03"
+    ],
+    "time": "Check source",
+    "venue": "Workhouse Arts Center",
+    "neighborhood": "Lorton, VA",
+    "address": "9518 Workhouse Way, Lorton, VA 22079",
+    "category": "Family",
+    "priceValue": null,
+    "priceLabel": "Check source",
+    "travelMinutes": 40,
+    "age": "13+",
+    "description": "Timed-entry immersive haunted trail through the woods built around a mystery of five friends vanishing in 1996, opening night Saturday Oct 3 at the Workhouse Arts Center, with a new after-dark Cell Block tour.",
+    "sourceName": "Workhouse Arts Center",
+    "sourceUrl": "https://www.workhousearts.org/haunt",
+    "featuredCandidate": false
+  },
+  {
+    "title": "Laurel's House of Horror",
+    "dates": [
+      "2026-10-03"
+    ],
+    "time": "7:00 PM-10:00 PM",
+    "venue": "Laurel's House of Horror",
+    "neighborhood": "Laurel, MD",
+    "address": "935 Fairlawn Ave, Laurel, MD 20707",
+    "category": "Family",
+    "priceValue": null,
+    "priceLabel": "Check source",
+    "travelMinutes": 40,
+    "age": "Check source",
+    "description": "Walk-through haunted house with four themed areas, including The Carlisle Hotel and The Midnight Hour, plus escape rooms; this is billed as the last season at its current location.",
+    "sourceName": "Laurel's House of Horror",
+    "sourceUrl": "https://laurelhaunt.com/dates/",
+    "featuredCandidate": false
+  }
+]

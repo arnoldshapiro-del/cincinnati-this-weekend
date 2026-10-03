@@ -216,3 +216,21 @@ The live site shows Sep 18–20 in every city.
 - Changed the hero and expired-list button labels to “Refresh weekend events” and changed result/error messages to describe weekend listings. No event data or refresh scheduling changed.
 - The prior hero-button release was live on Git-backed Netlify commit `2a1006cfa5a22581ba7b5e5c20bc3da91b4c0b4c`. Local proof for this wording change: `npm test` passed (55/64/60/58 events and 37 structural checks); browser showed Sep 25–27, the new label, and “latest published Cincinnati weekend events (Sep 25–27)” after a click, with no console errors.
 - Publish through `main`, verify matching ready Git-backed Netlify production commit and live text. Next unattended Wednesday publishing run remains unverified until September 30.
+
+## 2026-10-03 — Why the Sep 30 run missed, the robot fix, and the Oct 3–4 edition
+
+### What was wrong (verified)
+- Sep 30 Wednesday run started on time but its first shell command waited for a permission click from 9:35 AM until the app closed the request at 11:53 AM (run transcript). Nothing was researched or pushed.
+- Cause: the routine had NO `permissionMode` in the app's scheduler record. The Sep 25 direct edit to `bypassPermissions` did not persist — the running app rewrites that file from memory. Arnie set the routine to **Auto** himself in the routine's edit (pencil) window on Oct 3; the record now reads `"permissionMode": "auto"` (same as the UNI report routine, which runs unattended fine). Claude must not change this setting itself.
+- The "Refresh weekend events" button was never broken: it only reloads the latest PUBLISHED file, so with no new edition it could only say nothing new was published.
+
+### Avast WebShield
+- Research sub-agents were killed mid-run twice (all four each time) by "403 … blocked by Avast WebShield" on api.anthropic.com; status.claude.com showed no outage. Short runs survived. Fix that worked: 8 small workers (2 per city) that save their JSON every 3 events, plus small top-up workers. The routine's Step 5 was rewritten the same way (backup: `~/.claude/scheduled-tasks/cincinnati-weekend-refresh/SKILL.md.bak-2026-10-03`). If blocks keep happening, Arnie can add an Avast/Norton web-shield exception for api.anthropic.com (his click).
+
+### Published
+- Saturday–Sunday Oct 3–4 edition (Friday omitted — published Saturday ~5 PM). Daytime attractions that close by ~6 PM Saturday listed Sunday only. Counts: Cincinnati 55 · Philadelphia 55 · Chicago 57 · DC 59, 10 featured each, road trips in every city. `npm test` PASS, link checker PASS (178 URLs), browser check 4 cities desktop + 375 px, refresh button tested.
+- Built by `scripts/build-2026-10-03-editions.mjs` from `scripts/editions/2026-10-03/<city>-candidates.json`; Sep 25–27 files archived.
+- Dropped in review: Chinatown Mid-Autumn Festival (organizer says postponed), Roxtoberfest and two Philly items sourced only by search/news, Wheaton Chili Cook-Off (ended), Milwaukee Oktoberfest (no official hours/address), duplicates across workers.
+
+### Next
+- Wednesday Oct 7 ~9:35 AM ET: first unattended run in Auto mode publishes Oct 9–11. Verify it pushed and Netlify built.

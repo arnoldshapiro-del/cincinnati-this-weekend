@@ -1,0 +1,927 @@
+[
+  {
+    "title": "Yayoi Kusama: All the Eternal Love I Have for the Pumpkins",
+    "dates": [
+      "2026-10-04"
+    ],
+    "time": "11:00 AM–5:00 PM",
+    "venue": "Cincinnati Art Museum",
+    "neighborhood": "Eden Park",
+    "address": "953 Eden Park Drive, Cincinnati, OH 45202",
+    "category": "Arts",
+    "priceValue": null,
+    "priceLabel": "Check source",
+    "travelMinutes": 8,
+    "age": "All ages",
+    "description": "Immersive mirrored installation of yellow polka-dotted pumpkins that appears to stretch into an infinite field, on view through Oct 18. Ticketed (online only); free for members, while general museum admission is always free.",
+    "sourceName": "Cincinnati Art Museum",
+    "sourceUrl": "https://www.cincinnatiartmuseum.org/art/exhibitions/",
+    "featuredCandidate": true
+  },
+  {
+    "title": "Jack O'Lantern Glow at the Cincinnati Zoo",
+    "dates": [
+      "2026-10-03",
+      "2026-10-04"
+    ],
+    "time": "6:00 PM–9:45 PM (last entry; closes 10 PM)",
+    "venue": "Cincinnati Zoo & Botanical Garden",
+    "neighborhood": "Avondale",
+    "address": "3400 Vine St, Cincinnati, OH 45220",
+    "category": "Family",
+    "priceValue": 10,
+    "priceLabel": "$10–$25 (varies by date/time)",
+    "travelMinutes": 10,
+    "age": "All ages",
+    "description": "A half-mile after-hours trail of more than 6,000 hand-carved glowing pumpkins in 20+ themes at the zoo, running Oct 2-31 (closed Oct 5, 12, 19). Separate timed-entry ticket required; advance online purchase.",
+    "sourceName": "Cincinnati Zoo & Botanical Garden",
+    "sourceUrl": "https://cincinnatizoo.org/events/jack-olantern-glow/",
+    "featuredCandidate": true
+  },
+  {
+    "title": "Donauschwaben Oktoberfest",
+    "dates": [
+      "2026-10-03",
+      "2026-10-04"
+    ],
+    "time": "See official schedule",
+    "times": {
+      "2026-10-03": "1:00 PM–11:00 PM",
+      "2026-10-04": "10:00 AM–8:00 PM"
+    },
+    "venue": "Donauschwaben Park",
+    "neighborhood": "Colerain Township",
+    "address": "4290 Dry Ridge Road, Cincinnati, OH 45252",
+    "category": "Festivals",
+    "priceValue": 5,
+    "priceLabel": "$5",
+    "travelMinutes": 22,
+    "age": "All ages",
+    "description": "34th annual Bavarian festival with imported German beers on draft, pit-roasted pork and chicken, homemade sausage and strudel, live music, a 150-plus-person costume parade, dance performances and a kids' area. Sunday also hosts a car show from 10 AM to 3 PM.",
+    "sourceName": "Cincinnati Donauschwaben",
+    "sourceUrl": "https://www.cincydonau.com/",
+    "featuredCandidate": true
+  },
+  {
+    "title": "Cincinnati Bengals vs. Jacksonville Jaguars",
+    "dates": [
+      "2026-10-04"
+    ],
+    "time": "1:00 PM",
+    "venue": "Paycor Stadium",
+    "neighborhood": "The Banks / Downtown",
+    "address": "1 Paycor Stadium, Cincinnati, OH 45202",
+    "category": "Sports",
+    "priceValue": null,
+    "priceLabel": "Check source",
+    "travelMinutes": 0,
+    "age": "All ages",
+    "description": "Week 4 NFL home game as the Bengals host the Jacksonville Jaguars on the riverfront, broadcast on CBS; the Jaguars visit Cincinnati for the second straight year.",
+    "sourceName": "Cincinnati Bengals",
+    "sourceUrl": "https://www.bengals.com/schedule/",
+    "featuredCandidate": true
+  },
+  {
+    "title": "Cincinnati Symphony Orchestra: Marsalis & Mussorgsky Reimagined",
+    "dates": [
+      "2026-10-03"
+    ],
+    "time": "7:30 PM",
+    "venue": "Music Hall (Springer Auditorium)",
+    "neighborhood": "Over-the-Rhine",
+    "address": "1241 Elm Street, Cincinnati, OH 45202",
+    "category": "Music",
+    "priceValue": null,
+    "priceLabel": "Check source",
+    "travelMinutes": 0,
+    "age": "All ages",
+    "description": "Conductor Cristian Macelaru leads the CSO with violinist Nicola Benedetti in Wynton Marsalis' Grammy-winning Violin Concerto, plus Mussorgsky's Pictures at an Exhibition in a Marsalis/Macelaru arrangement for the Jazz at Lincoln Center Orchestra and CSO.",
+    "sourceName": "Cincinnati Arts Association",
+    "sourceUrl": "https://www.cincinnatiarts.org/events/detail/marsalis-mussorgsky-reimagined",
+    "featuredCandidate": true
+  },
+  {
+    "title": "Holly Bowling: Solo Piano Reimagines the Grateful Dead",
+    "dates": [
+      "2026-10-04"
+    ],
+    "time": "7:00 PM",
+    "venue": "Anderson Theater at Memorial Hall",
+    "neighborhood": "Over-the-Rhine",
+    "address": "1225 Elm Street, Cincinnati, OH 45202",
+    "category": "Music",
+    "priceValue": 30,
+    "priceLabel": "$30–$44",
+    "travelMinutes": 0,
+    "age": "Check source",
+    "description": "Pianist Holly Bowling blends classical technique with improvisational reworkings of Grateful Dead songs, in the historic Anderson Theater at Memorial Hall.",
+    "sourceName": "Memorial Hall OTR",
+    "sourceUrl": "https://www.memorialhallotr.com/cincinnati-shows/holly-bowling/",
+    "featuredCandidate": true
+  },
+  {
+    "title": "60th Annual Hyde Park Square Art Show",
+    "dates": [
+      "2026-10-04"
+    ],
+    "time": "10:00 AM–5:00 PM",
+    "venue": "Hyde Park Square",
+    "neighborhood": "Hyde Park",
+    "address": "2700 Erie Ave, Cincinnati, OH 45208",
+    "category": "Arts",
+    "priceValue": 0,
+    "priceLabel": "Free",
+    "travelMinutes": 12,
+    "age": "All ages",
+    "description": "Greater Cincinnati's largest one-day outdoor art show, with more than 200 artists showing painting, photography, sculpture, ceramics, glass and jewelry, plus live jazz, food and a youth art competition. Erie Ave is closed from Edwards to Michigan.",
+    "sourceName": "Hyde Park Square",
+    "sourceUrl": "https://www.hydeparksquare.org/event/hyde-park-square-art-show",
+    "featuredCandidate": true
+  },
+  {
+    "title": "Keeneland Fall Meet: Fall Stars Weekend, Juddmonte Spinster Day",
+    "dates": [
+      "2026-10-04"
+    ],
+    "time": "1:00 PM",
+    "venue": "Keeneland Race Course",
+    "neighborhood": "Lexington, KY",
+    "address": "4201 Versailles Road, Lexington, KY 40510",
+    "category": "Sports",
+    "priceValue": null,
+    "priceLabel": "Check source",
+    "travelMinutes": 95,
+    "age": "All ages",
+    "description": "Keeneland's 90th Fall Meet continues with Sunday's Fall Stars Weekend card headlined by the $650,000 Grade 1 Juddmonte Spinster, plus the Castle & Key Bourbon (G2) and Indian Summer (G3); first post 1 PM.",
+    "sourceName": "Keeneland",
+    "sourceUrl": "https://www.keeneland.com/media/news/keeneland-turns-90-fall-meet-stakes-schedule-worth-107-million",
+    "featuredCandidate": true
+  },
+  {
+    "title": "St. James Court Art Show (70th Anniversary)",
+    "dates": [
+      "2026-10-04"
+    ],
+    "time": "10:00 AM",
+    "venue": "St. James Court, Old Louisville",
+    "neighborhood": "Old Louisville, Louisville, KY",
+    "address": "St. James Court, Louisville, KY 40203",
+    "category": "Arts",
+    "priceValue": 0,
+    "priceLabel": "Free",
+    "travelMinutes": 100,
+    "age": "All ages",
+    "description": "Juried fine-arts and crafts show with 600+ artists across four blocks of Victorian-era Old Louisville, ranked #3 best fine art show in the country by Sunshine Artist magazine; Sunday hours 10 AM to 5 PM.",
+    "sourceName": "St. James Court Art Show",
+    "sourceUrl": "https://stjamescourtartshow.com/",
+    "featuredCandidate": true
+  },
+  {
+    "title": "Ohio Renaissance Festival: Viking Weekend",
+    "dates": [
+      "2026-10-04"
+    ],
+    "time": "10:30 AM–7:00 PM",
+    "venue": "Ohio Renaissance Festival",
+    "neighborhood": "Waynesville",
+    "address": "10542 E State Route 73, Waynesville, OH 45068",
+    "category": "Festivals",
+    "priceValue": null,
+    "priceLabel": "Check source",
+    "travelMinutes": 45,
+    "age": "All ages",
+    "description": "Viking Weekend at the 35-acre permanent Renaissance village, with jousting, music, crafts and more than a hundred daily performances across its stages.",
+    "sourceName": "Ohio Renaissance Festival",
+    "sourceUrl": "https://www.renfestival.com/",
+    "featuredCandidate": true
+  },
+  {
+    "title": "Nancy Rexroth: Secrets of My Power (new retrospective)",
+    "dates": [
+      "2026-10-04"
+    ],
+    "time": "11:00 AM–5:00 PM",
+    "venue": "Cincinnati Art Museum",
+    "neighborhood": "Eden Park",
+    "address": "953 Eden Park Drive, Cincinnati, OH 45202",
+    "category": "Arts",
+    "priceValue": 0,
+    "priceLabel": "Free",
+    "travelMinutes": 8,
+    "age": "All ages",
+    "description": "First career retrospective of the photographer behind the 1977 photobook IOWA, opening Oct 2 and running to Jan 3, 2027. Free admission, with free parking at the museum.",
+    "sourceName": "Cincinnati Art Museum",
+    "sourceUrl": "https://www.cincinnatiartmuseum.org/art/exhibitions/special-features/",
+    "featuredCandidate": false
+  },
+  {
+    "title": "LEGO Jurassic World: The Exhibition",
+    "dates": [
+      "2026-10-04"
+    ],
+    "time": "10:00 AM–5:00 PM",
+    "venue": "Cincinnati Museum Center at Union Terminal",
+    "neighborhood": "Queensgate",
+    "address": "1301 Western Ave, Cincinnati, OH 45203",
+    "category": "Family",
+    "priceValue": 14.5,
+    "priceLabel": "$14.50–$19.50",
+    "travelMinutes": 7,
+    "age": "All ages",
+    "description": "Millions of LEGO bricks build life-size dinosaurs and scenes from the Jurassic World films inside the historic Union Terminal, open through Jan 4, 2027. On Sunday Oct 4 from 1-4 PM the museum hosts a Deaf Day in the exhibition.",
+    "sourceName": "Cincinnati Museum Center",
+    "sourceUrl": "https://www.cincymuseum.org/jurassic-world/",
+    "featuredCandidate": false
+  },
+  {
+    "title": "Halloween Haunt at Kings Island",
+    "dates": [
+      "2026-10-03"
+    ],
+    "time": "Check source (select Haunt nights; confirm on the park calendar)",
+    "venue": "Kings Island",
+    "neighborhood": "Mason",
+    "address": "6300 Kings Island Dr, Mason, OH 45034",
+    "category": "Family",
+    "priceValue": 64,
+    "priceLabel": "From $64 (admission + mazes bundle)",
+    "travelMinutes": 35,
+    "age": "Not recommended under 13 after dark",
+    "description": "Seven haunted mazes, four scare zones and four live shows after dark, plus daytime Tricks & Treats; new mazes include JASON: Blood Reign and Metal Massacre. Mazes require a Haunted Attractions Pass or bundle.",
+    "sourceName": "Kings Island (Six Flags)",
+    "sourceUrl": "https://www.sixflags.com/kingsisland/events/halloween-haunt",
+    "featuredCandidate": false
+  },
+  {
+    "title": "Fall Bonsai Show at Krohn Conservatory",
+    "dates": [
+      "2026-10-03",
+      "2026-10-04"
+    ],
+    "time": "See official schedule",
+    "times": {
+      "2026-10-03": "10:00 AM–8:00 PM",
+      "2026-10-04": "Check source"
+    },
+    "venue": "Krohn Conservatory",
+    "neighborhood": "Eden Park",
+    "address": "1501 Eden Park Dr, Cincinnati, OH 45202",
+    "category": "Outdoors",
+    "priceValue": null,
+    "priceLabel": "Check source",
+    "travelMinutes": 8,
+    "age": "All ages",
+    "description": "The Bonsai Society of Greater Cincinnati shows specimen trees during Krohn's fall show, with club members and vendors on hand. Saturday 10 AM-2 PM features a styling demonstration by bonsai artist Jennifer Price; Sunday has consultations (sign-up required).",
+    "sourceName": "Cincinnati Parks",
+    "sourceUrl": "https://www.cincinnati-oh.gov/cincyparks/visit-a-park/parks-events-calendar/fall-bonsai-show-at-krohn-conservatory/",
+    "featuredCandidate": false
+  },
+  {
+    "title": "Taft Museum of Art (Sunday free admission)",
+    "dates": [
+      "2026-10-04"
+    ],
+    "time": "10:00 AM–5:00 PM",
+    "venue": "Taft Museum of Art",
+    "neighborhood": "Downtown",
+    "address": "316 Pike Street, Cincinnati, OH 45202",
+    "category": "Arts",
+    "priceValue": 0,
+    "priceLabel": "Free Sunday; $15 Saturday (adults)",
+    "travelMinutes": 0,
+    "age": "All ages",
+    "description": "A historic 1820 house museum with Old Master and American paintings, plus Taft Tourist: Sargents in Conversation (a Sargent portrait on loan from Tate Britain, through Oct 5) and Unfolding Elegance: European Fans. Admission is free on Sundays.",
+    "sourceName": "Taft Museum of Art",
+    "sourceUrl": "https://www.taftmuseum.org/exhibitions/",
+    "featuredCandidate": false
+  },
+  {
+    "title": "Contemporary Arts Center: SOFTlab and Sarah Rodriguez (last weekend)",
+    "dates": [
+      "2026-10-04"
+    ],
+    "time": "10:00 AM–4:00 PM",
+    "venue": "Contemporary Arts Center",
+    "neighborhood": "Downtown",
+    "address": "44 E 6th Street, Cincinnati, OH 45202",
+    "category": "Arts",
+    "priceValue": 12,
+    "priceLabel": "$12 (free 18 and under)",
+    "travelMinutes": 0,
+    "age": "All ages",
+    "description": "SOFTlab's suspended color installation Gravity's Rainbow fills the lobby through Oct 31, while Sarah Rodriguez: Homespun, an archive of reclaimed objects exploring kinship, closes Oct 4. Free for members, ages 18 and under and SNAP/EBT holders.",
+    "sourceName": "Contemporary Arts Center",
+    "sourceUrl": "https://www.contemporaryartscenter.org/visit/exhibitions",
+    "featuredCandidate": false
+  },
+  {
+    "title": "Sunflower Festival at Gorman Heritage Farm",
+    "dates": [
+      "2026-10-04"
+    ],
+    "time": "9:00 AM–5:00 PM",
+    "venue": "Gorman Heritage Farm",
+    "neighborhood": "Evendale",
+    "address": "10052 Reading Rd, Evendale, OH 45241",
+    "category": "Festivals",
+    "priceValue": 8,
+    "priceLabel": "$8–$15 (advance $8–$12; free under 2)",
+    "travelMinutes": 22,
+    "age": "All ages",
+    "description": "Cut-your-own sunflowers, a sunflower maze and corn maze, hayrides, pumpkins, farm animals, craft vendors and food trucks on a 122-acre working farm, rain or shine. A ticket is valid for one day only; no cash at the gate.",
+    "sourceName": "Gorman Heritage Farm",
+    "sourceUrl": "https://www.gormanfarm.org/portfolio-items/sunflower/",
+    "featuredCandidate": false
+  },
+  {
+    "title": "Fall Festival at Burger Farm & Garden Center",
+    "dates": [
+      "2026-10-04"
+    ],
+    "time": "10:00 AM–6:00 PM",
+    "venue": "Burger Farm & Garden Center",
+    "neighborhood": "Newtown",
+    "address": "7849 Main Street, Cincinnati, OH 45244",
+    "category": "Family",
+    "priceValue": null,
+    "priceLabel": "Check source",
+    "travelMinutes": 22,
+    "age": "All ages",
+    "description": "Weekend fall celebration at a family garden center in operation since 1904, with hayrides, a pumpkin patch and outdoor games, plus mums, cornstalks, pumpkins and gourds for sale. Runs weekends Oct 3-4, 10-11, 17-18 and 24-25.",
+    "sourceName": "Burger Farm & Garden Center",
+    "sourceUrl": "https://burgerfarms.com/",
+    "featuredCandidate": false
+  },
+  {
+    "title": "Fall Season at Niederman Family Farm",
+    "dates": [
+      "2026-10-03",
+      "2026-10-04"
+    ],
+    "time": "See official schedule",
+    "times": {
+      "2026-10-03": "11:00 AM–9:00 PM",
+      "2026-10-04": "1:00 PM–6:00 PM"
+    },
+    "venue": "Niederman Family Farm",
+    "neighborhood": "Liberty Township",
+    "address": "5110 Lesourdsville West Chester Rd, Liberty Twp, OH 45011",
+    "category": "Family",
+    "priceValue": null,
+    "priceLabel": "Check source",
+    "travelMinutes": 35,
+    "age": "All ages",
+    "description": "Pick a pumpkin, wind through the corn maze, take a tractor ride and let kids burn off energy on the jumping pillow and play areas, with farm animals and outdoor games. Open Sept 25 through Nov 1.",
+    "sourceName": "Niederman Family Farm",
+    "sourceUrl": "https://niedermanfamilyfarm.com/",
+    "featuredCandidate": false
+  },
+  {
+    "title": "TALK (world premiere) at the Cincinnati Playhouse in the Park",
+    "dates": [
+      "2026-10-03",
+      "2026-10-04"
+    ],
+    "time": "See official schedule",
+    "times": {
+      "2026-10-03": "7:30 PM (post-show cocktail hour)",
+      "2026-10-04": "Check source"
+    },
+    "venue": "Cincinnati Playhouse in the Park, Rosenthal Shelterhouse Theatre",
+    "neighborhood": "Mt. Adams",
+    "address": "962 Mt. Adams Circle, Cincinnati, OH 45202",
+    "category": "Theater",
+    "priceValue": 39,
+    "priceLabel": "From $39",
+    "travelMinutes": 8,
+    "age": "Check source",
+    "description": "Cincinnati native Theresa Rebeck's world premiere, a satire of the news-talk media in which a live broadcast spirals out of control when an unexpected guest joins the panel. Runs Sept 26-Oct 25; Saturday also has free Made in Cincy new-works readings (reservation required).",
+    "sourceName": "Cincinnati Playhouse in the Park",
+    "sourceUrl": "https://cincyplay.com/new-works-festival",
+    "featuredCandidate": false
+  },
+  {
+    "title": "HEIST at the Cincinnati Playhouse in the Park",
+    "dates": [
+      "2026-10-04"
+    ],
+    "time": "2:00 PM",
+    "venue": "Cincinnati Playhouse in the Park, Moe and Jack's Place - The Rouse Theatre",
+    "neighborhood": "Mt. Adams",
+    "address": "962 Mt. Adams Circle, Cincinnati, OH 45202",
+    "category": "Theater",
+    "priceValue": null,
+    "priceLabel": "Check source",
+    "travelMinutes": 8,
+    "age": "Teens and adults",
+    "description": "A high-tech theatrical caper full of lasers, aerial stunts, clever twists and suspense by Arun Lakra, directed by Blake Robison, running Sept 12-Oct 11. Sunday's 2 PM matinee is the ASL-signed performance.",
+    "sourceName": "Cincinnati Playhouse in the Park",
+    "sourceUrl": "https://www.cincyplay.com/productions/Heist",
+    "featuredCandidate": false
+  },
+  {
+    "title": "Art on Vine (Bengals tailgate edition)",
+    "dates": [
+      "2026-10-04"
+    ],
+    "time": "12:00 PM–6:00 PM",
+    "venue": "Elm Street Plaza",
+    "neighborhood": "Downtown",
+    "address": "150 W 5th Street, Cincinnati, OH 45202",
+    "category": "Community",
+    "priceValue": 0,
+    "priceLabel": "Free",
+    "travelMinutes": 0,
+    "age": "All ages",
+    "description": "Final summer residency of the free, family-friendly market with 80+ local artists and handmade-goods makers, food trucks and refreshments, doubling as a Bengals tailgate celebration. Organizers recommend taking the free Cincinnati Streetcar.",
+    "sourceName": "Art on Vine",
+    "sourceUrl": "https://www.artonvinecincy.com",
+    "featuredCandidate": false
+  },
+  {
+    "title": "Underwater Pumpkin GLOW at Newport Aquarium",
+    "dates": [
+      "2026-10-03",
+      "2026-10-04"
+    ],
+    "time": "9:00 AM–7:00 PM (hours may vary)",
+    "venue": "Newport Aquarium",
+    "neighborhood": "Newport, KY",
+    "address": "1 Levee Way, Newport, KY 41071",
+    "category": "Family",
+    "priceValue": 28.99,
+    "priceLabel": "Included with admission (from $28.99)",
+    "travelMinutes": 8,
+    "age": "All ages",
+    "description": "Giant glowing pumpkin sculptures and underwater jack-o-lanterns turn the exhibits into reefs, including a 10-foot Giant Pacific Octopus made of pumpkins. Included with general admission; pumpkin decorating is available for an extra cost.",
+    "sourceName": "Newport Aquarium",
+    "sourceUrl": "https://www.newportaquarium.com/things-to-do/aquarium-events/pumpkin-glow/",
+    "featuredCandidate": false
+  },
+  {
+    "title": "Jazz at Lincoln Center Orchestra with Wynton Marsalis",
+    "dates": [
+      "2026-10-04"
+    ],
+    "time": "5:00 PM",
+    "venue": "Music Hall (Springer Auditorium)",
+    "neighborhood": "Over-the-Rhine",
+    "address": "1241 Elm Street, Cincinnati, OH 45202",
+    "category": "Music",
+    "priceValue": null,
+    "priceLabel": "Check source",
+    "travelMinutes": 0,
+    "age": "All ages",
+    "description": "The Jazz at Lincoln Center Orchestra closes the Cincinnati Symphony's season-opening festival with its own concert at Music Hall; the CSO itself does not perform on this program.",
+    "sourceName": "Cincinnati Arts Association",
+    "sourceUrl": "https://www.cincinnatiarts.org/events/detail/cso-presents-jazz-at-lincoln-center",
+    "featuredCandidate": false
+  },
+  {
+    "title": "Don Lemon & DL Hughley: DL + DL 'Anything Goes'",
+    "dates": [
+      "2026-10-03"
+    ],
+    "time": "7:00 PM",
+    "venue": "Taft Theatre",
+    "neighborhood": "Downtown",
+    "address": "317 E 5th Street, Cincinnati, OH 45202",
+    "category": "Comedy",
+    "priceValue": null,
+    "priceLabel": "Check source",
+    "travelMinutes": 0,
+    "age": "Check source",
+    "description": "Journalist Don Lemon and comedian D.L. Hughley bring their live conversation-and-comedy tour to the Taft Theatre; doors at 6 PM, with metal-detector screening and bag inspection at entry.",
+    "sourceName": "Taft Theatre",
+    "sourceUrl": "https://tafttheatre.org/events/2026/10/don-lemon-dl-hughley",
+    "featuredCandidate": false
+  },
+  {
+    "title": "Brad Williams: The Tall Tales Tour",
+    "dates": [
+      "2026-10-04"
+    ],
+    "time": "7:30 PM",
+    "venue": "Taft Theatre",
+    "neighborhood": "Downtown",
+    "address": "317 E 5th Street, Cincinnati, OH 45202",
+    "category": "Comedy",
+    "priceValue": null,
+    "priceLabel": "Check source",
+    "travelMinutes": 0,
+    "age": "Check source",
+    "description": "High-energy stand-up comedian Brad Williams brings his Tall Tales Tour 2026 to the Taft Theatre; doors at 6:30 PM.",
+    "sourceName": "Taft Theatre",
+    "sourceUrl": "https://tafttheatre.org/events/2026/10/brad-williams",
+    "featuredCandidate": false
+  },
+  {
+    "title": "Who Dey Brunch at Rhinegeist Rooftop",
+    "dates": [
+      "2026-10-04"
+    ],
+    "time": "10:00 AM",
+    "venue": "Rhinegeist Rooftop",
+    "neighborhood": "Over-the-Rhine",
+    "address": "1910 Elm Street, Cincinnati, OH 45202",
+    "category": "Food & drink",
+    "priceValue": 45,
+    "priceLabel": "$45 adults; $20 under 21; $10 ages 3 and under",
+    "travelMinutes": 0,
+    "age": "All ages",
+    "description": "Bengals game-day brunch on the Rhinegeist rooftop with early access, a chef-curated buffet, mimosas and beer for adults; event runs 10 AM to noon and tickets are limited.",
+    "sourceName": "Rhinegeist",
+    "sourceUrl": "https://rhinegeist.com/event/who-dey-brunch-10-4-26/",
+    "featuredCandidate": false
+  },
+  {
+    "title": "Findlay Market Sunday Farmers Market",
+    "dates": [
+      "2026-10-04"
+    ],
+    "time": "10:00 AM",
+    "venue": "Findlay Market",
+    "neighborhood": "Over-the-Rhine",
+    "address": "1801 Race Street, Cincinnati, OH 45202",
+    "category": "Food & drink",
+    "priceValue": 0,
+    "priceLabel": "Free",
+    "travelMinutes": 0,
+    "age": "All ages",
+    "description": "Ohio's oldest continuously operated public market is open Sundays 10 AM to 4 PM, with the farmers market 10 AM to 2 PM alongside 50+ merchants selling produce, meats, specialty foods and flowers.",
+    "sourceName": "Findlay Market",
+    "sourceUrl": "https://www.findlaymarket.org/",
+    "featuredCandidate": false
+  },
+  {
+    "title": "Hyde Park Farmers' Market",
+    "dates": [
+      "2026-10-04"
+    ],
+    "time": "9:30 AM",
+    "venue": "Hyde Park Square",
+    "neighborhood": "Hyde Park",
+    "address": "2700 Erie Avenue, Cincinnati, OH 45208",
+    "category": "Food & drink",
+    "priceValue": 0,
+    "priceLabel": "Free",
+    "travelMinutes": 15,
+    "age": "All ages",
+    "description": "Sunday farmers' market on Hyde Park Square, 9:30 AM to 1 PM, with weekly produce updates; the season runs May through October.",
+    "sourceName": "Hyde Park Farmers' Market",
+    "sourceUrl": "https://www.hydeparkfarmersmarket.com/",
+    "featuredCandidate": false
+  },
+  {
+    "title": "Cincinnati Art Week: Opening Weekend",
+    "dates": [
+      "2026-10-03",
+      "2026-10-04"
+    ],
+    "time": "See official schedule",
+    "times": {
+      "2026-10-03": "Exhibition openings 4:00-7:00 PM",
+      "2026-10-04": "Check source"
+    },
+    "venue": "Over-the-Rhine pop-up galleries and studios",
+    "neighborhood": "Over-the-Rhine",
+    "address": "Kickoff at 1600 Race Street, Cincinnati, OH 45202",
+    "category": "Arts",
+    "priceValue": 0,
+    "priceLabel": "Free",
+    "travelMinutes": 0,
+    "age": "All ages",
+    "description": "Week-long celebration of art and creative community in Over-the-Rhine with exhibition openings, pop-up galleries, artist talks and workshops across 10+ spaces.",
+    "sourceName": "Cincinnati Art Week",
+    "sourceUrl": "https://www.cincinnatiartweek.com/",
+    "featuredCandidate": false
+  },
+  {
+    "title": "MAMMOTH Music & Arts Fest",
+    "dates": [
+      "2026-10-04"
+    ],
+    "time": "12:00 PM",
+    "venue": "The Southgate House Revival",
+    "neighborhood": "Newport, KY",
+    "address": "111 E 6th Street, Newport, KY 41071",
+    "category": "Music",
+    "priceValue": null,
+    "priceLabel": "Check source",
+    "travelMinutes": 10,
+    "age": "All ages",
+    "description": "All-ages music and arts festival across the multi-room Southgate House Revival in Newport, with doors at 11 AM and a show start at noon.",
+    "sourceName": "Southgate House Revival",
+    "sourceUrl": "https://www.southgatehouse.com/tm-event/mammoth-music-festival/",
+    "featuredCandidate": false
+  },
+  {
+    "title": "Kevin Nealon at Go Bananas Comedy Club",
+    "dates": [
+      "2026-10-03"
+    ],
+    "time": "9:45 PM",
+    "venue": "Go Bananas Comedy Club",
+    "neighborhood": "Montgomery",
+    "address": "8410 Market Place Lane, Montgomery, OH 45242",
+    "category": "Comedy",
+    "priceValue": 40,
+    "priceLabel": "$40",
+    "travelMinutes": 25,
+    "age": "21+",
+    "description": "Actor and Saturday Night Live alum Kevin Nealon performs stand-up at Cincinnati's long-running comedy club; the 7:30 PM show is sold out so only the 9:45 PM show is listed.",
+    "sourceName": "Go Bananas Comedy Club",
+    "sourceUrl": "https://gobananascomedy.com/main/",
+    "featuredCandidate": false
+  },
+  {
+    "title": "Lyfe Jennings at Bogart's",
+    "dates": [
+      "2026-10-03"
+    ],
+    "time": "7:00 PM",
+    "venue": "Bogart's",
+    "neighborhood": "Corryville",
+    "address": "2621 Vine Street, Cincinnati, OH 45219",
+    "category": "Music",
+    "priceValue": null,
+    "priceLabel": "Check source",
+    "travelMinutes": 8,
+    "age": "Check source",
+    "description": "R&B singer-songwriter Lyfe Jennings plays Bogart's, Cincinnati's historic Vine Street music venue, on Saturday night.",
+    "sourceName": "Bogart's",
+    "sourceUrl": "https://www.bogarts.com/",
+    "featuredCandidate": false
+  },
+  {
+    "title": "Thomas More Saints Homecoming vs. #25 Walsh",
+    "dates": [
+      "2026-10-03"
+    ],
+    "time": "7:00 PM",
+    "venue": "Republic Bank Field, Thomas More University",
+    "neighborhood": "Crestview Hills, KY",
+    "address": "333 Thomas More Parkway, Crestview Hills, KY 41017",
+    "category": "Sports",
+    "priceValue": null,
+    "priceLabel": "Check source",
+    "travelMinutes": 20,
+    "age": "All ages",
+    "description": "Thomas More hosts #25 Walsh University in a G-MAC conference football game on Homecoming night under the lights; streamed on FloCollege.",
+    "sourceName": "Thomas More Saints Athletics",
+    "sourceUrl": "https://thomasmoresaints.com/sports/football/schedule/2026",
+    "featuredCandidate": false
+  },
+  {
+    "title": "AEW Collision",
+    "dates": [
+      "2026-10-03"
+    ],
+    "time": "7:30 PM",
+    "venue": "Truist Arena",
+    "neighborhood": "Highland Heights, KY",
+    "address": "500 Louie B. Nunn Drive, Highland Heights, KY 41099",
+    "category": "Sports",
+    "priceValue": null,
+    "priceLabel": "Check source",
+    "travelMinutes": 20,
+    "age": "Check source",
+    "description": "All Elite Wrestling brings its Collision show to Truist Arena at Northern Kentucky University on Saturday night.",
+    "sourceName": "All Elite Wrestling",
+    "sourceUrl": "https://www.allelitewrestling.com/events",
+    "featuredCandidate": false
+  },
+  {
+    "title": "Columbus Blue Jackets vs. Utah Mammoth",
+    "dates": [
+      "2026-10-03"
+    ],
+    "time": "7:00 PM",
+    "venue": "Nationwide Arena",
+    "neighborhood": "Arena District, Columbus, OH",
+    "address": "200 W Nationwide Boulevard, Columbus, OH 43215",
+    "category": "Sports",
+    "priceValue": null,
+    "priceLabel": "Check source",
+    "travelMinutes": 105,
+    "age": "All ages",
+    "description": "Blue Jackets opening-week home game with a free Plaza Party from 4 PM until puck drop, doors at 5:30 PM, and a Zach Werenski Norris Trophy T-shirt for the first 10,000 fans.",
+    "sourceName": "Columbus Blue Jackets (NHL.com)",
+    "sourceUrl": "https://www.nhl.com/bluejackets/news/blue-jackets-announce-opening-week-festivities-26-27",
+    "featuredCandidate": false
+  },
+  {
+    "title": "OMNIMAX Theater: Arctic: Our Frozen Planet",
+    "dates": [
+      "2026-10-04"
+    ],
+    "time": "Check source",
+    "venue": "Cincinnati Museum Center, Robert D. Lindner Family OMNIMAX Theater",
+    "neighborhood": "Queensgate",
+    "address": "1301 Western Ave, Cincinnati, OH 45203",
+    "category": "Family",
+    "priceValue": null,
+    "priceLabel": "Check source",
+    "travelMinutes": 5,
+    "age": "All ages",
+    "description": "Giant-dome OMNIMAX film following a year at the top of the world; the theater also screens T. Rex and other titles. Museum Center is open daily 10 AM to 5 PM.",
+    "sourceName": "Cincinnati Museum Center",
+    "sourceUrl": "https://www.cincymuseum.org/omnimax/",
+    "featuredCandidate": false
+  },
+  {
+    "title": "Cincinnati Nature Center at Rowe Woods: trails, visitor center and Nature PlayScape",
+    "dates": [
+      "2026-10-04"
+    ],
+    "time": "Grounds 8:00 AM–7:00 PM; Visitor Center 9:00 AM–5:00 PM",
+    "venue": "Cincinnati Nature Center, Rowe Woods",
+    "neighborhood": "Milford",
+    "address": "4949 Tealtown Rd, Milford, OH 45150",
+    "category": "Outdoors",
+    "priceValue": 12,
+    "priceLabel": "$12 adult / $10 senior-military / $8 child (3 and under free)",
+    "travelMinutes": 35,
+    "age": "All ages",
+    "description": "Rowe Woods has about 20 miles of trails through old-growth forest, plus a Nature PlayScape, pollinator garden, raptor ambassadors and a visitor center with a nature shop. Open seven days a week.",
+    "sourceName": "Cincinnati Nature Center",
+    "sourceUrl": "https://www.cincynature.org/visit",
+    "featuredCandidate": false
+  },
+  {
+    "title": "BB Riverboats High Noon Sightseeing Cruise on the Ohio River",
+    "dates": [
+      "2026-10-04"
+    ],
+    "time": "12:00 PM–2:00 PM (boarding 11:00 AM)",
+    "venue": "BB Riverboats",
+    "neighborhood": "Newport, KY",
+    "address": "101 Riverboat Row, Newport, KY 41071",
+    "category": "Tours",
+    "priceValue": 29,
+    "priceLabel": "$36 adults / $29 kids ages 4-12",
+    "travelMinutes": 10,
+    "age": "All ages",
+    "description": "A two-hour Ohio River cruise with a banjo player sharing river lore, plus a cash bar and snack bar. General admission seating on the outside of the vessel; interior seats are reserved for diners.",
+    "sourceName": "BB Riverboats",
+    "sourceUrl": "https://www.bbriverboats.com/cruise/8/2026-10-04",
+    "featuredCandidate": false
+  },
+  {
+    "title": "BB Riverboats Evening Skyline Cruises on the Ohio River",
+    "dates": [
+      "2026-10-03",
+      "2026-10-04"
+    ],
+    "time": "See official schedule",
+    "times": {
+      "2026-10-03": "7:00 PM–9:00 PM (boarding 6:00 PM), Music and Skyline Cruise, $40",
+      "2026-10-04": "6:30 PM–8:30 PM (boarding 6:00 PM), Early Evening Sightseeing Cruise, $36"
+    },
+    "venue": "BB Riverboats",
+    "neighborhood": "Newport, KY",
+    "address": "101 Riverboat Row, Newport, KY 41071",
+    "category": "Tours",
+    "priceValue": 36,
+    "priceLabel": "$36–$40 adults; kids 4-12 $29–$31",
+    "travelMinutes": 10,
+    "age": "All ages",
+    "description": "Two-hour evening sightseeing cruises past the Cincinnati skyline with DJ entertainment, a cash bar and snack bar; Saturday's Music and Skyline cruise sails at sunset. Outdoor seating only.",
+    "sourceName": "BB Riverboats",
+    "sourceUrl": "https://www.bbriverboats.com/cruise/2/2026-10-03",
+    "featuredCandidate": false
+  },
+  {
+    "title": "Cincinnati Zoo & Botanical Garden daytime: Sunday cheetah encounters, Safari Train and giraffe feeding",
+    "dates": [
+      "2026-10-04"
+    ],
+    "time": "Check source",
+    "venue": "Cincinnati Zoo & Botanical Garden",
+    "neighborhood": "Avondale",
+    "address": "3400 Vine St, Cincinnati, OH 45220",
+    "category": "Family",
+    "priceValue": null,
+    "priceLabel": "Check source",
+    "travelMinutes": 10,
+    "age": "All ages",
+    "description": "Daytime zoo visit with Cheetah Encounters at 10:30 AM and 12 PM on Sundays, giraffe feeding (), Safari Train () and carousel () rides, and a free-flight aviary. Separate from the evening Jack O'Lantern Glow.",
+    "sourceName": "Cincinnati Zoo & Botanical Garden",
+    "sourceUrl": "https://cincinnatizoo.org/plan-your-adventure/",
+    "featuredCandidate": false
+  },
+  {
+    "title": "Fifth & Vine Live: Repertoire on Fountain Square",
+    "dates": [
+      "2026-10-03"
+    ],
+    "time": "7:00 PM–10:00 PM",
+    "venue": "Fountain Square",
+    "neighborhood": "Downtown",
+    "address": "520 Vine St, Cincinnati, OH 45202",
+    "category": "Music",
+    "priceValue": 0,
+    "priceLabel": "Free",
+    "travelMinutes": 0,
+    "age": "All ages",
+    "description": "Fountain Square's Saturday-night Fifth & Vine Live series brings a regional cover and tribute band, Repertoire, to the downtown square; free, no tickets required.",
+    "sourceName": "Fountain Square",
+    "sourceUrl": "https://myfountainsquare.com/series/2026-fifth-vine-live/",
+    "featuredCandidate": false
+  },
+  {
+    "title": "Fountain District Fanfest: Overtime",
+    "dates": [
+      "2026-10-04"
+    ],
+    "time": "4:00 PM–7:00 PM",
+    "venue": "Fountain Square",
+    "neighborhood": "Downtown",
+    "address": "520 Vine St, Cincinnati, OH 45202",
+    "category": "Community",
+    "priceValue": 0,
+    "priceLabel": "Free",
+    "travelMinutes": 0,
+    "age": "All ages",
+    "description": "Post-game Bengals celebration on Fountain Square with live music from Jet Pack Academy, cornhole and drink specials after the Jaguars game.",
+    "sourceName": "Fountain Square",
+    "sourceUrl": "https://myfountainsquare.com/series/fountain-district-fan-fest-overtime/",
+    "featuredCandidate": false
+  },
+  {
+    "title": "American Sign Museum",
+    "dates": [
+      "2026-10-04"
+    ],
+    "time": "10:00 AM–4:00 PM",
+    "venue": "American Sign Museum",
+    "neighborhood": "Camp Washington",
+    "address": "1330 Monmouth Ave, Cincinnati, OH 45225",
+    "category": "Arts",
+    "priceValue": 20,
+    "priceLabel": "$20 adults; $15 seniors; free 12 and under",
+    "travelMinutes": 8,
+    "age": "All ages",
+    "description": "A one-of-a-kind collection of more than a century of American signs, from gilded glass to glowing neon, displayed along a recreated Main Street.",
+    "sourceName": "American Sign Museum",
+    "sourceUrl": "https://www.americansignmuseum.org/visit/",
+    "featuredCandidate": false
+  },
+  {
+    "title": "Pyramid Hill Sculpture Park & Museum",
+    "dates": [
+      "2026-10-04"
+    ],
+    "time": "9:00 AM–5:00 PM",
+    "venue": "Pyramid Hill Sculpture Park & Museum",
+    "neighborhood": "Hamilton",
+    "address": "1763 Hamilton Cleves Rd, Hamilton, OH 45013",
+    "category": "Outdoors",
+    "priceValue": 10,
+    "priceLabel": "$10 adults; $5 ages 6–12; free 5 and under",
+    "travelMinutes": 35,
+    "age": "All ages",
+    "description": "Drive, walk or rent an art cart through hundreds of acres of hills and woods dotted with monumental outdoor sculpture, a strong early-fall outing.",
+    "sourceName": "Pyramid Hill Sculpture Park & Museum",
+    "sourceUrl": "https://www.pyramidhill.org/visit",
+    "featuredCandidate": false
+  },
+  {
+    "title": "Meet a Meteorite at the Cincinnati Observatory",
+    "dates": [
+      "2026-10-03"
+    ],
+    "time": "6:00 PM–9:00 PM",
+    "venue": "Cincinnati Observatory",
+    "neighborhood": "Mount Lookout",
+    "address": "3489 Observatory Pl, Cincinnati, OH 45208",
+    "category": "Family",
+    "priceValue": null,
+    "priceLabel": "Check source",
+    "travelMinutes": 12,
+    "age": "All ages",
+    "description": "An evening program at the historic Cincinnati Observatory built around real meteorites, with registration through the Observatory's booking page.",
+    "sourceName": "Cincinnati Observatory",
+    "sourceUrl": "https://www.cincinnatiobservatory.org/events/event/meet-a-meteorite/2026-10-03/",
+    "featuredCandidate": false
+  },
+  {
+    "title": "The Land of Illusion Haunted Scream Park",
+    "dates": [
+      "2026-10-03"
+    ],
+    "time": "7:00 PM–1:00 AM",
+    "venue": "The Land of Illusion",
+    "neighborhood": "Middletown",
+    "address": "8762 Thomas Rd, Middletown, OH 45042",
+    "category": "Family",
+    "priceValue": 15,
+    "priceLabel": "From $15",
+    "travelMinutes": 40,
+    "age": "Check source (intense scares)",
+    "description": "One of the region's biggest haunt parks, with multiple haunted attractions and scare zones open Friday and Saturday nights through Halloween.",
+    "sourceName": "The Land of Illusion",
+    "sourceUrl": "https://www.landofillusion.com/",
+    "featuredCandidate": false
+  }
+]

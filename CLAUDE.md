@@ -22,7 +22,7 @@ Follow `WEEKLY-REFRESH.md` completely. Every event needs a real date, venue, HTT
 - Saved events, followed venues, notes, and plans are scoped by city in browser storage.
 - `events.js` and `data/current-weekend.json` are legacy Cincinnati snapshots and must not overwrite the city files.
 
-Current prepared editions: September 18–20, 2026 in all four cities (published 2026-09-16; rows in `scripts/editions/<friday>/`, built by `scripts/build-<friday>-editions.mjs`). Greater Washington DC was added on 2026-09-04 with its own `data/washington-dc/current-weekend.json`; every Wednesday publication must refresh all four city files in the same commit.
+Current prepared editions: October 3–4, 2026 (Sat–Sun) in all four cities (published 2026-10-03; rows in `scripts/editions/<date>/`, built by `scripts/build-<date>-editions.mjs`).
 
 ## Related app
 
