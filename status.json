@@ -14,13 +14,13 @@
     }
   },
   "startedAt": "2026-10-10T22:38:12.674Z",
-  "updatedAt": "2026-10-10T22:39:51.335Z",
-  "leaseExpiresAt": "2026-10-10T22:59:51.335Z",
+  "updatedAt": "2026-10-10T22:46:00.098Z",
+  "leaseExpiresAt": "2026-10-10T23:06:00.098Z",
   "nextAllowedAt": "2026-10-10T23:38:12.674Z",
   "progress": {
     "completedCities": 0,
     "totalCities": 1,
-    "sourcesChecked": 0,
+    "sourcesChecked": 39,
     "verifiedEvents": 0
   },
   "publication": null,
