@@ -2,21 +2,20 @@
 
 ## Activation status
 
-This is prepared implementation, not confirmation of a working live integration.
-As verified on October 10, 2026, the former Claude desktop task
-`cincinnati-weekend-refresh` is disabled, and the previous Codex publisher is
-paused. The owner approved a Wednesday-only automatic publisher and extra runs
-only when the Refresh button is used. The new triggers are pending setup and
-verification. The one-hour limit is a cooldown, **not an hourly schedule**.
-Do not re-enable a desktop publisher alongside this design.
+As verified October 10, 2026, the former Claude desktop task `cincinnati-weekend-refresh` is disabled and the previous Codex publisher is paused. Keep both disabled. The owner approved automatic publication only on Wednesdays at 9:35 AM America/New_York and extra selected-city runs only when the Refresh button is used. The one-hour limit is a cooldown, **not an hourly schedule**.
 
-The existing GitHub `main` branch remains canonical. Desktop synchronization is a
-later fast-forward of the canonical checkout, not another publication source.
-Do not overwrite a separate dirty checkout. After activation, update the root
-`CLAUDE.md` and `WEEKLY-REFRESH.md` scheduler descriptions and provide Claude a
-fresh-session handoff saying the cloud publisher owns publication and the former
-desktop schedule stays disabled. Do not claim that handoff or migration happened
-merely because these documents exist.
+Configured and verified:
+- Netlify Forms is enabled for site `ced21387-3861-49f0-ac0d-d7d4443bcebe`.
+- Registered form `weekend-refresh` has ID `6acabd9f42301d00081875d3`.
+- The matching manual event subscription is created and enabled.
+- The Wednesday 9:35 AM America/New_York schedule is created and enabled; there is no hourly publisher.
+- The public `refresh-control/status.json` record is readable with CORS. Browser reads use cache-busting and no-store; lock operations use conditional GitHub API writes.
+- Production commit `216b2ed`, deploy `6acabd91e93cea0008645e77`, was verified ready with all four October 10–11 guides and 201 event-day cards.
+- The client configuration is enabled in this activation change.
+
+**Real end-to-end request test: IN PROGRESS.** One approved real submission was delivered with authenticated form ID, form name, and submission ID. Its event's site ID was blank; a supported exact-form read verified that form `6acabd9f42301d00081875d3` belongs to the expected site. The publisher acquired and read back control job `refresh-cincinnati-20261010T223800Z`, started at `2026-10-10T22:38:12.674Z`. Actual Cincinnati source re-verification is underway. The new publication and browser completion state have not yet been verified. Neither trigger setup nor HTTP acceptance is claimed as a completed research refresh.
+
+The existing GitHub `main` branch remains canonical. Desktop synchronization is a later fast-forward of the canonical checkout, not another publication source. Do not overwrite a separate dirty checkout. Claude's handoff must state that the cloud publisher owns publication and the former desktop schedule stays disabled; creating these documents alone does not prove that handoff was delivered.
 
 ## Supported integration
 
@@ -42,15 +41,14 @@ The discovered trigger is:
 ```
 
 The trigger schema filters only by site. Validate the exact deployed form ID and
-name inside the publisher. The event payload shape must be observed and verified
-in an approved end-to-end test; it has not been assumed here. Current connected
+name inside the publisher. The observed authenticated test event supplies form ID, form name, submission ID, and submission details. Its site ID may be blank; resolve that omission only through a supported read of the exact registered form that confirms its site. Current connected
 Netlify tools can list forms and counts but do not expose a submission-read
 operation. If the authenticated event envelope lacks required context and no
 supported read can establish it, stop and report the missing context.
 
 ## Form and public status
 
-Form name: `weekend-refresh`. Submit URL-encoded `POST /` with `form-name`, `city`,
+Form name: `weekend-refresh`. Registered form ID: `6acabd9f42301d00081875d3`. Submit URL-encoded `POST /` with `form-name`, `city`,
 `requestId`, `requestedWeekendStart`, and an empty `bot-field` honeypot. The city
 must be one of `cincinnati`, `philadelphia`, `chicago`, or `washington-dc`.
 Do not include email, personal information, arbitrary instructions, or secrets.
@@ -73,9 +71,9 @@ Every control-branch commit message must include `[skip ci] [skip netlify]` to
 avoid unnecessary builds. Never add those markers to a real production content
 publication. Verify branch-deploy behavior before frequent status updates.
 
-After creating the branch, verify this public URL before adding it to the client:
+Verified public URL used by the client:
 
-`https://raw.githubusercontent.com/arnoldshapiro-del/cincinnati-this-weekend/refs/heads/refresh-control/status.json`
+`https://raw.githubusercontent.com/arnoldshapiro-del/cincinnati-this-weekend/refresh-control/status.json`
 
 Cache-busted reads are for UI visibility only. **Never use a CDN/raw URL to acquire
 the lock**; acquire and renew through connected GitHub reads/writes with current
@@ -186,8 +184,7 @@ expired and must remain honestly labeled as such.
    public data, and client success state.
 7. Test a duplicate and another-city request during the cooldown. Verify neither
    performs additional research. Test a controlled failure without replacing data.
-8. Enable the client's config only after the real integration works. Update the
-   existing scheduler documentation and handoff only after activation is confirmed.
+8. Client activation is now enabled after verified Forms, subscription, schedule, status, and authenticated event admission. Keep the real test marked IN PROGRESS until its publication and browser success are observed; then record that outcome and complete the desktop/Claude handoff.
 
 The hourly lock bounds expensive research, not arbitrary public form spam or
 automation wake overhead. Netlify Forms, bandwidth, builds, and the cloud service

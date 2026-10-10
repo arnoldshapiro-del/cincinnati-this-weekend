@@ -22,7 +22,9 @@ Target: every Wednesday at 9:35 AM America/New_York for the coming Friday–Sund
 7. Replace all four city files and run `npm test`. Verify all four selector choices in a narrow and wide browser view.
 8. Push one commit to `main`, wait for the Git-backed Netlify production deployment, and verify its `commit_ref` equals the pushed Git SHA before reporting success.
 
-The old Claude desktop task and the old Codex automation were both verified disabled on October 10, 2026. Keep them disabled. Their replacement is a cloud-owned Wednesday publisher with an additional explicit-button entry point, sharing the same conditional control record. Follow `docs/cloud-refresh-setup.md` before enabling `refresh-config.json`; setup is not complete until the actual schedule and exact form subscription have been verified.
+The old Claude desktop task and the old Codex automation were both verified disabled on October 10, 2026. Keep them disabled. Their replacement is a configured, enabled cloud-owned Wednesday 9:35 AM Eastern schedule plus an enabled explicit-button event subscription for registered Netlify form `6acabd9f42301d00081875d3` (`weekend-refresh`), sharing the same conditional control record. The client is enabled by `refresh-config.json`. Only Wednesdays run automatically; the one-hour cooldown never starts a job.
+
+The initial October 10–11 guides are verified live for all four cities on production commit `216b2ed`, deploy `6acabd91e93cea0008645e77`. The first real Cincinnati button-request test has reached authenticated event delivery, verified control ownership, and actual source re-verification; it remains IN PROGRESS. Completion still requires a newly verified production publication and matching browser success state. See `docs/cloud-refresh-setup.md` for the evidence and operating contract.
 
 ## Manual research requests
 
