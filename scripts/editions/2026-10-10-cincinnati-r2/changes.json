@@ -1,0 +1,42 @@
+{
+  "editionId": "cincinnati-2026-10-10-r2",
+  "updatedAt": "2026-10-10T22:46:15.000Z",
+  "count": 54,
+  "featuredCount": 10,
+  "distinctPrograms": 45,
+  "saturdayCards": 21,
+  "sundayCards": 33,
+  "addedIds": [
+    "recreate-kenton-brett-2026-10-11",
+    "strickers-appreciation-2026-10-11",
+    "cincy-whiskey-fest-2026-10-11",
+    "soulful-sundays-2026-10-11"
+  ],
+  "removedIds": [
+    "kusama-2026-10-11"
+  ],
+  "modifiedIds": [
+    "blink-2026-10-10",
+    "blink-2026-10-11",
+    "asianati-2026-10-10",
+    "polkadotober-2026-10-10",
+    "jack-o-lantern-glow-2026-10-10",
+    "jack-o-lantern-glow-2026-10-11",
+    "hallzooween-2026-10-11",
+    "road-to-emissions-2026-10-11",
+    "sploinky-2026-10-10",
+    "here-come-mummies-2026-10-11",
+    "operation-pumpkin-2026-10-10",
+    "niederman-2026-10-10",
+    "renaissance-2026-10-11",
+    "land-illusion-2026-10-10",
+    "haunted-village-2026-10-10",
+    "nancy-rexroth-2026-10-11",
+    "cac-time-2026-10-11",
+    "cac-cadet-2026-10-11",
+    "taft-fans-2026-10-11",
+    "lego-jurassic-2026-10-11",
+    "amber-joy-2026-10-10",
+    "comet-bluegrass-2026-10-11"
+  ]
+}

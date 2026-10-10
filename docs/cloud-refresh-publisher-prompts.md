@@ -1,10 +1,10 @@
 # Cloud publisher prompt templates
 
-Configured publisher procedures, updated October 10, 2026. The former desktop publisher is disabled and the old Codex publisher is paused. The owner approved Wednesday-only automatic publication at 9:35 AM America/New_York plus extra selected-city button requests. The weekly schedule and manual Netlify event subscription are created and enabled. The one-hour guard is a cooldown, not an hourly schedule; do not create an hourly publisher or submission poll.
+Configured publisher procedures, updated October 10, 2026. The owner reports that the former desktop Claude publisher has been deleted. The old Codex publisher remains disabled. Do not recreate the deleted Claude publisher or enable the old Codex publisher. The owner approved Wednesday-only automatic publication at 9:35 AM America/New_York plus extra selected-city button requests. The weekly schedule and manual Netlify event subscription are created and enabled. The one-hour guard is a cooldown, not an hourly schedule; do not create an hourly publisher or submission poll.
 
 The registered `weekend-refresh` form ID is `6acabd9f42301d00081875d3` on site `ced21387-3861-49f0-ac0d-d7d4443bcebe`. Use the existing connected GitHub/Netlify tools and cloud research; do not depend on a desktop.
 
-The first real manual Cincinnati request is IN PROGRESS after authenticated event delivery and verified claim `refresh-cincinnati-20261010T223800Z` at `2026-10-10T22:38:12.674Z`. Actual source re-verification is underway. Do not mark the test passed until its publication and client success state are verified.
+At the activation checkpoint, the first real manual Cincinnati request had been admitted and control job `refresh-cincinnati-20261010T223800Z` was acquired and read back at `2026-10-10T22:38:12.674Z`. Source re-verification then prepared edition `cincinnati-2026-10-10-r2`, updated `2026-10-10T22:46:15.000Z`, with 54 event-day cards, 45 distinct programs, ten featured picks, and 61 successful official source URL checks. The final outcome is recorded in `refresh-control/status.json` for that job. Trigger setup or HTTP acceptance alone does not prove a completed refresh; success requires the exact production publication and matching browser state to be verified.
 
 Use one of these entry paragraphs followed by the shared procedure below.
 

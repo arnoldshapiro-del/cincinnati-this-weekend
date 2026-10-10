@@ -2,7 +2,7 @@
 
 ## Activation status
 
-As verified October 10, 2026, the former Claude desktop task `cincinnati-weekend-refresh` is disabled and the previous Codex publisher is paused. Keep both disabled. The owner approved automatic publication only on Wednesdays at 9:35 AM America/New_York and extra selected-city runs only when the Refresh button is used. The one-hour limit is a cooldown, **not an hourly schedule**.
+The owner reports that the former Claude desktop task `cincinnati-weekend-refresh` has been deleted. The previous Codex publisher was verified disabled on October 10, 2026 and remains disabled. Do not recreate the deleted Claude task or enable the old Codex publisher. The owner approved automatic publication only on Wednesdays at 9:35 AM America/New_York and extra selected-city runs only when the Refresh button is used. The one-hour limit is a cooldown, **not an hourly schedule**.
 
 Configured and verified:
 - Netlify Forms is enabled for site `ced21387-3861-49f0-ac0d-d7d4443bcebe`.
@@ -13,9 +13,9 @@ Configured and verified:
 - Production commit `216b2ed`, deploy `6acabd91e93cea0008645e77`, was verified ready with all four October 10–11 guides and 201 event-day cards.
 - The client configuration is enabled in this activation change.
 
-**Real end-to-end request test: IN PROGRESS.** One approved real submission was delivered with authenticated form ID, form name, and submission ID. Its event's site ID was blank; a supported exact-form read verified that form `6acabd9f42301d00081875d3` belongs to the expected site. The publisher acquired and read back control job `refresh-cincinnati-20261010T223800Z`, started at `2026-10-10T22:38:12.674Z`. Actual Cincinnati source re-verification is underway. The new publication and browser completion state have not yet been verified. Neither trigger setup nor HTTP acceptance is claimed as a completed research refresh.
+**Real end-to-end request test: activation checkpoint.** One approved real submission was delivered with authenticated form ID, form name, and submission ID. Its event's site ID was blank; a supported exact-form read verified that form `6acabd9f42301d00081875d3` belongs to the expected site. At the activation checkpoint, the first real manual Cincinnati request had been admitted and control job `refresh-cincinnati-20261010T223800Z` was acquired and read back at `2026-10-10T22:38:12.674Z`. Source re-verification then prepared edition `cincinnati-2026-10-10-r2`, updated `2026-10-10T22:46:15.000Z`, with 54 event-day cards, 45 distinct programs, ten featured picks, and 61 successful official source URL checks. The final outcome is recorded in `refresh-control/status.json` for that job. Trigger setup or HTTP acceptance alone does not prove a completed refresh; success requires the exact production publication and matching browser state to be verified. Research evidence, source index, and change manifest are saved under `scripts/editions/2026-10-10-cincinnati-r2/`; the replaced r1 edition is archived byte-for-byte as `data/archive/cincinnati/weekend-2026-10-10-r1.json`.
 
-The existing GitHub `main` branch remains canonical. Desktop synchronization is a later fast-forward of the canonical checkout, not another publication source. Do not overwrite a separate dirty checkout. Claude's handoff must state that the cloud publisher owns publication and the former desktop schedule stays disabled; creating these documents alone does not prove that handoff was delivered.
+The existing GitHub `main` branch remains canonical. Desktop synchronization is a later fast-forward of the canonical checkout, not another publication source. Do not overwrite a separate dirty checkout. Claude's handoff must state that the cloud publisher owns publication and the deleted desktop schedule is not recreated; creating these documents alone does not prove that handoff was delivered.
 
 ## Supported integration
 
@@ -184,7 +184,7 @@ expired and must remain honestly labeled as such.
    public data, and client success state.
 7. Test a duplicate and another-city request during the cooldown. Verify neither
    performs additional research. Test a controlled failure without replacing data.
-8. Client activation is now enabled after verified Forms, subscription, schedule, status, and authenticated event admission. Keep the real test marked IN PROGRESS until its publication and browser success are observed; then record that outcome and complete the desktop/Claude handoff.
+8. Client activation is now enabled after verified Forms, subscription, schedule, status, and authenticated event admission. Record the real test's final outcome in `refresh-control/status.json` only after its publication and browser success are observed; complete the desktop/Claude handoff separately.
 
 The hourly lock bounds expensive research, not arbitrary public form spam or
 automation wake overhead. Netlify Forms, bandwidth, builds, and the cloud service

@@ -1,0 +1,80 @@
+{
+  "preparedAt": "2026-10-10T22:48:34.390473Z",
+  "publicationState": "prepared-not-published",
+  "jobId": "refresh-cincinnati-20261010T223800Z",
+  "scope": "manual-selected-city",
+  "city": "cincinnati",
+  "editionId": "cincinnati-2026-10-10-r2",
+  "updatedAt": "2026-10-10T22:46:15.000Z",
+  "startDate": "2026-10-10",
+  "endDate": "2026-10-11",
+  "eventCount": 54,
+  "uniqueIds": 54,
+  "distinctPrograms": 45,
+  "featuredCount": 10,
+  "countsByDate": {
+    "2026-10-10": 21,
+    "2026-10-11": 33
+  },
+  "officialSourceUrlsChecked": 61,
+  "archivePath": "data/archive/cincinnati/weekend-2026-10-10-r1.json",
+  "archiveSha256": "df8d0b9468ab0e088a9bbbd8787261edfc00d7b160ba147ff64cf13d85ae787d",
+  "currentSha256": "aea63e13ac2a21d1c113b832570daf48695bf53f1a869ed02d622bfc37a284c9",
+  "researchSnapshotSha256": "aea63e13ac2a21d1c113b832570daf48695bf53f1a869ed02d622bfc37a284c9",
+  "archivePreservedExactPriorBytes": true,
+  "allOtherCityFilesAndPriorArchivesUnchanged": true,
+  "preservedDataSha256": {
+    "data/washington-dc/current-weekend.json": "fb1dc7d47ebfe3e9e0ed77bf12a8f437fdfa029e8224c1729960417ca227024b",
+    "data/chicago/current-weekend.json": "6f9e9e2b7bd4ec33182a6dbfc0482b2975c21ef6d417e0761e55f1fd37356d00",
+    "data/philadelphia/current-weekend.json": "1437eb97e4cc0676f601dc51560c4fa57077c2f65324e237a46df81b86ca4271",
+    "data/archive/washington-dc/weekend-2026-10-03.json": "a9b59f0448321443808490a0fe9643c4c9b6f61f43d40f38544a1ecd42d4468c",
+    "data/archive/cincinnati/weekend-2026-10-03.json": "e106a47443fb45281833c17d03128750ff1877bd39bf213963e58aa9fd7b7824",
+    "data/archive/chicago/weekend-2026-10-03.json": "c91f4be0492fdecc38f67924768cfb11197306fd0ea84588c391cbd02ecc5e18",
+    "data/archive/philadelphia/weekend-2026-10-03.json": "33747ef44e6e04ad5fbee8a2fbc81ad693866ee7c5aaa3452c21a6e9254b5aff"
+  },
+  "changes": [
+    "data/cincinnati/current-weekend.json",
+    "data/archive/cincinnati/weekend-2026-10-10-r1.json",
+    "scripts/editions/2026-10-10-cincinnati-r2/cincinnati.json",
+    "scripts/editions/2026-10-10-cincinnati-r2/evidence.md",
+    "scripts/editions/2026-10-10-cincinnati-r2/source-index.json",
+    "scripts/editions/2026-10-10-cincinnati-r2/changes.json",
+    "scripts/editions/2026-10-10-cincinnati-r2/integration-manifest.json",
+    "CLAUDE.md",
+    "WEEKLY-REFRESH.md",
+    "docs/cloud-refresh-setup.md",
+    "docs/cloud-refresh-publisher-prompts.md"
+  ],
+  "validation": {
+    "manual": {
+      "command": "npm run test:manual -- cincinnati",
+      "result": "passed",
+      "exitCode": 0,
+      "testsPassed": 63,
+      "testsFailed": 0,
+      "structuralChecks": 37
+    },
+    "full": {
+      "command": "npm test",
+      "result": "passed",
+      "exitCode": 0,
+      "testsPassed": 63,
+      "testsFailed": 0,
+      "structuralChecks": 37
+    },
+    "verifiedAt": "2026-10-10T22:48:57.089212Z"
+  },
+  "productionVerification": {
+    "gitPush": "not-performed",
+    "netlifyCommitMatch": "not-performed",
+    "liveJson": "not-performed",
+    "browserSuccess": "not-performed"
+  },
+  "publicationTimingReview": "Recheck start-only Saturday performance cards if deployment reaches 2026-10-10T23:30:00Z (7:30 PM America/New_York); consult performance evidence for conditional removals. Preserve verified later sets.",
+  "integrationEdits": [
+    "Archived replaced r1 byte-for-byte without touching October 3 archive.",
+    "Copied research candidate exactly, with no event edits.",
+    "Preserved all other city files and previous edition snapshots.",
+    "Updated documentation to reflect owner-reported Claude task deletion and source research complete; publication and browser verification remain pending."
+  ]
+}

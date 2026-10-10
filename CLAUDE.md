@@ -10,7 +10,7 @@ One verified, human-curated weekend guide serves Cincinnati, Philadelphia, Chica
 
 ## One cloud-owned publisher
 
-The desktop Claude task `cincinnati-weekend-refresh` and the old Codex automation `publish-cincinnati-this-weekend` were both verified disabled on October 10, 2026. Keep both disabled. Do not restore desktop scheduling, change permission modes, or create overlapping publishers.
+The owner reports that the former desktop Claude task `cincinnati-weekend-refresh` has been deleted. The old Codex automation `publish-cincinnati-this-weekend` was verified disabled on October 10, 2026 and remains disabled. Do not recreate the deleted Claude task or enable the old Codex automation. Do not restore desktop scheduling, change permission modes, or create overlapping publishers.
 
 The configured cloud publisher has two entry points sharing one publisher and one conditional GitHub control record:
 
@@ -21,7 +21,7 @@ A rolling one-hour cooldown limits duplicate manual requests; it is not an hourl
 
 As verified October 10, 2026, Netlify Forms, registered form `6acabd9f42301d00081875d3`, its enabled manual event subscription, the enabled Wednesday 9:35 AM Eastern schedule, and the public control record are configured. `refresh-config.json` is enabled in this activation change. Initial production commit `216b2ed` and deploy `6acabd91e93cea0008645e77` were verified ready with all four October 10–11 guides, totaling 201 event-day cards.
 
-The first real manual Cincinnati test is IN PROGRESS: its authenticated submission was delivered and control job `refresh-cincinnati-20261010T223800Z` was acquired and read back at `2026-10-10T22:38:12.674Z`. Actual source re-verification is underway. Do not call that test passed until the new publication and browser success state are verified. Read `docs/cloud-refresh-setup.md` and `docs/cloud-refresh-publisher-prompts.md`; an accepted submission or configured trigger alone is not end-to-end proof.
+At the activation checkpoint, the first real manual Cincinnati request had been admitted and control job `refresh-cincinnati-20261010T223800Z` was acquired and read back at `2026-10-10T22:38:12.674Z`. Source re-verification then prepared edition `cincinnati-2026-10-10-r2`, updated `2026-10-10T22:46:15.000Z`, with 54 event-day cards, 45 distinct programs, ten featured picks, and 61 successful official source URL checks. The final outcome is recorded in `refresh-control/status.json` for that job. Trigger setup or HTTP acceptance alone does not prove a completed refresh; success requires the exact production publication and matching browser state to be verified.
 
 Follow `WEEKLY-REFRESH.md` completely. Every event needs a real date, venue, HTTPS source URL, and verification date. Use `Check source` when a price or time is unpublished; never guess.
 
