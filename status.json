@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "generation": 0,
+  "jobId": null,
+  "state": "idle",
+  "trigger": null,
+  "cities": [],
+  "targetWeekends": {},
+  "startedAt": null,
+  "updatedAt": null,
+  "leaseExpiresAt": null,
+  "nextAllowedAt": null,
+  "progress": {
+    "completedCities": 0,
+    "totalCities": 0,
+    "sourcesChecked": 0,
+    "verifiedEvents": 0
+  },
+  "publication": null,
+  "lastSuccessByCity": {},
+  "recentSubmissionIds": [],
+  "error": null
+}
