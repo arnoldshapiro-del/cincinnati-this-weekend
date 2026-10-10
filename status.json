@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "generation": 1,
   "jobId": "refresh-cincinnati-20261010T223800Z",
-  "state": "verifying",
+  "state": "publishing",
   "trigger": "manual",
   "cities": [
     "cincinnati"
@@ -14,11 +14,11 @@
     }
   },
   "startedAt": "2026-10-10T22:38:12.674Z",
-  "updatedAt": "2026-10-10T22:47:16.131Z",
-  "leaseExpiresAt": "2026-10-10T23:07:16.131Z",
+  "updatedAt": "2026-10-10T22:49:04.568Z",
+  "leaseExpiresAt": "2026-10-10T23:09:04.568Z",
   "nextAllowedAt": "2026-10-10T23:38:12.674Z",
   "progress": {
-    "completedCities": 0,
+    "completedCities": 1,
     "totalCities": 1,
     "sourcesChecked": 61,
     "verifiedEvents": 54
