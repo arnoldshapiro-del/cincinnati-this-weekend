@@ -1,23 +1,32 @@
 {
   "schemaVersion": 1,
-  "generation": 0,
-  "jobId": null,
-  "state": "idle",
-  "trigger": null,
-  "cities": [],
-  "targetWeekends": {},
-  "startedAt": null,
-  "updatedAt": null,
-  "leaseExpiresAt": null,
-  "nextAllowedAt": null,
+  "generation": 1,
+  "jobId": "refresh-cincinnati-20261010T223800Z",
+  "state": "queued",
+  "trigger": "manual",
+  "cities": [
+    "cincinnati"
+  ],
+  "targetWeekends": {
+    "cincinnati": {
+      "startDate": "2026-10-09",
+      "endDate": "2026-10-11"
+    }
+  },
+  "startedAt": "2026-10-10T22:38:12.674Z",
+  "updatedAt": "2026-10-10T22:38:12.674Z",
+  "leaseExpiresAt": "2026-10-10T22:58:12.674Z",
+  "nextAllowedAt": "2026-10-10T23:38:12.674Z",
   "progress": {
     "completedCities": 0,
-    "totalCities": 0,
+    "totalCities": 1,
     "sourcesChecked": 0,
     "verifiedEvents": 0
   },
   "publication": null,
   "lastSuccessByCity": {},
-  "recentSubmissionIds": [],
+  "recentSubmissionIds": [
+    "6acabe04a7218bfe97682ca0"
+  ],
   "error": null
 }
