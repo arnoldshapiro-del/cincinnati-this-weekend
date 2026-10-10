@@ -1,4 +1,5 @@
 import { readFile } from "node:fs/promises";
+import { validateEdition } from "../edition-status.js";
 
 const editions = [
   ["cincinnati", new URL("../data/cincinnati/current-weekend.json", import.meta.url)],
@@ -6,14 +7,26 @@ const editions = [
   ["chicago", new URL("../data/chicago/current-weekend.json", import.meta.url)],
   ["washington-dc", new URL("../data/washington-dc/current-weekend.json", import.meta.url)],
 ];
+// Manual refreshes validate the selected city's freshness; weekly publishing validates all four.
+// Structural checks still cover every city and must also run before any publication.
+const args = process.argv.slice(2);
+let requestedCity = null;
+if (args.length) {
+  if (args.length === 2 && args[0] === "--city") requestedCity = args[1];
+  else if (args.length === 1 && args[0].startsWith("--city=")) requestedCity = args[0].slice(7);
+  else { console.error("Usage: node scripts/validate-weekend-data.mjs [--city CITY]"); process.exit(1); }
+  if (!editions.some(([city]) => city === requestedCity)) { console.error(`Unsupported city: ${requestedCity}`); process.exit(1); }
+}
+const selectedEditions = requestedCity ? editions.filter(([city]) => city === requestedCity) : editions;
 const requiredCity = ["id", "name", "regionLabel", "coreLabel", "guideName", "guideUrl"];
 const requiredWeekend = ["label", "shortLabel", "startDate", "endDate", "updatedAt", "timezone", "refreshTarget"];
 const requiredEvent = ["id", "title", "date", "day", "time", "venue", "neighborhood", "address", "category", "priceLabel", "description", "sourceName", "sourceUrl", "lastVerified"];
 const allErrors = [];
 
-for (const [cityId, path] of editions) {
+for (const [cityId, path] of selectedEditions) {
   const data = JSON.parse(await readFile(path, "utf8"));
   const errors = [];
+  try { validateEdition(data, cityId); } catch (error) { errors.push(`browser schema: ${error.message}`); }
   for (const key of requiredCity) if (!data.city?.[key]) errors.push(`city.${key} is required`);
   if (data.city?.id !== cityId) errors.push(`city.id must be ${cityId}`);
   for (const key of requiredWeekend) if (!data.weekend?.[key]) errors.push(`weekend.${key} is required`);
@@ -62,3 +75,4 @@ if (allErrors.length) {
   console.error(allErrors.join("\n"));
   process.exit(1);
 }
+

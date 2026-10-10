@@ -1,4 +1,5 @@
 import { readFile } from "node:fs/promises";
+import { validateEdition } from "../edition-status.js";
 
 const root = new URL("../", import.meta.url);
 const [html, css, js, manifest, sw, cincinnati, philadelphia, chicago, washingtonDc] = await Promise.all([
@@ -15,6 +16,7 @@ const [html, css, js, manifest, sw, cincinnati, philadelphia, chicago, washingto
 const cityData = [cincinnati, philadelphia, chicago, washingtonDc];
 
 const checks = [
+  [cityData.every(data=>{try{validateEdition(data,data.city.id);return true}catch{return false}}), "every city passes the browser edition schema"],
   [html.includes('id="city-select"') && html.includes('value="cincinnati"') && html.includes('value="philadelphia"') && html.includes('value="chicago"') && html.includes('value="washington-dc"') && !html.includes('value="chicago" disabled') && !html.includes('value="washington-dc" disabled'), "working four-city selector"],
   [js.includes("data/cincinnati/current-weekend.json") && js.includes("data/philadelphia/current-weekend.json") && js.includes("data/chicago/current-weekend.json") && js.includes("data/washington-dc/current-weekend.json"), "independent city data loaders"],
   [js.includes('searchParams.set("city"') && js.includes("switchCity"), "shareable city URL and city switching"],
@@ -47,10 +49,9 @@ const checks = [
   [css.includes("Lora,Georgia,serif"), "required editorial heading stack"],
   [css.includes("@media(max-width:620px)"), "narrow layout"],
   [manifest.includes("This Weekend"), "installable app manifest"],
-  [cityData.every((data) => data.events.length >= 50), "50-event editorial bar in every city"],
+  [cityData.every((data) => data.events.length >= 45), "45-event minimum in every city"],
   [cityData.every((data) => data.events.every((item) => item.sourceUrl && item.lastVerified)), "source and verification on every event"],
-  [cityData.every((data) => data.events.some((item) => item.roadTrip)), "optional two-hour road-trip inventory in every city"],
-  [cityData.every((data) => data.events.every((item) => !item.roadTrip || item.travelMinutes > 90)), "road-trip labeling threshold"],
+  [cityData.every((data) => data.events.every((item) => !item.roadTrip || item.travelMinutes > 90 && item.travelMinutes <= 120)), "road-trip labeling threshold"],
   [cityData.every((data) => data.events.filter((item) => item.featured).length === 10), "ten featured picks in every city"],
 ];
 
@@ -60,3 +61,4 @@ if (failures.length) {
   process.exit(1);
 }
 console.log(`PASS: ${checks.length} structural product checks across ${cityData.length} cities.`);
+

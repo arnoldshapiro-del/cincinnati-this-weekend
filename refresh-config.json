@@ -1,0 +1,6 @@
+{
+  "enabled": false,
+  "statusUrl": "https://raw.githubusercontent.com/arnoldshapiro-del/cincinnati-this-weekend/refresh-control/status.json",
+  "pollIntervalMs": 30000,
+  "pollWindowMs": 1200000
+}

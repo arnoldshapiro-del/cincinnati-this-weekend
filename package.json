@@ -4,6 +4,8 @@
   "type": "module",
   "scripts": {
     "data:export": "node scripts/export-data.mjs",
-    "test": "node scripts/validate-weekend-data.mjs && node tests/structural.test.mjs"
+    "test": "node scripts/validate-weekend-data.mjs && node --test tests/*.test.mjs",
+    "test:unit": "node --test tests/*.test.mjs",
+    "test:manual": "node scripts/validate-manual-refresh.mjs"
   }
 }

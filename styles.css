@@ -29,3 +29,8 @@ html[data-edition-status="stale"] .event-card:before{content:"ENDED";position:ab
 .hero-refresh-button:hover{background:rgba(223,168,73,.22)}
 .hero-refresh-button:focus-visible{outline:3px solid var(--brass2);outline-offset:3px}
 .hero-refresh-button:disabled{opacity:.65;cursor:wait}
+
+
+.refresh-status{max-width:640px;min-height:2.8em;margin:14px 0 0;color:var(--muted);font-size:12px;line-height:1.5}
+.refresh-status[data-kind="error"],.refresh-status[data-kind="warning"]{color:var(--brass2)}
+.refresh-status[data-kind="checking"]{color:#fff}
