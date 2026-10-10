@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "generation": 1,
   "jobId": "refresh-cincinnati-20261010T223800Z",
-  "state": "queued",
+  "state": "gathering",
   "trigger": "manual",
   "cities": [
     "cincinnati"
@@ -14,8 +14,8 @@
     }
   },
   "startedAt": "2026-10-10T22:38:12.674Z",
-  "updatedAt": "2026-10-10T22:38:12.674Z",
-  "leaseExpiresAt": "2026-10-10T22:58:12.674Z",
+  "updatedAt": "2026-10-10T22:39:51.335Z",
+  "leaseExpiresAt": "2026-10-10T22:59:51.335Z",
   "nextAllowedAt": "2026-10-10T23:38:12.674Z",
   "progress": {
     "completedCities": 0,
