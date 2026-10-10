@@ -4,6 +4,7 @@ import { execFileSync } from "node:child_process";
 import { readFileSync, mkdtempSync, mkdirSync, writeFileSync, rmSync } from "node:fs";
 import { tmpdir } from "node:os";
 import { join } from "node:path";
+import { pathToFileURL } from "node:url";
 
 test("manual freshness validation scopes one city while weekly validation covers all", () => {
   const directory=mkdtempSync(join(tmpdir(),"weekend-validator-"));
@@ -22,11 +23,12 @@ test("manual freshness validation scopes one city while weekly validation covers
     }
     writeFileSync(join(directory,"clock.mjs"),`const NativeDate=Date;globalThis.Date=class extends NativeDate{constructor(...args){super(...(args.length?args:["2099-01-02T18:00:00Z"]))}static now(){return NativeDate.parse("2099-01-02T18:00:00Z")}};`);
     const script=join(directory,"scripts/validate-weekend-data.mjs");
+    const clockUrl=pathToFileURL(join(directory,"clock.mjs")).href;
     const options={encoding:"utf8",stdio:"pipe"};
-    const result=execFileSync(process.execPath,["--import",join(directory,"clock.mjs"),script,"--city","cincinnati"],options);
+    const result=execFileSync(process.execPath,["--import",clockUrl,script,"--city","cincinnati"],options);
     assert.match(result,/PASS cincinnati/);
     assert.doesNotMatch(result,/philadelphia/);
-    assert.throws(()=>execFileSync(process.execPath,["--import",join(directory,"clock.mjs"),script],options),error=>{
+    assert.throws(()=>execFileSync(process.execPath,["--import",clockUrl,script],options),error=>{
       assert.match(String(error.stderr),/philadelphia: edition expired/);
       assert.match(String(error.stderr),/chicago: edition expired/);
       return true;
