@@ -1,0 +1,87 @@
+{
+  "preparedAt": "2026-10-14T13:55:01.594861+00:00",
+  "publicationState": "prepared-for-atomic-publication",
+  "targetWeekend": {
+    "startDate": "2026-10-16",
+    "endDate": "2026-10-18"
+  },
+  "cities": {
+    "cincinnati": {
+      "editionId": "cincinnati-2026-10-16-r1",
+      "startDate": "2026-10-16",
+      "endDate": "2026-10-18",
+      "updatedAt": "2026-10-14T13:48:30.891Z",
+      "eventCount": 50,
+      "featuredCount": 10,
+      "primarySourceCount": 35,
+      "countsByDate": {
+        "2026-10-16": 13,
+        "2026-10-17": 23,
+        "2026-10-18": 14
+      }
+    },
+    "philadelphia": {
+      "editionId": "philadelphia-2026-10-16-r1",
+      "startDate": "2026-10-16",
+      "endDate": "2026-10-18",
+      "updatedAt": "2026-10-14T13:53:07Z",
+      "eventCount": 50,
+      "featuredCount": 10,
+      "primarySourceCount": 34,
+      "countsByDate": {
+        "2026-10-16": 13,
+        "2026-10-17": 21,
+        "2026-10-18": 16
+      }
+    },
+    "chicago": {
+      "editionId": "chicago-2026-10-16-r1",
+      "startDate": "2026-10-16",
+      "endDate": "2026-10-18",
+      "updatedAt": "2026-10-14T13:47:34Z",
+      "eventCount": 50,
+      "featuredCount": 10,
+      "primarySourceCount": 32,
+      "countsByDate": {
+        "2026-10-16": 16,
+        "2026-10-17": 19,
+        "2026-10-18": 15
+      }
+    },
+    "washington-dc": {
+      "editionId": "washington-dc-2026-10-16-r1",
+      "startDate": "2026-10-16",
+      "endDate": "2026-10-18",
+      "updatedAt": "2026-10-14T13:47:57Z",
+      "eventCount": 52,
+      "featuredCount": 10,
+      "primarySourceCount": 33,
+      "countsByDate": {
+        "2026-10-16": 15,
+        "2026-10-17": 20,
+        "2026-10-18": 17
+      }
+    }
+  },
+  "validation": {
+    "allCityData": "passed",
+    "unitTests": 63,
+    "structuralChecks": 37,
+    "visualQA": "not performed: cloud browser launch blocked; data-only publication, no UI changes"
+  },
+  "changes": [
+    "data/cincinnati/current-weekend.json",
+    "scripts/editions/2026-10-16/cincinnati-sources.md",
+    "data/archive/cincinnati/weekend-2026-10-10-r2.json",
+    "data/philadelphia/current-weekend.json",
+    "scripts/editions/2026-10-16/philadelphia-sources.md",
+    "data/archive/philadelphia/weekend-2026-10-10-r1.json",
+    "data/chicago/current-weekend.json",
+    "scripts/editions/2026-10-16/chicago-sources.md",
+    "data/archive/chicago/weekend-2026-10-10-r1.json",
+    "data/washington-dc/current-weekend.json",
+    "scripts/editions/2026-10-16/washington-dc-sources.md",
+    "data/archive/washington-dc/weekend-2026-10-10-r1.json",
+    "scripts/editions/2026-10-16/integration-manifest.json"
+  ]
+}
