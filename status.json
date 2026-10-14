@@ -1,41 +1,44 @@
 {
   "schemaVersion": 1,
-  "generation": 1,
-  "jobId": "refresh-cincinnati-20261010T223800Z",
-  "state": "succeeded",
-  "trigger": "manual",
+  "generation": 2,
+  "jobId": "weekly-20261016-410e3086-7852-43c3-a834-c96e57fd5f2e",
+  "state": "queued",
+  "trigger": "scheduled",
   "cities": [
-    "cincinnati"
+    "cincinnati",
+    "philadelphia",
+    "chicago",
+    "washington-dc"
   ],
   "targetWeekends": {
     "cincinnati": {
-      "startDate": "2026-10-09",
-      "endDate": "2026-10-11"
+      "startDate": "2026-10-16",
+      "endDate": "2026-10-18"
+    },
+    "philadelphia": {
+      "startDate": "2026-10-16",
+      "endDate": "2026-10-18"
+    },
+    "chicago": {
+      "startDate": "2026-10-16",
+      "endDate": "2026-10-18"
+    },
+    "washington-dc": {
+      "startDate": "2026-10-16",
+      "endDate": "2026-10-18"
     }
   },
-  "startedAt": "2026-10-10T22:38:12.674Z",
-  "updatedAt": "2026-10-10T22:50:39.465Z",
-  "leaseExpiresAt": null,
-  "nextAllowedAt": "2026-10-10T23:38:12.674Z",
+  "startedAt": "2026-10-14T13:37:41.949Z",
+  "updatedAt": "2026-10-14T13:37:41.949Z",
+  "leaseExpiresAt": "2026-10-14T13:57:41.949Z",
+  "nextAllowedAt": "2026-10-14T14:37:41.949Z",
   "progress": {
-    "completedCities": 1,
-    "totalCities": 1,
-    "sourcesChecked": 61,
-    "verifiedEvents": 54
+    "completedCities": 0,
+    "totalCities": 4,
+    "sourcesChecked": 0,
+    "verifiedEvents": 0
   },
-  "publication": {
-    "commitSha": "db87f436513c007514dad3c042172db4bbfa0844",
-    "deployId": "6acac10c7b99140008799781",
-    "verifiedAt": "2026-10-10T22:50:30.278Z",
-    "editions": {
-      "cincinnati": {
-        "editionId": "cincinnati-2026-10-10-r2",
-        "startDate": "2026-10-10",
-        "endDate": "2026-10-11",
-        "updatedAt": "2026-10-10T22:46:15.000Z"
-      }
-    }
-  },
+  "publication": null,
   "lastSuccessByCity": {
     "cincinnati": {
       "editionId": "cincinnati-2026-10-10-r2",
@@ -49,6 +52,5 @@
   "recentSubmissionIds": [
     "6acabe04a7218bfe97682ca0"
   ],
-  "error": null,
-  "publishedAt": "2026-10-10T22:50:30.278Z"
+  "error": null
 }
