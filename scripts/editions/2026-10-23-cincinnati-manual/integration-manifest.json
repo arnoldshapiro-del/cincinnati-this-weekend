@@ -1,0 +1,47 @@
+{
+  "scope": [
+    "cincinnati"
+  ],
+  "trigger": "manual",
+  "jobId": "manual-cincinnati-abf0a850-53b5-4463-ab1e-0f104c94f984",
+  "submissionId": "6ad7f98eda15d70332d1be20",
+  "targetWeekend": {
+    "startDate": "2026-10-23",
+    "endDate": "2026-10-25"
+  },
+  "edition": {
+    "label": "Friday, October 23 – Sunday, October 25, 2026",
+    "shortLabel": "Oct 23–25",
+    "startDate": "2026-10-23",
+    "endDate": "2026-10-25",
+    "verifiedAt": "October 20, 2026 at 7:38 PM ET",
+    "updatedAt": "2026-10-20T23:38:20.251Z",
+    "timezone": "America/New_York",
+    "defaultDriveMinutes": 90,
+    "roadTripMaxMinutes": 120,
+    "refreshTarget": "Wednesday 9:35 AM America/New_York",
+    "editionStatus": "verified-current",
+    "lastSuccessfulEdition": "October 23–25, 2026",
+    "editionId": "cincinnati-2026-10-23-manual-abf0a850"
+  },
+  "eventCount": 52,
+  "distinctPrograms": 39,
+  "featuredCount": 10,
+  "archive": "data/archive/cincinnati/weekend-2026-10-16-r1.json",
+  "sourceVerification": "Primary pages inspected October 20, 2026; see accompanying evidence files.",
+  "validation": {
+    "manual": "npm run test:manual -- cincinnati: passed",
+    "unitTests": 63,
+    "allCityStructuralChecks": 37
+  },
+  "preservedCities": [
+    "philadelphia",
+    "chicago",
+    "washington-dc"
+  ],
+  "notes": [
+    "Museum exhibition repeats curated to one day each for variety.",
+    "Cancelled and sold-out events excluded; limited timed slots disclosed.",
+    "Travel times are editorial estimates from central Cincinnati, not live routing."
+  ]
+}
