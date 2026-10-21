@@ -234,3 +234,12 @@ The live site shows Sep 18–20 in every city.
 
 ### Next
 - Wednesday Oct 7 ~9:35 AM ET: first unattended run in Auto mode publishes Oct 9–11. Verify it pushed and Netlify built.
+
+## 2026-10-21 — Session memory: handoff rules, decision ledger, compaction instructions
+
+- Arnie asked that the reasons behind decisions survive new sessions and compaction (after Dylan Davis's video "ChatGPT & Claude Quietly Forget Mid-Task. One File Fixes It").
+- Added three sections to `CLAUDE.md`, modeled on who-dey-101-2026: "Session handoff" and "Decisions and why" right after the intro, "Compact Instructions" at the end. The ledger was built only from this repo's CLAUDE.md, SESSION_NOTES.md, README and commit messages; where no reason was recorded it says so.
+- Ruled out a separate decisions.md because CLAUDE.md is the file Claude Code re-reads after compaction.
+- Notes-only change: CLAUDE.md and SESSION_NOTES.md. No code, data, config or deploy files touched; the app is unchanged.
+- Verified: `git diff --stat` shows only .md files; live URL checked after push (result in the commit's session reply).
+- Next: every session ends with a dated entry here and one ledger line per settled decision in CLAUDE.md.
