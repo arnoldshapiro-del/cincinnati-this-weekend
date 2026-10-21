@@ -9,23 +9,23 @@
     "guideName": "Visit Cincy",
     "guideUrl": "https://www.visitcincy.com/events/",
     "timezone": "America/New_York",
-    "verifiedAt": "October 14, 2026 at 9:48 AM ET",
-    "updatedAt": "2026-10-14T13:48:30.891Z"
+    "verifiedAt": "October 21, 2026 at 9:40 AM ET",
+    "updatedAt": "2026-10-21T13:41:22.375Z"
   },
   "weekend": {
     "label": "Friday, October 23 – Sunday, October 25, 2026",
     "shortLabel": "Oct 23–25",
     "startDate": "2026-10-23",
     "endDate": "2026-10-25",
-    "verifiedAt": "October 20, 2026 at 7:38 PM ET",
-    "updatedAt": "2026-10-20T23:38:20.251Z",
+    "verifiedAt": "October 21, 2026 at 9:40 AM ET",
+    "updatedAt": "2026-10-21T13:41:22.375Z",
     "timezone": "America/New_York",
     "defaultDriveMinutes": 90,
     "roadTripMaxMinutes": 120,
     "refreshTarget": "Wednesday 9:35 AM America/New_York",
     "editionStatus": "verified-current",
     "lastSuccessfulEdition": "October 23–25, 2026",
-    "editionId": "cincinnati-2026-10-23-manual-abf0a850"
+    "editionId": "cincinnati-2026-10-23-weekly-1a7a35b2"
   },
   "events": [
     {
@@ -51,7 +51,7 @@
       "description": "The vampire comedy adds a Bard Bash costume night: Renaissance, Shakespeare and fantasy looks are encouraged. Expect adult humor, flashing lights and loud noises.",
       "sourceName": "Cincinnati Shakespeare Company",
       "sourceUrl": "https://cincyshakes.com/on-stage/dracula-a-comedy-of-terrors-2026",
-      "lastVerified": "2026-10-20",
+      "lastVerified": "2026-10-21",
       "seriesId": "dracula-comedy-terrors"
     },
     {
@@ -59,7 +59,7 @@
       "title": "Jack O’Lantern Glow",
       "date": "2026-10-23",
       "day": "Friday",
-      "time": "Timed trail entry 6:00 PM–9:45 PM; event closes 10:00 PM",
+      "time": "Timed entry 6:00 PM–9:45 PM; gates close 10:00 PM, trail closes 10:15 PM",
       "venue": "Cincinnati Zoo & Botanical Garden",
       "neighborhood": "Avondale",
       "address": "3400 Vine Street, Cincinnati, OH 45220",
@@ -77,7 +77,7 @@
       "description": "Explore a half-mile illuminated pumpkin trail. Advance online tickets are separate from daytime zoo admission and membership; parking is included.",
       "sourceName": "Cincinnati Zoo & Botanical Garden",
       "sourceUrl": "https://cincinnatizoo.org/events/jack-olantern-glow/",
-      "lastVerified": "2026-10-20",
+      "lastVerified": "2026-10-21",
       "seriesId": "jack-olantern-glow"
     },
     {
@@ -103,7 +103,7 @@
       "description": "Geddy Lee and Alex Lifeson bring the Fifty Something arena tour to Cincinnati. Allow extra time for riverfront parking and check the official ticket page for remaining seats.",
       "sourceName": "Heritage Bank Center",
       "sourceUrl": "https://heritagebankcenter.com/event/2026/10/rush-fifty-something-tour",
-      "lastVerified": "2026-10-20",
+      "lastVerified": "2026-10-21",
       "seriesId": "rush-fifty-something"
     },
     {
@@ -129,7 +129,7 @@
       "description": "The stand-up comic and television host takes the Liberty Center stage for two nightly sets. Seating is first come, first served, with doors opening an hour before each performance.",
       "sourceName": "Cincinnati Funny Bone",
       "sourceUrl": "https://liberty.funnybone.com/events/category/series/al-jackson/liberty-funny-bone-comedy-club/",
-      "lastVerified": "2026-10-20",
+      "lastVerified": "2026-10-21",
       "seriesId": "al-jackson"
     },
     {
@@ -155,7 +155,7 @@
       "description": "A string-band evening pairs Debutants and Louisville’s Mama Said String Band with Mike Oberst of the Tillers. The Sanctuary performance welcomes all ages.",
       "sourceName": "The Southgate House Revival",
       "sourceUrl": "https://www.southgatehouse.com/tm-event/debutants-with-mama-said-string-band-and-mike-oberst/",
-      "lastVerified": "2026-10-20",
+      "lastVerified": "2026-10-21",
       "seriesId": "debutants-southgate"
     },
     {
@@ -181,7 +181,7 @@
       "description": "Browse produce, baked goods, prepared food and local makers at the neighborhood’s Friday market. The published October 23 lineup includes live entertainment by Nicki Sage.",
       "sourceName": "East Walnut Hills Farmers Market",
       "sourceUrl": "https://ewhfarmersmarket.com/",
-      "lastVerified": "2026-10-20",
+      "lastVerified": "2026-10-21",
       "seriesId": "east-walnut-hills-market"
     },
     {
@@ -207,7 +207,7 @@
       "description": "Cook a seasonal meal featuring delicata squash, maple-Dijon pork tenderloin, lentils and pear cobbler. Hands-on instruction, ingredients and a meal are included; dietary needs require advance checking.",
       "sourceName": "Tablespoon Cooking Co. / SimpleTix",
       "sourceUrl": "https://www.simpletix.com/e/farmers-market-fresh-autumn-tickets-290407",
-      "lastVerified": "2026-10-20",
+      "lastVerified": "2026-10-21",
       "seriesId": "tablespoon-autumn-harvest"
     },
     {
@@ -233,7 +233,7 @@
       "description": "Watch the original Ghostbusters outdoors after themed lawn activities. Bring a blanket or lawn chair; snacks and drinks are sold separately.",
       "sourceName": "Washington Park / 3CDC",
       "sourceUrl": "https://washingtonpark.org/events/2026-fright-fest/",
-      "lastVerified": "2026-10-20",
+      "lastVerified": "2026-10-21",
       "seriesId": "otr-fright-fest"
     },
     {
@@ -259,7 +259,7 @@
       "description": "Meet costumed characters, trick-or-treat and explore a carnival-themed haunted house. Tickets are sold at the gate; a Great Parks vehicle permit is required.",
       "sourceName": "Heritage Village Museum",
       "sourceUrl": "https://heritagevillagecincinnati.org/haunted-village/",
-      "lastVerified": "2026-10-20",
+      "lastVerified": "2026-10-21",
       "seriesId": "heritage-haunted"
     },
     {
@@ -285,7 +285,7 @@
       "description": "Follow five decades of Wolf’s photographs of Red River Gorge, tracing changing landscapes, family memories and photographic techniques. FotoFocus passholders receive free October admission.",
       "sourceName": "FotoFocus / Behringer-Crawford Museum",
       "sourceUrl": "https://www.fotofocus.org/fotofocus-exhibition/j-miles-wolf-red-river-gorge-a-50-year-journey/",
-      "lastVerified": "2026-10-20",
+      "lastVerified": "2026-10-21",
       "seriesId": "red-river-gorge-wolf"
     },
     {
@@ -311,34 +311,8 @@
       "description": "Dale Hodges and Raymond McAnally return in Jeffrey Hatcher’s comedy about a boy and his demanding etiquette teacher in 1967 Ohio. The play runs 90 minutes without intermission.",
       "sourceName": "Ensemble Theatre Cincinnati",
       "sourceUrl": "https://ensemblecincinnati.org/calendar/mrs-mannerly/",
-      "lastVerified": "2026-10-20",
+      "lastVerified": "2026-10-21",
       "seriesId": "mrs-mannerly"
-    },
-    {
-      "id": "our-daily-bread-murals-2026-10-23",
-      "title": "Our Daily Bread Mural Celebration",
-      "date": "2026-10-23",
-      "day": "Friday",
-      "time": "11:45 AM–12:45 PM",
-      "venue": "Our Daily Bread, rear parking lot",
-      "neighborhood": "Over-the-Rhine",
-      "address": "1730 Race Street, Cincinnati, OH 45202",
-      "category": "Community",
-      "priceValue": null,
-      "priceLabel": "Check source",
-      "travelMinutes": 0,
-      "roadTrip": false,
-      "featured": false,
-      "age": "All are welcome",
-      "tags": [
-        "community",
-        "local"
-      ],
-      "description": "Meet the artists behind two new murals and celebrate Over-the-Rhine’s creative community and rescued food. Light bites are planned; the organizer provides an RSVP link.",
-      "sourceName": "Our Daily Bread",
-      "sourceUrl": "https://www.ourdailybread.us/muralcelebration/",
-      "lastVerified": "2026-10-20",
-      "seriesId": "our-daily-bread-murals"
     },
     {
       "id": "pumpkin-picture-show-2026-10-23",
@@ -363,7 +337,7 @@
       "description": "Dress up for a costume parade, Halloween short film and children’s activities. Bring seating; treats and drinks are available to buy. No pets.",
       "sourceName": "Anderson Park District",
       "sourceUrl": "https://andersonparks.com/event/pumpkin-picture-show-costume-parade/",
-      "lastVerified": "2026-10-20",
+      "lastVerified": "2026-10-21",
       "seriesId": "pumpkin-picture-show"
     },
     {
@@ -389,7 +363,7 @@
       "description": "Explore more than 140 drawings, paintings, collages and wildlife posters in this new survey of Harper’s colorful “minimal realism.” A separate exhibition ticket is required.",
       "sourceName": "Cincinnati Art Museum",
       "sourceUrl": "https://cincinnatiartmuseum.org/art/exhibitions/the-art-of-charley-harper-creatures-wild-and-tame/",
-      "lastVerified": "2026-10-20",
+      "lastVerified": "2026-10-21",
       "seriesId": "charley-harper-creatures"
     },
     {
@@ -415,7 +389,7 @@
       "description": "Catch Billy Fortune Unit at the free rooftop music series. Rooftop operations depend on weather, so check the brewery’s latest updates before going.",
       "sourceName": "Rhinegeist",
       "sourceUrl": "https://rhinegeist.com/event/tiny-dusk-concerts/",
-      "lastVerified": "2026-10-20",
+      "lastVerified": "2026-10-21",
       "seriesId": "tiny-dusk-billy-fortune"
     },
     {
@@ -441,7 +415,7 @@
       "description": "David Clark and Bill Connors celebrate the piano-led songs of Billy Joel and Elton John. An all-ages tribute show in the intimate Clifton venue.",
       "sourceName": "Ludlow Garage",
       "sourceUrl": "https://www.ludlowgaragecincinnati.com/yellow-brick-joel-the-tribute-concert/",
-      "lastVerified": "2026-10-20",
+      "lastVerified": "2026-10-21",
       "seriesId": "yellow-brick-joel"
     },
     {
@@ -467,7 +441,7 @@
       "description": "The Bearcats host Texas Tech for Cincinnati’s 100th Homecoming. The official athletics schedule calls for fans to wear red; check tickets and campus parking before making plans.",
       "sourceName": "University of Cincinnati Athletics",
       "sourceUrl": "https://gobearcats.com/sports/football/schedule?path=ucats",
-      "lastVerified": "2026-10-20",
+      "lastVerified": "2026-10-21",
       "seriesId": "bearcats-texas-tech"
     },
     {
@@ -493,7 +467,7 @@
       "description": "Welcome hockey back with the Cyclones’ First Face-Off game against Bloomington. The arena advertises $2 hot dogs, sodas and beers; admission is separate.",
       "sourceName": "Heritage Bank Center / Cincinnati Cyclones",
       "sourceUrl": "https://heritagebankcenter.com/event/2026/10/24/first-face-off",
-      "lastVerified": "2026-10-20",
+      "lastVerified": "2026-10-21",
       "seriesId": "cyclones-first-faceoff"
     },
     {
@@ -519,7 +493,7 @@
       "description": "Bring a treat bag for daytime trick-or-treat stations, animal pumpkin enrichment and costume fun. The Costume Cavalcade starts at noon.",
       "sourceName": "Cincinnati Zoo & Botanical Garden",
       "sourceUrl": "https://cincinnatizoo.org/events/hallzooween/",
-      "lastVerified": "2026-10-20",
+      "lastVerified": "2026-10-21",
       "seriesId": "hallzooween"
     },
     {
@@ -545,7 +519,7 @@
       "description": "Follow glowing pumpkins on a self-guided evening hike, then warm up by the fire. Bring a flashlight and reserve a timed-entry ticket.",
       "sourceName": "Great Parks of Hamilton County",
       "sourceUrl": "https://www.greatparks.org/calendar/special-events/nature-night-pumpkin-hike",
-      "lastVerified": "2026-10-20",
+      "lastVerified": "2026-10-21",
       "seriesId": "nature-night-pumpkin-hike"
     },
     {
@@ -571,7 +545,7 @@
       "description": "Shop local small businesses and makers at Westwood Town Hall, with trick-or-treating and costumes adding a seasonal twist to the market.",
       "sourceName": "WestSide Market",
       "sourceUrl": "https://www.westsidemarketcincy.com/",
-      "lastVerified": "2026-10-20",
+      "lastVerified": "2026-10-21",
       "seriesId": "westside-market-halloween"
     },
     {
@@ -597,7 +571,7 @@
       "description": "The stand-up comic and television host takes the Liberty Center stage for two nightly sets. Seating is first come, first served, with doors opening an hour before each performance.",
       "sourceName": "Cincinnati Funny Bone",
       "sourceUrl": "https://liberty.funnybone.com/events/category/series/al-jackson/liberty-funny-bone-comedy-club/",
-      "lastVerified": "2026-10-20",
+      "lastVerified": "2026-10-21",
       "seriesId": "al-jackson"
     },
     {
@@ -605,7 +579,7 @@
       "title": "Cincinnati Coffee Festival",
       "date": "2026-10-24",
       "day": "Saturday",
-      "time": "Timed entry 8:00 AM–3:00 PM; festival closes 4:00 PM",
+      "time": "Timed entry 8:00 AM–3:00 PM; Check source for closing time",
       "venue": "Cincinnati Music Hall Ballroom",
       "neighborhood": "Over-the-Rhine",
       "address": "1241 Elm Street, Cincinnati, OH 45202",
@@ -623,7 +597,7 @@
       "description": "Sample coffee, tea and chocolate, watch demonstrations and browse vendors. Select a timed-entry ticket; Saturday 9 AM and 10 AM entries were sold out when checked.",
       "sourceName": "Cincinnati Arts Association / Ohio River Foundation",
       "sourceUrl": "https://www.cincinnatiarts.org/events/detail/cincinnati-coffee-festival-2026",
-      "lastVerified": "2026-10-20",
+      "lastVerified": "2026-10-21",
       "seriesId": "cincinnati-coffee-festival"
     },
     {
@@ -649,7 +623,7 @@
       "description": "A comic reinvention of the Dracula story brings adult humor and gothic mischief to the stage. The production includes flashing lights and loud noises.",
       "sourceName": "Cincinnati Shakespeare Company",
       "sourceUrl": "https://cincyshakes.com/on-stage/dracula-a-comedy-of-terrors-2026",
-      "lastVerified": "2026-10-20",
+      "lastVerified": "2026-10-21",
       "seriesId": "dracula-comedy-terrors"
     },
     {
@@ -675,7 +649,7 @@
       "description": "Singer-songwriters Ellis Paul and Alice Peacock share an intimate Newport bill. This is a fully seated show for guests ages 18 and older.",
       "sourceName": "The Southgate House Revival",
       "sourceUrl": "https://www.southgatehouse.com/tm-event/jbm-promotions-presents-ellis-paul/",
-      "lastVerified": "2026-10-20",
+      "lastVerified": "2026-10-21",
       "seriesId": "ellis-paul"
     },
     {
@@ -701,7 +675,7 @@
       "description": "Enjoy a free pumpkin patch, petting zoo, trackless train and live music. Browse local vendors; some crafts, shopping and food cost extra.",
       "sourceName": "Washington Park / 3CDC",
       "sourceUrl": "https://washingtonpark.org/series/fall-fest-26/",
-      "lastVerified": "2026-10-20",
+      "lastVerified": "2026-10-21",
       "seriesId": "washington-fall-fest"
     },
     {
@@ -727,7 +701,7 @@
       "description": "Spend a fall day with hayrides, a corn maze, farm animals and play attractions. Buy tickets online in advance; weekend gate sales are not guaranteed.",
       "sourceName": "Blooms & Berries Farm Market",
       "sourceUrl": "https://bloomsandberries.com/fun-things-to-do/fall-on-the-farm/",
-      "lastVerified": "2026-10-20",
+      "lastVerified": "2026-10-21",
       "seriesId": "fall-on-the-farm"
     },
     {
@@ -753,7 +727,7 @@
       "description": "Catch the 1988 Beetlejuice outdoors and dress up for the costume contest. Bring your own seating for the park screening.",
       "sourceName": "Washington Park / 3CDC",
       "sourceUrl": "https://washingtonpark.org/events/2026-fright-fest/",
-      "lastVerified": "2026-10-20",
+      "lastVerified": "2026-10-21",
       "seriesId": "otr-fright-fest"
     },
     {
@@ -779,7 +753,7 @@
       "description": "Meet costumed characters, trick-or-treat and explore a carnival-themed haunted house. Tickets are sold at the gate; a Great Parks vehicle permit is required.",
       "sourceName": "Heritage Village Museum",
       "sourceUrl": "https://heritagevillagecincinnati.org/haunted-village/",
-      "lastVerified": "2026-10-20",
+      "lastVerified": "2026-10-21",
       "seriesId": "heritage-haunted"
     },
     {
@@ -787,7 +761,7 @@
       "title": "Jack O’Lantern Glow",
       "date": "2026-10-24",
       "day": "Saturday",
-      "time": "Timed trail entry 6:00 PM–9:45 PM; event closes 10:00 PM",
+      "time": "Timed entry 6:00 PM–9:45 PM; gates close 10:00 PM, trail closes 10:15 PM",
       "venue": "Cincinnati Zoo & Botanical Garden",
       "neighborhood": "Avondale",
       "address": "3400 Vine Street, Cincinnati, OH 45220",
@@ -805,7 +779,7 @@
       "description": "Explore a half-mile illuminated pumpkin trail. Advance online tickets are separate from daytime zoo admission and membership; parking is included.",
       "sourceName": "Cincinnati Zoo & Botanical Garden",
       "sourceUrl": "https://cincinnatizoo.org/events/jack-olantern-glow/",
-      "lastVerified": "2026-10-20",
+      "lastVerified": "2026-10-21",
       "seriesId": "jack-olantern-glow"
     },
     {
@@ -831,7 +805,7 @@
       "description": "Dale Hodges and Raymond McAnally return in Jeffrey Hatcher’s comedy about a boy and his demanding etiquette teacher in 1967 Ohio. The play runs 90 minutes without intermission.",
       "sourceName": "Ensemble Theatre Cincinnati",
       "sourceUrl": "https://ensemblecincinnati.org/calendar/mrs-mannerly/",
-      "lastVerified": "2026-10-20",
+      "lastVerified": "2026-10-21",
       "seriesId": "mrs-mannerly"
     },
     {
@@ -857,7 +831,7 @@
       "description": "A free FotoFocus retrospective brings together more than 150 photographs, personal objects and rarely seen works by the experimental photographer behind IOWA.",
       "sourceName": "Cincinnati Art Museum",
       "sourceUrl": "https://www.cincinnatiartmuseum.org/art/exhibitions/nancy-rexroth-secrets-of-my-power/",
-      "lastVerified": "2026-10-20",
+      "lastVerified": "2026-10-21",
       "seriesId": "nancy-rexroth-secrets"
     },
     {
@@ -883,7 +857,7 @@
       "description": "This tribute-fusion band connects the music of Pink Floyd, Talking Heads and Phish in one jam-filled performance. The venue lists this as a general-admission show.",
       "sourceName": "Ludlow Garage",
       "sourceUrl": "https://www.ludlowgaragecincinnati.com/pink-talking-fish-2/",
-      "lastVerified": "2026-10-20",
+      "lastVerified": "2026-10-21",
       "seriesId": "pink-talking-fish"
     },
     {
@@ -909,7 +883,7 @@
       "description": "Pick a pumpkin and enjoy decorating, crafts and games. Storytime is at 11 AM and 1 PM, with critter encounters a half-hour later.",
       "sourceName": "Great Parks of Hamilton County",
       "sourceUrl": "https://www.greatparks.org/calendar/special-events/the-farm-pumpkin-patch",
-      "lastVerified": "2026-10-20",
+      "lastVerified": "2026-10-21",
       "seriesId": "winton-pumpkin-patch"
     },
     {
@@ -935,34 +909,8 @@
       "description": "Celebrate the fair-trade boutique’s new permanent Findlay Market storefront with live music and special activities. Browse jewelry, bags and clothing made by women’s groups.",
       "sourceName": "Findlay Market",
       "sourceUrl": "https://www.findlaymarket.org/marketevents/sohzasistergrandopening",
-      "lastVerified": "2026-10-20",
+      "lastVerified": "2026-10-21",
       "seriesId": "sohza-sister-opening"
-    },
-    {
-      "id": "art-change-of-life-tour-2026-10-24",
-      "title": "The Art on the Change of Life Tour",
-      "date": "2026-10-24",
-      "day": "Saturday",
-      "time": "11:30 AM–12:30 PM",
-      "venue": "Cincinnati Art Museum",
-      "neighborhood": "Mount Adams / Eden Park",
-      "address": "953 Eden Park Drive, Cincinnati, OH 45202",
-      "category": "Arts",
-      "priceValue": 0,
-      "priceLabel": "Free; registration required",
-      "travelMinutes": 10,
-      "roadTrip": false,
-      "featured": false,
-      "age": "Geared toward adults",
-      "tags": [
-        "arts",
-        "local"
-      ],
-      "description": "A guided art discussion explores women in midlife, identity and menopause through selected works in the museum. Free advance registration is required.",
-      "sourceName": "Cincinnati Art Museum",
-      "sourceUrl": "https://www.cincinnatiartmuseum.org/events/events-list/the-art-on-the-change-of-life-tour/?date=October+24%2C+2026+11%3A30+AM",
-      "lastVerified": "2026-10-20",
-      "seriesId": "art-change-of-life-tour"
     },
     {
       "id": "zach-williams-2026-10-24",
@@ -987,7 +935,7 @@
       "description": "Zach Williams brings his country, rock and gospel sound to the Taft with Cochren & Co. and Christian Hohn. Check the venue’s clear-bag policy before heading downtown.",
       "sourceName": "Taft Theatre",
       "sourceUrl": "https://tafttheatre.org/events/2026/10/zach-williams",
-      "lastVerified": "2026-10-20",
+      "lastVerified": "2026-10-21",
       "seriesId": "zach-williams"
     },
     {
@@ -995,7 +943,7 @@
       "title": "Cincinnati Coffee Festival",
       "date": "2026-10-25",
       "day": "Sunday",
-      "time": "Timed entry 8:00 AM–3:00 PM; festival closes 4:00 PM",
+      "time": "Timed entry 8:00 AM–3:00 PM; Check source for closing time",
       "venue": "Cincinnati Music Hall Ballroom",
       "neighborhood": "Over-the-Rhine",
       "address": "1241 Elm Street, Cincinnati, OH 45202",
@@ -1013,7 +961,7 @@
       "description": "Taste coffee, tea and chocolate and explore vendor booths and demonstrations. Tickets are tied to an entry time, after which visitors may stay until closing.",
       "sourceName": "Cincinnati Arts Association / Ohio River Foundation",
       "sourceUrl": "https://www.cincinnatiarts.org/events/detail/cincinnati-coffee-festival-2026",
-      "lastVerified": "2026-10-20",
+      "lastVerified": "2026-10-21",
       "seriesId": "cincinnati-coffee-festival"
     },
     {
@@ -1039,7 +987,7 @@
       "description": "Discover the Cincinnati artist’s playful modernism through more than 100 photographs, paintings, enamels, weavings, illustrations and prints. Sunday general admission is free.",
       "sourceName": "Taft Museum of Art",
       "sourceUrl": "https://www.taftmuseum.org/exhibitions/edieharper/",
-      "lastVerified": "2026-10-20",
+      "lastVerified": "2026-10-21",
       "seriesId": "edie-harper-modernist"
     },
     {
@@ -1062,15 +1010,15 @@
         "family",
         "local"
       ],
-      "description": "Choose farm play, a corn maze or weekend rides in Northern Kentucky. Friday rides start at 5 PM; pumpkins are separate from the Fun Pass.",
+      "description": "Choose farm play, a corn maze or weekend rides in Northern Kentucky. Sunday hours are noon to 5 PM; pumpkins are separate from the Fun Pass.",
       "sourceName": "Country Pumpkins",
       "sourceUrl": "https://www.countrypumpkinsky.com/fall-festival-corn-maze",
-      "lastVerified": "2026-10-20",
+      "lastVerified": "2026-10-21",
       "seriesId": "country-pumpkins"
     },
     {
       "id": "david-faul-2026-10-25",
-      "title": "David Faul: album-release show",
+      "title": "David Faul",
       "date": "2026-10-25",
       "day": "Sunday",
       "time": "5:00 PM; doors 4:00 PM",
@@ -1091,7 +1039,7 @@
       "description": "The Cincinnati songwriter brings personal, roots-oriented songs to the Revival Room. An early Sunday show that leaves room for dinner afterward.",
       "sourceName": "The Southgate House Revival",
       "sourceUrl": "https://www.southgatehouse.com/tm-event/david-faul-band-album-release-show/",
-      "lastVerified": "2026-10-20",
+      "lastVerified": "2026-10-21",
       "seriesId": "david-faul"
     },
     {
@@ -1117,7 +1065,7 @@
       "description": "A Sunday matinee of the playful vampire comedy includes a post-show cast Q&A. The production contains adult humor, flashing lights and loud noises.",
       "sourceName": "Cincinnati Shakespeare Company",
       "sourceUrl": "https://cincyshakes.com/on-stage/dracula-a-comedy-of-terrors-2026",
-      "lastVerified": "2026-10-20",
+      "lastVerified": "2026-10-21",
       "seriesId": "dracula-comedy-terrors"
     },
     {
@@ -1143,7 +1091,7 @@
       "description": "Enjoy a free pumpkin patch, petting zoo, trackless train and live music. Browse local vendors; some crafts, shopping and food cost extra.",
       "sourceName": "Washington Park / 3CDC",
       "sourceUrl": "https://washingtonpark.org/series/fall-fest-26/",
-      "lastVerified": "2026-10-20",
+      "lastVerified": "2026-10-21",
       "seriesId": "washington-fall-fest"
     },
     {
@@ -1169,7 +1117,7 @@
       "description": "Fiona Cauley brings her quick wit and dark humor to Liberty Center. Seating is first come, first served, and the club requires valid identification for entry.",
       "sourceName": "Cincinnati Funny Bone",
       "sourceUrl": "https://liberty.funnybone.com/event/fiona-cauley/liberty-funny-bone-comedy-club/",
-      "lastVerified": "2026-10-20",
+      "lastVerified": "2026-10-21",
       "seriesId": "fiona-cauley"
     },
     {
@@ -1195,7 +1143,7 @@
       "description": "Pair pumpkin painting with It’s the Great Pumpkin, Charlie Brown and Hotel Transylvania. Bring a blanket or lawn chair for the outdoor double feature.",
       "sourceName": "Washington Park / 3CDC",
       "sourceUrl": "https://washingtonpark.org/events/2026-fright-fest/",
-      "lastVerified": "2026-10-20",
+      "lastVerified": "2026-10-21",
       "seriesId": "otr-fright-fest"
     },
     {
@@ -1221,7 +1169,7 @@
       "description": "Bring a treat bag for daytime trick-or-treat stations, animal pumpkin enrichment and costume fun. The Costume Cavalcade starts at noon.",
       "sourceName": "Cincinnati Zoo & Botanical Garden",
       "sourceUrl": "https://cincinnatizoo.org/events/hallzooween/",
-      "lastVerified": "2026-10-20",
+      "lastVerified": "2026-10-21",
       "seriesId": "hallzooween"
     },
     {
@@ -1229,7 +1177,7 @@
       "title": "Jack O’Lantern Glow",
       "date": "2026-10-25",
       "day": "Sunday",
-      "time": "Timed trail entry 6:00 PM–9:45 PM; event closes 10:00 PM",
+      "time": "Timed entry 6:00 PM–9:45 PM; gates close 10:00 PM, trail closes 10:15 PM",
       "venue": "Cincinnati Zoo & Botanical Garden",
       "neighborhood": "Avondale",
       "address": "3400 Vine Street, Cincinnati, OH 45220",
@@ -1247,7 +1195,7 @@
       "description": "Explore a half-mile illuminated pumpkin trail. Advance online tickets are separate from daytime zoo admission and membership; parking is included.",
       "sourceName": "Cincinnati Zoo & Botanical Garden",
       "sourceUrl": "https://cincinnatizoo.org/events/jack-olantern-glow/",
-      "lastVerified": "2026-10-20",
+      "lastVerified": "2026-10-21",
       "seriesId": "jack-olantern-glow"
     },
     {
@@ -1273,7 +1221,7 @@
       "description": "Catch the Sunday matinee of Jeffrey Hatcher’s comedy about childhood etiquette lessons. A 1 PM pre-show conversation considers what good manners mean today; the play begins at 2 PM.",
       "sourceName": "Ensemble Theatre Cincinnati",
       "sourceUrl": "https://ensemblecincinnati.org/calendar/mrs-mannerly/",
-      "lastVerified": "2026-10-20",
+      "lastVerified": "2026-10-21",
       "seriesId": "mrs-mannerly"
     },
     {
@@ -1299,7 +1247,7 @@
       "description": "Explore a Renaissance village filled with folklore characters and fantastical costumes. Sunday tickets were limited at verification; Saturday is sold out. Buy before driving.",
       "sourceName": "Ohio Renaissance Festival",
       "sourceUrl": "https://renfestival.com/themed_weekend/myths-monsters-weekend/",
-      "lastVerified": "2026-10-20",
+      "lastVerified": "2026-10-21",
       "seriesId": "renaissance-myths-monsters"
     },
     {
@@ -1325,7 +1273,7 @@
       "description": "The Beatles tribute group performs music from A Hard Day’s Night and favorites from across the band’s career. A Sunday-evening option at the historic Taft Theatre.",
       "sourceName": "Taft Theatre",
       "sourceUrl": "https://tafttheatre.org/events/2026/10/the-fab-four",
-      "lastVerified": "2026-10-20",
+      "lastVerified": "2026-10-21",
       "seriesId": "fab-four"
     },
     {
@@ -1351,7 +1299,7 @@
       "description": "Hear the Pet Sounds album performed in full alongside other Beach Boys favorites, with narration and multimedia. This is the rescheduled performance; check the ticket source if holding an earlier booking.",
       "sourceName": "Ludlow Garage",
       "sourceUrl": "https://www.ludlowgaragecincinnati.com/the-music-of-the-beach-boys-feat-pet-sounds-live/",
-      "lastVerified": "2026-10-20",
+      "lastVerified": "2026-10-21",
       "seriesId": "pet-sounds-live"
     },
     {
@@ -1377,7 +1325,7 @@
       "description": "Andrea Forcum, Philip Lindsay and Gaspare Randazzo share classroom stories and the absurd side of teaching. A Sunday-afternoon comedy show for adult audiences.",
       "sourceName": "Cincinnati Funny Bone",
       "sourceUrl": "https://liberty.funnybone.com/event/the-teachers-lounge/liberty-funny-bone-comedy-club/",
-      "lastVerified": "2026-10-20",
+      "lastVerified": "2026-10-21",
       "seriesId": "teachers-lounge"
     }
   ]

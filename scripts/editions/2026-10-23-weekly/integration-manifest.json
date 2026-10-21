@@ -1,0 +1,93 @@
+{
+  "jobId": "weekly-1a7a35b2-a672-4868-8153-cf7ad766bf4a",
+  "scope": [
+    "cincinnati",
+    "philadelphia",
+    "chicago",
+    "washington-dc"
+  ],
+  "target": {
+    "startDate": "2026-10-23",
+    "endDate": "2026-10-25"
+  },
+  "preparedAt": "2026-10-21T13:48:50.454Z",
+  "editions": {
+    "cincinnati": {
+      "label": "Friday, October 23 – Sunday, October 25, 2026",
+      "shortLabel": "Oct 23–25",
+      "startDate": "2026-10-23",
+      "endDate": "2026-10-25",
+      "verifiedAt": "October 21, 2026 at 9:40 AM ET",
+      "updatedAt": "2026-10-21T13:41:22.375Z",
+      "timezone": "America/New_York",
+      "defaultDriveMinutes": 90,
+      "roadTripMaxMinutes": 120,
+      "refreshTarget": "Wednesday 9:35 AM America/New_York",
+      "editionStatus": "verified-current",
+      "lastSuccessfulEdition": "October 23–25, 2026",
+      "editionId": "cincinnati-2026-10-23-weekly-1a7a35b2",
+      "count": 50
+    },
+    "philadelphia": {
+      "label": "Friday, October 23 – Sunday, October 25, 2026",
+      "shortLabel": "Oct 23–25",
+      "startDate": "2026-10-23",
+      "endDate": "2026-10-25",
+      "verifiedAt": "October 21, 2026",
+      "updatedAt": "2026-10-21T13:42:17Z",
+      "timezone": "America/New_York",
+      "defaultDriveMinutes": 90,
+      "roadTripMaxMinutes": 120,
+      "refreshTarget": "Wednesday 9:35 AM America/New_York",
+      "editionStatus": "verified-current",
+      "lastSuccessfulEdition": "October 23–25, 2026",
+      "editionId": "philadelphia-2026-10-23-weekly-1a7a35b2",
+      "count": 46
+    },
+    "chicago": {
+      "label": "Friday, October 23 – Sunday, October 25, 2026",
+      "shortLabel": "Oct 23–25",
+      "startDate": "2026-10-23",
+      "endDate": "2026-10-25",
+      "verifiedAt": "October 21, 2026 at 8:40 AM CT",
+      "updatedAt": "2026-10-21T13:40:00Z",
+      "timezone": "America/Chicago",
+      "defaultDriveMinutes": 90,
+      "roadTripMaxMinutes": 120,
+      "refreshTarget": "Wednesday 9:35 AM America/New_York",
+      "editionStatus": "verified-current",
+      "lastSuccessfulEdition": "October 23–25, 2026",
+      "editionId": "chicago-2026-10-23-weekly-1a7a35b2",
+      "count": 50
+    },
+    "washington-dc": {
+      "label": "Friday, October 23 – Sunday, October 25, 2026",
+      "shortLabel": "Oct 23–25",
+      "startDate": "2026-10-23",
+      "endDate": "2026-10-25",
+      "verifiedAt": "October 21, 2026 at 9:43 AM ET",
+      "updatedAt": "2026-10-21T13:43:12Z",
+      "timezone": "America/New_York",
+      "defaultDriveMinutes": 90,
+      "roadTripMaxMinutes": 120,
+      "refreshTarget": "Wednesday 9:35 AM America/New_York",
+      "editionStatus": "verified-current",
+      "lastSuccessfulEdition": "October 23–25, 2026",
+      "editionId": "washington-dc-2026-10-23-weekly-1a7a35b2",
+      "count": 49
+    }
+  },
+  "archives": [
+    "data/archive/cincinnati/weekend-cincinnati-2026-10-23-manual-abf0a850.json",
+    "data/archive/philadelphia/weekend-philadelphia-2026-10-16-r1.json",
+    "data/archive/chicago/weekend-chicago-2026-10-16-r1.json",
+    "data/archive/washington-dc/weekend-washington-dc-2026-10-16-r1.json"
+  ],
+  "verification": {
+    "primarySourcesChecked": 123,
+    "verifiedDate": "2026-10-21",
+    "tests": "npm test: all-city schema checks and 63 unit tests passed",
+    "browserCheck": "Prepublication local browser unavailable due cloud sandbox infrastructure; live verification pending"
+  },
+  "publicationStatus": "prepared-for-publication"
+}

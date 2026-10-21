@@ -243,3 +243,8 @@ The live site shows Sep 18–20 in every city.
 - Notes-only change: CLAUDE.md and SESSION_NOTES.md. No code, data, config or deploy files touched; the app is unchanged.
 - Verified: `git diff --stat` shows only .md files; live URL checked after push (result in the commit's session reply).
 - Next: every session ends with a dated entry here and one ledger line per settled decision in CLAUDE.md.
+
+
+## 2026-10-21 — Scheduled all-city October 23–25 refresh
+
+Prepared independently reverified editions for Cincinnati (50 cards), Philadelphia (46), Chicago (50), and Greater Washington DC (49), with exactly 10 editorial picks per city. Archived every replaced edition and preserved unrelated repository changes. Primary-source verification ledgers and integration metadata are in scripts/editions/2026-10-23-weekly/. All-city schema validation and all 63 unit tests passed. Local browser smoke testing was blocked by cloud sandbox infrastructure, not an application assertion; no UI changes were made. Production deployment and live edition verification remain pending at this commit and are recorded truthfully in the refresh-control publication status when observed.
