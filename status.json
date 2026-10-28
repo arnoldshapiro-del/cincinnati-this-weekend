@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "generation": 5,
   "jobId": "weekly-ea548ab7-1da5-4e02-a483-e60349253c77",
-  "state": "gathering",
+  "state": "verifying",
   "trigger": "scheduled",
   "cities": [
     "cincinnati",
@@ -29,14 +29,14 @@
     }
   },
   "startedAt": "2026-10-28T13:35:20.126Z",
-  "updatedAt": "2026-10-28T13:43:44.780Z",
-  "leaseExpiresAt": "2026-10-28T14:03:44.780Z",
+  "updatedAt": "2026-10-28T13:46:51.906Z",
+  "leaseExpiresAt": "2026-10-28T14:06:51.906Z",
   "nextAllowedAt": "2026-10-28T14:35:20.126Z",
   "progress": {
-    "completedCities": 0,
+    "completedCities": 4,
     "totalCities": 4,
     "sourcesChecked": 0,
-    "verifiedEvents": 0
+    "verifiedEvents": 189
   },
   "publication": null,
   "lastSuccessByCity": {
