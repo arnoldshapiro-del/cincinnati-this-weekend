@@ -1,0 +1,244 @@
+{
+  "verifiedAt": "2026-10-28T13:45:41.785642Z",
+  "method": "Fetched and inspected official pages using cloud web; repeated dates only where official schedules support them. Travel minutes are editorial estimates, not live traffic.",
+  "sources": [
+    {
+      "seriesId": "addams",
+      "eventIds": [
+        "phl-addams-2026-10-30",
+        "phl-addams-2026-10-31",
+        "phl-addams-2026-11-01"
+      ],
+      "url": "https://www.walnutstreettheatre.org/season/show/addams-family",
+      "verifiedAt": "2026-10-28T13:45:41.785524+00:00",
+      "evidence": "Official current production calendar lists Oct30 7:30, Oct31 1 and7, Nov1 2. HalloWeek offer explicitly $35 for Oct31 evening; Friday two tickets140 TANGO."
+    },
+    {
+      "seriesId": "spooky-golf",
+      "eventIds": [
+        "phl-spooky-golf-2026-10-30",
+        "phl-spooky-golf-2026-10-31",
+        "phl-spooky-golf-2026-11-01"
+      ],
+      "url": "https://historicphiladelphia.org/events/spooky-mini-golf/",
+      "verifiedAt": "2026-10-28T13:45:41.785544+00:00",
+      "evidence": "Official dates October1\u2013November1, daily10\u201310; daytime10\u20135 nighttime5\u201310; prices15/12; address and weekend advance-ticket rule."
+    },
+    {
+      "seriesId": "pumpkinland",
+      "eventIds": [
+        "phl-pumpkinland-2026-10-30",
+        "phl-pumpkinland-2026-10-31",
+        "phl-pumpkinland-2026-11-01"
+      ],
+      "url": "https://www.linvilla.com/family-fun/pumpkinland",
+      "verifiedAt": "2026-10-28T13:45:41.785551+00:00",
+      "evidence": "Page explicitly open daily Sept12\u2013Nov8; free entry. Oct31 banner9\u20136. HarvesthayrideFri11\u20134:45 throughOct30/weekends10\u20134:45 throughNov8."
+    },
+    {
+      "seriesId": "chrysanthemum",
+      "eventIds": [
+        "phl-chrysanthemum-2026-10-30",
+        "phl-chrysanthemum-2026-10-31",
+        "phl-chrysanthemum-2026-11-01"
+      ],
+      "url": "https://longwoodgardens.org/events-performances/events/chrysanthemum-festival",
+      "verifiedAt": "2026-10-28T13:45:41.785560+00:00",
+      "evidence": "Official Oct16\u2013Nov15 2026; regular hours FriSatSun10\u20139 onpage; timedticketrequired, memberreservationsafter3 throughNov1."
+    },
+    {
+      "seriesId": "scarecrow",
+      "eventIds": [
+        "phl-scarecrow-2026-10-30",
+        "phl-scarecrow-2026-10-31",
+        "phl-scarecrow-2026-11-01"
+      ],
+      "url": "https://www.morrisarboretum.org/see-do/arbooretum",
+      "verifiedAt": "2026-10-28T13:45:41.785565+00:00",
+      "evidence": "ScarecrowdisplayOct1\u2013Nov1; hours-pricing official seasonal AprOctweekday10\u20135/weekend9\u20135; Novemberdaily10\u20134; adults22. Supplement https://www.morrisarboretum.org/visit/hours-pricing"
+    },
+    {
+      "seriesId": "tobin",
+      "eventIds": [
+        "phl-tobin-2026-10-30",
+        "phl-tobin-2026-10-31",
+        "phl-tobin-2026-11-01"
+      ],
+      "url": "https://tylerarboretum.org/steve-tobin-in-the-light/",
+      "verifiedAt": "2026-10-28T13:45:41.785570+00:00",
+      "evidence": "OpenedOct16 2026, throughOct2027. More50 works24sites. Official hours-directions-and-admission dailyAprOct9\u20136 NovMar9\u20134, adults18,515PainterRd."
+    },
+    {
+      "seriesId": "duchamp",
+      "eventIds": [
+        "phl-duchamp-2026-10-30",
+        "phl-duchamp-2026-10-31",
+        "phl-duchamp-2026-11-01"
+      ],
+      "url": "https://www.philamuseum.org/exhibitions/marcel-duchamp",
+      "verifiedAt": "2026-10-28T13:45:41.785576+00:00",
+      "evidence": "Current exhibition throughJan31 2027,35timed ticket. /our-campus hours Fri10\u20138:45 SatSun10\u20135."
+    },
+    {
+      "seriesId": "philly-flea",
+      "eventIds": [
+        "phl-gateway-2026-10-30",
+        "phl-gateway-2026-10-31",
+        "phl-gateway-2026-11-01"
+      ],
+      "url": "https://philafleamarkets.org/",
+      "verifiedAt": "2026-10-28T13:45:41.785584+00:00",
+      "evidence": "Organizerhomepage lists Gateway everyFriSatSun yearround10\u20136;153SwedesfordRd."
+    },
+    {
+      "seriesId": "philly-flea",
+      "eventIds": [
+        "phl-mills-flea-2026-11-01"
+      ],
+      "url": "https://philafleamarkets.org/",
+      "verifiedAt": "2026-10-28T13:45:41.785587+00:00",
+      "evidence": "Homepage currentbanner explicitly everySunday throughNov1 at90FranklinMillsBlvd8\u20134 overrides older genericOctlabel lowerpage."
+    },
+    {
+      "seriesId": "afrojack",
+      "eventIds": [
+        "phl-afrojack-2026-10-30"
+      ],
+      "url": "https://www.axs.com/events/1566121/afrojack-tickets",
+      "verifiedAt": "2026-10-28T13:45:41.785590+00:00",
+      "evidence": "VenueHalloween2026 linksAXS; datedOct30 6PM,18+, address1100Pattison, tickets currentlyoffered."
+    },
+    {
+      "seriesId": "midnight-manor",
+      "eventIds": [
+        "phl-midnight-manor-2026-10-31"
+      ],
+      "url": "https://www.axs.com/events/1566069/midnight-manor-halloween-party-tickets",
+      "verifiedAt": "2026-10-28T13:45:41.785594+00:00",
+      "evidence": "VenueauthorizedAXS Oct31 7PM doors,21+, ticketoffers active."
+    },
+    {
+      "seriesId": "boozy-afterlife",
+      "eventIds": [
+        "phl-boozy-afterlife-2026-11-01"
+      ],
+      "url": "https://www.statesidelive.com/halloween-weekend",
+      "verifiedAt": "2026-10-28T13:45:41.785597+00:00",
+      "evidence": "OfficialHalloweenWeekend2026 explicitSundayNov1brunchcrawl and venueaddress. Eventbrite inaccessible429; no unverifiedtime orprice used."
+    },
+    {
+      "seriesId": "boo-zoo",
+      "eventIds": [
+        "phl-boo-zoo-2026-10-31",
+        "phl-boo-zoo-2026-11-01"
+      ],
+      "url": "https://www.philadelphiazoo.org/events/boo-at-the-zoo/",
+      "verifiedAt": "2026-10-28T13:45:41.785601+00:00",
+      "evidence": "Current officialdatesSatOct31/SunNov1,time9:30\u20135 includedadmission,contests11:30/2:30."
+    },
+    {
+      "seriesId": "passyunk-fall",
+      "eventIds": [
+        "phl-passyunk-fall-2026-10-31"
+      ],
+      "url": "https://www.visiteastpassyunk.com/events/fall-fest-2026",
+      "verifiedAt": "2026-10-28T13:45:41.785605+00:00",
+      "evidence": "OfficialBIDeventOct31 2026 11\u20134,locationMorris\u2013Dickinson,80+vendors/carving/music/tricktreat. Noadmissionpricepublished."
+    },
+    {
+      "seriesId": "south-halloween",
+      "eventIds": [
+        "phl-south-halloween-2026-10-31"
+      ],
+      "url": "https://southstreet.com/sshd-events/",
+      "verifiedAt": "2026-10-28T13:45:41.785608+00:00",
+      "evidence": "OfficialOct2026calendar Oct31noon\u201311:55; candycrawlnoon5,promenade1,Headhousetrunk1:30\u20134. Priceunpublished."
+    },
+    {
+      "seriesId": "glen-masquerade",
+      "eventIds": [
+        "phl-glen-masquerade-2026-10-30"
+      ],
+      "url": "https://www.glenfoerd.org/masquerade-ball",
+      "verifiedAt": "2026-10-28T13:45:41.785611+00:00",
+      "evidence": "OfficialFridayOct30,6:30,21+,limitedticketsremaining,address5001Grant. Price not onpage."
+    },
+    {
+      "seriesId": "peddler-trunk",
+      "eventIds": [
+        "phl-peddler-trunk-2026-10-30"
+      ],
+      "url": "https://peddlersvillage.com/event/trunk-or-treat-in-the-village/",
+      "verifiedAt": "2026-10-28T13:45:41.785614+00:00",
+      "evidence": "Official2026-10-30 date5\u20138,FreeEventcategory,2400StreetRd."
+    },
+    {
+      "seriesId": "anxo-cellar",
+      "eventIds": [
+        "phl-anxo-cellar-2026-10-30"
+      ],
+      "url": "https://phillyciderweek.com/2026-events/anxo-sptr",
+      "verifiedAt": "2026-10-28T13:45:41.785617+00:00",
+      "evidence": "OrganizerOct30 2026 5\u20137,1509Mifflin,rarecellarpoursfoodspecials."
+    },
+    {
+      "seriesId": "anxo-maker",
+      "eventIds": [
+        "phl-anxo-maker-2026-10-30"
+      ],
+      "url": "https://phillyciderweek.com/2026-events/anxo-doom",
+      "verifiedAt": "2026-10-28T13:45:41.785620+00:00",
+      "evidence": "OrganizerOct30 2026 8\u201311,421N7thSt,CharlieBurt."
+    },
+    {
+      "seriesId": "cider-stroll",
+      "eventIds": [
+        "phl-cider-stroll-2026-11-01"
+      ],
+      "url": "https://phillyciderweek.com/2026-events/ciderstroll",
+      "verifiedAt": "2026-10-28T13:45:41.785623+00:00",
+      "evidence": "OfficialNov1 2026 3\u20137,HeadhouseShambles,PineSt,freeattendpaygo,allages21drink; optionalpassport."
+    },
+    {
+      "seriesId": "esp-halloween",
+      "eventIds": [
+        "phl-esp-halloween-2026-10-30",
+        "phl-esp-halloween-2026-10-31",
+        "phl-esp-halloween-2026-11-01"
+      ],
+      "url": "https://easternstate.org/halloween/schedule-pricing",
+      "verifiedAt": "2026-10-28T13:45:41.785628+00:00",
+      "evidence": "Officialscheduleimage downloaded and visuallyinspected: 2026calendar Oct30purple69 Oct31red79 Nov1orange59. /faqs supportsvenue, timedentry,variablehours. Image source https://easternstate.org/uploads/halloween_nights/Calendar_copy_for_website.png visually inspected at 13:41 UTC."
+    },
+    {
+      "seriesId": "noguchi-asawa",
+      "eventIds": [
+        "phl-noguchi-asawa-2026-10-30",
+        "phl-noguchi-asawa-2026-10-31"
+      ],
+      "url": "https://www.barnesfoundation.org/exhibitions/noguchi-to-asawa-designing-postwar-america",
+      "verifiedAt": "2026-10-28T13:45:41.785633+00:00",
+      "evidence": "OfficialcurrentexhibitionthroughJan10 2027,30adult. Plan-your-visit ThuMon11\u20135 andaddress; Sundaylistedseparatelyfreefamilyday notduplicated."
+    },
+    {
+      "seriesId": "barnes-family",
+      "eventIds": [
+        "phl-barnes-family-2026-11-01"
+      ],
+      "url": "https://www.barnesfoundation.org/whats-on/peco-free-first-sunday-family-day-november-2026",
+      "verifiedAt": "2026-10-28T13:45:41.785636+00:00",
+      "evidence": "OfficialNov1 10\u20135freecapacitylimitedregisteropensOct29 10. IncludesNoguchiAsawa, KPACperformances."
+    },
+    {
+      "seriesId": "egypt-watercolors",
+      "eventIds": [
+        "phl-egypt-watercolors-2026-10-30",
+        "phl-egypt-watercolors-2026-10-31",
+        "phl-egypt-watercolors-2026-11-01"
+      ],
+      "url": "https://www.penn.museum/on-view/galleries-exhibitions/ancient-egypt-in-watercolors",
+      "verifiedAt": "2026-10-28T13:45:41.785641+00:00",
+      "evidence": "Currentofficialexhibitionpage confirmsonview,locationand includedadmission. UniversityMarch2026announcementrunsuntilNovember2026. Officialvisit/plan-your-visit TueSun10\u20135,$23adult; closureNov14only announced."
+    }
+  ]
+}

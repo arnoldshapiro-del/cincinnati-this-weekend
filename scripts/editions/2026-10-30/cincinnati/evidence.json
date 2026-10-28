@@ -1,0 +1,370 @@
+{
+  "verifiedAt": "2026-10-28T13:43:25.282Z",
+  "method": "Official organizer and venue pages fetched and inspected using cloud web tools on October 28, 2026. Series expanded only on explicit date range plus published operating days or individually listed performances.",
+  "limitations": "Live ticket inventory may change; unpublished ticket prices and times use Check source. Travel estimates are normal driving estimates, not live traffic. No exceptional road trips.",
+  "sources": [
+    {
+      "seriesId": "dracula-comedy-terrors",
+      "url": "https://cincyshakes.com/on-stage/dracula-a-comedy-of-terrors-2026",
+      "verifiedAt": "2026-10-28",
+      "dates": [
+        "2026-10-30",
+        "2026-10-31"
+      ],
+      "time": {
+        "0": "7:30 PM",
+        "1": "2:00 PM and 7:30 PM"
+      },
+      "price": "Check source; October 31 tickets $31",
+      "verifiedFacts": "A fast-moving vampire comedy closes on Halloween. Friday encourages witch and wizard costumes; Saturday afternoon is ASL interpreted. Adult humor and loud effects."
+    },
+    {
+      "seriesId": "jack-olantern-glow",
+      "url": "https://jack-o-lanternglow.com/dates/",
+      "verifiedAt": "2026-10-28",
+      "dates": [
+        "2026-10-30",
+        "2026-10-31"
+      ],
+      "time": "6:00 PM\u20139:45 PM; timed entry",
+      "price": "Adults $15\u2013$25; children $10\u2013$20; date/time pricing",
+      "verifiedFacts": "Walk a half-mile trail of illuminated carved pumpkins on the final two nights. Separate event ticket required, not regular zoo admission."
+    },
+    {
+      "seriesId": "hallzooween",
+      "url": "https://cincinnatizoo.org/events/hallzooween/",
+      "verifiedAt": "2026-10-28",
+      "dates": [
+        "2026-10-31",
+        "2026-11-01"
+      ],
+      "time": "12:00 PM\u20135:00 PM",
+      "price": "Included with zoo admission or membership; Check source for admission price",
+      "verifiedFacts": "Bring a treat bag for daytime candy stations, animal pumpkin enrichment and costume activities. This final weekend is included with zoo admission."
+    },
+    {
+      "seriesId": "mrs-mannerly",
+      "url": "https://ensemblecincinnati.org/calendar/mrs-mannerly/",
+      "verifiedAt": "2026-10-28",
+      "dates": [
+        "2026-10-30",
+        "2026-10-31",
+        "2026-11-01"
+      ],
+      "time": {
+        "0": "7:30 PM",
+        "1": "2:00 PM and 7:30 PM",
+        "2": "2:00 PM"
+      },
+      "price": "Check source",
+      "verifiedFacts": "Jeffrey Hatcher\u2019s warm comedy revisits childhood etiquette lessons and an unforgettable teacher. Saturday\u2019s matinee offers audio description; the run ends Sunday."
+    },
+    {
+      "seriesId": "charley-harper-creatures",
+      "url": "https://cincinnatiartmuseum.org/art/exhibitions/the-art-of-charley-harper-creatures-wild-and-tame/",
+      "verifiedAt": "2026-10-28",
+      "dates": [
+        "2026-10-30",
+        "2026-10-31",
+        "2026-11-01"
+      ],
+      "time": "11:00 AM\u20135:00 PM",
+      "price": "Adults $15 online / $17 onsite; reduced rates and member admission available",
+      "verifiedFacts": "Explore Charley Harper\u2019s graphic wildlife designs in a major exhibition spanning his long creative career. A good indoor choice for art and nature lovers."
+    },
+    {
+      "seriesId": "nancy-rexroth-secrets",
+      "url": "https://www.cincinnatiartmuseum.org/art/exhibitions/nancy-rexroth-secrets-of-my-power/",
+      "verifiedAt": "2026-10-28",
+      "dates": [
+        "2026-10-30",
+        "2026-10-31",
+        "2026-11-01"
+      ],
+      "time": "11:00 AM\u20135:00 PM",
+      "price": "Free admission",
+      "verifiedFacts": "Free photography retrospective spanning Nancy Rexroth\u2019s experimental career, including rare prints and personal objects associated with her influential book IOWA."
+    },
+    {
+      "seriesId": "edie-harper-modernist",
+      "url": "https://www.taftmuseum.org/exhibitions/edieharper/",
+      "verifiedAt": "2026-10-28",
+      "dates": [
+        "2026-10-30",
+        "2026-10-31"
+      ],
+      "time": "10:00 AM\u20135:00 PM",
+      "price": "Check source for museum admission",
+      "verifiedFacts": "Explore Edie McKee Harper\u2019s playful modernism across photography, paintings, enamel, weaving and illustration. This exhibition brings together more than 100 works."
+    },
+    {
+      "seriesId": "edie-harper-modernist",
+      "url": "https://www.taftmuseum.org/exhibitions/edieharper/",
+      "verifiedAt": "2026-10-28",
+      "dates": [
+        "2026-11-01"
+      ],
+      "time": "10:00 AM\u20135:00 PM",
+      "price": "Free Sunday admission",
+      "verifiedFacts": "Explore Edie McKee Harper\u2019s inventive art across photography, painting, enamel and textiles. Sunday admission is free, making this a welcoming family art outing."
+    },
+    {
+      "seriesId": "blooms-fall-farm",
+      "url": "https://bloomsandberries.com/fun-things-to-do/fall-on-the-farm/",
+      "verifiedAt": "2026-10-28",
+      "dates": [
+        "2026-10-30",
+        "2026-10-31",
+        "2026-11-01"
+      ],
+      "time": {
+        "0": "9:00 AM\u20137:00 PM",
+        "1": "9:00 AM\u20133:00 PM",
+        "2": "9:00 AM\u20135:00 PM"
+      },
+      "price": "Check source",
+      "verifiedFacts": "Hayrides, a five-acre corn maze, farm animals and play areas round out the final fall weekend. Reserve online; Saturday closes earlier."
+    },
+    {
+      "seriesId": "aquarium-glow",
+      "url": "https://www.newportaquarium.com/things-to-do/aquarium-events/pumpkin-glow/",
+      "verifiedAt": "2026-10-28",
+      "dates": [
+        "2026-10-30",
+        "2026-10-31",
+        "2026-11-01"
+      ],
+      "time": "Check source for timed admission hours",
+      "price": "Included with aquarium admission; Check source for current ticket price",
+      "verifiedFacts": "The aquarium\u2019s indoor seasonal displays and pumpkin sculptures glow through Sunday. Included with regular admission; pumpkin decorating costs extra."
+    },
+    {
+      "seriesId": "renaissance-heroes",
+      "url": "https://renfestival.com/",
+      "verifiedAt": "2026-10-28",
+      "dates": [
+        "2026-10-31",
+        "2026-11-01"
+      ],
+      "time": "10:30 AM\u20137:00 PM",
+      "price": "Children 12 and under free this weekend; Check source for adult tickets",
+      "verifiedFacts": "The final festival weekend celebrates heroes and villains with stage entertainment, artisans and food. Children 12 and under receive free admission."
+    },
+    {
+      "seriesId": "art-after-dark",
+      "url": "https://cincinnatiartmuseum.org/events/adults/art-after-dark/",
+      "verifiedAt": "2026-10-28",
+      "dates": [
+        "2026-10-30"
+      ],
+      "time": "5:00 PM\u20139:00 PM",
+      "price": "Free admission",
+      "verifiedFacts": "DJs, gallery ghost stories and free exhibition access start Halloween weekend. Costumes encouraged subject to security rules; tarot readings and refreshments cost extra."
+    },
+    {
+      "seriesId": "fcc-union",
+      "url": "https://www.fccincinnati.com/schedule/theme-nights/",
+      "verifiedAt": "2026-10-28",
+      "dates": [
+        "2026-10-31"
+      ],
+      "time": "2:00 PM",
+      "price": "Check source",
+      "verifiedFacts": "Halloween matchday brings Philadelphia Union to TQL Stadium. Check official ticket inventory and stadium entry policies before heading to the West End."
+    },
+    {
+      "seriesId": "bengals-titans",
+      "url": "https://www.bengals.com/schedule/schedule-information-hub",
+      "verifiedAt": "2026-10-28",
+      "dates": [
+        "2026-11-01"
+      ],
+      "time": "1:00 PM",
+      "price": "Check source",
+      "verifiedFacts": "The Bengals return home for an afternoon matchup against Tennessee. Allow extra time for riverfront traffic, stadium security and parking."
+    },
+    {
+      "seriesId": "fcc-prematch",
+      "url": "https://washingtonpark.org/series/fc-cincinnati-prematch-at-the-park/",
+      "verifiedAt": "2026-10-28",
+      "dates": [
+        "2026-10-31"
+      ],
+      "time": "10:30 AM\u20131:00 PM",
+      "price": "Check source",
+      "verifiedFacts": "Warm up for the soccer match with music, vendors, food trucks and inflatable soccer activities. Children and dogs are welcome; purchases cost extra."
+    },
+    {
+      "seriesId": "gravedancers",
+      "url": "https://www.southgatehouse.com/tm-event/gravedancers-ball-a-night-of-the-living-dead-w-ramble-on-bros/",
+      "verifiedAt": "2026-10-28",
+      "dates": [
+        "2026-10-30"
+      ],
+      "time": "8:00 PM; doors 7:00 PM",
+      "price": "Check source",
+      "verifiedFacts": "Ramble On Bros keeps the Grateful Dead repertoire alive at a Halloween-season ball in the historic Sanctuary."
+    },
+    {
+      "seriesId": "trauma-illinois",
+      "url": "https://www.southgatehouse.com/tm-event/trauma-illinois/",
+      "verifiedAt": "2026-10-28",
+      "dates": [
+        "2026-10-30"
+      ],
+      "time": "8:00 PM; doors 7:00 PM",
+      "price": "Check source",
+      "verifiedFacts": "Celebrate the Pink Motel album release with Trauma Illinois and supporting act Lombardy in the intimate Revival Room."
+    },
+    {
+      "seriesId": "teddy-thompson",
+      "url": "https://www.southgatehouse.com/tm-event/an-evening-with-teddy-thompson/",
+      "verifiedAt": "2026-10-28",
+      "dates": [
+        "2026-11-01"
+      ],
+      "time": "7:00 PM; doors 6:30 PM",
+      "price": "Check source",
+      "verifiedFacts": "Singer-songwriter Teddy Thompson brings his carefully crafted songs to the Sanctuary for a Sunday evening concert."
+    },
+    {
+      "seriesId": "authority-zero",
+      "url": "https://www.southgatehouse.com/tm-event/authority-zero-the-raging-nathans-get-wrecked-sleepy-drums/",
+      "verifiedAt": "2026-10-28",
+      "dates": [
+        "2026-11-01"
+      ],
+      "time": "7:30 PM; doors 7:00 PM",
+      "price": "Check source",
+      "verifiedFacts": "Authority Zero heads a punk bill with The Raging Nathans, Get Wrecked and Sleepy Drums. The Revival Room show is standing room only."
+    },
+    {
+      "seriesId": "haunted-fest-0",
+      "url": "https://promowestlive.com/cincinnati/megacorp-pavilion/2026/10/haunted-fest-cincinnati",
+      "verifiedAt": "2026-10-28",
+      "dates": [
+        "2026-10-30"
+      ],
+      "time": "Doors 6:00 PM; Check source for set times",
+      "price": "Check source",
+      "verifiedFacts": "An outdoor electronic-music bill led by Knock2 celebrates Halloween weekend. The promoter lists this as an all-ages, rain-or-shine event."
+    },
+    {
+      "seriesId": "haunted-fest-1",
+      "url": "https://promowestlive.com/cincinnati/megacorp-pavilion/2026/10/haunted-fest-cincinnati2",
+      "verifiedAt": "2026-10-28",
+      "dates": [
+        "2026-10-31"
+      ],
+      "time": "Doors 6:00 PM; Check source for set times",
+      "price": "Check source",
+      "verifiedFacts": "An outdoor electronic-music bill led by GRiZ celebrates Halloween weekend. The promoter lists this as an all-ages, rain-or-shine event."
+    },
+    {
+      "seriesId": "kings-haunt",
+      "url": "https://www.sixflags.com/kingsisland/events/halloween-haunt",
+      "verifiedAt": "2026-10-28",
+      "dates": [
+        "2026-10-30",
+        "2026-10-31"
+      ],
+      "time": "Check source for park and haunt hours",
+      "price": "Park admission required; haunted mazes extra; Check source",
+      "verifiedFacts": "Scare zones, live entertainment and rides take over after dark. Haunted mazes cost extra; this event is not recommended for children under 13."
+    },
+    {
+      "seriesId": "dent-schoolhouse",
+      "url": "https://dentschoolhouse.com/2026-the-dent-schoolhouse-details-and-schedule/",
+      "verifiedAt": "2026-10-28",
+      "dates": [
+        "2026-10-30",
+        "2026-10-31"
+      ],
+      "time": "Check source for timed entry",
+      "price": "Check source",
+      "verifiedFacts": "The haunted schoolhouse finishes its October run with upgraded sound and elaborate scare environments. Choose a dated admission slot and review intensity warnings."
+    },
+    {
+      "seriesId": "findlay-trick-treat",
+      "url": "https://www.findlaymarket.org/marketevents/trickortreat2026",
+      "verifiedAt": "2026-10-28",
+      "dates": [
+        "2026-10-31"
+      ],
+      "time": "4:00 PM\u20136:00 PM",
+      "price": "Check source",
+      "verifiedFacts": "Costumed children can collect candy from participating market merchants and neighboring storefronts. Look for marked businesses throughout the Market House and surrounding blocks."
+    },
+    {
+      "seriesId": "findlay-music",
+      "url": "https://www.findlaymarket.org/musicatthemarket",
+      "verifiedAt": "2026-10-28",
+      "dates": [
+        "2026-10-30"
+      ],
+      "time": "5:00 PM\u20137:00 PM",
+      "price": "Check source",
+      "verifiedFacts": "Enjoy Tea Set playing at Jane\u2019s during the market\u2019s local-music series. Pair the performance with food or drinks purchased from nearby merchants."
+    },
+    {
+      "seriesId": "findlay-music",
+      "url": "https://www.findlaymarket.org/musicatthemarket",
+      "verifiedAt": "2026-10-28",
+      "dates": [
+        "2026-10-31"
+      ],
+      "time": "5:00 PM\u20137:00 PM",
+      "price": "Check source",
+      "verifiedFacts": "Enjoy Juls Lawrence playing at Jane\u2019s during the market\u2019s local-music series. Pair the performance with food or drinks purchased from nearby merchants."
+    },
+    {
+      "seriesId": "findlay-tasting",
+      "url": "https://www.findlaymarket.org/marketevents/halloweenbitesanddelights",
+      "verifiedAt": "2026-10-28",
+      "dates": [
+        "2026-10-31"
+      ],
+      "time": "2:00 PM\u20133:30 PM",
+      "price": "Check source",
+      "verifiedFacts": "A guided Halloween tasting walk stops at five local businesses for seasonal samples. Reserve through the market\u2019s official tour listing."
+    },
+    {
+      "seriesId": "findlay-howloween",
+      "url": "https://www.findlaymarket.org/marketevents/howloween2026",
+      "verifiedAt": "2026-10-28",
+      "dates": [
+        "2026-11-01"
+      ],
+      "time": "2:30 PM\u20134:00 PM",
+      "price": "Check source",
+      "verifiedFacts": "Dress up your dog for the market\u2019s annual costume contest at Jane\u2019s. Check the official listing for registration details before bringing your canine contestant."
+    }
+  ],
+  "supplementarySources": [
+    "https://cincinnatiartmuseum.org/visit/",
+    "https://www.taftmuseum.org/visitor-information/",
+    "https://www.newportaquarium.com/blog/first-look-underwater-pumpkin-glow-2026/",
+    "https://cincinnatizoo.org/third-annual-jack-olantern-glow-returns-bigger-and-brighter-at-the-cincinnati-zoo/",
+    "https://dentschoolhouse.com/directions/",
+    "https://promowestlive.com/cincinnati/megacorp-pavilion/directions-parking",
+    "https://www.newportaquarium.com/plan-your-visit/directions/"
+  ],
+  "dateExpansionEvidence": {
+    "HallZOOween": "Official page lists October 31\u2013Nov 1, noon\u20135.",
+    "Fall on the Farm": "Explicit final-hours banner: Oct26\u201330 9\u20137, Oct31 9\u20133, Nov1 9\u20135; season2026.",
+    "Aquarium GLOW": "Official event page says now through Nov1 2026; official Sept4 blog says daily program included in admission. Hours left Check source.",
+    "Charley Harper": "Oct16 2026\u2013Mar7 2027; museum visit page Friday\u2013Sunday11\u20135.",
+    "Nancy Rexroth": "Oct2 2026\u2013Jan3 2027, free; museum Friday\u2013Sunday11\u20135.",
+    "Edie Harper": "Oct17 2026\u2013Jan24 2027; Taft visitor page Wednesday\u2013Monday10\u20135; Sunday free.",
+    "Ohio Renaissance Festival": "2026 weekends through Nov1; homepage Heroes and Villains Oct31\u2013Nov1 and tickets available for both,10:30\u20137.",
+    "Jack O Lantern Glow": "Organizer 2026 schedule Oct27\u201331 and6\u20139:45; Zoo contemporary announcement independently confirms season.",
+    "Mrs Mannerly": "Individual Fri7:30, Sat2&7:30, Sun2 listed in current calendar.",
+    "Kings Island": "Official2026 Thursday\u2013Sunday season endsOct31; therefore no Sunday card.",
+    "Dent": "Official2026 date list explicitly includesOct30,31; hours unpublished in inspected announcement so Check source."
+  },
+  "excluded": [
+    "Fright Fest Washington Park ended October25",
+    "Ludlow Garage BLKBOK October30 canceled",
+    "Madcap Giggles and Ghouls conflicting third-party dates without inspected primary confirmation"
+  ]
+}

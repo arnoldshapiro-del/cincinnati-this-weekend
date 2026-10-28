@@ -1,0 +1,871 @@
+{
+  "editionId": "chicago-2026-10-30-weekly-ea548ab7",
+  "verifiedAt": "2026-10-28T13:44:52Z",
+  "eventDayCards": 45,
+  "featured": 10,
+  "coverageNotes": [
+    "Primary pages inspected, not just URL reachability. No road trips included.",
+    "Travel minutes are editorial estimates from central Chicago, not live traffic measurements.",
+    "Multi-day cards derive from explicit event dates or published operating schedule within stated season.",
+    "Navy Pier D\u00eda de los Muertos body has stale Saturday wording; dated schedule and header explicitly identify Sunday November1,2026.",
+    "Do not interpret a ticket link as guaranteed remaining inventory; recheck before committing.",
+    "Excluded Pilsen Window Walk: primary source establishes 2026 voting deadline but does not explicitly establish each target operating date."
+  ],
+  "sources": [
+    {
+      "sourceUrl": "https://www.chicagoparkdistrict.com/events/halloween-bash-leclaire-hearst",
+      "sourceName": "Chicago Park District",
+      "verifiedAt": "2026-10-28T13:44:52Z",
+      "method": "Fetched and inspected with cloud web open/click on 2026-10-28",
+      "eventIds": [
+        "halloween-bash-leclaire-hearst-2026-10-30"
+      ],
+      "dates": [
+        "2026-10-30"
+      ],
+      "facts": [
+        {
+          "date": "2026-10-30",
+          "time": "12:00\u20133:00 PM",
+          "venue": "LeClaire-Hearst Park",
+          "address": "5120 W 44th St, Chicago, IL",
+          "price": "Free"
+        }
+      ],
+      "dateEvidence": "Individual official event page explicitly lists 2026 event date, hours, park address and fee."
+    },
+    {
+      "sourceUrl": "https://www.chicagoparkdistrict.com/events/16th-ward-halloween-kickback-lindblom",
+      "sourceName": "Chicago Park District",
+      "verifiedAt": "2026-10-28T13:44:52Z",
+      "method": "Fetched and inspected with cloud web open/click on 2026-10-28",
+      "eventIds": [
+        "16th-ward-halloween-kickback-lindblom-2026-10-30"
+      ],
+      "dates": [
+        "2026-10-30"
+      ],
+      "facts": [
+        {
+          "date": "2026-10-30",
+          "time": "3:00\u20136:00 PM",
+          "venue": "Lindblom Park",
+          "address": "6054 S Damen Ave, Chicago, IL",
+          "price": "Free"
+        }
+      ],
+      "dateEvidence": "Individual official event page explicitly lists 2026 event date, hours, park address and fee."
+    },
+    {
+      "sourceUrl": "https://www.chicagoparkdistrict.com/events/boo-tiful-adventure-galewood",
+      "sourceName": "Chicago Park District",
+      "verifiedAt": "2026-10-28T13:44:52Z",
+      "method": "Fetched and inspected with cloud web open/click on 2026-10-28",
+      "eventIds": [
+        "boo-tiful-adventure-galewood-2026-10-30"
+      ],
+      "dates": [
+        "2026-10-30"
+      ],
+      "facts": [
+        {
+          "date": "2026-10-30",
+          "time": "4:00\u20136:00 PM",
+          "venue": "Galewood Park",
+          "address": "5729 W Bloomingdale Ave, Chicago, IL",
+          "price": "Free"
+        }
+      ],
+      "dateEvidence": "Individual official event page explicitly lists 2026 event date, hours, park address and fee."
+    },
+    {
+      "sourceUrl": "https://www.chicagoparkdistrict.com/events/community-halloween-party-sauganash-0",
+      "sourceName": "Chicago Park District",
+      "verifiedAt": "2026-10-28T13:44:52Z",
+      "method": "Fetched and inspected with cloud web open/click on 2026-10-28",
+      "eventIds": [
+        "community-halloween-party-sauganash-0-2026-10-30"
+      ],
+      "dates": [
+        "2026-10-30"
+      ],
+      "facts": [
+        {
+          "date": "2026-10-30",
+          "time": "4:00\u20135:30 PM",
+          "venue": "Sauganash Park",
+          "address": "5861 N Kostner Ave, Chicago, IL",
+          "price": "Free"
+        }
+      ],
+      "dateEvidence": "Individual official event page explicitly lists 2026 event date, hours, park address and fee."
+    },
+    {
+      "sourceUrl": "https://www.chicagoparkdistrict.com/events/halloween-magic-mania-haas",
+      "sourceName": "Chicago Park District",
+      "verifiedAt": "2026-10-28T13:44:52Z",
+      "method": "Fetched and inspected with cloud web open/click on 2026-10-28",
+      "eventIds": [
+        "halloween-magic-mania-haas-2026-10-30"
+      ],
+      "dates": [
+        "2026-10-30"
+      ],
+      "facts": [
+        {
+          "date": "2026-10-30",
+          "time": "4:00\u20135:30 PM",
+          "venue": "Haas Park",
+          "address": "2402 N Washtenaw Ave, Chicago, IL",
+          "price": "Free"
+        }
+      ],
+      "dateEvidence": "Individual official event page explicitly lists 2026 event date, hours, park address and fee."
+    },
+    {
+      "sourceUrl": "https://www.chicagoparkdistrict.com/events/halloween-party-west-lawn-0",
+      "sourceName": "Chicago Park District",
+      "verifiedAt": "2026-10-28T13:44:52Z",
+      "method": "Fetched and inspected with cloud web open/click on 2026-10-28",
+      "eventIds": [
+        "halloween-party-west-lawn-0-2026-10-30"
+      ],
+      "dates": [
+        "2026-10-30"
+      ],
+      "facts": [
+        {
+          "date": "2026-10-30",
+          "time": "4:00\u20136:00 PM",
+          "venue": "West Lawn Park",
+          "address": "4233 W 65th St, Chicago, IL",
+          "price": "Free"
+        }
+      ],
+      "dateEvidence": "Individual official event page explicitly lists 2026 event date, hours, park address and fee."
+    },
+    {
+      "sourceUrl": "https://www.chicagoparkdistrict.com/events/halloween-palooza-green-briar-0",
+      "sourceName": "Chicago Park District",
+      "verifiedAt": "2026-10-28T13:44:52Z",
+      "method": "Fetched and inspected with cloud web open/click on 2026-10-28",
+      "eventIds": [
+        "halloween-palooza-green-briar-0-2026-10-30"
+      ],
+      "dates": [
+        "2026-10-30"
+      ],
+      "facts": [
+        {
+          "date": "2026-10-30",
+          "time": "4:00\u20136:00 PM",
+          "venue": "Green Briar Park",
+          "address": "2650 W Peterson Ave, Chicago, IL",
+          "price": "Free"
+        }
+      ],
+      "dateEvidence": "Individual official event page explicitly lists 2026 event date, hours, park address and fee."
+    },
+    {
+      "sourceUrl": "https://www.chicagoparkdistrict.com/events/skate-or-treat-halloween-party-douglass",
+      "sourceName": "Chicago Park District",
+      "verifiedAt": "2026-10-28T13:44:52Z",
+      "method": "Fetched and inspected with cloud web open/click on 2026-10-28",
+      "eventIds": [
+        "skate-or-treat-halloween-party-douglass-2026-10-30"
+      ],
+      "dates": [
+        "2026-10-30"
+      ],
+      "facts": [
+        {
+          "date": "2026-10-30",
+          "time": "4:00\u20136:30 PM",
+          "venue": "Douglass Park",
+          "address": "1401 S Sacramento Dr, Chicago, IL",
+          "price": "Free"
+        }
+      ],
+      "dateEvidence": "Individual official event page explicitly lists 2026 event date, hours, park address and fee."
+    },
+    {
+      "sourceUrl": "https://www.chicagoparkdistrict.com/events/haunted-house-pottawattomie",
+      "sourceName": "Chicago Park District",
+      "verifiedAt": "2026-10-28T13:44:52Z",
+      "method": "Fetched and inspected with cloud web open/click on 2026-10-28",
+      "eventIds": [
+        "haunted-house-pottawattomie-2026-10-30"
+      ],
+      "dates": [
+        "2026-10-30"
+      ],
+      "facts": [
+        {
+          "date": "2026-10-30",
+          "time": "4:30\u20137:30 PM",
+          "venue": "Pottawattomie Park",
+          "address": "7340 N Rogers Ave, Chicago, IL",
+          "price": "Free"
+        }
+      ],
+      "dateEvidence": "Individual official event page explicitly lists 2026 event date, hours, park address and fee."
+    },
+    {
+      "sourceUrl": "https://www.chicagoparkdistrict.com/events/community-halloween-party-valley-forge-0",
+      "sourceName": "Chicago Park District",
+      "verifiedAt": "2026-10-28T13:44:52Z",
+      "method": "Fetched and inspected with cloud web open/click on 2026-10-28",
+      "eventIds": [
+        "community-halloween-party-valley-forge-0-2026-10-30"
+      ],
+      "dates": [
+        "2026-10-30"
+      ],
+      "facts": [
+        {
+          "date": "2026-10-30",
+          "time": "5:00\u20137:00 PM",
+          "venue": "Valley Forge Park",
+          "address": "7001 W 59th St, Chicago, IL",
+          "price": "Free"
+        }
+      ],
+      "dateEvidence": "Individual official event page explicitly lists 2026 event date, hours, park address and fee."
+    },
+    {
+      "sourceUrl": "https://www.chicagoparkdistrict.com/events/haunted-house-taylor",
+      "sourceName": "Chicago Park District",
+      "verifiedAt": "2026-10-28T13:44:52Z",
+      "method": "Fetched and inspected with cloud web open/click on 2026-10-28",
+      "eventIds": [
+        "haunted-house-taylor-2026-10-30"
+      ],
+      "dates": [
+        "2026-10-30"
+      ],
+      "facts": [
+        {
+          "date": "2026-10-30",
+          "time": "5:00\u20138:00 PM",
+          "venue": "Taylor Park",
+          "address": "39 W 47th St, Chicago, IL",
+          "price": "Free"
+        }
+      ],
+      "dateEvidence": "Individual official event page explicitly lists 2026 event date, hours, park address and fee."
+    },
+    {
+      "sourceUrl": "https://www.chicagoparkdistrict.com/events/haunted-house-festival-pulaski-1",
+      "sourceName": "Chicago Park District",
+      "verifiedAt": "2026-10-28T13:44:52Z",
+      "method": "Fetched and inspected with cloud web open/click on 2026-10-28",
+      "eventIds": [
+        "haunted-house-festival-pulaski-1-2026-10-30"
+      ],
+      "dates": [
+        "2026-10-30"
+      ],
+      "facts": [
+        {
+          "date": "2026-10-30",
+          "time": "5:30\u20138:30 PM",
+          "venue": "Pulaski Park",
+          "address": "1419 W Blackhawk St, Chicago, IL",
+          "price": "$10 per person"
+        }
+      ],
+      "dateEvidence": "Individual official event page explicitly lists 2026 event date, hours, park address and fee."
+    },
+    {
+      "sourceUrl": "https://www.chicagoparkdistrict.com/events/haunted-house-avalon-0",
+      "sourceName": "Chicago Park District",
+      "verifiedAt": "2026-10-28T13:44:52Z",
+      "method": "Fetched and inspected with cloud web open/click on 2026-10-28",
+      "eventIds": [
+        "haunted-house-avalon-0-2026-10-30"
+      ],
+      "dates": [
+        "2026-10-30"
+      ],
+      "facts": [
+        {
+          "date": "2026-10-30",
+          "time": "6:00\u20138:30 PM",
+          "venue": "Avalon Park",
+          "address": "1215 E 83rd St, Chicago, IL",
+          "price": "$5 per person"
+        }
+      ],
+      "dateEvidence": "Individual official event page explicitly lists 2026 event date, hours, park address and fee."
+    },
+    {
+      "sourceUrl": "https://www.chicagoparkdistrict.com/events/haunted-house-fosco-0",
+      "sourceName": "Chicago Park District",
+      "verifiedAt": "2026-10-28T13:44:52Z",
+      "method": "Fetched and inspected with cloud web open/click on 2026-10-28",
+      "eventIds": [
+        "haunted-house-fosco-0-2026-10-30"
+      ],
+      "dates": [
+        "2026-10-30"
+      ],
+      "facts": [
+        {
+          "date": "2026-10-30",
+          "time": "6:00\u20137:45 PM",
+          "venue": "Fosco Park",
+          "address": "1312 S Racine Ave, Chicago, IL",
+          "price": "Free"
+        }
+      ],
+      "dateEvidence": "Individual official event page explicitly lists 2026 event date, hours, park address and fee."
+    },
+    {
+      "sourceUrl": "https://www.chicagoparkdistrict.com/events/campfire-horrors-douglass-0",
+      "sourceName": "Chicago Park District",
+      "verifiedAt": "2026-10-28T13:44:52Z",
+      "method": "Fetched and inspected with cloud web open/click on 2026-10-28",
+      "eventIds": [
+        "campfire-horrors-douglass-0-2026-10-30"
+      ],
+      "dates": [
+        "2026-10-30"
+      ],
+      "facts": [
+        {
+          "date": "2026-10-30",
+          "time": "Around dusk; listed 7:00\u20138:40 PM",
+          "venue": "Douglass Park",
+          "address": "1401 S Sacramento Dr, Chicago, IL",
+          "price": "Free"
+        }
+      ],
+      "dateEvidence": "Individual official event page explicitly lists 2026 event date, hours, park address and fee."
+    },
+    {
+      "sourceUrl": "https://www.chicagoparkdistrict.com/events/park-after-dark-chase-13",
+      "sourceName": "Chicago Park District",
+      "verifiedAt": "2026-10-28T13:44:52Z",
+      "method": "Fetched and inspected with cloud web open/click on 2026-10-28",
+      "eventIds": [
+        "park-after-dark-chase-2026-10-30"
+      ],
+      "dates": [
+        "2026-10-30"
+      ],
+      "facts": [
+        {
+          "date": "2026-10-30",
+          "time": "7:00\u201310:00 PM",
+          "venue": "Chase Park",
+          "address": "4701 N Ashland Ave, Chicago, IL",
+          "price": "$16 advance online"
+        }
+      ],
+      "dateEvidence": "Individual official event page explicitly lists 2026 event date, hours, park address and fee."
+    },
+    {
+      "sourceUrl": "https://www.chicagoparkdistrict.com/events/park-after-dark-chase-14",
+      "sourceName": "Chicago Park District",
+      "verifiedAt": "2026-10-28T13:44:52Z",
+      "method": "Fetched and inspected with cloud web open/click on 2026-10-28",
+      "eventIds": [
+        "park-after-dark-chase-2026-10-31"
+      ],
+      "dates": [
+        "2026-10-31"
+      ],
+      "facts": [
+        {
+          "date": "2026-10-31",
+          "time": "7:00\u201310:00 PM",
+          "venue": "Chase Park",
+          "address": "4701 N Ashland Ave, Chicago, IL",
+          "price": "$16 advance online"
+        }
+      ],
+      "dateEvidence": "Individual official event page explicitly lists 2026 event date, hours, park address and fee."
+    },
+    {
+      "sourceUrl": "https://www.chicagoparkdistrict.com/events/park-after-dark-chase-15",
+      "sourceName": "Chicago Park District",
+      "verifiedAt": "2026-10-28T13:44:52Z",
+      "method": "Fetched and inspected with cloud web open/click on 2026-10-28",
+      "eventIds": [
+        "park-after-dark-chase-2026-11-01"
+      ],
+      "dates": [
+        "2026-11-01"
+      ],
+      "facts": [
+        {
+          "date": "2026-11-01",
+          "time": "7:00\u20139:00 PM",
+          "venue": "Chase Park",
+          "address": "4701 N Ashland Ave, Chicago, IL",
+          "price": "$20 advance online"
+        }
+      ],
+      "dateEvidence": "Individual official event page explicitly lists 2026 event date, hours, park address and fee."
+    },
+    {
+      "sourceUrl": "https://www.chicagoparkdistrict.com/events/haunted-house-columbus-0",
+      "sourceName": "Chicago Park District",
+      "verifiedAt": "2026-10-28T13:44:52Z",
+      "method": "Fetched and inspected with cloud web open/click on 2026-10-28",
+      "eventIds": [
+        "haunted-house-columbus-2026-10-31"
+      ],
+      "dates": [
+        "2026-10-31"
+      ],
+      "facts": [
+        {
+          "date": "2026-10-31",
+          "time": "11:00 AM\u20133:00 PM; last entry 2:30 PM",
+          "venue": "Columbus Park",
+          "address": "500 S Central Ave, Chicago, IL",
+          "price": "Free"
+        }
+      ],
+      "dateEvidence": "Individual official event page explicitly lists 2026 event date, hours, park address and fee."
+    },
+    {
+      "sourceUrl": "https://www.chicagoparkdistrict.com/events/upside-down-halloween-parade-washington-0",
+      "sourceName": "Chicago Park District",
+      "verifiedAt": "2026-10-28T13:44:52Z",
+      "method": "Fetched and inspected with cloud web open/click on 2026-10-28",
+      "eventIds": [
+        "upside-down-parade-2026-10-31"
+      ],
+      "dates": [
+        "2026-10-31"
+      ],
+      "facts": [
+        {
+          "date": "2026-10-31",
+          "time": "12:00\u20132:00 PM",
+          "venue": "Washington Park Refectory area",
+          "address": "5531 S Russell Drive, Chicago, IL",
+          "price": "Free"
+        }
+      ],
+      "dateEvidence": "Individual official event page explicitly lists 2026 event date, hours, park address and fee."
+    },
+    {
+      "sourceUrl": "https://www.broadwayinchicago.com/shows/jekyll-hyde/",
+      "sourceName": "Broadway In Chicago",
+      "verifiedAt": "2026-10-28T13:44:52Z",
+      "method": "Fetched and inspected with cloud web open/click on 2026-10-28",
+      "eventIds": [
+        "jekyll-hyde-2026-10-30",
+        "jekyll-hyde-2026-10-31",
+        "jekyll-hyde-2026-11-01"
+      ],
+      "dates": [
+        "2026-10-30",
+        "2026-10-31",
+        "2026-11-01"
+      ],
+      "facts": [
+        {
+          "date": "2026-10-30",
+          "time": "7:00 PM",
+          "venue": "Broadway Playhouse",
+          "address": "175 E Chestnut St, Chicago, IL",
+          "price": "Check source for ticket prices and availability"
+        },
+        {
+          "date": "2026-10-31",
+          "time": "2:00 PM & 7:30 PM",
+          "venue": "Broadway Playhouse",
+          "address": "175 E Chestnut St, Chicago, IL",
+          "price": "Check source for ticket prices and availability"
+        },
+        {
+          "date": "2026-11-01",
+          "time": "1:00 PM",
+          "venue": "Broadway Playhouse",
+          "address": "175 E Chestnut St, Chicago, IL",
+          "price": "Check source for ticket prices and availability"
+        }
+      ],
+      "dateEvidence": "Official ticket calendar explicitly lists Oct 30 7pm, Oct 31 2pm/7:30pm, Nov 1 1pm. Run Sep 8\u2013Nov 8 2026."
+    },
+    {
+      "sourceUrl": "https://www.fieldmuseum.org/exhibition/experience/fright-at-the-field",
+      "sourceName": "Field Museum",
+      "verifiedAt": "2026-10-28T13:44:52Z",
+      "method": "Fetched and inspected with cloud web open/click on 2026-10-28",
+      "eventIds": [
+        "fright-at-field-2026-10-30",
+        "fright-at-field-2026-10-31",
+        "fright-at-field-2026-11-01"
+      ],
+      "dates": [
+        "2026-10-30",
+        "2026-10-31",
+        "2026-11-01"
+      ],
+      "facts": [
+        {
+          "date": "2026-10-30",
+          "time": "9:00 AM\u20135:00 PM; last entry 4:00 PM",
+          "venue": "Field Museum",
+          "address": "1400 S DuSable Lake Shore Dr, Chicago, IL",
+          "price": "Included with museum admission; Check source for admission prices"
+        },
+        {
+          "date": "2026-10-31",
+          "time": "9:00 AM\u20139:00 PM",
+          "venue": "Field Museum",
+          "address": "1400 S DuSable Lake Shore Dr, Chicago, IL",
+          "price": "Included with museum admission; Check source for admission prices"
+        },
+        {
+          "date": "2026-11-01",
+          "time": "9:00 AM\u20135:00 PM; last entry 4:00 PM",
+          "venue": "Field Museum",
+          "address": "1400 S DuSable Lake Shore Dr, Chicago, IL",
+          "price": "Included with museum admission; Check source for admission prices"
+        }
+      ],
+      "dateEvidence": "Season Sep 26\u2013Nov 1 2026; daily museum hours 9\u20135, last entry4; Halloween extended through9pm."
+    },
+    {
+      "sourceUrl": "https://www.lpzoo.org/event/fall-fest/",
+      "sourceName": "Lincoln Park Zoo",
+      "verifiedAt": "2026-10-28T13:44:52Z",
+      "method": "Fetched and inspected with cloud web open/click on 2026-10-28",
+      "eventIds": [
+        "zoo-fall-fest-2026-10-30",
+        "zoo-fall-fest-2026-10-31",
+        "zoo-fall-fest-2026-11-01"
+      ],
+      "dates": [
+        "2026-10-30",
+        "2026-10-31",
+        "2026-11-01"
+      ],
+      "facts": [
+        {
+          "date": "2026-10-30",
+          "time": "Check source for full hours; animal enrichment 3:00 PM",
+          "venue": "Lincoln Park Zoo",
+          "address": "2001 N Clark St, Chicago, IL",
+          "price": "Free admission; rides, food and some activities cost extra"
+        },
+        {
+          "date": "2026-10-31",
+          "time": "Check source for full hours; animal enrichment 3:00 PM",
+          "venue": "Lincoln Park Zoo",
+          "address": "2001 N Clark St, Chicago, IL",
+          "price": "Free admission; rides, food and some activities cost extra"
+        },
+        {
+          "date": "2026-11-01",
+          "time": "Check source for full hours; animal enrichment 3:00 PM",
+          "venue": "Lincoln Park Zoo",
+          "address": "2001 N Clark St, Chicago, IL",
+          "price": "Free admission; rides, food and some activities cost extra"
+        }
+      ],
+      "dateEvidence": "Fall Fest Sep25\u2013Nov1; individual enrichment entries Oct30 African painted dogs3pm, Oct31 polar bear and spectacled caiman3pm, Nov1 Japanese macaques3pm. No unspecified select-Sunday performance promised."
+    },
+    {
+      "sourceUrl": "https://firstlady.com/cruises/sightseeing-creepy",
+      "sourceName": "Chicago\u2019s First Lady Cruises",
+      "verifiedAt": "2026-10-28T13:44:52Z",
+      "method": "Fetched and inspected with cloud web open/click on 2026-10-28",
+      "eventIds": [
+        "creepy-cruise-2026-10-30",
+        "creepy-cruise-2026-10-31"
+      ],
+      "dates": [
+        "2026-10-30",
+        "2026-10-31"
+      ],
+      "facts": [
+        {
+          "date": "2026-10-30",
+          "time": "Check source for departure times; 90-minute cruise",
+          "venue": "Chicago\u2019s First Lady Cruises",
+          "address": "112 E Wacker Dr, Chicago, IL",
+          "price": "From $46 general boarding; Check source for availability"
+        },
+        {
+          "date": "2026-10-31",
+          "time": "Check source for departure times; 90-minute cruise",
+          "venue": "Chicago\u2019s First Lady Cruises",
+          "address": "112 E Wacker Dr, Chicago, IL",
+          "price": "From $46 general boarding; Check source for availability"
+        }
+      ],
+      "dateEvidence": "2026 season; program explicitly operates Fridays and Saturdays March\u2013November. Select Sundays not expanded. Specific departure inventory not published in accessible text."
+    },
+    {
+      "sourceUrl": "https://navypier.org/pier-events/chicago-seadog-haunted-river-lake-tour/",
+      "sourceName": "Navy Pier",
+      "verifiedAt": "2026-10-28T13:44:52Z",
+      "method": "Fetched and inspected with cloud web open/click on 2026-10-28",
+      "eventIds": [
+        "seadog-haunted-2026-10-30",
+        "seadog-haunted-2026-10-31"
+      ],
+      "dates": [
+        "2026-10-30",
+        "2026-10-31"
+      ],
+      "facts": [
+        {
+          "date": "2026-10-30",
+          "time": "3:15 PM, 5:15 PM & 7:15 PM; confirm chosen departure",
+          "venue": "Navy Pier / City Cruises",
+          "address": "600 E Grand Ave, Chicago, IL",
+          "price": "Check source for ticket prices and availability"
+        },
+        {
+          "date": "2026-10-31",
+          "time": "3:15 PM, 5:15 PM & 7:15 PM; confirm chosen departure",
+          "venue": "Navy Pier / City Cruises",
+          "address": "600 E Grand Ave, Chicago, IL",
+          "price": "Check source for ticket prices and availability"
+        }
+      ],
+      "dateEvidence": "Venue explicitly lists FriOct30 and SatOct31,2026; October Fri\u2013Sun departures3:15,5:15,7:15; confirm chosen booking."
+    },
+    {
+      "sourceUrl": "https://navypier.org/pier-events/halloween-on-the-pier-offshore/",
+      "sourceName": "Navy Pier",
+      "verifiedAt": "2026-10-28T13:44:52Z",
+      "method": "Fetched and inspected with cloud web open/click on 2026-10-28",
+      "eventIds": [
+        "offshore-halloween-2026-10-30"
+      ],
+      "dates": [
+        "2026-10-30"
+      ],
+      "facts": [
+        {
+          "date": "2026-10-30",
+          "time": "8:00 PM\u20131:00 AM next day",
+          "venue": "Offshore Rooftop at Navy Pier",
+          "address": "1000 E Grand Ave, Chicago, IL",
+          "price": "Check source for ticket prices and availability"
+        }
+      ],
+      "dateEvidence": "Official venue or organizer event page explicitly names target date and the displayed schedule."
+    },
+    {
+      "sourceUrl": "https://navypier.org/pier-events/halloween-on-the-pier-offshore-2/",
+      "sourceName": "Navy Pier",
+      "verifiedAt": "2026-10-28T13:44:52Z",
+      "method": "Fetched and inspected with cloud web open/click on 2026-10-28",
+      "eventIds": [
+        "offshore-halloween-2026-10-31"
+      ],
+      "dates": [
+        "2026-10-31"
+      ],
+      "facts": [
+        {
+          "date": "2026-10-31",
+          "time": "8:00 PM\u2013midnight",
+          "venue": "Offshore Rooftop at Navy Pier",
+          "address": "1000 E Grand Ave, Chicago, IL",
+          "price": "Check source for ticket prices and availability"
+        }
+      ],
+      "dateEvidence": "Official venue or organizer event page explicitly names target date and the displayed schedule."
+    },
+    {
+      "sourceUrl": "https://northalsted.com/main-events/haunted-halsted-halloween-parade/",
+      "sourceName": "Northalsted Business Alliance",
+      "verifiedAt": "2026-10-28T13:44:52Z",
+      "method": "Fetched and inspected with cloud web open/click on 2026-10-28",
+      "eventIds": [
+        "haunted-halsted-2026-10-31"
+      ],
+      "dates": [
+        "2026-10-31"
+      ],
+      "facts": [
+        {
+          "date": "2026-10-31",
+          "time": "12:00\u201310:00 PM; parade 7:00 PM",
+          "venue": "Halsted Street",
+          "address": "N Halsted St at Belmont Ave, Chicago, IL",
+          "price": "Free spectator admission; costume contest entry $5"
+        }
+      ],
+      "dateEvidence": "Official venue or organizer event page explicitly names target date and the displayed schedule."
+    },
+    {
+      "sourceUrl": "https://navypier.org/pier-events/slightly-spooky-october/",
+      "sourceName": "Navy Pier",
+      "verifiedAt": "2026-10-28T13:44:52Z",
+      "method": "Fetched and inspected with cloud web open/click on 2026-10-28",
+      "eventIds": [
+        "navy-spooky-2026-10-31"
+      ],
+      "dates": [
+        "2026-10-31"
+      ],
+      "facts": [
+        {
+          "date": "2026-10-31",
+          "time": "Trick-or-treating 11:00 AM; activities 1:00\u20135:00 PM; films from 5:00 PM",
+          "venue": "Navy Pier",
+          "address": "600 E Grand Ave, Chicago, IL",
+          "price": "Free"
+        }
+      ],
+      "dateEvidence": "Official venue or organizer event page explicitly names target date and the displayed schedule."
+    },
+    {
+      "sourceUrl": "https://navypier.org/pier-events/dia-de-los-muertos/",
+      "sourceName": "Navy Pier",
+      "verifiedAt": "2026-10-28T13:44:52Z",
+      "method": "Fetched and inspected with cloud web open/click on 2026-10-28",
+      "eventIds": [
+        "navy-muertos-2026-11-01"
+      ],
+      "dates": [
+        "2026-11-01"
+      ],
+      "facts": [
+        {
+          "date": "2026-11-01",
+          "time": "Activities 1:00\u20135:00 PM; films from 5:00 PM",
+          "venue": "Navy Pier",
+          "address": "600 E Grand Ave, Chicago, IL",
+          "price": "Free"
+        }
+      ],
+      "dateEvidence": "Official venue or organizer event page explicitly names target date and the displayed schedule."
+    },
+    {
+      "sourceUrl": "https://www.sheddaquarium.org/programs-and-events/haunted-house-party",
+      "sourceName": "Shedd Aquarium",
+      "verifiedAt": "2026-10-28T13:44:52Z",
+      "method": "Fetched and inspected with cloud web open/click on 2026-10-28",
+      "eventIds": [
+        "shedd-haunted-party-2026-10-31"
+      ],
+      "dates": [
+        "2026-10-31"
+      ],
+      "facts": [
+        {
+          "date": "2026-10-31",
+          "time": "7:00\u201311:00 PM; last entry 10:00 PM",
+          "venue": "Shedd Aquarium",
+          "address": "1200 S DuSable Lake Shore Dr, Chicago, IL",
+          "price": "$29.95 adults; $19.95 members"
+        }
+      ],
+      "dateEvidence": "Official venue or organizer event page explicitly names target date and the displayed schedule."
+    },
+    {
+      "sourceUrl": "https://www.ticketweb.com/event/sanctum-dark-music-festival-thalia-hall-tickets/14250534?pl=thalia3",
+      "sourceName": "TicketWeb / Ticketmaster",
+      "verifiedAt": "2026-10-28T13:44:52Z",
+      "method": "Fetched and inspected with cloud web open/click on 2026-10-28",
+      "eventIds": [
+        "sanctum-2026-10-30"
+      ],
+      "dates": [
+        "2026-10-30"
+      ],
+      "facts": [
+        {
+          "date": "2026-10-30",
+          "time": "7:00 PM; doors 6:00 PM",
+          "venue": "Thalia Hall",
+          "address": "1807 S Allport St, Chicago, IL",
+          "price": "$52.98 general admission; earlybird sold out"
+        }
+      ],
+      "dateEvidence": "Official festival links to this authorized seller. Explicit Oct30,2026 at7pm,doors6; earlybird sold out, standardGA52.98 still listed."
+    },
+    {
+      "sourceUrl": "https://www.ticketmaster.com/thalia-hall-tickets-chicago/venue/337642",
+      "sourceName": "TicketWeb / Ticketmaster",
+      "verifiedAt": "2026-10-28T13:44:52Z",
+      "method": "Fetched and inspected with cloud web open/click on 2026-10-28",
+      "eventIds": [
+        "sanctum-2026-10-31",
+        "new-constellations-2026-11-01"
+      ],
+      "dates": [
+        "2026-10-31",
+        "2026-11-01"
+      ],
+      "facts": [
+        {
+          "date": "2026-10-31",
+          "time": "7:00 PM",
+          "venue": "Thalia Hall",
+          "address": "1807 S Allport St, Chicago, IL",
+          "price": "Check source for ticket prices and availability"
+        },
+        {
+          "date": "2026-11-01",
+          "time": "7:30 PM",
+          "venue": "Thalia Hall",
+          "address": "1807 S Allport St, Chicago, IL",
+          "price": "Check source for ticket prices and availability"
+        }
+      ],
+      "dateEvidence": "Authorized seller venue schedule explicitly lists SatOct31 Sanctum7pm and SunNov1 New Constellations7:30pm.",
+      "supportingUrls": [
+        "https://www.sanctumfest.com/",
+        "https://www.ticketmaster.com/thalia-hall-tickets-chicago/venue/337642?tt_scene=anchor_view"
+      ],
+      "limitation": "Linked TicketWeb checkout fetch blocked; no price or availability guarantee. Official schedule remains listed with ticket links; price Check source."
+    },
+    {
+      "sourceUrl": "https://driehausmuseum.org/exhibition/emma-stebbins-carving-out-history",
+      "sourceName": "Driehaus Museum",
+      "verifiedAt": "2026-10-28T13:44:52Z",
+      "method": "Fetched and inspected with cloud web open/click on 2026-10-28",
+      "eventIds": [
+        "emma-stebbins-2026-10-30",
+        "emma-stebbins-2026-10-31",
+        "emma-stebbins-2026-11-01"
+      ],
+      "dates": [
+        "2026-10-30",
+        "2026-10-31",
+        "2026-11-01"
+      ],
+      "facts": [
+        {
+          "date": "2026-10-30",
+          "time": "11:00 AM\u20135:00 PM; last entry 4:00 PM",
+          "venue": "Driehaus Museum",
+          "address": "50 E Erie St, Chicago, IL",
+          "price": "$23 adults; $18 seniors; $13 students; children 12 and under free"
+        },
+        {
+          "date": "2026-10-31",
+          "time": "11:00 AM\u20135:00 PM; last entry 4:00 PM",
+          "venue": "Driehaus Museum",
+          "address": "50 E Erie St, Chicago, IL",
+          "price": "$23 adults; $18 seniors; $13 students; children 12 and under free"
+        },
+        {
+          "date": "2026-11-01",
+          "time": "11:00 AM\u20135:00 PM; last entry 4:00 PM",
+          "venue": "Driehaus Museum",
+          "address": "50 E Erie St, Chicago, IL",
+          "price": "$23 adults; $18 seniors; $13 students; children 12 and under free"
+        }
+      ],
+      "dateEvidence": "Exhibition Oct9,2026\u2013Apr18,2027 plus official visit page Friday/Saturday/Sunday11\u20135, last entry4. No target-date closure among 2026 closure list.",
+      "supportingUrls": [
+        "https://driehausmuseum.org/visit/plan-your-visit"
+      ]
+    }
+  ]
+}

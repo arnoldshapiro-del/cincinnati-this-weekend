@@ -1,0 +1,387 @@
+{
+  "city": "washington-dc",
+  "editionId": "washington-dc-2026-10-30-weekly-ea548ab7",
+  "verifiedAt": "2026-10-28T13:43:58Z",
+  "limits": [
+    "Availability remains subject to organizer inventory/weather changes; no purchase or hold made.",
+    "Travel minutes are approximate normal driving estimates, not live traffic.",
+    "No road trips beyond90minutes included.",
+    "Unpublished admission prices use Check source."
+  ],
+  "sources": [
+    {
+      "sourceUrl": "https://americanart.si.edu/exhibition/bicentennial-photography-surveys",
+      "sourceName": "Smithsonian American Art Museum",
+      "verifiedAt": "2026-10-28T13:43:58Z",
+      "method": "Fetched and inspected official primary page through web tool or direct HTTPS retrieval; not search snippet only",
+      "eventIds": [
+        "much-here-is-beautiful-bicentennial-photography-2026-10-30",
+        "much-here-is-beautiful-bicentennial-photography-2026-10-31",
+        "much-here-is-beautiful-bicentennial-photography-2026-11-01"
+      ],
+      "dates": [
+        "2026-10-30",
+        "2026-10-31",
+        "2026-11-01"
+      ],
+      "observations": "OfficialSAAMSep18 2026–Apr18 2027; daily11:30–7;free."
+    },
+    {
+      "sourceUrl": "https://congressionalcemetery.org/event/dia-de-los-muertos-2/",
+      "sourceName": "Congressional Cemetery",
+      "verifiedAt": "2026-10-28T13:43:58Z",
+      "method": "Fetched and inspected official primary page through web tool or direct HTTPS retrieval; not search snippet only",
+      "eventIds": [
+        "congressional-dia-muertos-2026-11-01"
+      ],
+      "dates": [
+        "2026-11-01"
+      ],
+      "observations": "Officialeventstructured2026-11-01,11–3,freeRSVPencouraged,chapel1801EStSE,communityofrenda/crafts."
+    },
+    {
+      "sourceUrl": "https://congressionalcemetery.org/soul-strolls/",
+      "sourceName": "Congressional Cemetery",
+      "verifiedAt": "2026-10-28T13:43:58Z",
+      "method": "Fetched and inspected official primary page through web tool or direct HTTPS retrieval; not search snippet only",
+      "eventIds": [
+        "soul-strolls-becoming-america-2026-10-30",
+        "soul-strolls-becoming-america-2026-10-31"
+      ],
+      "dates": [
+        "2026-10-30",
+        "2026-10-31"
+      ],
+      "observations": "Official2026datesOct30 6–10:30,Oct31 5–11. Adult40,child12under20,VIP80; bookedqueuecheckinnotexactdeparture."
+    },
+    {
+      "sourceUrl": "https://coxfarmsva.com/fall-festival/fall-festival-tickets/",
+      "sourceName": "Cox Farms",
+      "verifiedAt": "2026-10-28T13:43:58Z",
+      "method": "Fetched and inspected official primary page through web tool or direct HTTPS retrieval; not search snippet only",
+      "eventIds": [
+        "cox-farms-fall-festival-2026-10-30",
+        "cox-farms-fall-festival-2026-10-31",
+        "cox-farms-fall-festival-2026-11-01"
+      ],
+      "dates": [
+        "2026-10-30",
+        "2026-10-31",
+        "2026-11-01"
+      ],
+      "observations": "Official2026calendar linksOct30Value$20,Oct31/Nov1Peak$30. Oct10–6lastentry5,Nov10–5lastentry4. Online-only, availability maychange."
+    },
+    {
+      "sourceUrl": "https://eventsdc.com/events/costume-carnival-1",
+      "sourceName": "Events DC",
+      "verifiedAt": "2026-10-28T13:43:58Z",
+      "method": "Fetched and inspected official primary page through web tool or direct HTTPS retrieval; not search snippet only",
+      "eventIds": [
+        "costume-carnival-2026-10-30"
+      ],
+      "dates": [
+        "2026-10-30"
+      ],
+      "observations": "EventsDCexplicitOct30 2026 5–7,GatewayPavilionStElizabethsEast,freefamilyevent,registrationlink."
+    },
+    {
+      "sourceUrl": "https://fieldsoffear.coxfarmsva.com/tickets/",
+      "sourceName": "Cox Farms",
+      "verifiedAt": "2026-10-28T13:43:58Z",
+      "method": "Fetched and inspected official primary page through web tool or direct HTTPS retrieval; not search snippet only",
+      "eventIds": [
+        "fields-of-fear-2026-10-30",
+        "fields-of-fear-2026-10-31"
+      ],
+      "dates": [
+        "2026-10-30",
+        "2026-10-31"
+      ],
+      "observations": "Official2026Fri/SatSept25–Nov7 schedule; explicitOct30/31Peak$45ticketlinks.7:30–11,lastentry10. Notrecommendedunder12,under14requiresadult."
+    },
+    {
+      "sourceUrl": "https://greatcountryfarms.com/festivals-events/fall-pumpkin-harvest-festival/",
+      "sourceName": "Great Country Farms",
+      "verifiedAt": "2026-10-28T13:43:58Z",
+      "method": "Fetched and inspected official primary page through web tool or direct HTTPS retrieval; not search snippet only",
+      "eventIds": [
+        "great-country-farms-fall-pumpkin-harvest-2026-10-30",
+        "great-country-farms-fall-pumpkin-harvest-2026-10-31"
+      ],
+      "dates": [
+        "2026-10-30",
+        "2026-10-31"
+      ],
+      "observations": "Official harvest page throughOct31; noNov1card. Daily9–5,lastwagon4;advanceFriadult14child12plus1fee,Satadult16child14plus1fee. Oct31costumeparades12:30/2:30."
+    },
+    {
+      "sourceUrl": "https://keegantheatre.com/portfolio/hundred-days/",
+      "sourceName": "Keegan Theatre",
+      "verifiedAt": "2026-10-28T13:43:58Z",
+      "method": "Fetched and inspected official primary page through web tool or direct HTTPS retrieval; not search snippet only",
+      "eventIds": [
+        "hundred-days-2026-10-30",
+        "hundred-days-2026-10-31",
+        "hundred-days-2026-11-01"
+      ],
+      "dates": [
+        "2026-10-30",
+        "2026-10-31",
+        "2026-11-01"
+      ],
+      "observations": "OfficialOct10–Nov8 2026 production; Thu–Sat8pm,Sun3pm. Adult65plus5servicefee,75minnointermission."
+    },
+    {
+      "sourceUrl": "https://mpdc.dc.gov/publication/2026-halloween-safe-haven-events",
+      "sourceName": "Metropolitan Police Department",
+      "verifiedAt": "2026-10-28T13:43:58Z",
+      "method": "Fetched and inspected official primary page through web tool or direct HTTPS retrieval; not search snippet only",
+      "eventIds": [
+        "mpd-fifth-2026-10-30",
+        "mpd-fourth-2026-10-30",
+        "mpd-sixth-2026-10-31"
+      ],
+      "dates": [
+        "2026-10-30",
+        "2026-10-31"
+      ],
+      "observations": "Official2026SafeHaventableconfirmsFourthOct30 5–9/6001GeorgiaNW;FifthOct30 6–8/1805BladensburgNE;SixthHarvestOct31noon–3/4551BenningSE. Priceunpublished."
+    },
+    {
+      "sourceUrl": "https://nmwa.org/exhibitions/routed-west-twentieth-century-african-american-quilts-in-california/",
+      "sourceName": "National Museum of Women in the Arts",
+      "verifiedAt": "2026-10-28T13:43:58Z",
+      "method": "Fetched and inspected official primary page through web tool or direct HTTPS retrieval; not search snippet only",
+      "eventIds": [
+        "routed-west-african-american-quilts-in-california-2026-10-30",
+        "routed-west-african-american-quilts-in-california-2026-10-31",
+        "routed-west-african-american-quilts-in-california-2026-11-01"
+      ],
+      "dates": [
+        "2026-10-30",
+        "2026-10-31",
+        "2026-11-01"
+      ],
+      "observations": "Exhibition Sep18 2026–Jan17 2027. Tue–Sun10–5,lastentry4:30. Explicit Nov1 Free Community Day10–5; regular price not visible on fetched exhibition page so Check source."
+    },
+    {
+      "sourceUrl": "https://unionmarketdc.com/event/halloween-spooktacular-trick-or-treat/",
+      "sourceName": "Union Market District",
+      "verifiedAt": "2026-10-28T13:43:58Z",
+      "method": "Fetched and inspected official primary page through web tool or direct HTTPS retrieval; not search snippet only",
+      "eventIds": [
+        "union-market-halloween-2026-10-31"
+      ],
+      "dates": [
+        "2026-10-31"
+      ],
+      "observations": "OrganizerexplicitOct31 2026 2–6,freechildren12under,participatingretailersmap,13095thStNE."
+    },
+    {
+      "sourceUrl": "https://www.butlersorchard.com/festivals/pumpkin-festival/",
+      "sourceName": "Butler’s Orchard",
+      "verifiedAt": "2026-10-28T13:43:58Z",
+      "method": "Fetched and inspected official primary page through web tool or direct HTTPS retrieval; not search snippet only",
+      "eventIds": [
+        "butler-s-orchard-pumpkin-festival-2026-10-30",
+        "butler-s-orchard-pumpkin-festival-2026-10-31",
+        "butler-s-orchard-pumpkin-festival-2026-11-01"
+      ],
+      "dates": [
+        "2026-10-30",
+        "2026-10-31",
+        "2026-11-01"
+      ],
+      "observations": "Official2026festival throughNov1,Wed–Sun. Fri1–6,Sat/Sun9–6,lastentry4:30. Oct31–Nov1 standardweekend$18/$23walkin vs priorweekendpeak$20. Fri$12/$15. Feesincluded."
+    },
+    {
+      "sourceUrl": "https://www.folger.edu/whats-on/measure-for-measure/",
+      "sourceName": "Folger Shakespeare Library",
+      "verifiedAt": "2026-10-28T13:43:58Z",
+      "method": "Fetched and inspected official primary page through web tool or direct HTTPS retrieval; not search snippet only",
+      "eventIds": [
+        "measure-for-measure-2026-10-30",
+        "measure-for-measure-2026-10-31",
+        "measure-for-measure-2026-11-01"
+      ],
+      "dates": [
+        "2026-10-30",
+        "2026-10-31",
+        "2026-11-01"
+      ],
+      "observations": "Official Dates & Tickets explicitly lists Oct30 8pm from$20; Oct31 2pm from$80 limited; Nov1 2pm from$65 limited and7:30pm from$20. No Saturday evening listed, none claimed."
+    },
+    {
+      "sourceUrl": "https://www.freshfarm.org/markets/arlington",
+      "sourceName": "FRESHFARM",
+      "verifiedAt": "2026-10-28T13:43:58Z",
+      "method": "Fetched and inspected official primary page through web tool or direct HTTPS retrieval; not search snippet only",
+      "eventIds": [
+        "arlington-courthouse-farmers-market-2026-10-31"
+      ],
+      "dates": [
+        "2026-10-31"
+      ],
+      "observations": "OfficialseasonJan3–Dec26,Saturdays8–12;1400NCourthouseRd."
+    },
+    {
+      "sourceUrl": "https://www.freshfarm.org/markets/downtown-silver-spring",
+      "sourceName": "FRESHFARM",
+      "verifiedAt": "2026-10-28T13:43:58Z",
+      "method": "Fetched and inspected official primary page through web tool or direct HTTPS retrieval; not search snippet only",
+      "eventIds": [
+        "downtown-silver-spring-farmers-market-2026-10-31"
+      ],
+      "dates": [
+        "2026-10-31"
+      ],
+      "observations": "OfficialseasonJan3–Dec26,Saturdays9–1;VeteransPlaza1VeteransPl."
+    },
+    {
+      "sourceUrl": "https://www.freshfarm.org/markets/dupont-circle",
+      "sourceName": "FRESHFARM",
+      "verifiedAt": "2026-10-28T13:43:58Z",
+      "method": "Fetched and inspected official primary page through web tool or direct HTTPS retrieval; not search snippet only",
+      "eventIds": [
+        "dupont-circle-farmers-market-2026-11-01"
+      ],
+      "dates": [
+        "2026-11-01"
+      ],
+      "observations": "OfficialseasonJan4–Dec27,Sundays8:30–1:30;160020thStNW."
+    },
+    {
+      "sourceUrl": "https://www.freshfarm.org/markets/h-street-ne",
+      "sourceName": "FRESHFARM",
+      "verifiedAt": "2026-10-28T13:43:58Z",
+      "method": "Fetched and inspected official primary page through web tool or direct HTTPS retrieval; not search snippet only",
+      "eventIds": [
+        "h-street-ne-farmers-market-2026-10-31"
+      ],
+      "dates": [
+        "2026-10-31"
+      ],
+      "observations": "OfficialseasonJan3–Dec26,Saturdays9–12:30;80013thStNE."
+    },
+    {
+      "sourceUrl": "https://www.hilloweendc.com/",
+      "sourceName": "Hilloween DC",
+      "verifiedAt": "2026-10-28T13:43:58Z",
+      "method": "Fetched and inspected official primary page through web tool or direct HTTPS retrieval; not search snippet only",
+      "eventIds": [
+        "hilloween-2026-10-30"
+      ],
+      "dates": [
+        "2026-10-30"
+      ],
+      "observations": "Organizer homepage explicitlyFridayOct30 2026 4–6,EasternMarket. Old2025footer ignored;priceunpublished."
+    },
+    {
+      "sourceUrl": "https://www.mountvernon.org/plan-your-visit/calendar/events/trick-or-treating-at-mount-vernon",
+      "sourceName": "George Washington’s Mount Vernon",
+      "verifiedAt": "2026-10-28T13:43:58Z",
+      "method": "Fetched and inspected official primary page through web tool or direct HTTPS retrieval; not search snippet only",
+      "eventIds": [
+        "mount-vernon-halloween-2026-10-31"
+      ],
+      "dates": [
+        "2026-10-31"
+      ],
+      "observations": "OfficialcalendarOct31 2026 2–5. Candyadult12+31/child11under26;memberdiscounts;adultnocandy30. Ticketsrequired."
+    },
+    {
+      "sourceUrl": "https://www.nga.gov/exhibitions/american-icon",
+      "sourceName": "National Gallery of Art",
+      "verifiedAt": "2026-10-28T13:43:58Z",
+      "method": "Fetched and inspected official primary page through web tool or direct HTTPS retrieval; not search snippet only",
+      "eventIds": [
+        "american-icon-the-us-flag-in-art-2026-10-30",
+        "american-icon-the-us-flag-in-art-2026-10-31",
+        "american-icon-the-us-flag-in-art-2026-11-01"
+      ],
+      "dates": [
+        "2026-10-30",
+        "2026-10-31",
+        "2026-11-01"
+      ],
+      "observations": "June6–Dec6 2026 exhibition; official National Gallery daily10–5 schedule, free no passes."
+    },
+    {
+      "sourceUrl": "https://www.nga.gov/exhibitions/homelands",
+      "sourceName": "National Gallery of Art",
+      "verifiedAt": "2026-10-28T13:43:58Z",
+      "method": "Fetched and inspected official primary page through web tool or direct HTTPS retrieval; not search snippet only",
+      "eventIds": [
+        "homelands-2026-10-30",
+        "homelands-2026-10-31",
+        "homelands-2026-11-01"
+      ],
+      "dates": [
+        "2026-10-30",
+        "2026-10-31",
+        "2026-11-01"
+      ],
+      "observations": "June27 2026–Aug1 2027 exhibition; daily10–5, free no passes; East Building mezzanine."
+    },
+    {
+      "sourceUrl": "https://www.novaparks.com/events/temple-hall-farm-pumpkin-patch-flower-fields",
+      "sourceName": "NOVA Parks",
+      "verifiedAt": "2026-10-28T13:43:58Z",
+      "method": "Fetched and inspected official primary page through web tool or direct HTTPS retrieval; not search snippet only",
+      "eventIds": [
+        "temple-hall-pumpkin-patch-and-flower-fields-2026-10-30",
+        "temple-hall-pumpkin-patch-and-flower-fields-2026-10-31",
+        "temple-hall-pumpkin-patch-and-flower-fields-2026-11-01"
+      ],
+      "dates": [
+        "2026-10-30",
+        "2026-10-31",
+        "2026-11-01"
+      ],
+      "observations": "OfficialSep26–Nov3 2026daily9–5,lasttickets4;15admission,weekday3discount;under2free;paidticketpumpkinandflowers."
+    },
+    {
+      "sourceUrl": "https://www.novaparks.com/parks/meadowlark-botanical-gardens/events/a-bootanical-halloween-scavenger-hunt",
+      "sourceName": "NOVA Parks",
+      "verifiedAt": "2026-10-28T13:43:58Z",
+      "method": "Fetched and inspected official primary page through web tool or direct HTTPS retrieval; not search snippet only",
+      "eventIds": [
+        "bootanical-halloween-scavenger-hunt-2026-10-30",
+        "bootanical-halloween-scavenger-hunt-2026-10-31",
+        "bootanical-halloween-scavenger-hunt-2026-11-01"
+      ],
+      "dates": [
+        "2026-10-30",
+        "2026-10-31",
+        "2026-11-01"
+      ],
+      "observations": "Official page explicitly dailyOct1–Nov1 10–6; scavenger sheet$10, garden admission separate/Check source."
+    },
+    {
+      "sourceUrl": "https://www.nps.gov/planyourvisit/event-details.htm?id=5D36A804-9227-41A6-C40EF9663D623C34",
+      "sourceName": "National Park Service",
+      "verifiedAt": "2026-10-28T13:43:58Z",
+      "method": "Fetched and inspected official primary page through web tool or direct HTTPS retrieval; not search snippet only",
+      "eventIds": [
+        "halloween-carillon-2026-10-31"
+      ],
+      "dates": [
+        "2026-10-31"
+      ],
+      "observations": "NPSexplicitOct31 2026noon–2,free,NetherlandsCarillonplaza;limitedparkingMarineCorpsMemorial;15minwalkRosslyn."
+    },
+    {
+      "sourceUrl": "https://www.wharfdc.com/diadelosmuertos/",
+      "sourceName": "The Wharf",
+      "verifiedAt": "2026-10-28T13:43:58Z",
+      "method": "Fetched and inspected official primary page through web tool or direct HTTPS retrieval; not search snippet only",
+      "eventIds": [
+        "wharf-dia-muertos-2026-11-01"
+      ],
+      "dates": [
+        "2026-11-01"
+      ],
+      "observations": "OfficialNov1 2026 3–6,free,no tickets. Performances and crafts;livemusicfinalset5:30–6:30so discrepancy explicitlyshown."
+    }
+  ]
+}
