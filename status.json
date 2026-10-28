@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generation": 4,
-  "jobId": "weekly-1a7a35b2-a672-4868-8153-cf7ad766bf4a",
-  "state": "succeeded",
+  "generation": 5,
+  "jobId": "weekly-ea548ab7-1da5-4e02-a483-e60349253c77",
+  "state": "queued",
   "trigger": "scheduled",
   "cities": [
     "cincinnati",
@@ -12,63 +12,33 @@
   ],
   "targetWeekends": {
     "cincinnati": {
-      "startDate": "2026-10-23",
-      "endDate": "2026-10-25"
+      "startDate": "2026-10-30",
+      "endDate": "2026-11-01"
     },
     "philadelphia": {
-      "startDate": "2026-10-23",
-      "endDate": "2026-10-25"
+      "startDate": "2026-10-30",
+      "endDate": "2026-11-01"
     },
     "chicago": {
-      "startDate": "2026-10-23",
-      "endDate": "2026-10-25"
+      "startDate": "2026-10-30",
+      "endDate": "2026-11-01"
     },
     "washington-dc": {
-      "startDate": "2026-10-23",
-      "endDate": "2026-10-25"
+      "startDate": "2026-10-30",
+      "endDate": "2026-11-01"
     }
   },
-  "startedAt": "2026-10-21T13:35:54.099Z",
-  "updatedAt": "2026-10-21T13:51:33.312Z",
-  "leaseExpiresAt": null,
-  "nextAllowedAt": "2026-10-21T14:35:54.099Z",
+  "startedAt": "2026-10-28T13:35:20.126Z",
+  "updatedAt": "2026-10-28T13:35:20.126Z",
+  "leaseExpiresAt": "2026-10-28T13:55:20.126Z",
+  "nextAllowedAt": "2026-10-28T14:35:20.126Z",
   "progress": {
-    "completedCities": 4,
+    "completedCities": 0,
     "totalCities": 4,
-    "sourcesChecked": 123,
-    "verifiedEvents": 195
+    "sourcesChecked": 0,
+    "verifiedEvents": 0
   },
-  "publication": {
-    "commitSha": "7e85d49da50f2d9d25396597ba3e8aad9ce2bfe7",
-    "deployId": "6ad8c3028632c367def8f315",
-    "verifiedAt": "2026-10-21T13:51:33.011Z",
-    "editions": {
-      "cincinnati": {
-        "editionId": "cincinnati-2026-10-23-weekly-1a7a35b2",
-        "startDate": "2026-10-23",
-        "endDate": "2026-10-25",
-        "updatedAt": "2026-10-21T13:41:22.375Z"
-      },
-      "philadelphia": {
-        "editionId": "philadelphia-2026-10-23-weekly-1a7a35b2",
-        "startDate": "2026-10-23",
-        "endDate": "2026-10-25",
-        "updatedAt": "2026-10-21T13:42:17Z"
-      },
-      "chicago": {
-        "editionId": "chicago-2026-10-23-weekly-1a7a35b2",
-        "startDate": "2026-10-23",
-        "endDate": "2026-10-25",
-        "updatedAt": "2026-10-21T13:40:00Z"
-      },
-      "washington-dc": {
-        "editionId": "washington-dc-2026-10-23-weekly-1a7a35b2",
-        "startDate": "2026-10-23",
-        "endDate": "2026-10-25",
-        "updatedAt": "2026-10-21T13:43:12Z"
-      }
-    }
-  },
+  "publication": null,
   "lastSuccessByCity": {
     "cincinnati": {
       "editionId": "cincinnati-2026-10-23-weekly-1a7a35b2",
@@ -107,6 +77,5 @@
     "6acabe04a7218bfe97682ca0",
     "6ad7f98eda15d70332d1be20"
   ],
-  "error": null,
-  "publishedAt": "2026-10-21T13:51:33.011Z"
+  "error": null
 }
