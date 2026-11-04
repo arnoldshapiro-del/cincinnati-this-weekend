@@ -29,14 +29,14 @@
     }
   },
   "startedAt": "2026-11-04T14:35:26.649Z",
-  "updatedAt": "2026-11-04T14:44:04.642Z",
-  "leaseExpiresAt": "2026-11-04T15:04:04.642Z",
+  "updatedAt": "2026-11-04T14:48:06.666Z",
+  "leaseExpiresAt": "2026-11-04T15:08:06.666Z",
   "nextAllowedAt": "2026-11-04T15:35:26.649Z",
   "progress": {
-    "completedCities": 0,
+    "completedCities": 3,
     "totalCities": 4,
     "sourcesChecked": 0,
-    "verifiedEvents": 0
+    "verifiedEvents": 151
   },
   "publication": null,
   "lastSuccessByCity": {
