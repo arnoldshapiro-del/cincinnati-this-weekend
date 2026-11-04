@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "generation": 6,
   "jobId": "weekly-b6ff9c98-62a1-4ea5-b86b-c4a029678b7e",
-  "state": "publishing",
+  "state": "succeeded",
   "trigger": "scheduled",
   "cities": [
     "cincinnati",
@@ -29,8 +29,8 @@
     }
   },
   "startedAt": "2026-11-04T14:35:26.649Z",
-  "updatedAt": "2026-11-04T15:22:17.995Z",
-  "leaseExpiresAt": "2026-11-04T15:42:17.995Z",
+  "updatedAt": "2026-11-04T15:23:29.417Z",
+  "leaseExpiresAt": null,
   "nextAllowedAt": "2026-11-04T15:35:26.649Z",
   "progress": {
     "completedCities": 4,
@@ -38,44 +38,75 @@
     "sourcesChecked": 169,
     "verifiedEvents": 201
   },
-  "publication": null,
+  "publication": {
+    "commitSha": "c64da7f5517d58349002af11cc4e40f4e6e0c555",
+    "deployId": "6aeb4cc5754e1c192076fef6",
+    "verifiedAt": "2026-11-04T15:23:03.000Z",
+    "editions": {
+      "cincinnati": {
+        "editionId": "cincinnati-2026-11-06-weekly-b6ff9c98",
+        "startDate": "2026-11-06",
+        "endDate": "2026-11-08",
+        "updatedAt": "2026-11-04T14:43:19.362Z"
+      },
+      "philadelphia": {
+        "editionId": "philadelphia-2026-11-06-weekly-b6ff9c98",
+        "startDate": "2026-11-06",
+        "endDate": "2026-11-08",
+        "updatedAt": "2026-11-04T14:46:24.962Z"
+      },
+      "chicago": {
+        "editionId": "chicago-2026-11-06-weekly-b6ff9c98",
+        "startDate": "2026-11-06",
+        "endDate": "2026-11-08",
+        "updatedAt": "2026-11-04T14:46:06Z"
+      },
+      "washington-dc": {
+        "editionId": "washington-dc-2026-11-06-weekly-b6ff9c98",
+        "startDate": "2026-11-06",
+        "endDate": "2026-11-08",
+        "updatedAt": "2026-11-04T14:53:55Z"
+      }
+    }
+  },
   "lastSuccessByCity": {
     "cincinnati": {
-      "editionId": "cincinnati-2026-10-30-weekly-ea548ab7",
-      "startDate": "2026-10-30",
-      "endDate": "2026-11-01",
-      "updatedAt": "2026-10-28T13:43:25.282Z",
-      "commitSha": "00cc53188b2f78a8fceb0d3460cfde0d2e649af9",
-      "publishedAt": "2026-10-28T13:55:10.437Z"
+      "editionId": "cincinnati-2026-11-06-weekly-b6ff9c98",
+      "startDate": "2026-11-06",
+      "endDate": "2026-11-08",
+      "updatedAt": "2026-11-04T14:43:19.362Z",
+      "commitSha": "c64da7f5517d58349002af11cc4e40f4e6e0c555",
+      "publishedAt": "2026-11-04T15:23:03.000Z"
     },
     "philadelphia": {
-      "editionId": "philadelphia-2026-10-30-weekly-ea548ab7",
-      "startDate": "2026-10-30",
-      "endDate": "2026-11-01",
-      "updatedAt": "2026-10-28T13:45:41.785642Z",
-      "commitSha": "00cc53188b2f78a8fceb0d3460cfde0d2e649af9",
-      "publishedAt": "2026-10-28T13:55:10.437Z"
+      "editionId": "philadelphia-2026-11-06-weekly-b6ff9c98",
+      "startDate": "2026-11-06",
+      "endDate": "2026-11-08",
+      "updatedAt": "2026-11-04T14:46:24.962Z",
+      "commitSha": "c64da7f5517d58349002af11cc4e40f4e6e0c555",
+      "publishedAt": "2026-11-04T15:23:03.000Z"
     },
     "chicago": {
-      "editionId": "chicago-2026-10-30-weekly-ea548ab7",
-      "startDate": "2026-10-30",
-      "endDate": "2026-11-01",
-      "updatedAt": "2026-10-28T13:44:52Z",
-      "commitSha": "00cc53188b2f78a8fceb0d3460cfde0d2e649af9",
-      "publishedAt": "2026-10-28T13:55:10.437Z"
+      "editionId": "chicago-2026-11-06-weekly-b6ff9c98",
+      "startDate": "2026-11-06",
+      "endDate": "2026-11-08",
+      "updatedAt": "2026-11-04T14:46:06Z",
+      "commitSha": "c64da7f5517d58349002af11cc4e40f4e6e0c555",
+      "publishedAt": "2026-11-04T15:23:03.000Z"
     },
     "washington-dc": {
-      "editionId": "washington-dc-2026-10-30-weekly-ea548ab7",
-      "startDate": "2026-10-30",
-      "endDate": "2026-11-01",
-      "updatedAt": "2026-10-28T13:43:58Z",
-      "commitSha": "00cc53188b2f78a8fceb0d3460cfde0d2e649af9",
-      "publishedAt": "2026-10-28T13:55:10.437Z"
+      "editionId": "washington-dc-2026-11-06-weekly-b6ff9c98",
+      "startDate": "2026-11-06",
+      "endDate": "2026-11-08",
+      "updatedAt": "2026-11-04T14:53:55Z",
+      "commitSha": "c64da7f5517d58349002af11cc4e40f4e6e0c555",
+      "publishedAt": "2026-11-04T15:23:03.000Z"
     }
   },
   "recentSubmissionIds": [
     "6acabe04a7218bfe97682ca0",
     "6ad7f98eda15d70332d1be20"
   ],
-  "error": null
+  "error": null,
+  "publishedAt": "2026-11-04T15:23:03.000Z"
 }
