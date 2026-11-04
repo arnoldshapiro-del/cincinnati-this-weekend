@@ -1,0 +1,302 @@
+{
+  "editionId": "cincinnati-2026-11-06-weekly-b6ff9c98",
+  "sources": [
+    {
+      "url": "https://2812a.blackbaudhosting.com/2812a/tickets?tab=2&txobjid=31b290d1-97e3-476d-bb87-272ab51625fa",
+      "verificationRecordedAt": "2026-11-04T14:43:58.612Z",
+      "method": "Web open/click by exhibit researcher; see exhibits-research.json",
+      "statusCode": null,
+      "title": null,
+      "scrapeId": null,
+      "retrievedCharacters": null
+    },
+    {
+      "url": "https://bradymusiccenter.com/events/2026/11/ashley-mcbryde-into-the-wild-tour",
+      "verificationRecordedAt": "2026-11-04T14:43:58.612Z",
+      "method": "Live Firecrawl scrape; maxAge:0; source text inspected",
+      "statusCode": 200,
+      "title": "Ashley McBryde: Into The Wild Tour – Saturday, November 7, 2026 – The Andrew J Brady Music Center",
+      "scrapeId": "01a1a6fe-aeb8-7481-844c-f09ef18b3e84",
+      "retrievedCharacters": 9969
+    },
+    {
+      "url": "https://cincinnatiartmuseum.org/art/exhibitions/the-art-of-charley-harper-creatures-wild-and-tame/",
+      "verificationRecordedAt": "2026-11-04T14:43:58.612Z",
+      "method": "Web open/click by exhibit researcher; see exhibits-research.json",
+      "statusCode": null,
+      "title": null,
+      "scrapeId": null,
+      "retrievedCharacters": null
+    },
+    {
+      "url": "https://cincinnatiartmuseum.org/events/events-list/cam-kids-day-117/?date=November+07%2C+2026+11%3A00+AM",
+      "verificationRecordedAt": "2026-11-04T14:43:58.612Z",
+      "method": "Web open/click by exhibit researcher; see exhibits-research.json",
+      "statusCode": null,
+      "title": null,
+      "scrapeId": null,
+      "retrievedCharacters": null
+    },
+    {
+      "url": "https://cincynature.ticketapp.org/portal/product/392/event/e3be1734-cc38-423a-8611-12ac34c66969",
+      "verificationRecordedAt": "2026-11-04T14:43:58.612Z",
+      "method": "Live Firecrawl scrape; maxAge:0; source text inspected",
+      "statusCode": 200,
+      "title": "Cincinnati Nature Center",
+      "scrapeId": "01a1a700-962d-729b-81a8-0a20f8af8706",
+      "retrievedCharacters": 3485
+    },
+    {
+      "url": "https://cycloneshockey.com/game/2026/11/06/pride-night-shutout-the-hate",
+      "verificationRecordedAt": "2026-11-04T14:43:58.613Z",
+      "method": "Live Firecrawl scrape; maxAge:0; source text inspected",
+      "statusCode": 200,
+      "title": "Cincinnati Cyclones | Cincinnati, OH Professional Hockey | Pride Night - Shutout the Hate Friday, November 6, 2026 - vs. Indy Fuel",
+      "scrapeId": "01a1a6ff-cf3c-748a-b089-ecc208623577",
+      "retrievedCharacters": 8630
+    },
+    {
+      "url": "https://cycloneshockey.com/game/2026/11/07/youth-jersey-giveaway-matinee",
+      "verificationRecordedAt": "2026-11-04T14:43:58.614Z",
+      "method": "Live Firecrawl scrape; maxAge:0; source text inspected",
+      "statusCode": 200,
+      "title": "Cincinnati Cyclones | Cincinnati, OH Professional Hockey | Youth Jersey Giveaway Matinee Saturday, November 7, 2026 - vs. Bloomington Bison",
+      "scrapeId": "01a1a6ff-cdb2-7430-ad4c-3026840b28ed",
+      "retrievedCharacters": 7978
+    },
+    {
+      "url": "https://elmstreetplazacincy.com/ice-rink/",
+      "verificationRecordedAt": "2026-11-04T14:43:58.615Z",
+      "method": "Live Firecrawl scrape; maxAge:0; source text inspected",
+      "statusCode": 200,
+      "title": "Ice Rink | Elm Street Plaza",
+      "scrapeId": "01a1a6ff-cd92-71ae-bd25-e4c6169cd6c4",
+      "retrievedCharacters": 7702
+    },
+    {
+      "url": "https://goxavier.com/news/2026/11/2/mens-basketball-vs-the-mount",
+      "verificationRecordedAt": "2026-11-04T14:43:58.615Z",
+      "method": "Live Firecrawl scrape; maxAge:0; source text inspected",
+      "statusCode": 200,
+      "title": "Men's Basketball Opens 2026-27 Season with 97-52 Win Over the Mount - Xavier University Athletics",
+      "scrapeId": "01a1a6ff-20fc-71ed-9a75-f087595e0edf",
+      "retrievedCharacters": 16073
+    },
+    {
+      "url": "https://tafttheatre.org/events/2026/11/blade-runner-live",
+      "verificationRecordedAt": "2026-11-04T14:43:58.615Z",
+      "method": "Live Firecrawl scrape; maxAge:0; source text inspected",
+      "statusCode": 200,
+      "title": "Blade Runner Live – Friday, November 6, 2026 – Taft Theatre",
+      "scrapeId": "01a1a6ff-cd86-72fd-bab4-2c373be99994",
+      "retrievedCharacters": 4016
+    },
+    {
+      "url": "https://tafttheatre.org/events/2026/11/the-string-cheese-incident",
+      "verificationRecordedAt": "2026-11-04T14:43:58.616Z",
+      "method": "Live Firecrawl scrape; maxAge:0; source text inspected",
+      "statusCode": 200,
+      "title": "The String Cheese Incident – Saturday, November 7, 2026 – Taft Theatre",
+      "scrapeId": "01a1a6ff-cd82-708f-9ab1-c88de70c1f64",
+      "retrievedCharacters": 7556
+    },
+    {
+      "url": "https://ticketing.cincyplay.com/overview/get-happy",
+      "verificationRecordedAt": "2026-11-04T14:43:58.616Z",
+      "method": "Live Firecrawl scrape; maxAge:0; source text inspected",
+      "statusCode": 200,
+      "title": "CincyPlay | GET HAPPY: ANGELA INGERSOLL SINGS JUDY GARLAND | Cincinnati Playhouse in the Park",
+      "scrapeId": "01a1a6fe-ae75-77d6-9a5a-eb16d96f673f",
+      "retrievedCharacters": 2259
+    },
+    {
+      "url": "https://ticketing.cincyplay.com/overview/the-twelve-dates-of-christmas",
+      "verificationRecordedAt": "2026-11-04T14:43:58.616Z",
+      "method": "Live Firecrawl scrape; maxAge:0; source text inspected",
+      "statusCode": 200,
+      "title": "CincyPlay | THE TWELVE DATES OF CHRISTMAS | Cincinnati Playhouse in the Park",
+      "scrapeId": "01a1a6fe-b02c-72df-865c-b1dff39f4cae",
+      "retrievedCharacters": 8646
+    },
+    {
+      "url": "https://tqlstadium.com/events/fc-cincinnati-vs-nashville-sc-2026",
+      "verificationRecordedAt": "2026-11-04T14:43:58.616Z",
+      "method": "Live Firecrawl scrape; maxAge:0; source text inspected",
+      "statusCode": 200,
+      "title": "FC Cincinnati vs. Nashville SC — TQL Stadium",
+      "scrapeId": "01a1a6ff-20fb-773e-b809-4402787a5680",
+      "retrievedCharacters": 1372
+    },
+    {
+      "url": "https://www.cincinnatiartmuseum.org/about/press-room/cincinnati-art-museum-presents-nancy-rexroth-secrets-of-my-power/",
+      "verificationRecordedAt": "2026-11-04T14:43:58.616Z",
+      "method": "Web open/click by exhibit researcher; see exhibits-research.json",
+      "statusCode": null,
+      "title": null,
+      "scrapeId": null,
+      "retrievedCharacters": null
+    },
+    {
+      "url": "https://www.cincinnatiarts.org/events/detail/ballet-live-26",
+      "verificationRecordedAt": "2026-11-04T14:43:58.616Z",
+      "method": "Live Firecrawl scrape; maxAge:0; source text inspected",
+      "statusCode": 200,
+      "title": "LIVE! In Concert with Over the Rhine and the Cincinnati Symphony Orchestra | Official Ticket Source | Cincinnati Arts",
+      "scrapeId": "01a1a6ff-2128-706d-9b9f-ad10ae092271",
+      "retrievedCharacters": 1908
+    },
+    {
+      "url": "https://www.cincinnatiarts.org/events/detail/disneys-frozen-movie-sing-along",
+      "verificationRecordedAt": "2026-11-04T14:43:58.616Z",
+      "method": "Live Firecrawl scrape; maxAge:0; source text inspected",
+      "statusCode": 200,
+      "title": "Disney's Frozen Movie Sing-Along | Official Ticket Source | Cincinnati Arts",
+      "scrapeId": "01a1a6ff-20fb-75a5-85b9-b40606b959f1",
+      "retrievedCharacters": 10677
+    },
+    {
+      "url": "https://www.cincymuseum.org/jurassic-world/",
+      "verificationRecordedAt": "2026-11-04T14:43:58.616Z",
+      "method": "Web open/click by exhibit researcher; see exhibits-research.json",
+      "statusCode": null,
+      "title": null,
+      "scrapeId": null,
+      "retrievedCharacters": null
+    },
+    {
+      "url": "https://www.cincymuseum.org/layers/",
+      "verificationRecordedAt": "2026-11-04T14:43:58.616Z",
+      "method": "Live Firecrawl scrape; maxAge:0; source text inspected",
+      "statusCode": 200,
+      "title": "Layers - Cincinnati Museum Center",
+      "scrapeId": "01a1a700-9601-75a9-bcc6-64e530827489",
+      "retrievedCharacters": 27078
+    },
+    {
+      "url": "https://www.contemporaryartscenter.org/visit/exhibitions/2026/10/widline-cadet-seremoni-disparisyon-ritual-disappearance",
+      "verificationRecordedAt": "2026-11-04T14:43:58.616Z",
+      "method": "Web open/click by exhibit researcher; see exhibits-research.json",
+      "statusCode": null,
+      "title": null,
+      "scrapeId": null,
+      "retrievedCharacters": null
+    },
+    {
+      "url": "https://www.fotofocus.org/exhibition/trevor-paglen",
+      "verificationRecordedAt": "2026-11-04T14:43:58.616Z",
+      "method": "Web open/click by exhibit researcher; see exhibits-research.json",
+      "statusCode": null,
+      "title": null,
+      "scrapeId": null,
+      "retrievedCharacters": null
+    },
+    {
+      "url": "https://www.fotofocus.org/fotofocus-exhibition/j-miles-wolf-red-river-gorge-a-50-year-journey/",
+      "verificationRecordedAt": "2026-11-04T14:43:58.616Z",
+      "method": "Web open/click by exhibit researcher; see exhibits-research.json",
+      "statusCode": null,
+      "title": null,
+      "scrapeId": null,
+      "retrievedCharacters": null
+    },
+    {
+      "url": "https://www.ludlowgaragecincinnati.com/earlybirds-club-3/",
+      "verificationRecordedAt": "2026-11-04T14:43:58.617Z",
+      "method": "Live Firecrawl scrape; maxAge:0; source text inspected",
+      "statusCode": 200,
+      "title": "Ludlow Garage Cincinnati |  » Earlybirds Club 🪩 Decades Night",
+      "scrapeId": "01a1a6ff-2082-7313-b259-3a034a469031",
+      "retrievedCharacters": 3336
+    },
+    {
+      "url": "https://www.ludlowgaragecincinnati.com/the-rock-and-roll-playhouse-plays-music-of-the-beatles-more-for-kids-2/",
+      "verificationRecordedAt": "2026-11-04T14:43:58.617Z",
+      "method": "Live Firecrawl scrape; maxAge:0; source text inspected",
+      "statusCode": 200,
+      "title": "Ludlow Garage Cincinnati |  » The Rock and Roll Playhouse plays Music of The Beatles + More for Kids",
+      "scrapeId": "01a1a6ff-20ae-72c2-8aa6-2d0a78218b9d",
+      "retrievedCharacters": 4000
+    },
+    {
+      "url": "https://www.northsiderecordfair.com/faq",
+      "verificationRecordedAt": "2026-11-04T14:43:58.617Z",
+      "method": "Live Firecrawl scrape; maxAge:0; source text inspected",
+      "statusCode": 200,
+      "title": "FAQ | northsiderecordfair",
+      "scrapeId": "01a1a6ff-20a3-7038-b8ad-e5290e3ba194",
+      "retrievedCharacters": 2294
+    },
+    {
+      "url": "https://www.peanutbutterandjam.org/event/hit-it-15/",
+      "verificationRecordedAt": "2026-11-04T14:43:58.617Z",
+      "method": "Live Firecrawl scrape; maxAge:0; source text inspected",
+      "statusCode": 200,
+      "title": "Hit It! (Kennedy Heights) - Peanut Butter and Jam Sessions",
+      "scrapeId": "01a1a700-df3e-774c-91a0-3eec3c9c65a1",
+      "retrievedCharacters": 5310
+    },
+    {
+      "url": "https://www.sharonvilleholidaymarket.com/attendee-info/show-info",
+      "verificationRecordedAt": "2026-11-04T14:43:58.617Z",
+      "method": "Live Firecrawl scrape; maxAge:0; source text inspected",
+      "statusCode": 200,
+      "title": "Show Info | Sharonville Holiday Market",
+      "scrapeId": "01a1a6fe-ae9b-74b2-9dd4-f855ea233ee2",
+      "retrievedCharacters": 6222
+    },
+    {
+      "url": "https://www.southgatehouse.com/tm-event/falls-city-boys-3/",
+      "verificationRecordedAt": "2026-11-04T14:43:58.617Z",
+      "method": "Live Firecrawl scrape; maxAge:0; source text inspected",
+      "statusCode": 200,
+      "title": "Falls City Boys - Southgate House",
+      "scrapeId": "01a1a6ff-cdd1-7068-ae44-af017b4eb35a",
+      "retrievedCharacters": 4641
+    },
+    {
+      "url": "https://www.southgatehouse.com/tm-event/hunter-hicks/",
+      "verificationRecordedAt": "2026-11-04T14:43:58.617Z",
+      "method": "Live Firecrawl scrape; maxAge:0; source text inspected",
+      "statusCode": 200,
+      "title": "Hunter Hicks - Southgate House",
+      "scrapeId": "01a1a6ff-cdbb-7704-877a-4575b55499da",
+      "retrievedCharacters": 4891
+    },
+    {
+      "url": "https://www.southgatehouse.com/tm-event/queen-city-blues-fest/",
+      "verificationRecordedAt": "2026-11-04T14:43:58.617Z",
+      "method": "Live Firecrawl scrape; maxAge:0; source text inspected",
+      "statusCode": 200,
+      "title": "Queen City Blues Fest - Southgate House",
+      "scrapeId": "01a1a6ff-cdd8-750f-90e5-b34b1421f458",
+      "retrievedCharacters": 6402
+    },
+    {
+      "url": "https://www.southgatehouse.com/tm-event/sam-lewis-everythings-fine-tour/",
+      "verificationRecordedAt": "2026-11-04T14:43:58.617Z",
+      "method": "Live Firecrawl scrape; maxAge:0; source text inspected",
+      "statusCode": 200,
+      "title": "Bill Taylor & The Appalachian Heathens with Blake Branscom and Sam Lewis - Southgate House",
+      "scrapeId": "01a1a6ff-cd89-76ed-9650-1451daad5578",
+      "retrievedCharacters": 10233
+    },
+    {
+      "url": "https://www.southgatehouse.com/tm-event/sam-shackleton/",
+      "verificationRecordedAt": "2026-11-04T14:43:58.617Z",
+      "method": "Live Firecrawl scrape; maxAge:0; source text inspected",
+      "statusCode": 200,
+      "title": "Sam Shackleton, Gabrielle Hope - Southgate House",
+      "scrapeId": "01a1a6ff-cdb7-707d-8c03-57e3d94a010f",
+      "retrievedCharacters": 9224
+    },
+    {
+      "url": "https://www.taftmuseum.org/exhibitions/edieharper/",
+      "verificationRecordedAt": "2026-11-04T14:43:58.617Z",
+      "method": "Web open/click by exhibit researcher; see exhibits-research.json",
+      "statusCode": null,
+      "title": null,
+      "scrapeId": null,
+      "retrievedCharacters": null
+    }
+  ]
+}

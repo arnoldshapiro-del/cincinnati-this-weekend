@@ -1,0 +1,482 @@
+{
+  "verifiedAt": "2026-11-04T14:46:24.962Z",
+  "editionId": "philadelphia-2026-11-06-weekly-b6ff9c98",
+  "method": "Primary organizer, venue, government, and official ticket pages fetched live and inspected on November 4, 2026. Repeated event-day cards require explicit individual performances, a recurring weekly schedule, or an exhibition run plus open-day evidence. Travel minutes are editorial estimates from central Philadelphia, not live traffic.",
+  "counts": {
+    "eventDayCards": 50,
+    "distinctPrograms": 26,
+    "featured": 10,
+    "days": {
+      "Friday": 11,
+      "Saturday": 21,
+      "Sunday": 18
+    },
+    "categories": {
+      "Markets": 10,
+      "Performing Arts": 3,
+      "Museums": 1,
+      "Outdoors": 7,
+      "Culture": 3,
+      "Art": 6,
+      "Family": 5,
+      "Theater": 3,
+      "Festivals": 3,
+      "Sports": 3,
+      "Food & Drink": 2,
+      "History": 1,
+      "Music": 2,
+      "Community": 1
+    }
+  },
+  "sources": [
+    {
+      "seriesId": "craft-show",
+      "eventIds": [
+        "phl-craft-show-2026-11-06",
+        "phl-craft-show-2026-11-07",
+        "phl-craft-show-2026-11-08"
+      ],
+      "url": "https://www.pmacraftshow.org/about-the-show",
+      "supportingUrls": [
+        "https://www.pmacraftshow.org/",
+        "https://www.pmacraftshow.org/about-the-show"
+      ],
+      "verifiedAt": "2026-11-04T14:46:24.962Z",
+      "method": "Live official-page content fetched with maxAge: 0 and inspected; current destination-bureau page used only for supplementary address details where noted.",
+      "evidence": "Official 2026 show schedule explicitly lists Nov 6 11–7, Nov 7 10–6 and Nov 8 10–5. One-day general admission is $20; Hall F address is provided.",
+      "excerpt": "Friday, November 6, 11 AM - 7 PM"
+    },
+    {
+      "seriesId": "apple-festival",
+      "eventIds": [
+        "phl-apple-festival-2026-11-07",
+        "phl-apple-festival-2026-11-08"
+      ],
+      "url": "https://peddlersvillage.com/event/apple-festival/",
+      "supportingUrls": [
+        "https://peddlersvillage.com/event/apple-festival/"
+      ],
+      "verifiedAt": "2026-11-04T14:46:24.962Z",
+      "method": "Live official-page content fetched with maxAge: 0 and inspected; current destination-bureau page used only for supplementary address details where noted.",
+      "evidence": "Official event explicitly Nov 7–8, 2026, both 11–5. Free admission/parking and separate daily entertainment lists. Event calendar supplies 2400 Street Road address.",
+      "excerpt": "Admission and parking are free."
+    },
+    {
+      "seriesId": "macabre",
+      "eventIds": [
+        "phl-macabre-2026-11-07"
+      ],
+      "url": "https://laurelhillphl.com/event/market-of-the-macabre/",
+      "supportingUrls": [
+        "https://laurelhillphl.com/event/market-of-the-macabre/"
+      ],
+      "verifiedAt": "2026-11-04T14:46:24.962Z",
+      "method": "Live official-page content fetched with maxAge: 0 and inspected; current destination-bureau page used only for supplementary address details where noted.",
+      "evidence": "Organizer marks the rescheduled date Saturday Nov 7 2026, noon–5, at Laurel Hill East. Advance $5, walk-up $10; advance sales close noon day before.",
+      "excerpt": "Saturday, November 7, 2026"
+    },
+    {
+      "seriesId": "veterans-parade",
+      "eventIds": [
+        "phl-veterans-parade-2026-11-08"
+      ],
+      "url": "https://www.phillyveteransparade.org/",
+      "supportingUrls": [
+        "https://www.phillyveteransparade.org/",
+        "https://www.visitphilly.com/uwishunu/things-to-do-in-philadelphia-this-week-weekend/"
+      ],
+      "verifiedAt": "2026-11-04T14:46:24.962Z",
+      "method": "Live official-page content fetched with maxAge: 0 and inspected; current destination-bureau page used only for supplementary address details where noted.",
+      "evidence": "Full official homepage fetched with main-content filtering disabled: Nov 8 2026, parade noon on Parkway, festival Eakins Oval 12:30–3:30. Current Visit Philadelphia lists start at 21st. No admission price claimed.",
+      "excerpt": "The 12th Annual Philadelphia Veterans Parade and Festival will take place on November 8, 2026."
+    },
+    {
+      "seriesId": "rocky-challenge",
+      "eventIds": [
+        "phl-rocky-challenge-2026-11-07"
+      ],
+      "url": "https://www.phlvisitorcenter.com/things-to-do/rocky-challenge",
+      "supportingUrls": [
+        "https://www.phlvisitorcenter.com/things-to-do/rocky-challenge"
+      ],
+      "verifiedAt": "2026-11-04T14:46:24.962Z",
+      "method": "Live official-page content fetched with maxAge: 0 and inspected; current destination-bureau page used only for supplementary address details where noted.",
+      "evidence": "Official organizer page states Saturday Nov 7 2026, 9–11 AM, exact museum-steps address and registration link. Price not published in fetched page.",
+      "excerpt": "Saturday, November 7, 2026"
+    },
+    {
+      "seriesId": "pierogi",
+      "eventIds": [
+        "phl-pierogi-2026-11-07",
+        "phl-pierogi-2026-11-08"
+      ],
+      "url": "https://saintnicholas-eoc-f9k5.squarespace.com/events/st-nicholas-pierogi-festival-day-2025",
+      "supportingUrls": [
+        "https://saintnicholas-eoc-f9k5.squarespace.com/events/st-nicholas-pierogi-festival-day-2025"
+      ],
+      "verifiedAt": "2026-11-04T14:46:24.962Z",
+      "method": "Live official-page content fetched with maxAge: 0 and inspected; current destination-bureau page used only for supplementary address details where noted.",
+      "evidence": "Despite legacy 2025 URL, page heading and dates are explicitly 2026. Detailed text says Sat 11/7 noon–8 and Sun 11/8 noon–5; free admission and 817 N 7th address. These daily hours override generic Nov 8 6 PM event end.",
+      "excerpt": "Saturday 11/7 open 12pm to 8pm"
+    },
+    {
+      "seriesId": "pumpkinland",
+      "eventIds": [
+        "phl-pumpkinland-2026-11-06",
+        "phl-pumpkinland-2026-11-07",
+        "phl-pumpkinland-2026-11-08"
+      ],
+      "url": "https://www.linvilla.com/family-fun/pumpkinland",
+      "supportingUrls": [
+        "https://www.linvilla.com/family-fun/pumpkinland",
+        "https://www.linvilla.com/about/directions-hours"
+      ],
+      "verifiedAt": "2026-11-04T14:46:24.962Z",
+      "method": "Live official-page content fetched with maxAge: 0 and inspected; current destination-bureau page used only for supplementary address details where noted.",
+      "evidence": "Current official page explicitly open daily Sept 12–Nov 8, with free entry. Weekend hayrides/mazes run through Nov 8 but weekday schedule ends Oct 30; no unsupported Friday activity hours asserted. Address verified on visit page.",
+      "excerpt": "No admission ticket is needed to enter Pumpkinland."
+    },
+    {
+      "seriesId": "tobin",
+      "eventIds": [
+        "phl-tobin-2026-11-06",
+        "phl-tobin-2026-11-07",
+        "phl-tobin-2026-11-08"
+      ],
+      "url": "https://tylerarboretum.org/steve-tobin-in-the-light/",
+      "supportingUrls": [
+        "https://tylerarboretum.org/steve-tobin-in-the-light/",
+        "https://tylerarboretum.org/hours-directions-and-admission/"
+      ],
+      "verifiedAt": "2026-11-04T14:46:24.962Z",
+      "method": "Live official-page content fetched with maxAge: 0 and inspected; current destination-bureau page used only for supplementary address details where noted.",
+      "evidence": "Exhibition opened Oct 16 2026 and runs through Oct 2027. Official current seasonal banner and admission page specify daily 9–4, adults $18, 515 Painter Road.",
+      "excerpt": "Seasonal Hours Now in Effect: Tyler Arboretum is open daily from 9 am–4 pm."
+    },
+    {
+      "seriesId": "chrysanthemum",
+      "eventIds": [
+        "phl-chrysanthemum-2026-11-06",
+        "phl-chrysanthemum-2026-11-07",
+        "phl-chrysanthemum-2026-11-08"
+      ],
+      "url": "https://longwoodgardens.org/events-performances/events/chrysanthemum-festival",
+      "supportingUrls": [
+        "https://longwoodgardens.org/events-performances/events/chrysanthemum-festival",
+        "https://longwoodgardens.org/visit",
+        "https://www.visitphilly.com/uwishunu/things-to-do-in-philadelphia-this-week-weekend/"
+      ],
+      "verifiedAt": "2026-11-04T14:46:24.962Z",
+      "method": "Live official-page content fetched with maxAge: 0 and inspected; current destination-bureau page used only for supplementary address details where noted.",
+      "evidence": "Festival Oct 16–Nov 15 2026. Official visit page Nov 2–15 hours Wednesday–Monday 10–5. Price grid Oct 26–Nov 15 Wednesday–Monday adult general admission $35, not earlier $38 weekend rate. Street address independently corroborated on current Visit Philadelphia weekly guide.",
+      "excerpt": "On View October 16–November 15, 2026"
+    },
+    {
+      "seriesId": "duchamp",
+      "eventIds": [
+        "phl-duchamp-2026-11-06",
+        "phl-duchamp-2026-11-07",
+        "phl-duchamp-2026-11-08"
+      ],
+      "url": "https://www.philamuseum.org/exhibitions/marcel-duchamp",
+      "supportingUrls": [
+        "https://www.philamuseum.org/exhibitions/marcel-duchamp",
+        "https://www.philamuseum.org/main-building"
+      ],
+      "verifiedAt": "2026-11-04T14:46:24.962Z",
+      "method": "Live official-page content fetched with maxAge: 0 and inspected; current destination-bureau page used only for supplementary address details where noted.",
+      "evidence": "Official exhibition Oct 10 2026–Jan 31 2027 and $35 timed ticket. Main Building page gives Friday 10–8:45, Saturday/Sunday 10–5 and exact address.",
+      "excerpt": "Through January 31, 2027"
+    },
+    {
+      "seriesId": "gateway",
+      "eventIds": [
+        "phl-gateway-2026-11-06",
+        "phl-gateway-2026-11-07",
+        "phl-gateway-2026-11-08"
+      ],
+      "url": "https://philafleamarkets.org/",
+      "supportingUrls": [
+        "https://philafleamarkets.org/"
+      ],
+      "verifiedAt": "2026-11-04T14:46:24.962Z",
+      "method": "Live official-page content fetched with maxAge: 0 and inspected; current destination-bureau page used only for supplementary address details where noted.",
+      "evidence": "Current organizer banner explicitly Gateway every Fri/Sat/Sun 10–6, year-round, at 153 Swedesford Road. Admission price not asserted.",
+      "excerpt": "Open Every Fri, Sat & Sun"
+    },
+    {
+      "seriesId": "bristol",
+      "eventIds": [
+        "phl-bristol-2026-11-07",
+        "phl-bristol-2026-11-08"
+      ],
+      "url": "https://philafleamarkets.org/",
+      "supportingUrls": [
+        "https://philafleamarkets.org/"
+      ],
+      "verifiedAt": "2026-11-04T14:46:24.962Z",
+      "method": "Live official-page content fetched with maxAge: 0 and inspected; current destination-bureau page used only for supplementary address details where noted.",
+      "evidence": "Organizer homepage explicitly announces grand opening Sat/Sun Nov 7–8, address and free admission/parking. Organizer-authored embedded update gives 9–4 each day.",
+      "excerpt": "Nov 7th & 8th"
+    },
+    {
+      "seriesId": "balletx",
+      "eventIds": [
+        "phl-balletx-2026-11-06",
+        "phl-balletx-2026-11-07",
+        "phl-balletx-2026-11-08"
+      ],
+      "url": "https://www.balletx.org/seasons/fall-series-2026/",
+      "supportingUrls": [
+        "https://www.balletx.org/seasons/fall-series-2026/"
+      ],
+      "verifiedAt": "2026-11-04T14:46:24.962Z",
+      "method": "Live official-page content fetched with maxAge: 0 and inspected; current destination-bureau page used only for supplementary address details where noted.",
+      "evidence": "Official individual listings Nov 6 7:30 PM; Nov 7 2 PM and 7:30 PM; Nov 8 2 PM. Venue/address given. Performance-specific prices not published in fetched content.",
+      "excerpt": "Friday November 06 | 7:30pm"
+    },
+    {
+      "seriesId": "topdog",
+      "eventIds": [
+        "phl-topdog-2026-11-06",
+        "phl-topdog-2026-11-07",
+        "phl-topdog-2026-11-08"
+      ],
+      "url": "https://purchase.ardentheatre.org/EventAvailability?EventId=19001",
+      "supportingUrls": [
+        "https://ardentheatre.org/production/topdogunderdog/",
+        "https://purchase.ardentheatre.org/EventAvailability?EventId=19001",
+        "https://ardentheatre.org/plan-your-visit/faq/"
+      ],
+      "verifiedAt": "2026-11-04T14:46:24.962Z",
+      "method": "Live official-page content fetched with maxAge: 0 and inspected; current destination-bureau page used only for supplementary address details where noted.",
+      "evidence": "Official production plus actual ticket inventory, not inferred run dates: Nov 6 7 PM, Nov 7 2/7 PM, Nov 8 2/7 PM. FAQ confirms Arcadia Stage at 40 N 2nd. No fixed price stated.",
+      "excerpt": "November 06, 2026 | 7:00 PM"
+    },
+    {
+      "seriesId": "elfreth",
+      "eventIds": [
+        "phl-elfreth-2026-11-07"
+      ],
+      "url": "https://www.elfrethsalley.org/events/fall-market-2026",
+      "supportingUrls": [
+        "https://www.elfrethsalley.org/events/fall-market-2026"
+      ],
+      "verifiedAt": "2026-11-04T14:46:24.962Z",
+      "method": "Live official-page content fetched with maxAge: 0 and inspected; current destination-bureau page used only for supplementary address details where noted.",
+      "evidence": "Official organizer event Nov 7 2026, 11–4, on Elfreth’s Alley. Text explicitly free to attend.",
+      "excerpt": "It is FREE to attend"
+    },
+    {
+      "seriesId": "craftnow",
+      "eventIds": [
+        "phl-craftnow-2026-11-07"
+      ],
+      "url": "https://www.craftnowphila.org/craftnow-create/",
+      "supportingUrls": [
+        "https://www.craftnowphila.org/craftnow-create/"
+      ],
+      "verifiedAt": "2026-11-04T14:46:24.962Z",
+      "method": "Live official-page content fetched with maxAge: 0 and inspected; current destination-bureau page used only for supplementary address details where noted.",
+      "evidence": "Official Nov 7 2026 10–1 and venue/address, free admission. Up to 100 participants each hour. Specific listed projects lower on page are previous years and are not claimed for 2026.",
+      "excerpt": "November 7th, 2026, 10am-1pm"
+    },
+    {
+      "seriesId": "harvest-wentz",
+      "eventIds": [
+        "phl-harvest-wentz-2026-11-07"
+      ],
+      "url": "https://www.montgomerycountypa.gov/departments/parks-trails-historic-sites/historic-sites/peter-wentz-farmstead/events-wentz",
+      "supportingUrls": [
+        "https://www.montgomerycountypa.gov/departments/parks-trails-historic-sites/historic-sites/peter-wentz-farmstead/events-wentz",
+        "https://www.montgomerycountypa.gov/departments/parks-trails-historic-sites/historic-sites/peter-wentz-farmstead"
+      ],
+      "verifiedAt": "2026-11-04T14:46:24.962Z",
+      "method": "Live official-page content fetched with maxAge: 0 and inspected; current destination-bureau page used only for supplementary address details where noted.",
+      "evidence": "Official 2026 county calendar section lists Harvest Festival Saturday Nov 7 10–4, all ages, free with suggested $2. Main farmstead page verifies 2030 Shearer Road.",
+      "excerpt": "Saturday, November 7 - 10 a.m. to 4 p.m."
+    },
+    {
+      "seriesId": "andalusia",
+      "eventIds": [
+        "phl-andalusia-2026-11-07"
+      ],
+      "url": "https://andalusiapa.org/events/open-saturdays/",
+      "supportingUrls": [
+        "https://andalusiapa.org/events/",
+        "https://andalusiapa.org/events/open-saturdays/",
+        "https://andalusiapa.org/visit/",
+        "https://www.visitphilly.com/uwishunu/things-to-do-in-philadelphia-this-week-weekend/"
+      ],
+      "verifiedAt": "2026-11-04T14:46:24.962Z",
+      "method": "Live official-page content fetched with maxAge: 0 and inspected; current destination-bureau page used only for supplementary address details where noted.",
+      "evidence": "Official final Open Saturday Nov 7 2026, 10–5. Tickets required. House tours half-hourly 10:30–3; optional walks 11/1 and groundskeeping 3. Address supported by current tourism listing; price not asserted.",
+      "excerpt": "Our final Open Saturday of the year is Saturday, November 7."
+    },
+    {
+      "seriesId": "olivia",
+      "eventIds": [
+        "phl-olivia-2026-11-07",
+        "phl-olivia-2026-11-08"
+      ],
+      "url": "https://www.xfinitymobilearena.com/events/detail/olivia-rodrigo-2026",
+      "supportingUrls": [
+        "https://www.xfinitymobilearena.com/events/detail/olivia-rodrigo-2026",
+        "https://www.visitphilly.com/uwishunu/things-to-do-in-philadelphia-this-week-weekend/"
+      ],
+      "verifiedAt": "2026-11-04T14:46:24.962Z",
+      "method": "Live official-page content fetched with maxAge: 0 and inspected; current destination-bureau page used only for supplementary address details where noted.",
+      "evidence": "Official venue dates Nov 7–8 2026 with separate Saturday/Sunday 7 PM ticket entries and doors 6 PM. Ticket price is not stated. Street address independently corroborated on current Visit Philadelphia weekly guide.",
+      "excerpt": "Nov 7 - 8, 2026"
+    },
+    {
+      "seriesId": "eagles",
+      "eventIds": [
+        "phl-eagles-2026-11-08"
+      ],
+      "url": "https://www.philadelphiaeagles.com/schedule/",
+      "supportingUrls": [
+        "https://www.philadelphiaeagles.com/schedule/",
+        "https://www.visitphilly.com/uwishunu/things-to-do-in-philadelphia-this-week-weekend/"
+      ],
+      "verifiedAt": "2026-11-04T14:46:24.962Z",
+      "method": "Live official-page content fetched with maxAge: 0 and inspected; current destination-bureau page used only for supplementary address details where noted.",
+      "evidence": "Official 2026 team schedule Week 9 Sun 11/08 1 PM EST, versus Giants, Lincoln Financial Field. No ticket price asserted.",
+      "excerpt": "WEEK 9 · Sun 11/08 · 1:00 PM EST"
+    },
+    {
+      "seriesId": "union",
+      "eventIds": [
+        "phl-union-2026-11-07"
+      ],
+      "url": "https://www.philadelphiaunion.com/news/recap-union-edged-by-fc-cincinnati-on-the-road",
+      "supportingUrls": [
+        "https://www.philadelphiaunion.com/news/recap-union-edged-by-fc-cincinnati-on-the-road",
+        "https://www.visitphilly.com/uwishunu/things-to-do-in-philadelphia-this-week-weekend/"
+      ],
+      "verifiedAt": "2026-11-04T14:46:24.962Z",
+      "method": "Live official-page content fetched with maxAge: 0 and inspected; current destination-bureau page used only for supplementary address details where noted.",
+      "evidence": "Official Oct 31 recap explicitly announces Nov 7 2026 final home match vs Toronto, Subaru Park, 4 PM ET and U Thank U Night. Ticket price not claimed; current Visit Philadelphia confirms address.",
+      "excerpt": "Kickoff is set for 4 p.m. ET"
+    },
+    {
+      "seriesId": "ofrenda",
+      "eventIds": [
+        "phl-ofrenda-2026-11-06",
+        "phl-ofrenda-2026-11-07",
+        "phl-ofrenda-2026-11-08"
+      ],
+      "url": "https://phillymagicgardens.org/event/el-dia-de-los-muertos-ofrenda-copy/",
+      "supportingUrls": [
+        "https://phillymagicgardens.org/event/el-dia-de-los-muertos-ofrenda-copy/",
+        "https://www.phillymagicgardens.org/hours-and-admission/",
+        "https://www.visitphilly.com/uwishunu/things-to-do-in-philadelphia-this-week-weekend/"
+      ],
+      "verifiedAt": "2026-11-04T14:46:24.962Z",
+      "method": "Live official-page content fetched with maxAge: 0 and inspected; current destination-bureau page used only for supplementary address details where noted.",
+      "evidence": "Current official event header Oct 28 through Sun Nov 8 2026; included with admission. Official hours Wed–Mon 11–6; $15 adult; generic calendar export has a single start day but displayed through-date is explicit.",
+      "excerpt": "Event Date: Wednesday, October 28, 2026 -through Sunday, November 8, 2026"
+    },
+    {
+      "seriesId": "chanticleer",
+      "eventIds": [
+        "phl-chanticleer-2026-11-06",
+        "phl-chanticleer-2026-11-07",
+        "phl-chanticleer-2026-11-08"
+      ],
+      "url": "https://chanticleergarden.org/",
+      "supportingUrls": [
+        "https://chanticleergarden.org/",
+        "https://chanticleergarden.org/plan-your-visit/",
+        "https://www.visitphilly.com/uwishunu/things-to-do-in-philadelphia-this-week-weekend/"
+      ],
+      "verifiedAt": "2026-11-04T14:46:24.962Z",
+      "method": "Live official-page content fetched with maxAge: 0 and inspected; current destination-bureau page used only for supplementary address details where noted.",
+      "evidence": "Official closing date Nov 8 2026, season April 1–Nov 8, Wed–Sun 10–5, first Saturday 8 AM. Nov 7 is first Saturday. $15 ages 13+; under 13 free. Seasonal parking page Oct 1–Nov 8 weekend reservations required until 1 PM; no contradictory blanket homepage rule repeated.",
+      "excerpt": "2026 Closing Day: November 8th"
+    },
+    {
+      "seriesId": "science-friday",
+      "eventIds": [
+        "phl-science-friday-2026-11-06"
+      ],
+      "url": "https://www.sciencehistory.org/visit/events/first-friday-more-than-meets-the-eye/",
+      "supportingUrls": [
+        "https://www.sciencehistory.org/visit/events/first-friday-more-than-meets-the-eye/"
+      ],
+      "verifiedAt": "2026-11-04T14:46:24.962Z",
+      "method": "Live official-page content fetched with maxAge: 0 and inspected; current destination-bureau page used only for supplementary address details where noted.",
+      "evidence": "Official event Fri Nov 6 2026 5–7 PM EST, 315 Chestnut, always free. Library tour 5:15 with limited space.",
+      "excerpt": "Friday, November 6, 2026 | 5pm-7pm EST"
+    },
+    {
+      "seriesId": "weitzman",
+      "eventIds": [
+        "phl-weitzman-2026-11-08"
+      ],
+      "url": "https://theweitzman.org/second-sunday/",
+      "supportingUrls": [
+        "https://theweitzman.org/second-sunday/",
+        "https://theweitzman.org/visit/"
+      ],
+      "verifiedAt": "2026-11-04T14:46:24.962Z",
+      "method": "Live official-page content fetched with maxAge: 0 and inspected; current destination-bureau page used only for supplementary address details where noted.",
+      "evidence": "Official inaugural day Nov 8 2026. Museum closes 5, sensory-friendly 9–11, activity 10–noon. Community page says free access to all exhibits; advance tickets recommended. Address on official visit page.",
+      "excerpt": "November 8, 2026"
+    },
+    {
+      "seriesId": "redhead",
+      "eventIds": [
+        "phl-redhead-2026-11-08"
+      ],
+      "url": "https://hellericksfarm.com/redhead-celebration-day/",
+      "supportingUrls": [
+        "https://hellericksfarm.com/redhead-celebration-day/",
+        "https://hellericksfarm.com/contact-us/",
+        "https://www.visitphilly.com/uwishunu/things-to-do-in-philadelphia-this-week-weekend/"
+      ],
+      "verifiedAt": "2026-11-04T14:46:24.962Z",
+      "method": "Live official-page content fetched with maxAge: 0 and inspected; current destination-bureau page used only for supplementary address details where noted.",
+      "evidence": "Official heading Nov 8 2026. November hours 10–5:30, last admission/hayride 4 PM. Price section 19.99, under 36 inches free; reservations required. Current tourism page gives 5500 Easton Road.",
+      "excerpt": "Redhead Celebration Day is November 8th, 2026"
+    }
+  ],
+  "excludedCandidates": [
+    {
+      "title": "The Addams Family",
+      "reason": "Live page now production history; no Nov 6–8 performances verified."
+    },
+    {
+      "title": "Barnes Noguchi to Asawa",
+      "reason": "Official exhibition fetch returned HTTP 503 twice; omitted rather than relying on old edition."
+    },
+    {
+      "title": "Spiral Q Peoplehood",
+      "reason": "Official page combines November 7 Saturday with a 2025 year; excluded unresolved year inconsistency."
+    },
+    {
+      "title": "Franklin Mills Flea Market",
+      "reason": "Official specific current schedule ends Nov 1, 2026; not expanded to Nov 8."
+    }
+  ],
+  "validation": {
+    "commands": [
+      "node scripts/validate-weekend-data.mjs --city philadelphia",
+      "npm run test:manual -- philadelphia"
+    ],
+    "results": "PASS: 50 event-day cards, 50 unique IDs, exactly 10 featured; 63 tests passed and 37 structural product checks across four cities.",
+    "validatedAt": "2026-11-04T14:47:42.907Z"
+  },
+  "editorialChecks": {
+    "featuredDistinctVenues": 10,
+    "featuredByDay": {
+      "Friday": 3,
+      "Saturday": 4,
+      "Sunday": 3
+    },
+    "roadTrips": 0,
+    "maximumEstimatedDriveMinutes": 65,
+    "unknownFields": "Check source retained for unpublished ticket prices and Pumpkinland activity-specific hours.",
+    "repeatMethod": "At most one card per program per day, with multiple same-day performance times combined. No unsupported dates inferred from theater run dates."
+  }
+}

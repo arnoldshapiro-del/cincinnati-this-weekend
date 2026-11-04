@@ -1,0 +1,47 @@
+{
+  "editionId": "cincinnati-2026-11-06-weekly-b6ff9c98",
+  "updatedAt": "2026-11-04T14:43:19.362Z",
+  "eventDayCards": 51,
+  "distinctPrograms": 33,
+  "featuredCount": 10,
+  "featuredVenues": 10,
+  "dayCounts": {
+    "Friday": 17,
+    "Saturday": 23,
+    "Sunday": 11
+  },
+  "categoryCounts": {
+    "Film": 1,
+    "Theatre": 5,
+    "Music": 8,
+    "Sports": 4,
+    "Arts": 18,
+    "Family": 7,
+    "Food & Drink": 1,
+    "Markets": 4,
+    "Outdoors": 3
+  },
+  "featuredCategories": {
+    "Film": 1,
+    "Theatre": 1,
+    "Sports": 1,
+    "Markets": 2,
+    "Family": 1,
+    "Music": 1,
+    "Outdoors": 2,
+    "Arts": 1
+  },
+  "unknownPriceCards": 14,
+  "roadTrips": 0,
+  "maximumDriveMinutes": 40,
+  "checks": [
+    "node scripts/validate-weekend-data.mjs --city cincinnati:PASS",
+    "npm run test:manual -- cincinnati:PASS63tests;37structural product checks"
+  ],
+  "caveats": [
+    "Prices not published by official pages use Check source; no live inventory promise.",
+    "Ongoing exhibitions expanded only for verified opening days; no performance inferred from date range.",
+    "No canceled or previous-week Halloween events carried forward.",
+    "BCM museum website502:primary FotoFocus organizing partner supplies dates,hours,price,address."
+  ]
+}

@@ -1,0 +1,1112 @@
+{
+  "editionId": "chicago-2026-11-06-weekly-b6ff9c98",
+  "verifiedAt": "2026-11-04T14:46:06Z",
+  "eventDayCards": 50,
+  "distinctPrograms": 35,
+  "featured": 10,
+  "coverageNotes": [
+    "All dated event cards were freshly researched from primary organizer/venue pages; no old cards were relabeled.",
+    "Travel minutes are editorial estimates from central Chicago, not live traffic measurements. All are within 90 minutes; no road trips included.",
+    "Same-day repeat performances are consolidated. Ongoing exhibitions expand only when explicit season and open-day evidence support each date.",
+    "Check source is used for unpublished prices and daily tournament times. A buy-tickets link is not a guarantee of remaining inventory.",
+    "Excluded sold-out Metro Die Spitz and Alyssa Grace shows. Excluded SkyRise Chicago because its published fundraising deadline has passed.",
+    "Excluded Oracle of Evergreen and Morning Glories rather than rely on inconsistent or unavailable individual event detail pages.",
+    "STEM event and venue pages agree on opening at 10 AM but conflict on closing time; card gives the supported opening and asks users to check timed-entry slots.",
+    "Aquí closing calendar summary ends 4 PM but detailed program continues through 4:30 PM; card follows detailed schedule."
+  ],
+  "sources": [
+    {
+      "sourceUrl": "https://www.chicagoparkdistrict.com/events/dia-de-los-muertos-marquette-0",
+      "sourceName": "Chicago Park District",
+      "verifiedAt": "2026-11-04T14:46:06Z",
+      "method": "Fetched and inspected official primary page with web open/click/find on 2026-11-04.",
+      "excerpt": "Nov 6, 2026 Friday, 5:00 PM - 7:30 PM",
+      "dateEvidence": "Official dated event page gives address, all-ages access and $0 fee.",
+      "supportingSources": [],
+      "eventIds": [
+        "dia-muertos-marquette-2026-11-06"
+      ],
+      "dates": [
+        "2026-11-06"
+      ],
+      "facts": [
+        {
+          "title": "Día de los Muertos at Marquette",
+          "date": "2026-11-06",
+          "time": "5:00 PM–7:30 PM",
+          "venue": "Marquette Park Cultural Center",
+          "address": "6743 S Kedzie Ave, Chicago, IL",
+          "priceLabel": "Free"
+        }
+      ]
+    },
+    {
+      "sourceUrl": "https://www.chicagoparkdistrict.com/events/hoop-dancing-starr-chief-eagle-douglass",
+      "sourceName": "Chicago Park District",
+      "verifiedAt": "2026-11-04T14:46:06Z",
+      "method": "Fetched and inspected official primary page with web open/click/find on 2026-11-04.",
+      "excerpt": "Nov 6, 2026 Friday, 6:00 PM - 7:00 PM",
+      "dateEvidence": "Official dated event page verifies park, hours, all ages and $0 fee.",
+      "supportingSources": [],
+      "eventIds": [
+        "hoop-dance-douglass-2026-11-06"
+      ],
+      "dates": [
+        "2026-11-06"
+      ],
+      "facts": [
+        {
+          "title": "Hoop Dancing with Starr Chief Eagle",
+          "date": "2026-11-06",
+          "time": "6:00 PM–7:00 PM",
+          "venue": "Douglass Park",
+          "address": "1401 S Sacramento Dr, Chicago, IL",
+          "priceLabel": "Free"
+        }
+      ]
+    },
+    {
+      "sourceUrl": "https://www.chicagoparkdistrict.com/events/dancing-spot-presents-artists-statement-berger-0",
+      "sourceName": "Chicago Park District",
+      "verifiedAt": "2026-11-04T14:46:06Z",
+      "method": "Fetched and inspected official primary page with web open/click/find on 2026-11-04.",
+      "excerpt": "Nov 6, 2026 Friday, 7:30 PM - 9:00 PM",
+      "dateEvidence": "Event page confirms Friday performance and price tiers.",
+      "supportingSources": [],
+      "eventIds": [
+        "artists-statement-2026-11-06"
+      ],
+      "dates": [
+        "2026-11-06"
+      ],
+      "facts": [
+        {
+          "title": "Artist(s) Statement! by Dancing on the Spot",
+          "date": "2026-11-06",
+          "time": "7:30 PM–9:00 PM",
+          "venue": "Berger Park Coach House Theater",
+          "address": "6205 N Sheridan Rd, Chicago, IL",
+          "priceLabel": "$15 general; $10 students and seniors"
+        }
+      ]
+    },
+    {
+      "sourceUrl": "https://www.chicagoparkdistrict.com/events/dancing-spot-presents-artists-statement-berger-6",
+      "sourceName": "Chicago Park District",
+      "verifiedAt": "2026-11-04T14:46:06Z",
+      "method": "Fetched and inspected official primary page with web open/click/find on 2026-11-04.",
+      "excerpt": "Nov 7, 2026 Saturday, 2:30 PM - 4:00 PM",
+      "dateEvidence": "The two Saturday performances are consolidated into one event-day card.",
+      "supportingSources": [
+        {
+          "url": "https://www.chicagoparkdistrict.com/events/dancing-spot-presents-artists-statement-berger-3",
+          "facts": "Second official Nov 7 performance is 7:30–9:00 PM, same venue and price."
+        }
+      ],
+      "eventIds": [
+        "artists-statement-2026-11-07"
+      ],
+      "dates": [
+        "2026-11-07"
+      ],
+      "facts": [
+        {
+          "title": "Artist(s) Statement! by Dancing on the Spot",
+          "date": "2026-11-07",
+          "time": "2:30 PM–4:00 PM or 7:30–9:00 PM",
+          "venue": "Berger Park Coach House Theater",
+          "address": "6205 N Sheridan Rd, Chicago, IL",
+          "priceLabel": "$15 general; $10 students and seniors"
+        }
+      ]
+    },
+    {
+      "sourceUrl": "https://www.chicagoparkdistrict.com/events/wheelchair-basketball-bonanza-broadway-armory-0",
+      "sourceName": "Chicago Park District",
+      "verifiedAt": "2026-11-04T14:46:06Z",
+      "method": "Fetched and inspected official primary page with web open/click/find on 2026-11-04.",
+      "excerpt": "From Nov 7, 2026 - Nov 8, 2026",
+      "dateEvidence": "Organizer explicitly gives two-day tournament. Overall span is Saturday 8 AM to Sunday 8 PM; separate daily game times are not published, so not inferred.",
+      "supportingSources": [],
+      "eventIds": [
+        "wheelchair-basketball-2026-11-07",
+        "wheelchair-basketball-2026-11-08"
+      ],
+      "dates": [
+        "2026-11-07",
+        "2026-11-08"
+      ],
+      "facts": [
+        {
+          "title": "Wheelchair Basketball Bonanza",
+          "date": "2026-11-07",
+          "time": "Check source for daily game times",
+          "venue": "Broadway Armory Park",
+          "address": "5917 N Broadway, Chicago, IL",
+          "priceLabel": "Free event; team registration is separate"
+        },
+        {
+          "title": "Wheelchair Basketball Bonanza",
+          "date": "2026-11-08",
+          "time": "Check source for daily game times",
+          "venue": "Broadway Armory Park",
+          "address": "5917 N Broadway, Chicago, IL",
+          "priceLabel": "Free event; team registration is separate"
+        }
+      ]
+    },
+    {
+      "sourceUrl": "https://www.chicagoparkdistrict.com/events/go-run-chicago-humboldt-3",
+      "sourceName": "Chicago Park District",
+      "verifiedAt": "2026-11-04T14:46:06Z",
+      "method": "Fetched and inspected official primary page with web open/click/find on 2026-11-04.",
+      "excerpt": "Nov 7, 2026 Saturday, 9:00 AM - 11:00 AM",
+      "dateEvidence": "Primary page provides date, time, address and $0 fee; registration required through Go Run.",
+      "supportingSources": [],
+      "eventIds": [
+        "go-run-humboldt-2026-11-07"
+      ],
+      "dates": [
+        "2026-11-07"
+      ],
+      "facts": [
+        {
+          "title": "Go Run Chicago at Humboldt",
+          "date": "2026-11-07",
+          "time": "9:00 AM–11:00 AM",
+          "venue": "Humboldt Park",
+          "address": "1440 N Humboldt Blvd, Chicago, IL",
+          "priceLabel": "Free; advance registration"
+        }
+      ]
+    },
+    {
+      "sourceUrl": "https://www.chicagoparkdistrict.com/events/holiday-hot-chocolate-1-mile-run-west-lawn-0",
+      "sourceName": "Chicago Park District",
+      "verifiedAt": "2026-11-04T14:46:06Z",
+      "method": "Fetched and inspected official primary page with web open/click/find on 2026-11-04.",
+      "excerpt": "Nov 7, 2026 Saturday, 10:00 AM - 12:00 PM",
+      "dateEvidence": "Primary page explicitly gives date, time, address, no fee and age six-plus.",
+      "supportingSources": [],
+      "eventIds": [
+        "hot-chocolate-west-lawn-2026-11-07"
+      ],
+      "dates": [
+        "2026-11-07"
+      ],
+      "facts": [
+        {
+          "title": "Holiday Hot Chocolate 1 Mile Run",
+          "date": "2026-11-07",
+          "time": "10:00 AM–12:00 PM",
+          "venue": "West Lawn Park",
+          "address": "4233 W 65th St, Chicago, IL",
+          "priceLabel": "Free; advance online registration required"
+        }
+      ]
+    },
+    {
+      "sourceUrl": "https://www.chicagoparkdistrict.com/events/7th-district-police-senior-sneaker-ball-ogden",
+      "sourceName": "Chicago Park District",
+      "verifiedAt": "2026-11-04T14:46:06Z",
+      "method": "Fetched and inspected official primary page with web open/click/find on 2026-11-04.",
+      "excerpt": "Nov 7, 2026 Saturday, 11:00 AM - 3:30 PM",
+      "dateEvidence": "Official event page identifies senior audience and $0 fee.",
+      "supportingSources": [],
+      "eventIds": [
+        "senior-sneaker-ball-2026-11-07"
+      ],
+      "dates": [
+        "2026-11-07"
+      ],
+      "facts": [
+        {
+          "title": "Senior Sneaker Ball at Ogden",
+          "date": "2026-11-07",
+          "time": "11:00 AM–3:30 PM",
+          "venue": "Ogden Park",
+          "address": "6500 S Racine Ave, Chicago, IL",
+          "priceLabel": "Free"
+        }
+      ]
+    },
+    {
+      "sourceUrl": "https://www.chicagoparkdistrict.com/events/hoop-dancing-starr-chief-eagle-indian-boundary-0",
+      "sourceName": "Chicago Park District",
+      "verifiedAt": "2026-11-04T14:46:06Z",
+      "method": "Fetched and inspected official primary page with web open/click/find on 2026-11-04.",
+      "excerpt": "Nov 7, 2026 Saturday, 12:30 PM - 1:30 PM",
+      "dateEvidence": "Official event page verifies this distinct venue/date, address and $0 fee.",
+      "supportingSources": [],
+      "eventIds": [
+        "hoop-dance-indian-boundary-2026-11-07"
+      ],
+      "dates": [
+        "2026-11-07"
+      ],
+      "facts": [
+        {
+          "title": "Hoop Dancing with Starr Chief Eagle",
+          "date": "2026-11-07",
+          "time": "12:30 PM–1:30 PM",
+          "venue": "Indian Boundary Park",
+          "address": "2500 W Lunt Ave, Chicago, IL",
+          "priceLabel": "Free"
+        }
+      ]
+    },
+    {
+      "sourceUrl": "https://www.chicagoparkdistrict.com/events/turkey-shoot-kosciuszko-0",
+      "sourceName": "Chicago Park District",
+      "verifiedAt": "2026-11-04T14:46:06Z",
+      "method": "Fetched and inspected official primary page with web open/click/find on 2026-11-04.",
+      "excerpt": "Nov 7, 2026 Saturday, 12:00 PM - 2:00 PM",
+      "dateEvidence": "Primary page gives $10 event fee, child-ticket requirement and parent participation rule.",
+      "supportingSources": [],
+      "eventIds": [
+        "turkey-shoot-kosciuszko-2026-11-07"
+      ],
+      "dates": [
+        "2026-11-07"
+      ],
+      "facts": [
+        {
+          "title": "Parent-and-Child Turkey Shoot",
+          "date": "2026-11-07",
+          "time": "12:00 PM–2:00 PM",
+          "venue": "Kosciuszko Park",
+          "address": "2732 N Avers Ave, Chicago, IL",
+          "priceLabel": "$10 per child; parent must participate"
+        }
+      ]
+    },
+    {
+      "sourceUrl": "https://garfieldconservatory.org/event/soul-of-the-stone/",
+      "sourceName": "Garfield Park Conservatory",
+      "verifiedAt": "2026-11-04T14:46:06Z",
+      "method": "Fetched and inspected official primary page with web open/click/find on 2026-11-04.",
+      "excerpt": "Soul of the Stone: September 5 – November 30, 2026",
+      "dateEvidence": "Exhibition body runs through Nov 30; fresh calendar explicitly lists all three target dates. The recurrence header shows a stale selected instance and is not used to derive dates.",
+      "supportingSources": [
+        {
+          "url": "https://garfieldconservatory.org/calendar/",
+          "facts": "Calendar explicitly lists Soul of the Stone on Friday Nov 6, Saturday Nov 7 and Sunday Nov 8, 10 AM–5 PM each day."
+        },
+        {
+          "url": "https://garfieldconservatory.org/visit/",
+          "facts": "Address 300 N Central Park Ave. Thursday–Sunday 10 AM–5 PM. Chicago residents free; nonresident adults $10, seniors/students/ages 7–17 $5. Reservations available."
+        }
+      ],
+      "eventIds": [
+        "soul-of-the-stone-2026-11-06",
+        "soul-of-the-stone-2026-11-07",
+        "soul-of-the-stone-2026-11-08"
+      ],
+      "dates": [
+        "2026-11-06",
+        "2026-11-07",
+        "2026-11-08"
+      ],
+      "facts": [
+        {
+          "title": "Soul of the Stone",
+          "date": "2026-11-06",
+          "time": "10:00 AM–5:00 PM; last entry 4:15 PM",
+          "venue": "Garfield Park Conservatory",
+          "address": "300 N Central Park Ave, Chicago, IL",
+          "priceLabel": "Free Chicago residents; $10 nonresident adults; concessions $5"
+        },
+        {
+          "title": "Soul of the Stone",
+          "date": "2026-11-07",
+          "time": "10:00 AM–5:00 PM; last entry 4:15 PM",
+          "venue": "Garfield Park Conservatory",
+          "address": "300 N Central Park Ave, Chicago, IL",
+          "priceLabel": "Free Chicago residents; $10 nonresident adults; concessions $5"
+        },
+        {
+          "title": "Soul of the Stone",
+          "date": "2026-11-08",
+          "time": "10:00 AM–5:00 PM; last entry 4:15 PM",
+          "venue": "Garfield Park Conservatory",
+          "address": "300 N Central Park Ave, Chicago, IL",
+          "priceLabel": "Free Chicago residents; $10 nonresident adults; concessions $5"
+        }
+      ]
+    },
+    {
+      "sourceUrl": "https://garfieldconservatory.org/event/budding-botanist/",
+      "sourceName": "Garfield Park Conservatory",
+      "verifiedAt": "2026-11-04T14:46:06Z",
+      "method": "Fetched and inspected official primary page with web open/click/find on 2026-11-04.",
+      "excerpt": "June 13 - November 7, 2026 | 11am-3pm",
+      "dateEvidence": "Official calendar explicitly lists Nov 7. Although the body mentions weekends, only the confirmed Saturday instance is included.",
+      "supportingSources": [
+        {
+          "url": "https://garfieldconservatory.org/visit/",
+          "facts": "Address 300 N Central Park Ave. Thursday–Sunday 10 AM–5 PM. Chicago residents free; nonresident adults $10, seniors/students/ages 7–17 $5. Reservations available."
+        },
+        {
+          "url": "https://garfieldconservatory.org/calendar/",
+          "facts": "Saturday Nov 7 Budding Botanist, 11 AM–3 PM."
+        }
+      ],
+      "eventIds": [
+        "budding-botanist-2026-11-07"
+      ],
+      "dates": [
+        "2026-11-07"
+      ],
+      "facts": [
+        {
+          "title": "Budding Botanist Family Program",
+          "date": "2026-11-07",
+          "time": "11:00 AM–3:00 PM",
+          "venue": "Garfield Park Conservatory",
+          "address": "300 N Central Park Ave, Chicago, IL",
+          "priceLabel": "Included with admission; free Chicago residents; nonresident adults $10"
+        }
+      ]
+    },
+    {
+      "sourceUrl": "https://garfieldconservatory.org/event/rooted-in-place-black-land-memory-the-natural-world-film-screening-community-conversation/",
+      "sourceName": "Garfield Park Conservatory",
+      "verifiedAt": "2026-11-04T14:46:06Z",
+      "method": "Fetched and inspected official primary page with web open/click/find on 2026-11-04.",
+      "excerpt": "November 8, 2026 | 12-3pm",
+      "dateEvidence": "Event page explicitly confirms Nov 8, noon–3 PM and free registration.",
+      "supportingSources": [
+        {
+          "url": "https://garfieldconservatory.org/visit/",
+          "facts": "Address 300 N Central Park Ave. Thursday–Sunday 10 AM–5 PM. Chicago residents free; nonresident adults $10, seniors/students/ages 7–17 $5. Reservations available."
+        }
+      ],
+      "eventIds": [
+        "rooted-in-place-2026-11-08"
+      ],
+      "dates": [
+        "2026-11-08"
+      ],
+      "facts": [
+        {
+          "title": "Rooted in Place: Black Land, Memory & the Natural World",
+          "date": "2026-11-08",
+          "time": "12:00 PM–3:00 PM",
+          "venue": "Garfield Park Conservatory",
+          "address": "300 N Central Park Ave, Chicago, IL",
+          "priceLabel": "Free with registration"
+        }
+      ]
+    },
+    {
+      "sourceUrl": "https://moichicago.com/current-event/national-stem-day-at-museum-of-illusions/",
+      "sourceName": "Museum of Illusions Chicago",
+      "verifiedAt": "2026-11-04T14:46:06Z",
+      "method": "Fetched and inspected official primary page with web open/click/find on 2026-11-04.",
+      "excerpt": "November 6 - November 8, 2026",
+      "dateEvidence": "Official event page explicitly covers all three dates and gives 10 AM–10 PM. General contact page lists shorter normal hours, so card gives the agreed opening time and leaves closing/ticket slots to the source. No dollar admission price verified.",
+      "supportingSources": [
+        {
+          "url": "https://moichicago.com/contact-us/",
+          "facts": "Confirms address and Wabash-side entrance; normal hours differ from the dated event listing."
+        }
+      ],
+      "eventIds": [
+        "national-stem-day-2026-11-06",
+        "national-stem-day-2026-11-07",
+        "national-stem-day-2026-11-08"
+      ],
+      "dates": [
+        "2026-11-06",
+        "2026-11-07",
+        "2026-11-08"
+      ],
+      "facts": [
+        {
+          "title": "National STEM Day at Museum of Illusions",
+          "date": "2026-11-06",
+          "time": "From 10:00 AM; Check source for timed-entry slots",
+          "venue": "Museum of Illusions Chicago",
+          "address": "25 E Washington St, Chicago, IL",
+          "priceLabel": "Check source; museum admission required"
+        },
+        {
+          "title": "National STEM Day at Museum of Illusions",
+          "date": "2026-11-07",
+          "time": "From 10:00 AM; Check source for timed-entry slots",
+          "venue": "Museum of Illusions Chicago",
+          "address": "25 E Washington St, Chicago, IL",
+          "priceLabel": "Check source; museum admission required"
+        },
+        {
+          "title": "National STEM Day at Museum of Illusions",
+          "date": "2026-11-08",
+          "time": "From 10:00 AM; Check source for timed-entry slots",
+          "venue": "Museum of Illusions Chicago",
+          "address": "25 E Washington St, Chicago, IL",
+          "priceLabel": "Check source; museum admission required"
+        }
+      ]
+    },
+    {
+      "sourceUrl": "https://www.broadwayinchicago.com/shows/jekyll-hyde/",
+      "sourceName": "Broadway In Chicago",
+      "verifiedAt": "2026-11-04T14:46:06Z",
+      "method": "Fetched and inspected official primary page with web open/click/find on 2026-11-04.",
+      "excerpt": "Dates: Sep 8 – Nov 8, 2026",
+      "dateEvidence": "Individual official purchase calendar explicitly lists Nov 6 at 7 PM; Nov 7 at 2 PM and 7:30 PM; Nov 8 at 1 PM. Address and age recommendation also published.",
+      "supportingSources": [],
+      "eventIds": [
+        "jekyll-hyde-2026-11-06",
+        "jekyll-hyde-2026-11-07",
+        "jekyll-hyde-2026-11-08"
+      ],
+      "dates": [
+        "2026-11-06",
+        "2026-11-07",
+        "2026-11-08"
+      ],
+      "facts": [
+        {
+          "title": "Jekyll & Hyde: Closing Weekend",
+          "date": "2026-11-06",
+          "time": "7:00 PM",
+          "venue": "Broadway Playhouse at Water Tower Place",
+          "address": "175 E Chestnut St, Chicago, IL",
+          "priceLabel": "Check source for seat prices"
+        },
+        {
+          "title": "Jekyll & Hyde: Closing Weekend",
+          "date": "2026-11-07",
+          "time": "2:00 PM or 7:30 PM",
+          "venue": "Broadway Playhouse at Water Tower Place",
+          "address": "175 E Chestnut St, Chicago, IL",
+          "priceLabel": "Check source for seat prices"
+        },
+        {
+          "title": "Jekyll & Hyde: Closing Weekend",
+          "date": "2026-11-08",
+          "time": "1:00 PM",
+          "venue": "Broadway Playhouse at Water Tower Place",
+          "address": "175 E Chestnut St, Chicago, IL",
+          "priceLabel": "Check source for seat prices"
+        }
+      ]
+    },
+    {
+      "sourceUrl": "https://www.chicagoshakes.com/productions/2627-winters-tale/",
+      "sourceName": "Chicago Shakespeare Theater",
+      "verifiedAt": "2026-11-04T14:46:06Z",
+      "method": "Fetched and inspected official primary page with web open/click/find on 2026-11-04.",
+      "excerpt": "7:00 PM / Saturday , Nov 7",
+      "dateEvidence": "Official production calendar explicitly identifies Nov 7 at 7 PM and Nov 8 at 2 PM in November 2026. No Friday show is listed or included.",
+      "supportingSources": [
+        {
+          "url": "https://www.chicagoshakes.com/calendar/",
+          "facts": "November 2026 calendar confirms both dates and start times."
+        }
+      ],
+      "eventIds": [
+        "winters-tale-2026-11-07",
+        "winters-tale-2026-11-08"
+      ],
+      "dates": [
+        "2026-11-07",
+        "2026-11-08"
+      ],
+      "facts": [
+        {
+          "title": "The Winter’s Tale",
+          "date": "2026-11-07",
+          "time": "7:00 PM",
+          "venue": "Chicago Shakespeare Theater",
+          "address": "800 E Grand Ave, Chicago, IL",
+          "priceLabel": "Check source for seat prices"
+        },
+        {
+          "title": "The Winter’s Tale",
+          "date": "2026-11-08",
+          "time": "2:00 PM",
+          "venue": "Chicago Shakespeare Theater",
+          "address": "800 E Grand Ave, Chicago, IL",
+          "priceLabel": "Check source for seat prices"
+        }
+      ]
+    },
+    {
+      "sourceUrl": "https://metrochicago.com/event/sleep/metro-chicago/chicago-illinois/",
+      "sourceName": "Metro Chicago",
+      "verifiedAt": "2026-11-04T14:46:06Z",
+      "method": "Fetched and inspected official primary page with web open/click/find on 2026-11-04.",
+      "excerpt": "Friday, November 06",
+      "dateEvidence": "Primary show page confirms 7:30 PM, $45, 18+ and venue change to Metro; current events calendar supplies November 2026 context.",
+      "supportingSources": [
+        {
+          "url": "https://metrochicago.com/events/",
+          "facts": "November 2026 lists Friday Nov 6 Sleep at Metro; buy-tickets listing, not marked sold out."
+        }
+      ],
+      "eventIds": [
+        "sleep-metro-2026-11-06"
+      ],
+      "dates": [
+        "2026-11-06"
+      ],
+      "facts": [
+        {
+          "title": "Sleep with Zombi and The Schizophonics",
+          "date": "2026-11-06",
+          "time": "7:30 PM; doors 6:30 PM",
+          "venue": "Metro",
+          "address": "3730 N Clark St, Chicago, IL",
+          "priceLabel": "$45 advertised; check ticket fees"
+        }
+      ]
+    },
+    {
+      "sourceUrl": "https://www.ochinpakhichicago.org/gaanmela/",
+      "sourceName": "Ochin Pakhi",
+      "verifiedAt": "2026-11-04T14:46:06Z",
+      "method": "Fetched and inspected official primary page with web open/click/find on 2026-11-04.",
+      "excerpt": "Friday–Saturday, November 6–7, 2026",
+      "dateEvidence": "Organizer publishes dated performer schedules, venue/address and free admission. Friday starts Crossing Borders Music at 6 PM; Saturday Qais Worroryar at 2:30 PM. Final listed sets 9:45 PM. Tuvergen cancelled and replaced by Ruan & Hide.",
+      "supportingSources": [],
+      "eventIds": [
+        "gaanmela-2026-11-06",
+        "gaanmela-2026-11-07"
+      ],
+      "dates": [
+        "2026-11-06",
+        "2026-11-07"
+      ],
+      "facts": [
+        {
+          "title": "GaanMela Global Music Festival",
+          "date": "2026-11-06",
+          "time": "From 6:00 PM; final listed set 9:45 PM",
+          "venue": "United Church of Rogers Park",
+          "address": "1545 W Morse Ave, Chicago, IL",
+          "priceLabel": "Free"
+        },
+        {
+          "title": "GaanMela Global Music Festival",
+          "date": "2026-11-07",
+          "time": "From 2:30 PM; final listed set 9:45 PM",
+          "venue": "United Church of Rogers Park",
+          "address": "1545 W Morse Ave, Chicago, IL",
+          "priceLabel": "Free"
+        }
+      ]
+    },
+    {
+      "sourceUrl": "https://www.msg.com/events-tickets/bert-kreischer-the-chicago-theatre-november-2026/0700647FBB075CC2",
+      "sourceName": "The Chicago Theatre / MSG",
+      "verifiedAt": "2026-11-04T14:46:06Z",
+      "method": "Fetched and inspected official primary page with web open/click/find on 2026-11-04.",
+      "excerpt": "Fri, Nov 6, 2026 - 7:00 PM CT",
+      "dateEvidence": "Official venue page lists both Nov 6 and Nov 7 at 7 PM. Ticket dollar prices unavailable in the fetched page.",
+      "supportingSources": [],
+      "eventIds": [
+        "bert-kreischer-2026-11-06",
+        "bert-kreischer-2026-11-07"
+      ],
+      "dates": [
+        "2026-11-06",
+        "2026-11-07"
+      ],
+      "facts": [
+        {
+          "title": "Bert Kreischer: Permission to Party",
+          "date": "2026-11-06",
+          "time": "7:00 PM",
+          "venue": "The Chicago Theatre",
+          "address": "175 N State St, Chicago, IL",
+          "priceLabel": "Check source for ticket prices"
+        },
+        {
+          "title": "Bert Kreischer: Permission to Party",
+          "date": "2026-11-07",
+          "time": "7:00 PM",
+          "venue": "The Chicago Theatre",
+          "address": "175 N State St, Chicago, IL",
+          "priceLabel": "Check source for ticket prices"
+        }
+      ]
+    },
+    {
+      "sourceUrl": "https://www.msg.com/events-tickets/ron-white-the-chicago-theatre-november-2026/070064C4DA187D04",
+      "sourceName": "The Chicago Theatre / MSG",
+      "verifiedAt": "2026-11-04T14:46:06Z",
+      "method": "Fetched and inspected official primary page with web open/click/find on 2026-11-04.",
+      "excerpt": "Sun, Nov 8, 2026 - 7:00 PM CT",
+      "dateEvidence": "Official venue page confirms dated start, doors and street address; no ticket amount published.",
+      "supportingSources": [],
+      "eventIds": [
+        "ron-white-2026-11-08"
+      ],
+      "dates": [
+        "2026-11-08"
+      ],
+      "facts": [
+        {
+          "title": "Ron White at the 312 Comedy Festival",
+          "date": "2026-11-08",
+          "time": "7:00 PM; doors 6:00 PM",
+          "venue": "The Chicago Theatre",
+          "address": "175 N State St, Chicago, IL",
+          "priceLabel": "Check source for ticket prices"
+        }
+      ]
+    },
+    {
+      "sourceUrl": "https://www.newryanfield.com/events/iowa",
+      "sourceName": "New Ryan Field",
+      "verifiedAt": "2026-11-04T14:46:06Z",
+      "method": "Fetched and inspected official primary page with web open/click/find on 2026-11-04.",
+      "excerpt": "Saturday, November 7, 2026",
+      "dateEvidence": "Individual event page gives food festival opening 4:30 PM and kickoff 6:30 PM. No admission amount verified. Festival is part of ticketed game-day experience, not labeled free.",
+      "supportingSources": [
+        {
+          "url": "https://www.newryanfield.com/getting-here",
+          "facts": "Address 1501 Central Street. No event-day neighborhood street parking; CTA/Metra and shuttles described."
+        }
+      ],
+      "eventIds": [
+        "northwestern-iowa-2026-11-07"
+      ],
+      "dates": [
+        "2026-11-07"
+      ],
+      "facts": [
+        {
+          "title": "Northwestern vs Iowa & The Great Chicago Food Festival",
+          "date": "2026-11-07",
+          "time": "Food festival 4:30 PM; kickoff 6:30 PM",
+          "venue": "New Ryan Field",
+          "address": "1501 Central St, Evanston, IL",
+          "priceLabel": "Check source; game ticket and food purchases extra"
+        }
+      ]
+    },
+    {
+      "sourceUrl": "https://www.chicagofilmarchives.org/calendar/event/chicago-home-movie-day-2026/",
+      "sourceName": "Chicago Film Archives",
+      "verifiedAt": "2026-11-04T14:46:06Z",
+      "method": "Fetched and inspected official primary page with web open/click/find on 2026-11-04.",
+      "excerpt": "November 7, 2026 from 11am-3pm",
+      "dateEvidence": "Organizer explicitly gives date, time, Chicago History Museum address and free admission. No film required to attend.",
+      "supportingSources": [],
+      "eventIds": [
+        "home-movie-day-2026-11-07"
+      ],
+      "dates": [
+        "2026-11-07"
+      ],
+      "facts": [
+        {
+          "title": "Chicago Home Movie Day",
+          "date": "2026-11-07",
+          "time": "11:00 AM–3:00 PM",
+          "venue": "Chicago History Museum",
+          "address": "1601 N Clark St, Chicago, IL",
+          "priceLabel": "Free"
+        }
+      ]
+    },
+    {
+      "sourceUrl": "https://web.saic.edu/blackharvestfest/black-harvest-film-festival-opening-night/",
+      "sourceName": "SAIC / Gene Siskel Film Center",
+      "verifiedAt": "2026-11-04T14:46:06Z",
+      "method": "Fetched and inspected official primary page with web open/click/find on 2026-11-04.",
+      "excerpt": "FRIDAY, NOVEMBER 6, 7:00 P.M.",
+      "dateEvidence": "Official page gives start, admission tiers, venue address and low-ticket alert; festival homepage confirms year.",
+      "supportingSources": [
+        {
+          "url": "https://web.saic.edu/blackharvestfest/",
+          "facts": "32nd annual Black Harvest festival at Gene Siskel Film Center is November 6–15, 2026."
+        }
+      ],
+      "eventIds": [
+        "black-harvest-opening-2026-11-06"
+      ],
+      "dates": [
+        "2026-11-06"
+      ],
+      "facts": [
+        {
+          "title": "Black Harvest Film Festival: Opening Night",
+          "date": "2026-11-06",
+          "time": "7:00 PM",
+          "venue": "Gene Siskel Film Center",
+          "address": "164 N State St, Chicago, IL",
+          "priceLabel": "$40 general; $35 students; $25 members/SAIC; low-ticket alert"
+        }
+      ]
+    },
+    {
+      "sourceUrl": "https://web.saic.edu/blackharvestfest/community-film-workshop-of-chicago-showcase/",
+      "sourceName": "SAIC / Gene Siskel Film Center",
+      "verifiedAt": "2026-11-04T14:46:06Z",
+      "method": "Fetched and inspected official primary page with web open/click/find on 2026-11-04.",
+      "excerpt": "SATURDAY, NOVEMBER 7",
+      "dateEvidence": "Individual official program page gives dated showtime and street address. Festival homepage supplies November 2026 context. Price absent from fetched primary page.",
+      "supportingSources": [
+        {
+          "url": "https://web.saic.edu/blackharvestfest/",
+          "facts": "32nd annual Black Harvest festival at Gene Siskel Film Center is November 6–15, 2026."
+        }
+      ],
+      "eventIds": [
+        "black-harvest-community-film-workshop-2026-11-07"
+      ],
+      "dates": [
+        "2026-11-07"
+      ],
+      "facts": [
+        {
+          "title": "Black Harvest: Community Film Workshop of Chicago Showcase",
+          "date": "2026-11-07",
+          "time": "11:00 AM",
+          "venue": "Gene Siskel Film Center",
+          "address": "164 N State St, Chicago, IL",
+          "priceLabel": "Check source for ticket prices"
+        }
+      ]
+    },
+    {
+      "sourceUrl": "https://web.saic.edu/blackharvestfest/if-i-go-will-they-miss-me-visionary-award-presentation/",
+      "sourceName": "SAIC / Gene Siskel Film Center",
+      "verifiedAt": "2026-11-04T14:46:06Z",
+      "method": "Fetched and inspected official primary page with web open/click/find on 2026-11-04.",
+      "excerpt": "SATURDAY, NOVEMBER 7",
+      "dateEvidence": "Individual official program page gives dated showtime and street address. Festival homepage supplies November 2026 context. Price absent from fetched primary page.",
+      "supportingSources": [
+        {
+          "url": "https://web.saic.edu/blackharvestfest/",
+          "facts": "32nd annual Black Harvest festival at Gene Siskel Film Center is November 6–15, 2026."
+        }
+      ],
+      "eventIds": [
+        "black-harvest-if-i-go-2026-11-07"
+      ],
+      "dates": [
+        "2026-11-07"
+      ],
+      "facts": [
+        {
+          "title": "Black Harvest: If I Go Will They Miss Me: Visionary Award Presentation",
+          "date": "2026-11-07",
+          "time": "8:00 PM",
+          "venue": "Gene Siskel Film Center",
+          "address": "164 N State St, Chicago, IL",
+          "priceLabel": "Check source for ticket prices"
+        }
+      ]
+    },
+    {
+      "sourceUrl": "https://web.saic.edu/blackharvestfest/dreams-in-nightmares/",
+      "sourceName": "SAIC / Gene Siskel Film Center",
+      "verifiedAt": "2026-11-04T14:46:06Z",
+      "method": "Fetched and inspected official primary page with web open/click/find on 2026-11-04.",
+      "excerpt": "SUNDAY, NOVEMBER 8",
+      "dateEvidence": "Individual official program page gives dated showtime and street address. Festival homepage supplies November 2026 context. Price absent from fetched primary page.",
+      "supportingSources": [
+        {
+          "url": "https://web.saic.edu/blackharvestfest/",
+          "facts": "32nd annual Black Harvest festival at Gene Siskel Film Center is November 6–15, 2026."
+        }
+      ],
+      "eventIds": [
+        "black-harvest-dreams-nightmares-2026-11-08"
+      ],
+      "dates": [
+        "2026-11-08"
+      ],
+      "facts": [
+        {
+          "title": "Black Harvest: Dreams in Nightmares",
+          "date": "2026-11-08",
+          "time": "5:30 PM",
+          "venue": "Gene Siskel Film Center",
+          "address": "164 N State St, Chicago, IL",
+          "priceLabel": "Check source for ticket prices"
+        }
+      ]
+    },
+    {
+      "sourceUrl": "https://web.saic.edu/blackharvestfest/abanitu-a-family-documentary/",
+      "sourceName": "SAIC / Gene Siskel Film Center",
+      "verifiedAt": "2026-11-04T14:46:06Z",
+      "method": "Fetched and inspected official primary page with web open/click/find on 2026-11-04.",
+      "excerpt": "SUNDAY, NOVEMBER 8",
+      "dateEvidence": "Individual official program page gives dated showtime and street address. Festival homepage supplies November 2026 context. Price absent from fetched primary page.",
+      "supportingSources": [
+        {
+          "url": "https://web.saic.edu/blackharvestfest/",
+          "facts": "32nd annual Black Harvest festival at Gene Siskel Film Center is November 6–15, 2026."
+        }
+      ],
+      "eventIds": [
+        "black-harvest-abanitu-2026-11-08"
+      ],
+      "dates": [
+        "2026-11-08"
+      ],
+      "facts": [
+        {
+          "title": "Black Harvest: Abanitu: A Family Documentary",
+          "date": "2026-11-08",
+          "time": "3:00 PM",
+          "venue": "Gene Siskel Film Center",
+          "address": "164 N State St, Chicago, IL",
+          "priceLabel": "Check source for ticket prices"
+        }
+      ]
+    },
+    {
+      "sourceUrl": "https://web.saic.edu/blackharvestfest/listen-to-me/",
+      "sourceName": "SAIC / Gene Siskel Film Center",
+      "verifiedAt": "2026-11-04T14:46:06Z",
+      "method": "Fetched and inspected official primary page with web open/click/find on 2026-11-04.",
+      "excerpt": "SUNDAY, NOVEMBER 8",
+      "dateEvidence": "Individual official program page gives dated showtime and street address. Festival homepage supplies November 2026 context. Price absent from fetched primary page.",
+      "supportingSources": [
+        {
+          "url": "https://web.saic.edu/blackharvestfest/",
+          "facts": "32nd annual Black Harvest festival at Gene Siskel Film Center is November 6–15, 2026."
+        }
+      ],
+      "eventIds": [
+        "black-harvest-listen-to-me-2026-11-08"
+      ],
+      "dates": [
+        "2026-11-08"
+      ],
+      "facts": [
+        {
+          "title": "Black Harvest: Listen to Me",
+          "date": "2026-11-08",
+          "time": "2:30 PM",
+          "venue": "Gene Siskel Film Center",
+          "address": "164 N State St, Chicago, IL",
+          "priceLabel": "Check source for ticket prices"
+        }
+      ]
+    },
+    {
+      "sourceUrl": "https://www.chicagohistory.org/event/aqui-en-chicago-closing-program/",
+      "sourceName": "Chicago History Museum",
+      "verifiedAt": "2026-11-04T14:46:06Z",
+      "method": "Fetched and inspected official primary page with web open/click/find on 2026-11-04.",
+      "excerpt": "4:15–4:30 p.m. – Closing Remarks",
+      "dateEvidence": "Current November 2026 events calendar confirms Sunday Nov 8. Calendar overview says noon–4 PM, but detailed program continues to 4:30 PM; card uses detailed schedule.",
+      "supportingSources": [
+        {
+          "url": "https://www.chicagohistory.org/events/",
+          "facts": "November 2026 calendar lists closing program on Sunday Nov 8 beginning noon."
+        }
+      ],
+      "eventIds": [
+        "aqui-closing-2026-11-08"
+      ],
+      "dates": [
+        "2026-11-08"
+      ],
+      "facts": [
+        {
+          "title": "Aquí en Chicago: Closing Celebration",
+          "date": "2026-11-08",
+          "time": "12:00 PM–4:30 PM; closing remarks 4:15 PM",
+          "venue": "Chicago History Museum",
+          "address": "1601 N Clark St, Chicago, IL",
+          "priceLabel": "Included with museum admission; Check source for admission price"
+        }
+      ]
+    },
+    {
+      "sourceUrl": "https://www.loganexhibitions.uchicago.edu/exhibitions/charles-white",
+      "sourceName": "Logan Center Exhibitions",
+      "verifiedAt": "2026-11-04T14:46:06Z",
+      "method": "Fetched and inspected official primary page with web open/click/find on 2026-11-04.",
+      "excerpt": "November 6, 2026 - January 31, 2027",
+      "dateEvidence": "Primary exhibition page explicitly lists four separate opening-weekend programs with dates and times. Tour and Drawing Sound require registration; Family Saturday explicitly free. Reception price not stated.",
+      "supportingSources": [
+        {
+          "url": "https://www.logancenter.uchicago.edu/visit",
+          "facts": "Logan Center at 915 East 60th Street; general gallery hours Wed–Fri noon–8 PM and Sat–Sun noon–4 PM. Special program times taken from event schedule."
+        }
+      ],
+      "eventIds": [
+        "charles-white-reception-2026-11-06",
+        "charles-white-tour-2026-11-07",
+        "drawing-sound-2026-11-07",
+        "grandpa-library-2026-11-07"
+      ],
+      "dates": [
+        "2026-11-06",
+        "2026-11-07",
+        "2026-11-07",
+        "2026-11-07"
+      ],
+      "facts": [
+        {
+          "title": "Charles White Across Media: Opening Reception",
+          "date": "2026-11-06",
+          "time": "6:00 PM–8:00 PM",
+          "venue": "Logan Center for the Arts · Gallery",
+          "address": "915 E 60th St, Chicago, IL",
+          "priceLabel": "Check source; RSVP requested"
+        },
+        {
+          "title": "Charles White Across Media: Tour with Ian White",
+          "date": "2026-11-07",
+          "time": "10:00 AM",
+          "venue": "Logan Center for the Arts · Gallery",
+          "address": "915 E 60th St, Chicago, IL",
+          "priceLabel": "Free; registration required"
+        },
+        {
+          "title": "Drawing Sound: Craig Taborn and Ian White",
+          "date": "2026-11-07",
+          "time": "1:00 PM–2:00 PM",
+          "venue": "Logan Center for the Arts · Screening Room 201",
+          "address": "915 E 60th St, Chicago, IL",
+          "priceLabel": "Free; registration required"
+        },
+        {
+          "title": "Grandpa and the Library: Family Saturday",
+          "date": "2026-11-07",
+          "time": "2:30 PM–3:00 PM",
+          "venue": "Logan Center for the Arts · Gallery",
+          "address": "915 E 60th St, Chicago, IL",
+          "priceLabel": "Free; RSVP available"
+        }
+      ]
+    },
+    {
+      "sourceUrl": "https://www.camochicago.org/exhibition-archive/a-plot-of-ones-own",
+      "sourceName": "Chinese American Museum of Chicago",
+      "verifiedAt": "2026-11-04T14:46:06Z",
+      "method": "Fetched and inspected official primary page with web open/click/find on 2026-11-04.",
+      "excerpt": "Sunday, August 29, 2027 5:00 PM",
+      "dateEvidence": "Official exhibition dates are Sep 19, 2026–Aug 29, 2027. Visit page confirms Friday, Saturday and Sunday 10 AM–5 PM and always-free admission; each weekend day lies inside that season.",
+      "supportingSources": [
+        {
+          "url": "https://www.camochicago.org/visit",
+          "facts": "Friday–Sunday 10 AM–5 PM; 238 W 23rd St; admission always free, suggested donation $8."
+        }
+      ],
+      "eventIds": [
+        "plot-of-ones-own-2026-11-06",
+        "plot-of-ones-own-2026-11-07",
+        "plot-of-ones-own-2026-11-08"
+      ],
+      "dates": [
+        "2026-11-06",
+        "2026-11-07",
+        "2026-11-08"
+      ],
+      "facts": [
+        {
+          "title": "A Plot of One’s Own",
+          "date": "2026-11-06",
+          "time": "10:00 AM–5:00 PM",
+          "venue": "Chinese American Museum of Chicago",
+          "address": "238 W 23rd St, Chicago, IL",
+          "priceLabel": "Free; donations welcome"
+        },
+        {
+          "title": "A Plot of One’s Own",
+          "date": "2026-11-07",
+          "time": "10:00 AM–5:00 PM",
+          "venue": "Chinese American Museum of Chicago",
+          "address": "238 W 23rd St, Chicago, IL",
+          "priceLabel": "Free; donations welcome"
+        },
+        {
+          "title": "A Plot of One’s Own",
+          "date": "2026-11-08",
+          "time": "10:00 AM–5:00 PM",
+          "venue": "Chinese American Museum of Chicago",
+          "address": "238 W 23rd St, Chicago, IL",
+          "priceLabel": "Free; donations welcome"
+        }
+      ]
+    },
+    {
+      "sourceUrl": "https://chicagosymphony.org/performances/26-27/cso/beethoven-5-mao-fujita/",
+      "sourceName": "Chicago Symphony Orchestra",
+      "verifiedAt": "2026-11-04T14:46:06Z",
+      "method": "Fetched and inspected official primary page with web open/click/find on 2026-11-04.",
+      "excerpt": "Nov 5-8, 2026",
+      "dateEvidence": "Current primary performance page confirms program, date span and $49+ including fees. Official season schedule gives Friday 1:30 PM, Saturday 7:30 PM, Sunday 3 PM.",
+      "supportingSources": [
+        {
+          "url": "https://cso.org/media/fzvdbx4w/2026-27-chron-list_final.pdf",
+          "facts": "2026/27 season chronological list, page 5, explicitly lists Nov 6 at 1:30, Nov 7 at 7:30, Nov 8 at 3:00; default venue 220 S Michigan Ave. Program corroborated by current event page."
+        }
+      ],
+      "eventIds": [
+        "beethoven-fujita-2026-11-06",
+        "beethoven-fujita-2026-11-07",
+        "beethoven-fujita-2026-11-08"
+      ],
+      "dates": [
+        "2026-11-06",
+        "2026-11-07",
+        "2026-11-08"
+      ],
+      "facts": [
+        {
+          "title": "Beethoven 5 & Mao Fujita",
+          "date": "2026-11-06",
+          "time": "1:30 PM",
+          "venue": "Symphony Center · Orchestra Hall",
+          "address": "220 S Michigan Ave, Chicago, IL",
+          "priceLabel": "$49+ advertised including fees; varies by performance"
+        },
+        {
+          "title": "Beethoven 5 & Mao Fujita",
+          "date": "2026-11-07",
+          "time": "7:30 PM",
+          "venue": "Symphony Center · Orchestra Hall",
+          "address": "220 S Michigan Ave, Chicago, IL",
+          "priceLabel": "$49+ advertised including fees; varies by performance"
+        },
+        {
+          "title": "Beethoven 5 & Mao Fujita",
+          "date": "2026-11-08",
+          "time": "3:00 PM",
+          "venue": "Symphony Center · Orchestra Hall",
+          "address": "220 S Michigan Ave, Chicago, IL",
+          "priceLabel": "$49+ advertised including fees; varies by performance"
+        }
+      ]
+    },
+    {
+      "sourceUrl": "https://extension.illinois.edu/events/2026-11-07-pumpkin-smash-lakeview-high-school-chicago",
+      "sourceName": "University of Illinois Extension",
+      "verifiedAt": "2026-11-04T14:46:06Z",
+      "method": "Fetched and inspected official primary page with web open/click/find on 2026-11-04.",
+      "excerpt": "November 7, 2026",
+      "dateEvidence": "Official organizer page supplies date, hours, address, free admission and preparation instructions.",
+      "supportingSources": [],
+      "eventIds": [
+        "lakeview-pumpkin-smash-2026-11-07"
+      ],
+      "dates": [
+        "2026-11-07"
+      ],
+      "facts": [
+        {
+          "title": "Pumpkin Smash at Lakeview High School",
+          "date": "2026-11-07",
+          "time": "10:00 AM–2:00 PM",
+          "venue": "Lakeview High School",
+          "address": "4015 N Ashland Ave, Chicago, IL",
+          "priceLabel": "Free; no registration"
+        }
+      ]
+    }
+  ]
+}

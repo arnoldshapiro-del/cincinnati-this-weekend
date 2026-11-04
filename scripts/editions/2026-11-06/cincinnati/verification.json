@@ -1,0 +1,369 @@
+{
+  "editionId": "cincinnati-2026-11-06-weekly-b6ff9c98",
+  "verifiedAt": "2026-11-04T14:43:19.362Z",
+  "method": "Current primary organizer, venue and official ticket pages inspected November4. Opening hours verified separately before expansion of ongoing exhibitions. Drive times are approximate downtown-origin estimates, not live traffic.",
+  "nonExhibitSources": [
+    {
+      "seriesId": "layers-unknown",
+      "sourceUrl": "https://www.cincymuseum.org/layers/",
+      "verifiedAt": "2026-11-04T14:43:19.362Z",
+      "method": "Primary page fetched and inspected; live Firecrawl maxAge=0 retrieval where recorded in fetch-manifest.json",
+      "verificationExcerpt": "Friday, November 6, 2026 at 7 p.m",
+      "dates": [
+        "2026-11-06"
+      ],
+      "times": "7:00 PM",
+      "venue": "Cincinnati Museum Center at Union Terminal",
+      "price": "$250 general admission; $300 VIP",
+      "notes": "No live ticket availability guarantee."
+    },
+    {
+      "seriesId": "cyclones-pride",
+      "sourceUrl": "https://cycloneshockey.com/game/2026/11/06/pride-night-shutout-the-hate",
+      "verifiedAt": "2026-11-04T14:43:19.362Z",
+      "method": "Primary page fetched and inspected; live Firecrawl maxAge=0 retrieval where recorded in fetch-manifest.json",
+      "verificationExcerpt": "Friday, November 6, 2026",
+      "dates": [
+        "2026-11-06"
+      ],
+      "times": "7:05 PM",
+      "venue": "Heritage Bank Center",
+      "price": "From $23.71; $2 increase on game day",
+      "notes": "No live ticket availability guarantee."
+    },
+    {
+      "seriesId": "cyclones-youth",
+      "sourceUrl": "https://cycloneshockey.com/game/2026/11/07/youth-jersey-giveaway-matinee",
+      "verifiedAt": "2026-11-04T14:43:19.362Z",
+      "method": "Primary page fetched and inspected; live Firecrawl maxAge=0 retrieval where recorded in fetch-manifest.json",
+      "verificationExcerpt": "Saturday, November 7, 2026",
+      "dates": [
+        "2026-11-07"
+      ],
+      "times": "4:05 PM",
+      "venue": "Heritage Bank Center",
+      "price": "From $23.71; $2 increase on game day",
+      "notes": "No live ticket availability guarantee."
+    },
+    {
+      "seriesId": "ballet-live",
+      "sourceUrl": "https://www.cincinnatiarts.org/events/detail/ballet-live-26",
+      "verifiedAt": "2026-11-04T14:43:19.362Z",
+      "method": "Primary page fetched and inspected; live Firecrawl maxAge=0 retrieval where recorded in fetch-manifest.json",
+      "verificationExcerpt": "November 6, 2026 7:30PM",
+      "dates": [
+        "2026-11-06",
+        "2026-11-07"
+      ],
+      "times": {
+        "6": "7:30 PM",
+        "7": "2:00 PM and 7:30 PM"
+      },
+      "venue": "Music Hall, Springer Auditorium",
+      "price": "Check source for current ticket prices",
+      "notes": "No live ticket availability guarantee."
+    },
+    {
+      "seriesId": "northside-record-fair",
+      "sourceUrl": "https://www.northsiderecordfair.com/faq",
+      "verifiedAt": "2026-11-04T14:43:19.362Z",
+      "method": "Primary page fetched and inspected; live Firecrawl maxAge=0 retrieval where recorded in fetch-manifest.json",
+      "verificationExcerpt": "Saturday, November 7th, 2026. Open 11 am to 4 pm",
+      "dates": [
+        "2026-11-07"
+      ],
+      "times": "11:00 AM–4:00 PM; early entry 10:00 AM",
+      "venue": "Heart in Balance Event Center",
+      "price": "$5 general admission; $10 early entry",
+      "notes": "No live ticket availability guarantee."
+    },
+    {
+      "seriesId": "elm-street-ice-rink",
+      "sourceUrl": "https://elmstreetplazacincy.com/ice-rink/",
+      "verifiedAt": "2026-11-04T14:43:19.362Z",
+      "method": "Primary page fetched and inspected; live Firecrawl maxAge=0 retrieval where recorded in fetch-manifest.json",
+      "verificationExcerpt": "November 7th, 2026.",
+      "dates": [
+        "2026-11-07",
+        "2026-11-08"
+      ],
+      "times": {
+        "7": "9:00 AM–11:00 PM",
+        "8": "9:00 AM–8:00 PM"
+      },
+      "venue": "Elm Street Plaza",
+      "price": "$12 including skates; ages 5 and under free with paid adult",
+      "notes": "No live ticket availability guarantee."
+    },
+    {
+      "seriesId": "blade-runner-live",
+      "sourceUrl": "https://tafttheatre.org/events/2026/11/blade-runner-live",
+      "verifiedAt": "2026-11-04T14:43:19.362Z",
+      "method": "Primary page fetched and inspected; live Firecrawl maxAge=0 retrieval where recorded in fetch-manifest.json",
+      "verificationExcerpt": "Friday, November 6, 2026",
+      "dates": [
+        "2026-11-06"
+      ],
+      "times": "8:00 PM; doors 7:00 PM",
+      "venue": "Taft Theatre",
+      "price": "Check source for current ticket prices",
+      "notes": "No live ticket availability guarantee."
+    },
+    {
+      "seriesId": "string-cheese",
+      "sourceUrl": "https://tafttheatre.org/events/2026/11/the-string-cheese-incident",
+      "verifiedAt": "2026-11-04T14:43:19.362Z",
+      "method": "Primary page fetched and inspected; live Firecrawl maxAge=0 retrieval where recorded in fetch-manifest.json",
+      "verificationExcerpt": "Saturday, November 7, 2026",
+      "dates": [
+        "2026-11-07"
+      ],
+      "times": "7:15 PM; doors 6:00 PM",
+      "venue": "Taft Theatre",
+      "price": "Check source for current ticket prices",
+      "notes": "No live ticket availability guarantee."
+    },
+    {
+      "seriesId": "bill-taylor",
+      "sourceUrl": "https://www.southgatehouse.com/tm-event/sam-lewis-everythings-fine-tour/",
+      "verifiedAt": "2026-11-04T14:43:19.362Z",
+      "method": "Primary page fetched and inspected; live Firecrawl maxAge=0 retrieval where recorded in fetch-manifest.json",
+      "verificationExcerpt": "FriNovember 06, 20267:30 pm(Doors: 7:00 pm)",
+      "dates": [
+        "2026-11-06"
+      ],
+      "times": "7:30 PM; doors 7:00 PM",
+      "venue": "The Southgate House Revival, Sanctuary",
+      "price": "Check source for current ticket prices",
+      "notes": "The historical URL slug names Sam Lewis, but the current venue homepage links it to Bill Taylor & The Appalachian Heathens with Blake Branscom and Sam Lewis. Current live page title, Sanctuary venue, Nov6 2026 date,7:30PM time and all-ages restriction were inspected; HTTP200 live fetch recorded."
+    },
+    {
+      "seriesId": "sam-shackleton",
+      "sourceUrl": "https://www.southgatehouse.com/tm-event/sam-shackleton/",
+      "verifiedAt": "2026-11-04T14:43:19.362Z",
+      "method": "Primary page fetched and inspected; live Firecrawl maxAge=0 retrieval where recorded in fetch-manifest.json",
+      "verificationExcerpt": "FriNovember 06, 20267:30 pm(Doors: 6:30 pm)",
+      "dates": [
+        "2026-11-06"
+      ],
+      "times": "7:30 PM; doors 6:30 PM",
+      "venue": "The Southgate House Revival, Revival Room",
+      "price": "Check source for current ticket prices",
+      "notes": "No live ticket availability guarantee."
+    },
+    {
+      "seriesId": "falls-city-boys",
+      "sourceUrl": "https://www.southgatehouse.com/tm-event/falls-city-boys-3/",
+      "verifiedAt": "2026-11-04T14:43:19.362Z",
+      "method": "Primary page fetched and inspected; live Firecrawl maxAge=0 retrieval where recorded in fetch-manifest.json",
+      "verificationExcerpt": "FREE SHOW",
+      "dates": [
+        "2026-11-06"
+      ],
+      "times": "9:00 PM; doors 8:00 PM",
+      "venue": "The Southgate House Revival, Lounge",
+      "price": "Free show",
+      "notes": "No live ticket availability guarantee."
+    },
+    {
+      "seriesId": "queen-city-blues",
+      "sourceUrl": "https://www.southgatehouse.com/tm-event/queen-city-blues-fest/",
+      "verifiedAt": "2026-11-04T14:43:19.362Z",
+      "method": "Primary page fetched and inspected; live Firecrawl maxAge=0 retrieval where recorded in fetch-manifest.json",
+      "verificationExcerpt": "SatNovember 07, 20267:00 pm(Doors: 6:00 pm)",
+      "dates": [
+        "2026-11-07"
+      ],
+      "times": "7:00 PM; doors 6:00 PM",
+      "venue": "The Southgate House Revival",
+      "price": "Check source for current ticket prices",
+      "notes": "No live ticket availability guarantee."
+    },
+    {
+      "seriesId": "hunter-hicks",
+      "sourceUrl": "https://www.southgatehouse.com/tm-event/hunter-hicks/",
+      "verifiedAt": "2026-11-04T14:43:19.362Z",
+      "method": "Primary page fetched and inspected; live Firecrawl maxAge=0 retrieval where recorded in fetch-manifest.json",
+      "verificationExcerpt": "SunNovember 08, 20267:30 pm(Doors: 7:00 pm)",
+      "dates": [
+        "2026-11-08"
+      ],
+      "times": "7:30 PM; doors 7:00 PM",
+      "venue": "The Southgate House Revival, Revival Room",
+      "price": "Check source for current ticket prices",
+      "notes": "No live ticket availability guarantee."
+    },
+    {
+      "seriesId": "get-happy",
+      "sourceUrl": "https://ticketing.cincyplay.com/overview/get-happy",
+      "verifiedAt": "2026-11-04T14:43:19.362Z",
+      "method": "Primary page fetched and inspected; live Firecrawl maxAge=0 retrieval where recorded in fetch-manifest.json",
+      "verificationExcerpt": "Friday, Nov 6, 20267:30 PM",
+      "dates": [
+        "2026-11-06",
+        "2026-11-07"
+      ],
+      "times": {
+        "6": "7:30 PM",
+        "7": "2:00 PM and 7:30 PM"
+      },
+      "venue": "Cincinnati Playhouse in the Park, Rouse Theatre",
+      "price": "Check source for current ticket prices",
+      "notes": "Production page confirms Rouse Theatre and mature themes; ticket inventory confirms Friday7:30 and Saturday2/7:30, final date Nov7."
+    },
+    {
+      "seriesId": "twelve-dates",
+      "sourceUrl": "https://ticketing.cincyplay.com/overview/the-twelve-dates-of-christmas",
+      "verifiedAt": "2026-11-04T14:43:19.362Z",
+      "method": "Primary page fetched and inspected; live Firecrawl maxAge=0 retrieval where recorded in fetch-manifest.json",
+      "verificationExcerpt": "Saturday, Nov 7, 20267:30 PM",
+      "dates": [
+        "2026-11-07"
+      ],
+      "times": "7:30 PM",
+      "venue": "Cincinnati Playhouse in the Park, Rosenthal Shelterhouse Theatre",
+      "price": "Check source for current ticket prices",
+      "notes": "No Sunday Nov8 performance in current official inventory; not expanded from overall production date range."
+    },
+    {
+      "seriesId": "sharonville-holiday",
+      "sourceUrl": "https://www.sharonvilleholidaymarket.com/attendee-info/show-info",
+      "verifiedAt": "2026-11-04T14:43:19.362Z",
+      "method": "Primary page fetched and inspected; live Firecrawl maxAge=0 retrieval where recorded in fetch-manifest.json",
+      "verificationExcerpt": "November 6-8, 2026",
+      "dates": [
+        "2026-11-06",
+        "2026-11-07",
+        "2026-11-08"
+      ],
+      "times": {
+        "6": "12:30 PM–8:00 PM; VIP 9:00 AM–noon",
+        "7": "11:30 AM–8:00 PM; early entry 9:00–11:00 AM",
+        "8": "9:00 AM–5:00 PM"
+      },
+      "venue": "Sharonville Convention Center",
+      "price": "$15 advance / $16 from opening day; ages 12 and under free; special sessions $10–$30",
+      "notes": "Live fetch now says online OR onsite ticket sales, superseding cached search wording of online-only. General adult price15 advance16 opening day; Fri/Sat evening10; VIP30; early20."
+    },
+    {
+      "seriesId": "ashley-mcbryde",
+      "sourceUrl": "https://bradymusiccenter.com/events/2026/11/ashley-mcbryde-into-the-wild-tour",
+      "verifiedAt": "2026-11-04T14:43:19.362Z",
+      "method": "Primary page fetched and inspected; live Firecrawl maxAge=0 retrieval where recorded in fetch-manifest.json",
+      "verificationExcerpt": "Saturday, November 7, 2026",
+      "dates": [
+        "2026-11-07"
+      ],
+      "times": "8:00 PM; doors 7:00 PM",
+      "venue": "The Andrew J Brady Music Center",
+      "price": "Check source for current ticket prices",
+      "notes": "No live ticket availability guarantee."
+    },
+    {
+      "seriesId": "beatles-kids",
+      "sourceUrl": "https://www.ludlowgaragecincinnati.com/the-rock-and-roll-playhouse-plays-music-of-the-beatles-more-for-kids-2/",
+      "verifiedAt": "2026-11-04T14:43:19.362Z",
+      "method": "Primary page fetched and inspected; live Firecrawl maxAge=0 retrieval where recorded in fetch-manifest.json",
+      "verificationExcerpt": "Saturday, November 07, 2026",
+      "dates": [
+        "2026-11-07"
+      ],
+      "times": "Noon; doors 11:30 AM",
+      "venue": "Ludlow Garage",
+      "price": "$15–$17 plus applicable fees",
+      "notes": "No live ticket availability guarantee."
+    },
+    {
+      "seriesId": "earlybirds-club",
+      "sourceUrl": "https://www.ludlowgaragecincinnati.com/earlybirds-club-3/",
+      "verifiedAt": "2026-11-04T14:43:19.362Z",
+      "method": "Primary page fetched and inspected; live Firecrawl maxAge=0 retrieval where recorded in fetch-manifest.json",
+      "verificationExcerpt": "Saturday, November 07, 2026",
+      "dates": [
+        "2026-11-07"
+      ],
+      "times": "6:00 PM–10:00 PM",
+      "venue": "Ludlow Garage",
+      "price": "$30 advance; $35 day of show",
+      "notes": "No live ticket availability guarantee."
+    },
+    {
+      "seriesId": "frozen-singalong",
+      "sourceUrl": "https://www.cincinnatiarts.org/events/detail/disneys-frozen-movie-sing-along",
+      "verifiedAt": "2026-11-04T14:43:19.362Z",
+      "method": "Primary page fetched and inspected; live Firecrawl maxAge=0 retrieval where recorded in fetch-manifest.json",
+      "verificationExcerpt": "Starting at $29.00",
+      "dates": [
+        "2026-11-07"
+      ],
+      "times": "1:00 PM and 4:00 PM",
+      "venue": "Aronoff Center, Jarson-Kaplan Theater",
+      "price": "From $29",
+      "notes": "No live ticket availability guarantee."
+    },
+    {
+      "seriesId": "fcc-nashville",
+      "sourceUrl": "https://tqlstadium.com/events/fc-cincinnati-vs-nashville-sc-2026",
+      "verifiedAt": "2026-11-04T14:43:19.362Z",
+      "method": "Primary page fetched and inspected; live Firecrawl maxAge=0 retrieval where recorded in fetch-manifest.json",
+      "verificationExcerpt": "Saturday, November 7, 2026",
+      "dates": [
+        "2026-11-07"
+      ],
+      "times": "4:00 PM",
+      "venue": "TQL Stadium",
+      "price": "Check source for current ticket prices",
+      "notes": "Team current theme-nights and playoff-clinch pages independently confirm4pm regular-season finale and Fan Appreciation."
+    },
+    {
+      "seriesId": "xavier-emu",
+      "sourceUrl": "https://goxavier.com/news/2026/11/2/mens-basketball-vs-the-mount",
+      "verifiedAt": "2026-11-04T14:43:19.362Z",
+      "method": "Primary page fetched and inspected; live Firecrawl maxAge=0 retrieval where recorded in fetch-manifest.json",
+      "verificationExcerpt": "Friday, Nov. 6, to host Eastern Michigan",
+      "dates": [
+        "2026-11-06"
+      ],
+      "times": "7:00 PM",
+      "venue": "Cintas Center",
+      "price": "Check source for current ticket prices",
+      "notes": "Primary article published Nov2 2026 confirms7pm; aggregator8pm is rejected."
+    },
+    {
+      "seriesId": "long-branch-history",
+      "sourceUrl": "https://cincynature.ticketapp.org/portal/product/392/event/e3be1734-cc38-423a-8611-12ac34c66969",
+      "verifiedAt": "2026-11-04T14:43:19.362Z",
+      "method": "Primary page fetched and inspected; live Firecrawl maxAge=0 retrieval where recorded in fetch-manifest.json",
+      "verificationExcerpt": "Sunday 11/8/26",
+      "dates": [
+        "2026-11-08"
+      ],
+      "times": "10:00 AM–noon",
+      "venue": "Long Branch Farm & Trails, Creekside Barn",
+      "price": "$24 nonmembers; $12 members; includes daily admission",
+      "notes": "No live ticket availability guarantee."
+    },
+    {
+      "seriesId": "pbj-hit-it",
+      "sourceUrl": "https://www.peanutbutterandjam.org/event/hit-it-15/",
+      "verifiedAt": "2026-11-04T14:43:19.362Z",
+      "method": "Primary page fetched and inspected; live Firecrawl maxAge=0 retrieval where recorded in fetch-manifest.json",
+      "verificationExcerpt": "November 7 @ 10:30 am",
+      "dates": [
+        "2026-11-07"
+      ],
+      "times": "10:30 AM–11:30 AM",
+      "venue": "Kennedy Heights Arts Center, Lindner Annex",
+      "price": "Free",
+      "notes": "No live ticket availability guarantee."
+    }
+  ],
+  "exhibitEvidence": "exhibits-research.json",
+  "excluded": [
+    "Canceled Funky Dineva at Ludlow Garage",
+    "Twelve Dates of Christmas November8: no official performance listed",
+    "Artisanfest November7 at Washington Park: current park calendar does not support it",
+    "Halloween attractions from previous edition: not carried forward"
+  ],
+  "editorial": "Exactly10 picks across10 distinct venues, all3 days,8 categories. No road-trip filler."
+}

@@ -1,0 +1,533 @@
+{
+  "editionId": "washington-dc-2026-11-06-weekly-b6ff9c98",
+  "recordedAt": "2026-11-04T14:53:55Z",
+  "researchDate": "2026-11-04",
+  "eventCount": 50,
+  "distinctPrograms": 31,
+  "featuredCount": 10,
+  "dayCounts": {
+    "Friday": 11,
+    "Saturday": 25,
+    "Sunday": 14
+  },
+  "sourceNotes": "Pages were actually opened and inspected, not merely URL-checked. Each event-day expansion rests on an explicit event date or a dated exhibition run plus museum operating days. Unknown public ticket prices remain null. Approximate drives are editorial estimates from central DC, not live traffic predictions.",
+  "sources": [
+    {
+      "seriesId": "diwali-asian-art",
+      "eventDates": [
+        "2026-11-06"
+      ],
+      "sourceUrl": "https://asia.si.edu/whats-on/events/search/event:209770265/",
+      "supportingUrls": [
+        "https://washington.org/event/asia-after-dark-diwali-festival"
+      ],
+      "retrievedOn": "2026-11-04",
+      "method": "Current primary page opened and its rendered text inspected with web tool; supporting pages inspected where stated.",
+      "verifiedFacts": "The primary museum page explicitly lists Friday, November 6, 2026, 5–9:30 PM, East and West Buildings, and the street address. Its cost field says advance registration is recommended. Destination DC calls it free, but the primary ticket page was rate-limited, so the card conservatively uses Check source for admission.",
+      "priceTreatment": "Primary page has no published admission amount. Destination DC corroboration is retained but not used to assert a price.",
+      "normalizedDateOrTitleExcerpt": "Friday, November 6, 2026 5:00 pm–9:30 pm",
+      "excerptNote": "Date/title punctuation and whitespace normalized from the inspected source; see verifiedFacts for context."
+    },
+    {
+      "seriesId": "adams-morgan-porchfest",
+      "eventDates": [
+        "2026-11-07"
+      ],
+      "sourceUrl": "https://adamsmorgan.com/porchfest",
+      "supportingUrls": [],
+      "retrievedOn": "2026-11-04",
+      "method": "Current primary page opened and its rendered text inspected with web tool; supporting pages inspected where stated.",
+      "verifiedFacts": "The organizer’s current 2026 page confirms Saturday, November 7, noon–5 PM, free admission, and the Adams Morgan stage map, including Marie Reed.",
+      "priceTreatment": "Published value",
+      "normalizedDateOrTitleExcerpt": "Saturday, November 7, 2026",
+      "excerptNote": "Date/title punctuation and whitespace normalized from the inspected source; see verifiedFacts for context."
+    },
+    {
+      "seriesId": "czech-christmas-market",
+      "eventDates": [
+        "2026-11-07"
+      ],
+      "sourceUrl": "https://mzv.gov.cz/washington/en/culture_events/culture/czech_christmas_market_2026.html",
+      "supportingUrls": [],
+      "retrievedOn": "2026-11-04",
+      "method": "Current primary page opened and its rendered text inspected with web tool; supporting pages inspected where stated.",
+      "verifiedFacts": "The embassy’s 2026 page gives November 7, 9 AM–6 PM, the embassy address, free timed RSVP requirements and security restrictions.",
+      "priceTreatment": "Published value",
+      "normalizedDateOrTitleExcerpt": "Czech Christmas Market 2026",
+      "excerptNote": "Date/title punctuation and whitespace normalized from the inspected source; see verifiedFacts for context."
+    },
+    {
+      "seriesId": "dc-beer-festival",
+      "eventDates": [
+        "2026-11-07"
+      ],
+      "sourceUrl": "https://www.dcbeerfestival.com/",
+      "supportingUrls": [
+        "https://www.mlb.com/nationals/tickets/events/dc-beer-festival"
+      ],
+      "retrievedOn": "2026-11-04",
+      "method": "Current primary page opened and its rendered text inspected with web tool; supporting pages inspected where stated.",
+      "verifiedFacts": "The organizer publishes the Nationals Park venue, $55 general admission, included beer samples and entertainment. The official MLB venue page confirms November 7, noon–3 or 5–8 PM, and ages 21+.",
+      "priceTreatment": "Published value",
+      "normalizedDateOrTitleExcerpt": "GENERAL ADMISSION: $55",
+      "excerptNote": "Date/title punctuation and whitespace normalized from the inspected source; see verifiedFacts for context."
+    },
+    {
+      "seriesId": "dmv-chocolate-coffee",
+      "eventDates": [
+        "2026-11-07",
+        "2026-11-08"
+      ],
+      "sourceUrl": "https://www.dmvchocolateandcoffee.com/event-details-registration/2026-maryland-dmv-chocolate-and-coffee-festival",
+      "supportingUrls": [],
+      "retrievedOn": "2026-11-04",
+      "method": "Current primary page opened and its rendered text inspected with web tool; supporting pages inspected where stated.",
+      "verifiedFacts": "The official ticket page explicitly lists November 7, 10 AM–5 PM, and November 8, 10 AM–4 PM, with the Boyds venue and address. General admission is $17.99 plus a $0.45 fee through November 6 at 11:50 PM EST, or $20 at the door. Children under 12 enter free with a paying guardian. Saturday VIP entry is 9–10 AM.",
+      "priceTreatment": "Published value",
+      "normalizedDateOrTitleExcerpt": "November 7, 2026: 10am - 5pm",
+      "excerptNote": "Date/title punctuation and whitespace normalized from the inspected source; see verifiedFacts for context."
+    },
+    {
+      "seriesId": "red-baraat",
+      "eventDates": [
+        "2026-11-07"
+      ],
+      "sourceUrl": "https://www.wolftrap.org/show/2627barns/110726/",
+      "supportingUrls": [],
+      "retrievedOn": "2026-11-04",
+      "method": "Current primary page opened and its rendered text inspected with web tool; supporting pages inspected where stated.",
+      "verifiedFacts": "The official dated show page confirms Saturday, November 7, 2026, at 8 PM, doors at 6:30 PM, the Barns address and free parking. Ticket dollar amounts were not exposed.",
+      "priceTreatment": "No usable ticket price published; card says Check source.",
+      "normalizedDateOrTitleExcerpt": "November 7, 2026",
+      "excerptNote": "Date/title punctuation and whitespace normalized from the inspected source; see verifiedFacts for context."
+    },
+    {
+      "seriesId": "hundred-days",
+      "eventDates": [
+        "2026-11-06",
+        "2026-11-07",
+        "2026-11-08"
+      ],
+      "sourceUrl": "https://keegantheatre.com/portfolio/hundred-days/",
+      "supportingUrls": [],
+      "retrievedOn": "2026-11-04",
+      "method": "Current primary page opened and its rendered text inspected with web tool; supporting pages inspected where stated.",
+      "verifiedFacts": "The official run is October 10–November 8, 2026, with Thursday–Saturday performances at 8 PM and Sunday at 3 PM. The posted adult price is $65 plus $5 processing; senior and student tickets are $55 plus $5. The footer confirms 1742 Church Street NW.",
+      "priceTreatment": "Published value",
+      "normalizedDateOrTitleExcerpt": "October 10 - November 8, 2026",
+      "excerptNote": "Date/title punctuation and whitespace normalized from the inspected source; see verifiedFacts for context."
+    },
+    {
+      "seriesId": "frida-self-portrait",
+      "eventDates": [
+        "2026-11-06",
+        "2026-11-07",
+        "2026-11-08"
+      ],
+      "sourceUrl": "https://www.shakespearetheatre.org/index.php/events/frida-a-self-portrait-26-27",
+      "supportingUrls": [],
+      "retrievedOn": "2026-11-04",
+      "method": "Current primary page opened and its rendered text inspected with web tool; supporting pages inspected where stated.",
+      "verifiedFacts": "The official calendar explicitly lists November 6 at 7:30 PM, November 7 at 7:30 PM and November 8 at 2 PM. The November 7 matinee was sold out and is omitted. Very limited inventory remained for the included performances. No price rendered. The production ends November 8.",
+      "priceTreatment": "No usable ticket price published; card says Check source.",
+      "normalizedDateOrTitleExcerpt": "Oct 8 - Nov 8, 2026",
+      "excerptNote": "Date/title punctuation and whitespace normalized from the inspected source; see verifiedFacts for context."
+    },
+    {
+      "seriesId": "cox-farms-fall",
+      "eventDates": [
+        "2026-11-06",
+        "2026-11-07",
+        "2026-11-08"
+      ],
+      "sourceUrl": "https://coxfarmsva.com/fall-festival/fall-festival-tickets/",
+      "supportingUrls": [
+        "https://coxfarmsva.com/"
+      ],
+      "retrievedOn": "2026-11-04",
+      "method": "Current primary page opened and its rendered text inspected with web tool; supporting pages inspected where stated.",
+      "verifiedFacts": "The 2026 ticket calendar explicitly links November 6 to the $15 discount category and November 7–8 to the $25 regular category. November hours are 10 AM–5 PM, with last entry at 4 PM. The November 3 homepage update confirms the final Friday–Sunday and Pumpkin Madness on November 7–8. Tickets are required from age 2; children under 14 need an adult.",
+      "priceTreatment": "Published value",
+      "normalizedDateOrTitleExcerpt": "Join us for a weekend of pumpkin destruction on November 7–8!!",
+      "excerptNote": "Date/title punctuation and whitespace normalized from the inspected source; see verifiedFacts for context."
+    },
+    {
+      "seriesId": "remember-me",
+      "eventDates": [
+        "2026-11-07",
+        "2026-11-08"
+      ],
+      "sourceUrl": "https://www.nga.gov/exhibitions/remember-me",
+      "supportingUrls": [
+        "https://www.nga.gov/visit"
+      ],
+      "retrievedOn": "2026-11-04",
+      "method": "Current primary page opened and its rendered text inspected with web tool; supporting pages inspected where stated.",
+      "verifiedFacts": "The exhibition runs November 7, 2026–March 14, 2027, in West Building ground-floor gallery G30. The official visit page confirms daily hours of 10 AM–5 PM, free admission without passes, and the address. Cards begin Saturday, the actual opening date.",
+      "priceTreatment": "Published value",
+      "normalizedDateOrTitleExcerpt": "November 7, 2026 – March 14, 2027",
+      "excerptNote": "Date/title punctuation and whitespace normalized from the inspected source; see verifiedFacts for context."
+    },
+    {
+      "seriesId": "much-here-beautiful",
+      "eventDates": [
+        "2026-11-06",
+        "2026-11-07",
+        "2026-11-08"
+      ],
+      "sourceUrl": "https://americanart.si.edu/exhibition/bicentennial-photography-surveys",
+      "supportingUrls": [],
+      "retrievedOn": "2026-11-04",
+      "method": "Current primary page opened and its rendered text inspected with web tool; supporting pages inspected where stated.",
+      "verifiedFacts": "The temporary exhibition runs September 18, 2026–April 18, 2027. The primary page states daily hours of 11:30 AM–7 PM and free admission. The shared Smithsonian museum address is 8th and G Streets NW.",
+      "priceTreatment": "Published value",
+      "normalizedDateOrTitleExcerpt": "September 18, 2026–April 18, 2027",
+      "excerptNote": "Date/title punctuation and whitespace normalized from the inspected source; see verifiedFacts for context."
+    },
+    {
+      "seriesId": "routed-west-quilts",
+      "eventDates": [
+        "2026-11-06",
+        "2026-11-07",
+        "2026-11-08"
+      ],
+      "sourceUrl": "https://nmwa.org/exhibitions/routed-west-twentieth-century-african-american-quilts-in-california/",
+      "supportingUrls": [
+        "https://nmwa.org/visit/plan-your-visit/"
+      ],
+      "retrievedOn": "2026-11-04",
+      "method": "Current primary page opened and its rendered text inspected with web tool; supporting pages inspected where stated.",
+      "verifiedFacts": "The exhibition runs September 18, 2026–January 17, 2027. Museum hours are Tuesday–Sunday, 10 AM–5 PM, with last entry at 4:30 PM. General admission is $16, DC residents and seniors $13, and ages 21 and under free. November 8 is not a free first Sunday. The November 6 library closure does not close the museum galleries.",
+      "priceTreatment": "Published value",
+      "normalizedDateOrTitleExcerpt": "September 18, 2026–January 17, 2027",
+      "excerptNote": "Date/title punctuation and whitespace normalized from the inspected source; see verifiedFacts for context."
+    },
+    {
+      "seriesId": "to-hear-her-speak",
+      "eventDates": [
+        "2026-11-06",
+        "2026-11-07",
+        "2026-11-08"
+      ],
+      "sourceUrl": "https://www.folger.edu/whats-on/to-hear-her-speak-black-women-and-shakespeare/",
+      "supportingUrls": [
+        "https://www.folger.edu/visit/plan-your-visit/"
+      ],
+      "retrievedOn": "2026-11-04",
+      "method": "Current primary page opened and its rendered text inspected with web tool; supporting pages inspected where stated.",
+      "verifiedFacts": "The exhibition runs October 16, 2026–May 2, 2027. Entry is free with a suggested $15 donation. The visit page gives Friday hours of 11 AM–9 PM and Saturday/Sunday hours of 11 AM–6 PM, plus the East Capitol Street address. Special evening programs sometimes extend the hours; cards use the normal open interval.",
+      "priceTreatment": "Published value",
+      "normalizedDateOrTitleExcerpt": "Oct 16, 2026 – May 2, 2027",
+      "excerptNote": "Date/title punctuation and whitespace normalized from the inspected source; see verifiedFacts for context."
+    },
+    {
+      "seriesId": "folger-curator-talk",
+      "eventDates": [
+        "2026-11-07"
+      ],
+      "sourceUrl": "https://www.folger.edu/whats-on/to-hear-her-speak-curators-talk/",
+      "supportingUrls": [],
+      "retrievedOn": "2026-11-04",
+      "method": "Current primary page opened and its rendered text inspected with web tool; supporting pages inspected where stated.",
+      "verifiedFacts": "The separate official event page gives Saturday, November 7, 7 PM, in the Reading Room. Public tickets are $30 and member tickets $25. This is distinct from free exhibition admission.",
+      "priceTreatment": "Published value",
+      "normalizedDateOrTitleExcerpt": "Sat, Nov 7, 2026, 7pm",
+      "excerptNote": "Date/title punctuation and whitespace normalized from the inspected source; see verifiedFacts for context."
+    },
+    {
+      "seriesId": "on-stage-portraits",
+      "eventDates": [
+        "2026-11-06",
+        "2026-11-07",
+        "2026-11-08"
+      ],
+      "sourceUrl": "https://my.si.edu/exhibitions/on-stage-portraying-the-performing-arts",
+      "supportingUrls": [
+        "https://my.si.edu/locations/national-portrait-gallery",
+        "https://artsandculture.google.com/partner/national-portrait-gallery"
+      ],
+      "retrievedOn": "2026-11-04",
+      "method": "Current primary page opened and its rendered text inspected with web tool; supporting pages inspected where stated.",
+      "verifiedFacts": "The Smithsonian exhibition page gives November 6, 2026–July 18, 2027, at the National Portrait Gallery. MySmithsonian confirms daily hours of 11:30 AM–7 PM and the 8th and G Streets address. The museum’s own Google Arts & Culture partner profile explicitly says Admission: FREE. The direct NPG exhibition endpoint rejected the fetch, so the accessible Smithsonian page is the card’s source.",
+      "priceTreatment": "Published value",
+      "normalizedDateOrTitleExcerpt": "November 6, 2026 – July 18, 2027",
+      "excerptNote": "Date/title punctuation and whitespace normalized from the inspected source; see verifiedFacts for context."
+    },
+    {
+      "seriesId": "phillips-creative-aging",
+      "eventDates": [
+        "2026-11-06",
+        "2026-11-07",
+        "2026-11-08"
+      ],
+      "sourceUrl": "https://www.phillipscollection.org/event/2026-08-15-creative-aging",
+      "supportingUrls": [
+        "https://www.phillipscollection.org/visit"
+      ],
+      "retrievedOn": "2026-11-04",
+      "method": "Current primary page opened and its rendered text inspected with web tool; supporting pages inspected where stated.",
+      "verifiedFacts": "The exhibition runs August 15–November 8, 2026. The visit page gives Friday/Saturday hours of 10 AM–5 PM and Sunday hours of 11 AM–5 PM, the 21st Street address, $20 adult museum admission and free entry for ages 18 and under. The exhibition room is not specified, so the card explicitly labels this as general museum admission, not a separate exhibition fee.",
+      "priceTreatment": "Published value",
+      "normalizedDateOrTitleExcerpt": "August 15-November 8, 2026",
+      "excerptNote": "Date/title punctuation and whitespace normalized from the inspected source; see verifiedFacts for context."
+    },
+    {
+      "seriesId": "au-fall-exhibitions",
+      "eventDates": [
+        "2026-11-06",
+        "2026-11-07"
+      ],
+      "sourceUrl": "https://www.american.edu/cas/museum/",
+      "supportingUrls": [
+        "https://www.american.edu/cas/museum/visiting.cfm",
+        "https://www.american.edu/cas/news/must-see-free-katzen-exhibitions.cfm"
+      ],
+      "retrievedOn": "2026-11-04",
+      "method": "Current primary page opened and its rendered text inspected with web tool; supporting pages inspected where stated.",
+      "verifiedFacts": "The museum explicitly states that its fall 2026 exhibitions run September 5–December 6, Wednesday–Sunday, 11 AM–4 PM. Only November 26–27 holiday closures are noted. The official September 3 university news article says museum exhibitions are free to everyone. The museum footer gives 4400 Massachusetts Avenue NW. Two day cards are selected editorially; Sunday is also open.",
+      "priceTreatment": "Published value",
+      "normalizedDateOrTitleExcerpt": "September 5–December 6, 2026",
+      "excerptNote": "Date/title punctuation and whitespace normalized from the inspected source; see verifiedFacts for context."
+    },
+    {
+      "seriesId": "bso-scheherazade-sibelius",
+      "eventDates": [
+        "2026-11-06"
+      ],
+      "sourceUrl": "https://my.bsomusic.org/20344/",
+      "supportingUrls": [],
+      "retrievedOn": "2026-11-04",
+      "method": "Current primary page opened and its rendered text inspected with web tool; supporting pages inspected where stated.",
+      "verifiedFacts": "The current official inventory page gives November 6, 2026, at 8 PM at the Music Center at Strathmore. The current Shéhérazade & Sibelius program supersedes older Don Juan marketing. The November 8 performance is at the Meyerhoff in Baltimore and is deliberately not expanded as another Strathmore event.",
+      "priceTreatment": "No usable ticket price published; card says Check source.",
+      "normalizedDateOrTitleExcerpt": "Friday, November 6, 2026 8:00PM",
+      "excerptNote": "Date/title punctuation and whitespace normalized from the inspected source; see verifiedFacts for context."
+    },
+    {
+      "seriesId": "natphil-postcards",
+      "eventDates": [
+        "2026-11-07"
+      ],
+      "sourceUrl": "https://secure.nationalphilharmonic.org/105629",
+      "supportingUrls": [],
+      "retrievedOn": "2026-11-04",
+      "method": "Current primary page opened and its rendered text inspected with web tool; supporting pages inspected where stated.",
+      "verifiedFacts": "The official ticket page gives November 7, 2026, at 7:30 PM at the Music Center at Strathmore, with the conductor, soloist and concert program. No usable public ticket price appeared in the fetched content.",
+      "priceTreatment": "No usable ticket price published; card says Check source.",
+      "normalizedDateOrTitleExcerpt": "November 7, 2026 7:30PM",
+      "excerptNote": "Date/title punctuation and whitespace normalized from the inspected source; see verifiedFacts for context."
+    },
+    {
+      "seriesId": "woodlawn-emancipation",
+      "eventDates": [
+        "2026-11-07"
+      ],
+      "sourceUrl": "https://montgomeryparks.org/events/woodlawn-manor-special-events-maryland-emancipation-day-celebration/",
+      "supportingUrls": [],
+      "retrievedOn": "2026-11-04",
+      "method": "Current primary page opened and its rendered text inspected with web tool; supporting pages inspected where stated.",
+      "verifiedFacts": "The official event lists November 7, 10 AM–4 PM, with free museum admission. The 11 AM lecture costs $8; the 1–2:30 PM hike costs $10 for adults or $8 for children and seniors. The page confirms 16501 Norwood Road and recommends registering for paid programs by November 6 at noon.",
+      "priceTreatment": "Published value",
+      "normalizedDateOrTitleExcerpt": "November 7, 2026",
+      "excerptNote": "Date/title punctuation and whitespace normalized from the inspected source; see verifiedFacts for context."
+    },
+    {
+      "seriesId": "oakley-emancipation",
+      "eventDates": [
+        "2026-11-07"
+      ],
+      "sourceUrl": "https://montgomeryparks.org/events/oakley-cabin-maryland-emancipation-day-celebration/",
+      "supportingUrls": [],
+      "retrievedOn": "2026-11-04",
+      "method": "Current primary page opened and its rendered text inspected with web tool; supporting pages inspected where stated.",
+      "verifiedFacts": "The official event gives November 7, noon–4 PM, free admission and 3610 Brookeville Road. Amendment readings are at 1, 2 and 3 PM; cabin tours are at 12:30, 2:15 and 3:15 PM.",
+      "priceTreatment": "Published value",
+      "normalizedDateOrTitleExcerpt": "November 7, 2026",
+      "excerptNote": "Date/title punctuation and whitespace normalized from the inspected source; see verifiedFacts for context."
+    },
+    {
+      "seriesId": "harper-emancipation",
+      "eventDates": [
+        "2026-11-08"
+      ],
+      "sourceUrl": "https://montgomeryparks.org/events/harper-cabin-maryland-emancipation-day-celebration/",
+      "supportingUrls": [],
+      "retrievedOn": "2026-11-04",
+      "method": "Current primary page opened and its rendered text inspected with web tool; supporting pages inspected where stated.",
+      "verifiedFacts": "The official event gives November 8, 1–4 PM, free admission and Brookside Nature Center’s 1400 Glenallan Avenue address. Readings are at 1, 2 and 3 PM, followed by tours at 1:30, 2:30 and 3:30 PM.",
+      "priceTreatment": "Published value",
+      "normalizedDateOrTitleExcerpt": "November 8, 2026",
+      "excerptNote": "Date/title punctuation and whitespace normalized from the inspected source; see verifiedFacts for context."
+    },
+    {
+      "seriesId": "black-hill-pontoon",
+      "eventDates": [
+        "2026-11-07"
+      ],
+      "sourceUrl": "https://montgomeryparks.org/events/afternoon-on-the-pontoon-15/",
+      "supportingUrls": [],
+      "retrievedOn": "2026-11-04",
+      "method": "Current primary page opened and its rendered text inspected with web tool; supporting pages inspected where stated.",
+      "verifiedFacts": "The official event gives November 7, 1:30–2:30 PM, $7, ages 6+, and the Black Hill address. Participants meet at the pontoon dock near the boat-rental area.",
+      "priceTreatment": "Published value",
+      "normalizedDateOrTitleExcerpt": "November 7, 2026",
+      "excerptNote": "Date/title punctuation and whitespace normalized from the inspected source; see verifiedFacts for context."
+    },
+    {
+      "seriesId": "black-hill-kayak",
+      "eventDates": [
+        "2026-11-08"
+      ],
+      "sourceUrl": "https://montgomeryparks.org/events/lake-tour-by-kayak-34/",
+      "supportingUrls": [],
+      "retrievedOn": "2026-11-04",
+      "method": "Current primary page opened and its rendered text inspected with web tool; supporting pages inspected where stated.",
+      "verifiedFacts": "The official event gives November 8, 9–11 AM, $30 and ages 12+. Basic kayaking experience is explicitly required; equipment is provided. The meeting point is the gazebo near the Black Hill boat dock.",
+      "priceTreatment": "Published value",
+      "normalizedDateOrTitleExcerpt": "November 8, 2026",
+      "excerptNote": "Date/title punctuation and whitespace normalized from the inspected source; see verifiedFacts for context."
+    },
+    {
+      "seriesId": "brookside-owls-campfire",
+      "eventDates": [
+        "2026-11-07"
+      ],
+      "sourceUrl": "https://montgomeryparks.org/events/evening-campfire-evening-campfire-owls/",
+      "supportingUrls": [],
+      "retrievedOn": "2026-11-04",
+      "method": "Current primary page opened and its rendered text inspected with web tool; supporting pages inspected where stated.",
+      "verifiedFacts": "The official event gives November 7, 7–8:30 PM, $10 and Brookside Nature Center’s address. An adult must register with a child; children under 3 need no registration. Marshmallows are provided and a hike is optional.",
+      "priceTreatment": "Published value",
+      "normalizedDateOrTitleExcerpt": "November 7, 2026",
+      "excerptNote": "Date/title punctuation and whitespace normalized from the inspected source; see verifiedFacts for context."
+    },
+    {
+      "seriesId": "arlington-market",
+      "eventDates": [
+        "2026-11-07"
+      ],
+      "sourceUrl": "https://www.freshfarm.org/markets/arlington",
+      "supportingUrls": [],
+      "retrievedOn": "2026-11-04",
+      "method": "Current primary page opened and its rendered text inspected with web tool; supporting pages inspected where stated.",
+      "verifiedFacts": "The current official 2026 market schedule explicitly includes this date, weekday, time and address. Saturday markets run January 3–December 26; Dupont’s Sunday schedule runs January 4–December 27. No closure is announced for this weekend. Admission is not explicitly priced, so the card uses null and Check source instead of assuming free entry.",
+      "priceTreatment": "No usable ticket price published; card says Check source.",
+      "normalizedDateOrTitleExcerpt": "Year-round",
+      "excerptNote": "Date/title punctuation and whitespace normalized from the inspected source; see verifiedFacts for context."
+    },
+    {
+      "seriesId": "silver-spring-market",
+      "eventDates": [
+        "2026-11-07"
+      ],
+      "sourceUrl": "https://www.freshfarm.org/markets/downtown-silver-spring",
+      "supportingUrls": [],
+      "retrievedOn": "2026-11-04",
+      "method": "Current primary page opened and its rendered text inspected with web tool; supporting pages inspected where stated.",
+      "verifiedFacts": "The current official 2026 market schedule explicitly includes this date, weekday, time and address. Saturday markets run January 3–December 26; Dupont’s Sunday schedule runs January 4–December 27. No closure is announced for this weekend. Admission is not explicitly priced, so the card uses null and Check source instead of assuming free entry.",
+      "priceTreatment": "No usable ticket price published; card says Check source.",
+      "normalizedDateOrTitleExcerpt": "Year-round",
+      "excerptNote": "Date/title punctuation and whitespace normalized from the inspected source; see verifiedFacts for context."
+    },
+    {
+      "seriesId": "h-street-market",
+      "eventDates": [
+        "2026-11-07"
+      ],
+      "sourceUrl": "https://www.freshfarm.org/markets/h-street-ne",
+      "supportingUrls": [],
+      "retrievedOn": "2026-11-04",
+      "method": "Current primary page opened and its rendered text inspected with web tool; supporting pages inspected where stated.",
+      "verifiedFacts": "The current official 2026 market schedule explicitly includes this date, weekday, time and address. Saturday markets run January 3–December 26; Dupont’s Sunday schedule runs January 4–December 27. No closure is announced for this weekend. Admission is not explicitly priced, so the card uses null and Check source instead of assuming free entry.",
+      "priceTreatment": "No usable ticket price published; card says Check source.",
+      "normalizedDateOrTitleExcerpt": "Year-round",
+      "excerptNote": "Date/title punctuation and whitespace normalized from the inspected source; see verifiedFacts for context."
+    },
+    {
+      "seriesId": "dupont-market",
+      "eventDates": [
+        "2026-11-08"
+      ],
+      "sourceUrl": "https://www.freshfarm.org/markets/dupont-circle",
+      "supportingUrls": [],
+      "retrievedOn": "2026-11-04",
+      "method": "Current primary page opened and its rendered text inspected with web tool; supporting pages inspected where stated.",
+      "verifiedFacts": "The current official 2026 market schedule explicitly includes this date, weekday, time and address. Saturday markets run January 3–December 26; Dupont’s Sunday schedule runs January 4–December 27. No closure is announced for this weekend. Admission is not explicitly priced, so the card uses null and Check source instead of assuming free entry.",
+      "priceTreatment": "No usable ticket price published; card says Check source.",
+      "normalizedDateOrTitleExcerpt": "Year-round",
+      "excerptNote": "Date/title punctuation and whitespace normalized from the inspected source; see verifiedFacts for context."
+    },
+    {
+      "seriesId": "dc-united-nycfc",
+      "eventDates": [
+        "2026-11-07"
+      ],
+      "sourceUrl": "https://www.dcunited.com/news/major-league-soccer-and-d-c-united-announce-the-2026-schedule",
+      "supportingUrls": [
+        "https://www.dcunited.com/news/d-c-united-to-celebrate-fans-with-jerseys-off-their-backs-at-fan-appreciation-match-presented-by-audi",
+        "https://audifield.com/event/d-c-united-vs-nycfc-2/"
+      ],
+      "retrievedOn": "2026-11-04",
+      "method": "Current primary page opened and its rendered text inspected with web tool; supporting pages inspected where stated.",
+      "verifiedFacts": "The team’s official schedule explicitly lists November 7, New York City FC, Audi Field and kickoff at 4 PM Eastern. Match-center time 21:00 UTC converts to 4 PM EST. An older Audi Field calendar says 7:30 PM and is not used. The club’s October 13 news confirms Fan Appreciation on November 7. No price is claimed.",
+      "priceTreatment": "No usable ticket price published; card says Check source.",
+      "normalizedDateOrTitleExcerpt": "Saturday, November 7, 2026 New York City FC Location: Audi Field Kickoff: 4:00 p.m. ET",
+      "excerptNote": "Date/title punctuation and whitespace normalized from the inspected source; see verifiedFacts for context."
+    },
+    {
+      "seriesId": "woodlands-stem-day",
+      "eventDates": [
+        "2026-11-08"
+      ],
+      "sourceUrl": "https://www.fairfaxcounty.gov/parks/eclawrence/stem-day/110826",
+      "supportingUrls": [],
+      "retrievedOn": "2026-11-04",
+      "method": "Current primary page opened and its rendered text inspected with web tool; supporting pages inspected where stated.",
+      "verifiedFacts": "The official Fairfax County page gives November 8, 2026, 11 AM–3 PM, free entry without registration, and the Woodlands center at 5301 Walney Road. It describes hands-on STEM activities and partial scout-badge opportunities.",
+      "priceTreatment": "Published value",
+      "normalizedDateOrTitleExcerpt": "11/08/2026 - 11:00 am",
+      "excerptNote": "Date/title punctuation and whitespace normalized from the inspected source; see verifiedFacts for context."
+    }
+  ],
+  "excluded": [
+    {
+      "title": "Sully Illuminated",
+      "url": "https://www.fairfaxcounty.gov/parks/sully-historic-site/illuminated/110726",
+      "reason": "The November 7 date, time and price are verified, but the official page also says it is not accepting registrations. Excluded rather than promise availability."
+    },
+    {
+      "title": "Great Country Farms Pumpkin Chunkin",
+      "reason": "Verified dates do not reach November 6–8; this event was not rolled forward."
+    },
+    {
+      "title": "All the World’s a Stage at Signature",
+      "reason": "The season range is verified, but exact weekend performance times were not confirmed on a primary page. Not included."
+    }
+  ],
+  "literalSupportingExcerpts": [
+    {
+      "url": "https://www.nga.gov/visit",
+      "excerpt": "Open daily 10:00 a.m.–5:00 p.m."
+    },
+    {
+      "url": "https://artsandculture.google.com/partner/national-portrait-gallery",
+      "excerpt": "Admission: FREE"
+    },
+    {
+      "url": "https://www.american.edu/cas/museum/",
+      "excerpt": "Open September 5 through December 6, Wednesday–Sunday, 11:00 a.m.–4:00 p.m."
+    },
+    {
+      "url": "https://coxfarmsva.com/fall-festival/fall-festival-tickets/",
+      "excerpt": "Fri, Nov 06 - Discount $15"
+    },
+    {
+      "url": "https://washington.org/event/asia-after-dark-diwali-festival",
+      "excerpt": "Free"
+    },
+    {
+      "url": "https://www.dcunited.com/news/major-league-soccer-and-d-c-united-announce-the-2026-schedule",
+      "excerpt": "Kickoff: 4:00 p.m. ET"
+    }
+  ]
+}

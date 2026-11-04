@@ -1,0 +1,528 @@
+{
+  "verified_at": "2026-11-04T14:38:25Z",
+  "timezone": "America/New_York",
+  "method": "Primary museum/organizer pages fetched using web open/click; recurring exhibition dates expanded only across verified venue opening days. No ticket availability guaranteed.",
+  "sources": {
+    "taft": {
+      "url": "https://www.taftmuseum.org/exhibitions/edieharper/",
+      "fetched_at": "2026-11-04",
+      "verification_excerpt": "October 17, 2026–January 24, 2027 | Fifth Third Gallery",
+      "verified_facts": "Edie McKee Harper retrospective; paid Wednesday–Saturday, free general admission Sunday/Monday."
+    },
+    "taft_hours": {
+      "url": "https://www.taftmuseum.org/visitor-information/",
+      "fetched_at": "2026-11-04",
+      "verification_excerpt": "Museum Hours | 10 a.m.–5 p.m., Wednesday–Monday",
+      "verified_facts": "Adult $15; seniors $12; youth 17 and under free. Free Sundays/Mondays. Address 316 Pike St."
+    },
+    "charley": {
+      "url": "https://cincinnatiartmuseum.org/art/exhibitions/the-art-of-charley-harper-creatures-wild-and-tame/",
+      "fetched_at": "2026-11-04",
+      "verification_excerpt": "October 16, 2026–March 7, 2027",
+      "verified_facts": "140+ works. Adult $15 online/$17 in person; seniors/college students/ages6–17 $12 online/$14 in person; members and ages≤5 free."
+    },
+    "cam_hours": {
+      "url": "https://www.cincinnatiartmuseum.org/visit/museum-hours",
+      "fetched_at": "2026-11-04",
+      "verification_excerpt": "Friday 11am–5pm Saturday 11am–5pm Sunday 11am–5pm",
+      "verified_facts": "Public hours; members-only 10–11 Saturday/Sunday. 953 Eden Park Drive."
+    },
+    "nancy": {
+      "url": "https://www.cincinnatiartmuseum.org/about/press-room/cincinnati-art-museum-presents-nancy-rexroth-secrets-of-my-power/",
+      "fetched_at": "2026-11-04",
+      "verification_excerpt": "October 2, 2026, to January 3, 2027",
+      "verified_facts": "More than150 photographs/archive objects. Exhibition free; no tickets required. General admission/parking free."
+    },
+    "lego": {
+      "url": "https://www.cincymuseum.org/jurassic-world/",
+      "fetched_at": "2026-11-04",
+      "verification_excerpt": "Open through January 4, 2027",
+      "verified_facts": "50+ dinosaur/scene/prop builds and hands-on LEGO areas. Adult $19.50, senior/child $14.50; member adult $14.50, child $9.50. Separate exhibit ticket."
+    },
+    "cmc_hours": {
+      "url": "https://www.cincymuseum.org/visit/",
+      "fetched_at": "2026-11-04",
+      "verification_excerpt": "Open from 10 a.m. to 2 p.m. on November 6, November 25 and December 24, 2026",
+      "verified_facts": "Regular daily10–5. Exhibit runs May22 2026–Jan4 2027. 1301 Western Avenue. Friday special closure overrides normal5pm."
+    },
+    "cadet": {
+      "url": "https://www.contemporaryartscenter.org/visit/exhibitions/2026/10/widline-cadet-seremoni-disparisyon-ritual-disappearance",
+      "fetched_at": "2026-11-04",
+      "verification_excerpt": "On view through 07 February 2027",
+      "verified_facts": "Page title dated October2 2026; current exhibition. Photography, ceramics, video and installations explore Haitian diasporic family/memory."
+    },
+    "time": {
+      "url": "https://www.contemporaryartscenter.org/visit/exhibitions/2026/10/in-the-interest-of-time",
+      "fetched_at": "2026-11-04",
+      "verification_excerpt": "On view through 07 February 2027",
+      "verified_facts": "Page title dated October2 2026; current exhibition. Seven regional artists consider how photography represents time."
+    },
+    "cac_hours": {
+      "url": "https://www.contemporaryartscenter.org/visit/hours-admission",
+      "fetched_at": "2026-11-04",
+      "verification_excerpt": "Thursday + Friday 10 a.m. - 7 p.m. Saturday + Sunday 10 a.m. - 4 p.m.",
+      "verified_facts": "General admission $12; members,18and under,SNAP/EBT free.44 E.6th Street."
+    },
+    "gorge": {
+      "url": "https://www.fotofocus.org/fotofocus-exhibition/j-miles-wolf-red-river-gorge-a-50-year-journey/",
+      "fetched_at": "2026-11-04",
+      "verification_excerpt": "September 25, 2026–November 29, 2026",
+      "verified_facts": "Organizer dates and museum hours Tue–Sat10–5 Sun1–5; adult$12 seniors$10 ages3–17$5; members/≤2free. Free FotoFocus pass applies OCTOBER ONLY.1600 Montague Rd,Devou Park,Covington."
+    },
+    "paglen": {
+      "url": "https://www.fotofocus.org/exhibition/trevor-paglen",
+      "fetched_at": "2026-11-04",
+      "verification_excerpt": "October 1, 2026–January 23, 2027",
+      "verified_facts": "Photography,video,sculpture examine surveillance and image-making technology."
+    },
+    "foto_hours": {
+      "url": "https://www.fotofocus.org/visit/",
+      "fetched_at": "2026-11-04",
+      "verification_excerpt": "Exhibitions and related programs at FotoFocus Center are free and open to the public.",
+      "verified_facts": "Friday11–6,Saturday11–5; no Sunday public opening.228 E Liberty Street."
+    },
+    "kids": {
+      "url": "https://cincinnatiartmuseum.org/events/events-list/cam-kids-day-117/?date=November+07%2C+2026+11%3A00+AM",
+      "fetched_at": "2026-11-04",
+      "verification_excerpt": "Saturday, November 7, 2026 from 11 a.m.–3 p.m.",
+      "verified_facts": "Free. Drop-in and preregistered activities. Live birds,Raptor Inc.,Bug Chicks,maskmaking,screenprinting,storytime. Do not imply free Charley exhibition admission."
+    },
+    "poetry": {
+      "url": "https://2812a.blackbaudhosting.com/2812a/tickets?tab=2&txobjid=31b290d1-97e3-476d-bb87-272ab51625fa",
+      "fetched_at": "2026-11-04",
+      "verification_excerpt": "Sunday November 8; 1:00 PM – 3:00 PM",
+      "verified_facts": "Linked directly from Taft 2026 exhibit page. Writing workshop18+; $30 nonmember/$20 member; materials and gallery admission included. Registration page accessible."
+    }
+  },
+  "events": [
+    {
+      "title": "Edie McKee Harper: Modernist at Play",
+      "date": "2026-11-06",
+      "time": "10 a.m.–5 p.m.",
+      "venue": "Taft Museum of Art",
+      "address": "316 Pike St, Cincinnati, OH 45202",
+      "price": "$15 adults; $12 seniors; youth 17 and under free",
+      "category": "Arts & Culture",
+      "description": "A playful retrospective spanning painting, photography, textiles, prints and design.",
+      "source_url": "https://www.taftmuseum.org/exhibitions/edieharper/",
+      "source_ids": [
+        "taft",
+        "taft_hours"
+      ],
+      "verification": "verified_primary",
+      "schedule_basis": "published exhibition run plus published public opening hours"
+    },
+    {
+      "title": "Edie McKee Harper: Modernist at Play",
+      "date": "2026-11-07",
+      "time": "10 a.m.–5 p.m.",
+      "venue": "Taft Museum of Art",
+      "address": "316 Pike St, Cincinnati, OH 45202",
+      "price": "$15 adults; $12 seniors; youth 17 and under free",
+      "category": "Arts & Culture",
+      "description": "A playful retrospective spanning painting, photography, textiles, prints and design.",
+      "source_url": "https://www.taftmuseum.org/exhibitions/edieharper/",
+      "source_ids": [
+        "taft",
+        "taft_hours"
+      ],
+      "verification": "verified_primary",
+      "schedule_basis": "published exhibition run plus published public opening hours"
+    },
+    {
+      "title": "Edie McKee Harper: Modernist at Play",
+      "date": "2026-11-08",
+      "time": "10 a.m.–5 p.m.",
+      "venue": "Taft Museum of Art",
+      "address": "316 Pike St, Cincinnati, OH 45202",
+      "price": "Free general admission",
+      "category": "Arts & Culture",
+      "description": "A playful retrospective spanning painting, photography, textiles, prints and design.",
+      "source_url": "https://www.taftmuseum.org/exhibitions/edieharper/",
+      "source_ids": [
+        "taft",
+        "taft_hours"
+      ],
+      "verification": "verified_primary",
+      "schedule_basis": "published exhibition run plus published public opening hours"
+    },
+    {
+      "title": "The Art of Charley Harper: Creatures Wild and Tame",
+      "date": "2026-11-06",
+      "time": "11 a.m.–5 p.m.",
+      "venue": "Cincinnati Art Museum",
+      "address": "953 Eden Park Drive, Cincinnati, OH 45202",
+      "price": "$15 adult online / $17 in person; member and age 5 and under free",
+      "category": "Arts & Culture",
+      "description": "Explore the Cincinnati artist’s bold wildlife imagery across more than 140 works.",
+      "source_url": "https://cincinnatiartmuseum.org/art/exhibitions/the-art-of-charley-harper-creatures-wild-and-tame/",
+      "source_ids": [
+        "charley",
+        "cam_hours"
+      ],
+      "verification": "verified_primary",
+      "schedule_basis": "published exhibition run plus published public opening hours"
+    },
+    {
+      "title": "The Art of Charley Harper: Creatures Wild and Tame",
+      "date": "2026-11-07",
+      "time": "11 a.m.–5 p.m.",
+      "venue": "Cincinnati Art Museum",
+      "address": "953 Eden Park Drive, Cincinnati, OH 45202",
+      "price": "$15 adult online / $17 in person; member and age 5 and under free",
+      "category": "Arts & Culture",
+      "description": "Explore the Cincinnati artist’s bold wildlife imagery across more than 140 works.",
+      "source_url": "https://cincinnatiartmuseum.org/art/exhibitions/the-art-of-charley-harper-creatures-wild-and-tame/",
+      "source_ids": [
+        "charley",
+        "cam_hours"
+      ],
+      "verification": "verified_primary",
+      "schedule_basis": "published exhibition run plus published public opening hours"
+    },
+    {
+      "title": "The Art of Charley Harper: Creatures Wild and Tame",
+      "date": "2026-11-08",
+      "time": "11 a.m.–5 p.m.",
+      "venue": "Cincinnati Art Museum",
+      "address": "953 Eden Park Drive, Cincinnati, OH 45202",
+      "price": "$15 adult online / $17 in person; member and age 5 and under free",
+      "category": "Arts & Culture",
+      "description": "Explore the Cincinnati artist’s bold wildlife imagery across more than 140 works.",
+      "source_url": "https://cincinnatiartmuseum.org/art/exhibitions/the-art-of-charley-harper-creatures-wild-and-tame/",
+      "source_ids": [
+        "charley",
+        "cam_hours"
+      ],
+      "verification": "verified_primary",
+      "schedule_basis": "published exhibition run plus published public opening hours"
+    },
+    {
+      "title": "Nancy Rexroth: Secrets of My Power",
+      "date": "2026-11-06",
+      "time": "11 a.m.–5 p.m.",
+      "venue": "Cincinnati Art Museum",
+      "address": "953 Eden Park Drive, Cincinnati, OH 45202",
+      "price": "Free",
+      "category": "Arts & Culture",
+      "description": "A photography retrospective featuring evocative Diana-camera images and archival material.",
+      "source_url": "https://www.cincinnatiartmuseum.org/about/press-room/cincinnati-art-museum-presents-nancy-rexroth-secrets-of-my-power/",
+      "source_ids": [
+        "nancy",
+        "cam_hours"
+      ],
+      "verification": "verified_primary",
+      "schedule_basis": "published exhibition run plus published public opening hours"
+    },
+    {
+      "title": "Nancy Rexroth: Secrets of My Power",
+      "date": "2026-11-07",
+      "time": "11 a.m.–5 p.m.",
+      "venue": "Cincinnati Art Museum",
+      "address": "953 Eden Park Drive, Cincinnati, OH 45202",
+      "price": "Free",
+      "category": "Arts & Culture",
+      "description": "A photography retrospective featuring evocative Diana-camera images and archival material.",
+      "source_url": "https://www.cincinnatiartmuseum.org/about/press-room/cincinnati-art-museum-presents-nancy-rexroth-secrets-of-my-power/",
+      "source_ids": [
+        "nancy",
+        "cam_hours"
+      ],
+      "verification": "verified_primary",
+      "schedule_basis": "published exhibition run plus published public opening hours"
+    },
+    {
+      "title": "Nancy Rexroth: Secrets of My Power",
+      "date": "2026-11-08",
+      "time": "11 a.m.–5 p.m.",
+      "venue": "Cincinnati Art Museum",
+      "address": "953 Eden Park Drive, Cincinnati, OH 45202",
+      "price": "Free",
+      "category": "Arts & Culture",
+      "description": "A photography retrospective featuring evocative Diana-camera images and archival material.",
+      "source_url": "https://www.cincinnatiartmuseum.org/about/press-room/cincinnati-art-museum-presents-nancy-rexroth-secrets-of-my-power/",
+      "source_ids": [
+        "nancy",
+        "cam_hours"
+      ],
+      "verification": "verified_primary",
+      "schedule_basis": "published exhibition run plus published public opening hours"
+    },
+    {
+      "title": "LEGO Jurassic World: The Exhibition",
+      "date": "2026-11-06",
+      "time": "10 a.m.–2 p.m. (early closure)",
+      "venue": "Cincinnati Museum Center at Union Terminal",
+      "address": "1301 Western Avenue, Cincinnati, OH 45203",
+      "price": "$19.50 adults; $14.50 seniors/children; member discounts",
+      "category": "Family",
+      "description": "Encounter large LEGO dinosaur builds and interactive building stations. Separate exhibition ticket.",
+      "source_url": "https://www.cincymuseum.org/jurassic-world/",
+      "source_ids": [
+        "lego",
+        "cmc_hours"
+      ],
+      "verification": "verified_primary",
+      "schedule_basis": "published exhibition run plus published public opening hours"
+    },
+    {
+      "title": "LEGO Jurassic World: The Exhibition",
+      "date": "2026-11-07",
+      "time": "10 a.m.–5 p.m.",
+      "venue": "Cincinnati Museum Center at Union Terminal",
+      "address": "1301 Western Avenue, Cincinnati, OH 45203",
+      "price": "$19.50 adults; $14.50 seniors/children; member discounts",
+      "category": "Family",
+      "description": "Encounter large LEGO dinosaur builds and interactive building stations. Separate exhibition ticket.",
+      "source_url": "https://www.cincymuseum.org/jurassic-world/",
+      "source_ids": [
+        "lego",
+        "cmc_hours"
+      ],
+      "verification": "verified_primary",
+      "schedule_basis": "published exhibition run plus published public opening hours"
+    },
+    {
+      "title": "LEGO Jurassic World: The Exhibition",
+      "date": "2026-11-08",
+      "time": "10 a.m.–5 p.m.",
+      "venue": "Cincinnati Museum Center at Union Terminal",
+      "address": "1301 Western Avenue, Cincinnati, OH 45203",
+      "price": "$19.50 adults; $14.50 seniors/children; member discounts",
+      "category": "Family",
+      "description": "Encounter large LEGO dinosaur builds and interactive building stations. Separate exhibition ticket.",
+      "source_url": "https://www.cincymuseum.org/jurassic-world/",
+      "source_ids": [
+        "lego",
+        "cmc_hours"
+      ],
+      "verification": "verified_primary",
+      "schedule_basis": "published exhibition run plus published public opening hours"
+    },
+    {
+      "title": "Widline Cadet: Seremoni Disparisyon (Ritual [Dis]Appearance)",
+      "date": "2026-11-06",
+      "time": "10 a.m.–7 p.m.",
+      "venue": "Contemporary Arts Center",
+      "address": "44 E. 6th Street, Cincinnati, OH 45202",
+      "price": "$12 general admission; members, ages 18 and under and SNAP/EBT recipients free",
+      "category": "Arts & Culture",
+      "description": "Photography and mixed media explore Haitian diasporic identity, memory and family.",
+      "source_url": "https://www.contemporaryartscenter.org/visit/exhibitions/2026/10/widline-cadet-seremoni-disparisyon-ritual-disappearance",
+      "source_ids": [
+        "cadet",
+        "cac_hours"
+      ],
+      "verification": "verified_primary",
+      "schedule_basis": "published exhibition run plus published public opening hours"
+    },
+    {
+      "title": "Widline Cadet: Seremoni Disparisyon (Ritual [Dis]Appearance)",
+      "date": "2026-11-07",
+      "time": "10 a.m.–4 p.m.",
+      "venue": "Contemporary Arts Center",
+      "address": "44 E. 6th Street, Cincinnati, OH 45202",
+      "price": "$12 general admission; members, ages 18 and under and SNAP/EBT recipients free",
+      "category": "Arts & Culture",
+      "description": "Photography and mixed media explore Haitian diasporic identity, memory and family.",
+      "source_url": "https://www.contemporaryartscenter.org/visit/exhibitions/2026/10/widline-cadet-seremoni-disparisyon-ritual-disappearance",
+      "source_ids": [
+        "cadet",
+        "cac_hours"
+      ],
+      "verification": "verified_primary",
+      "schedule_basis": "published exhibition run plus published public opening hours"
+    },
+    {
+      "title": "Widline Cadet: Seremoni Disparisyon (Ritual [Dis]Appearance)",
+      "date": "2026-11-08",
+      "time": "10 a.m.–4 p.m.",
+      "venue": "Contemporary Arts Center",
+      "address": "44 E. 6th Street, Cincinnati, OH 45202",
+      "price": "$12 general admission; members, ages 18 and under and SNAP/EBT recipients free",
+      "category": "Arts & Culture",
+      "description": "Photography and mixed media explore Haitian diasporic identity, memory and family.",
+      "source_url": "https://www.contemporaryartscenter.org/visit/exhibitions/2026/10/widline-cadet-seremoni-disparisyon-ritual-disappearance",
+      "source_ids": [
+        "cadet",
+        "cac_hours"
+      ],
+      "verification": "verified_primary",
+      "schedule_basis": "published exhibition run plus published public opening hours"
+    },
+    {
+      "title": "In the Interest of Time",
+      "date": "2026-11-06",
+      "time": "10 a.m.–7 p.m.",
+      "venue": "Contemporary Arts Center",
+      "address": "44 E. 6th Street, Cincinnati, OH 45202",
+      "price": "$12 general admission; members, ages 18 and under and SNAP/EBT recipients free",
+      "category": "Arts & Culture",
+      "description": "Seven artists with regional ties explore photography, duration and memory.",
+      "source_url": "https://www.contemporaryartscenter.org/visit/exhibitions/2026/10/in-the-interest-of-time",
+      "source_ids": [
+        "time",
+        "cac_hours"
+      ],
+      "verification": "verified_primary",
+      "schedule_basis": "published exhibition run plus published public opening hours"
+    },
+    {
+      "title": "In the Interest of Time",
+      "date": "2026-11-07",
+      "time": "10 a.m.–4 p.m.",
+      "venue": "Contemporary Arts Center",
+      "address": "44 E. 6th Street, Cincinnati, OH 45202",
+      "price": "$12 general admission; members, ages 18 and under and SNAP/EBT recipients free",
+      "category": "Arts & Culture",
+      "description": "Seven artists with regional ties explore photography, duration and memory.",
+      "source_url": "https://www.contemporaryartscenter.org/visit/exhibitions/2026/10/in-the-interest-of-time",
+      "source_ids": [
+        "time",
+        "cac_hours"
+      ],
+      "verification": "verified_primary",
+      "schedule_basis": "published exhibition run plus published public opening hours"
+    },
+    {
+      "title": "In the Interest of Time",
+      "date": "2026-11-08",
+      "time": "10 a.m.–4 p.m.",
+      "venue": "Contemporary Arts Center",
+      "address": "44 E. 6th Street, Cincinnati, OH 45202",
+      "price": "$12 general admission; members, ages 18 and under and SNAP/EBT recipients free",
+      "category": "Arts & Culture",
+      "description": "Seven artists with regional ties explore photography, duration and memory.",
+      "source_url": "https://www.contemporaryartscenter.org/visit/exhibitions/2026/10/in-the-interest-of-time",
+      "source_ids": [
+        "time",
+        "cac_hours"
+      ],
+      "verification": "verified_primary",
+      "schedule_basis": "published exhibition run plus published public opening hours"
+    },
+    {
+      "title": "J. Miles Wolf: Red River Gorge, a 50-year Journey",
+      "date": "2026-11-06",
+      "time": "10 a.m.–5 p.m.",
+      "venue": "Behringer-Crawford Museum",
+      "address": "1600 Montague Road, Devou Park, Covington, KY 41011",
+      "price": "$12 adults; $10 seniors; $5 ages 3–17; members / ages 2 and under free",
+      "category": "Arts & Culture",
+      "description": "Five decades of landscape photographs trace both Red River Gorge and the photographer’s evolving approach.",
+      "source_url": "https://www.fotofocus.org/fotofocus-exhibition/j-miles-wolf-red-river-gorge-a-50-year-journey/",
+      "source_ids": [
+        "gorge"
+      ],
+      "verification": "verified_primary",
+      "schedule_basis": "published exhibition run plus published public opening hours"
+    },
+    {
+      "title": "J. Miles Wolf: Red River Gorge, a 50-year Journey",
+      "date": "2026-11-07",
+      "time": "10 a.m.–5 p.m.",
+      "venue": "Behringer-Crawford Museum",
+      "address": "1600 Montague Road, Devou Park, Covington, KY 41011",
+      "price": "$12 adults; $10 seniors; $5 ages 3–17; members / ages 2 and under free",
+      "category": "Arts & Culture",
+      "description": "Five decades of landscape photographs trace both Red River Gorge and the photographer’s evolving approach.",
+      "source_url": "https://www.fotofocus.org/fotofocus-exhibition/j-miles-wolf-red-river-gorge-a-50-year-journey/",
+      "source_ids": [
+        "gorge"
+      ],
+      "verification": "verified_primary",
+      "schedule_basis": "published exhibition run plus published public opening hours"
+    },
+    {
+      "title": "J. Miles Wolf: Red River Gorge, a 50-year Journey",
+      "date": "2026-11-08",
+      "time": "1–5 p.m.",
+      "venue": "Behringer-Crawford Museum",
+      "address": "1600 Montague Road, Devou Park, Covington, KY 41011",
+      "price": "$12 adults; $10 seniors; $5 ages 3–17; members / ages 2 and under free",
+      "category": "Arts & Culture",
+      "description": "Five decades of landscape photographs trace both Red River Gorge and the photographer’s evolving approach.",
+      "source_url": "https://www.fotofocus.org/fotofocus-exhibition/j-miles-wolf-red-river-gorge-a-50-year-journey/",
+      "source_ids": [
+        "gorge"
+      ],
+      "verification": "verified_primary",
+      "schedule_basis": "published exhibition run plus published public opening hours"
+    },
+    {
+      "title": "Trevor Paglen: the most merciful thing in the world",
+      "date": "2026-11-06",
+      "time": "11 a.m.–6 p.m.",
+      "venue": "FotoFocus Center",
+      "address": "228 E Liberty Street, Cincinnati, OH 45202",
+      "price": "Free",
+      "category": "Arts & Culture",
+      "description": "Photography, video and sculpture reveal how surveillance and technology reshape what we see.",
+      "source_url": "https://www.fotofocus.org/exhibition/trevor-paglen",
+      "source_ids": [
+        "paglen",
+        "foto_hours"
+      ],
+      "verification": "verified_primary",
+      "schedule_basis": "published exhibition run plus published public opening hours"
+    },
+    {
+      "title": "Trevor Paglen: the most merciful thing in the world",
+      "date": "2026-11-07",
+      "time": "11 a.m.–5 p.m.",
+      "venue": "FotoFocus Center",
+      "address": "228 E Liberty Street, Cincinnati, OH 45202",
+      "price": "Free",
+      "category": "Arts & Culture",
+      "description": "Photography, video and sculpture reveal how surveillance and technology reshape what we see.",
+      "source_url": "https://www.fotofocus.org/exhibition/trevor-paglen",
+      "source_ids": [
+        "paglen",
+        "foto_hours"
+      ],
+      "verification": "verified_primary",
+      "schedule_basis": "published exhibition run plus published public opening hours"
+    },
+    {
+      "title": "CAM Kids Day: Creature Feature",
+      "date": "2026-11-07",
+      "time": "11 a.m.–3 p.m.",
+      "venue": "Cincinnati Art Museum",
+      "address": "953 Eden Park Drive, Cincinnati, OH 45202",
+      "price": "Free",
+      "category": "Family",
+      "description": "Meet bird ambassadors, investigate insects and make animal-inspired art. Some sessions need registration.",
+      "source_url": "https://cincinnatiartmuseum.org/events/events-list/cam-kids-day-117/?date=November+07%2C+2026+11%3A00+AM",
+      "source_ids": [
+        "kids"
+      ],
+      "verification": "verified_primary",
+      "schedule_basis": "date-specific organizer listing"
+    },
+    {
+      "title": "Workshop: Edie Harper’s Poetry and Prose",
+      "date": "2026-11-08",
+      "time": "1–3 p.m.",
+      "venue": "Taft Museum of Art",
+      "address": "316 Pike St, Cincinnati, OH 45202",
+      "price": "$30 nonmembers; $20 members",
+      "category": "Arts & Culture",
+      "description": "Kay E. Bancroft leads exhibition-inspired writing exercises. Ages 18+, all experience levels; registration required.",
+      "source_url": "https://2812a.blackbaudhosting.com/2812a/tickets?tab=2&txobjid=31b290d1-97e3-476d-bb87-272ab51625fa",
+      "source_ids": [
+        "poetry",
+        "taft"
+      ],
+      "verification": "verified_primary",
+      "schedule_basis": "date-specific organizer listing"
+    }
+  ],
+  "caveats": [
+    "BCM opening date differs by one day between organizer (Sept25) and secondary listing(Sept26); irrelevant to Nov6–8. Organizer fetched and authoritative for this weekend.",
+    "BCM museum domain fetch returned502; FotoFocus organizer supplied full exhibition, venue hours and prices.",
+    "FotoFocus Center is not open Sunday; only Friday/Saturday cards created.",
+    "CAC general admission covers both exhibitions; avoid implying two admission fees.",
+    "Exhibition entries are ongoing exhibitions, not special weekend openings.",
+    "Cardboard Architects Nov8 appears on CAC home calendar, but event detail fetch failed; excluded pending time/price verification."
+  ]
+}
